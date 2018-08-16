@@ -1,7 +1,6 @@
 
-TidyPlatesContOptions = {
-	["PrimaryProfile"] = "Damage",
-	["SecondSpecProfile"] = "Tank",
+TidyPlatesOptions = {
+	["SecondSpecProfile"] = "Damage",
 	["FriendlyAutomation"] = "No Automation",
 	["EnemyAutomation"] = "No Automation",
 	["FourthSpecProfile"] = "Damage",

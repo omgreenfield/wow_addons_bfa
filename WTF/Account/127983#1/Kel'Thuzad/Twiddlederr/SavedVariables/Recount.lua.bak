@@ -1,0 +1,7799 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Twiddlederr"] = {
+			["GUID"] = "Player-1174-0ABC27AE",
+			["TimeLast"] = {
+				["TimeHeal"] = 37540.09,
+				["OVERALL"] = 37568.31,
+				["DamageTaken"] = 37568.31,
+				["TimeDamage"] = 37543.079,
+				["HealingTaken"] = 37540.09,
+				["Overhealing"] = 37519.076,
+				["ActiveTime"] = 37543.079,
+				["Healing"] = 37540.09,
+				["FuryGain"] = 37543.079,
+				["DOT_Time"] = 37538.083,
+				["Damage"] = 37543.079,
+			},
+			["LastAttackedBy"] = "Battle Crawg",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"HEAL", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"HEAL", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"HEAL", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"HEAL", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"DAMAGE", -- [45]
+				"HEAL", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["TimeHeal"] = {
+					35.79, -- [1]
+				},
+				["Healing"] = {
+					27690, -- [1]
+				},
+				["DamageTaken"] = {
+					71664, -- [1]
+				},
+				["HealingTaken"] = {
+					33699, -- [1]
+				},
+				["Overhealing"] = {
+					4579, -- [1]
+				},
+				["ActiveTime"] = {
+					86.3, -- [1]
+				},
+				["TimeDamage"] = {
+					50.51, -- [1]
+				},
+				["FuryGain"] = {
+					394, -- [1]
+				},
+				["DOT_Time"] = {
+					60, -- [1]
+				},
+				["Damage"] = {
+					161290, -- [1]
+				},
+			},
+			["enClass"] = "DEMONHUNTER",
+			["unit"] = "Twiddlederr",
+			["LastAbility"] = 37704.809,
+			["level"] = 120,
+			["LastDamageAbility"] = "Jagged Maw (DoT)",
+			["LastFightIn"] = 1,
+			["LastHealTime"] = 37540.789,
+			["type"] = "Self",
+			["FightsSaved"] = 2,
+			["UnitLockout"] = 37487.088,
+			["Fights"] = {
+				["Fight2"] = {
+					["FuryGain"] = 394,
+					["DOTs"] = {
+						["Trail of Ruin (DoT)"] = {
+							["Details"] = {
+								["Rogerp-Ragnaros"] = {
+									["count"] = 36,
+								},
+								["Skulld-Azralon"] = {
+									["count"] = 24,
+								},
+							},
+							["amount"] = 60,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Holy"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+								["Tick"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 4,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 15,
+								},
+								["Immune"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 21,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["TimeSpent"] = {
+						["Rogerp-Ragnaros"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 1.11,
+								},
+								["Trail of Ruin (DoT)"] = {
+									["count"] = 5.74,
+								},
+								["Melee"] = {
+									["count"] = 4.45,
+								},
+								["Fel Rush"] = {
+									["count"] = 1.59,
+								},
+								["Death Sweep"] = {
+									["count"] = 2.89,
+								},
+								["Felblade"] = {
+									["count"] = 2.4,
+								},
+								["Annihilation"] = {
+									["count"] = 1.17,
+								},
+								["Blade Dance"] = {
+									["count"] = 1,
+								},
+								["Throw Glaive"] = {
+									["count"] = 3.55,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0.03,
+								},
+								["Tidal Surge"] = {
+									["count"] = 0.21,
+								},
+								["Chaos Nova"] = {
+									["count"] = 0.23,
+								},
+								["Demon Blades"] = {
+									["count"] = 0.23,
+								},
+								["Eye Beam"] = {
+									["count"] = 0.98,
+								},
+							},
+							["amount"] = 25.58,
+						},
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Vampiric Speed"] = {
+									["count"] = 0.45,
+								},
+								["Leech"] = {
+									["count"] = 35.34,
+								},
+							},
+							["amount"] = 35.79,
+						},
+						["Skulld-Azralon"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0.66,
+								},
+								["Trail of Ruin (DoT)"] = {
+									["count"] = 4.15,
+								},
+								["Melee"] = {
+									["count"] = 5.27,
+								},
+								["Fel Rush"] = {
+									["count"] = 4.66,
+								},
+								["Death Sweep"] = {
+									["count"] = 1.19,
+								},
+								["Annihilation"] = {
+									["count"] = 0.48,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.01,
+								},
+								["Throw Glaive"] = {
+									["count"] = 2.65,
+								},
+								["Tidal Surge"] = {
+									["count"] = 0.37,
+								},
+								["Chaos Strike"] = {
+									["count"] = 1.9,
+								},
+								["Demon Blades"] = {
+									["count"] = 0.16,
+								},
+								["Eye Beam"] = {
+									["count"] = 1.43,
+								},
+							},
+							["amount"] = 24.93,
+						},
+					},
+					["FuryGained"] = {
+						["Chaos Strike"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 80,
+								},
+							},
+							["amount"] = 80,
+						},
+						["Felblade"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 83,
+								},
+							},
+							["amount"] = 83,
+						},
+						["Unending Hatred"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 25,
+								},
+							},
+							["amount"] = 25,
+						},
+						["Demon Blades"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 206,
+								},
+							},
+							["amount"] = 206,
+						},
+					},
+					["ElementDoneAbsorb"] = {
+						["Physical"] = 13632,
+						["Shadow"] = 3279,
+						["Melee"] = 7040,
+						["Fire"] = 4342,
+					},
+					["PartialResist"] = {
+						["Charge"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Lunar Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Shadow Word: Pain"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Starsurge"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Jagged Maw (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Halo"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 9,
+						},
+						["Shadow Word: Pain (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 18,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 18,
+						},
+						["Savage Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Solar Wrath"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Jagged Maw"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["TimeDamaging"] = {
+						["Rogerp-Ragnaros"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 1.11,
+								},
+								["Trail of Ruin (DoT)"] = {
+									["count"] = 5.74,
+								},
+								["Melee"] = {
+									["count"] = 4.45,
+								},
+								["Fel Rush"] = {
+									["count"] = 1.59,
+								},
+								["Death Sweep"] = {
+									["count"] = 2.89,
+								},
+								["Felblade"] = {
+									["count"] = 2.4,
+								},
+								["Annihilation"] = {
+									["count"] = 1.17,
+								},
+								["Blade Dance"] = {
+									["count"] = 1,
+								},
+								["Throw Glaive"] = {
+									["count"] = 3.55,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0.03,
+								},
+								["Tidal Surge"] = {
+									["count"] = 0.21,
+								},
+								["Chaos Nova"] = {
+									["count"] = 0.23,
+								},
+								["Demon Blades"] = {
+									["count"] = 0.23,
+								},
+								["Eye Beam"] = {
+									["count"] = 0.98,
+								},
+							},
+							["amount"] = 25.58,
+						},
+						["Skulld-Azralon"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0.66,
+								},
+								["Trail of Ruin (DoT)"] = {
+									["count"] = 4.15,
+								},
+								["Melee"] = {
+									["count"] = 5.27,
+								},
+								["Fel Rush"] = {
+									["count"] = 4.66,
+								},
+								["Death Sweep"] = {
+									["count"] = 1.19,
+								},
+								["Annihilation"] = {
+									["count"] = 0.48,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.01,
+								},
+								["Throw Glaive"] = {
+									["count"] = 2.65,
+								},
+								["Tidal Surge"] = {
+									["count"] = 0.37,
+								},
+								["Chaos Strike"] = {
+									["count"] = 1.9,
+								},
+								["Demon Blades"] = {
+									["count"] = 0.16,
+								},
+								["Eye Beam"] = {
+									["count"] = 1.43,
+								},
+							},
+							["amount"] = 24.93,
+						},
+					},
+					["Overhealing"] = 4579,
+					["ActiveTime"] = 86.3,
+					["DamageTaken"] = 67457,
+					["ElementTaken"] = {
+						["Holy"] = 4200,
+						["Melee"] = 22239,
+						["Arcane"] = 7485,
+						["Physical"] = 8560,
+						["Shadow"] = 12349,
+						["Nature"] = 4721,
+					},
+					["DOT_Time"] = 60,
+					["Damage"] = 161290,
+					["HealedWho"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Vampiric Speed"] = {
+									["count"] = 1464,
+								},
+								["Leech"] = {
+									["count"] = 26226,
+								},
+							},
+							["amount"] = 27690,
+						},
+					},
+					["FuryGainedFrom"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 80,
+								},
+								["Felblade"] = {
+									["count"] = 83,
+								},
+								["Unending Hatred"] = {
+									["count"] = 25,
+								},
+								["Demon Blades"] = {
+									["count"] = 206,
+								},
+							},
+							["amount"] = 394,
+						},
+					},
+					["Heals"] = {
+						["Vampiric Speed"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1464,
+									["min"] = 1464,
+									["count"] = 1,
+									["amount"] = 1464,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 1464,
+						},
+						["Leech"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 5312,
+									["min"] = 44,
+									["count"] = 28,
+									["amount"] = 26226,
+								},
+							},
+							["count"] = 28,
+							["amount"] = 26226,
+						},
+					},
+					["DamagedWho"] = {
+						["Rogerp-Ragnaros"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 2724,
+								},
+								["Trail of Ruin (DoT)"] = {
+									["count"] = 7576,
+								},
+								["Melee"] = {
+									["count"] = 13432,
+								},
+								["Fel Rush"] = {
+									["count"] = 2960,
+								},
+								["Death Sweep"] = {
+									["count"] = 17248,
+								},
+								["Felblade"] = {
+									["count"] = 8440,
+								},
+								["Vengeful Retreat"] = {
+									["count"] = 388,
+								},
+								["Annihilation"] = {
+									["count"] = 17211,
+								},
+								["Blade Dance"] = {
+									["count"] = 4669,
+								},
+								["Throw Glaive"] = {
+									["count"] = 4791,
+								},
+								["Metamorphosis"] = {
+									["count"] = 2190,
+								},
+								["Tidal Surge"] = {
+									["count"] = 2637,
+								},
+								["Chaos Nova"] = {
+									["count"] = 1266,
+								},
+								["Demon Blades"] = {
+									["count"] = 5230,
+								},
+								["Eye Beam"] = {
+									["count"] = 5008,
+								},
+							},
+							["amount"] = 95770,
+						},
+						["Skulld-Azralon"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 716,
+								},
+								["Trail of Ruin (DoT)"] = {
+									["count"] = 4153,
+								},
+								["Melee"] = {
+									["count"] = 10307,
+								},
+								["Fel Rush"] = {
+									["count"] = 5942,
+								},
+								["Death Sweep"] = {
+									["count"] = 7590,
+								},
+								["Annihilation"] = {
+									["count"] = 3591,
+								},
+								["Blade Dance"] = {
+									["count"] = 9448,
+								},
+								["Throw Glaive"] = {
+									["count"] = 4437,
+								},
+								["Tidal Surge"] = {
+									["count"] = 2072,
+								},
+								["Chaos Strike"] = {
+									["count"] = 8351,
+								},
+								["Demon Blades"] = {
+									["count"] = 2713,
+								},
+								["Eye Beam"] = {
+									["count"] = 6200,
+								},
+							},
+							["amount"] = 65520,
+						},
+					},
+					["TimeHeal"] = 35.79,
+					["Healing"] = 27690,
+					["Attacks"] = {
+						["Chaos Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2724,
+									["min"] = 1373,
+									["count"] = 6,
+									["amount"] = 11075,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 11075,
+						},
+						["Trail of Ruin (DoT)"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 677,
+									["min"] = 677,
+									["count"] = 2,
+									["amount"] = 1354,
+								},
+								["Crit"] = {
+									["max"] = 715,
+									["min"] = 609,
+									["count"] = 2,
+									["amount"] = 1324,
+								},
+								["Tick"] = {
+									["max"] = 733,
+									["min"] = 325,
+									["count"] = 16,
+									["amount"] = 9051,
+								},
+							},
+							["count"] = 20,
+							["amount"] = 11729,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1524,
+									["min"] = 588,
+									["count"] = 15,
+									["amount"] = 15088,
+								},
+								["Absorb"] = {
+									["max"] = 1366,
+									["min"] = 589,
+									["count"] = 7,
+									["amount"] = 7040,
+								},
+								["Crit"] = {
+									["max"] = 928,
+									["min"] = 683,
+									["count"] = 2,
+									["amount"] = 1611,
+								},
+								["Miss"] = {
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 28,
+							["amount"] = 23739,
+						},
+						["Fel Rush"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 2142,
+									["min"] = 1080,
+									["count"] = 4,
+									["amount"] = 6004,
+								},
+								["Hit"] = {
+									["max"] = 1538,
+									["min"] = 1360,
+									["count"] = 2,
+									["amount"] = 2898,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 8902,
+						},
+						["Death Sweep"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 1440,
+									["min"] = 1440,
+									["count"] = 1,
+									["amount"] = 1440,
+								},
+								["Hit"] = {
+									["max"] = 4305,
+									["min"] = 1267,
+									["count"] = 11,
+									["amount"] = 23398,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 24838,
+						},
+						["Felblade"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 3041,
+									["min"] = 1301,
+									["count"] = 2,
+									["amount"] = 4342,
+								},
+								["Hit"] = {
+									["max"] = 2027,
+									["min"] = 436,
+									["count"] = 3,
+									["amount"] = 4098,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 8440,
+						},
+						["Vengeful Retreat"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 369,
+									["min"] = 347,
+									["count"] = 2,
+									["amount"] = 716,
+								},
+								["Absorb"] = {
+									["max"] = 388,
+									["min"] = 388,
+									["count"] = 1,
+									["amount"] = 388,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 1104,
+						},
+						["Annihilation"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3809,
+									["min"] = 1625,
+									["count"] = 6,
+									["amount"] = 16139,
+								},
+								["Absorb"] = {
+									["max"] = 2577,
+									["min"] = 2086,
+									["count"] = 2,
+									["amount"] = 4663,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 20802,
+						},
+						["Blade Dance"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2363,
+									["min"] = 778,
+									["count"] = 5,
+									["amount"] = 7032,
+								},
+								["Absorb"] = {
+									["max"] = 2363,
+									["min"] = 787,
+									["count"] = 7,
+									["amount"] = 7085,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 14117,
+						},
+						["Throw Glaive"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1269,
+									["min"] = 1033,
+									["count"] = 4,
+									["amount"] = 4509,
+								},
+								["Absorb"] = {
+									["max"] = 1254,
+									["min"] = 1117,
+									["count"] = 4,
+									["amount"] = 4719,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 9228,
+						},
+						["Metamorphosis"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2190,
+									["min"] = 2190,
+									["count"] = 1,
+									["amount"] = 2190,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 2190,
+						},
+						["Tidal Surge"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2072,
+									["min"] = 2072,
+									["count"] = 1,
+									["amount"] = 2072,
+								},
+								["Hit"] = {
+									["max"] = 1618,
+									["min"] = 1019,
+									["count"] = 2,
+									["amount"] = 2637,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 4709,
+						},
+						["Chaos Nova"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1266,
+									["min"] = 1266,
+									["count"] = 1,
+									["amount"] = 1266,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 1266,
+						},
+						["Demon Blades"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 626,
+									["min"] = 334,
+									["count"] = 9,
+									["amount"] = 4664,
+								},
+								["Absorb"] = {
+									["max"] = 693,
+									["min"] = 462,
+									["count"] = 6,
+									["amount"] = 3279,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 7943,
+						},
+						["Eye Beam"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 689,
+									["min"] = 500,
+									["count"] = 18,
+									["amount"] = 10519,
+								},
+								["Absorb"] = {
+									["max"] = 689,
+									["min"] = 689,
+									["count"] = 1,
+									["amount"] = 689,
+								},
+							},
+							["count"] = 19,
+							["amount"] = 11208,
+						},
+					},
+					["TimeHealing"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Vampiric Speed"] = {
+									["count"] = 0.45,
+								},
+								["Leech"] = {
+									["count"] = 35.34,
+								},
+							},
+							["amount"] = 35.79,
+						},
+					},
+					["ElementDone"] = {
+						["Shadow"] = 7943,
+						["Melee"] = 23739,
+						["Fire"] = 8440,
+						["Physical"] = 49287,
+						["Frost"] = 4709,
+					},
+					["HealingTaken"] = 33699,
+					["ElementHitsDone"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 9,
+								},
+								["Absorb"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 15,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 15,
+								},
+								["Absorb"] = {
+									["count"] = 7,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Miss"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 28,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 22,
+								},
+								["Absorb"] = {
+									["count"] = 13,
+								},
+							},
+							["amount"] = 35,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["TimeDamage"] = 50.51,
+					["WhoDamaged"] = {
+						["Rogerp-Ragnaros"] = {
+							["Details"] = {
+								["Solar Wrath"] = {
+									["count"] = 4721,
+								},
+								["Lunar Strike"] = {
+									["count"] = 7485,
+								},
+								["Starsurge"] = {
+									["count"] = 7903,
+								},
+							},
+							["amount"] = 20109,
+						},
+						["Battle Crawg"] = {
+							["Details"] = {
+								["Jagged Maw"] = {
+									["count"] = 2929,
+								},
+								["Melee"] = {
+									["count"] = 12037,
+								},
+								["Jagged Maw (DoT)"] = {
+									["count"] = 446,
+								},
+							},
+							["amount"] = 15412,
+						},
+						["Amaki Guard"] = {
+							["Details"] = {
+								["Savage Strike"] = {
+									["count"] = 2988,
+								},
+								["Melee"] = {
+									["count"] = 10202,
+								},
+								["Charge"] = {
+									["count"] = 2197,
+								},
+							},
+							["amount"] = 15387,
+						},
+						["Skulld-Azralon"] = {
+							["Details"] = {
+								["Shadow Word: Pain (DoT)"] = {
+									["count"] = 10402,
+								},
+								["Shadow Word: Pain"] = {
+									["count"] = 1947,
+								},
+								["Halo"] = {
+									["count"] = 4200,
+								},
+							},
+							["amount"] = 16549,
+						},
+					},
+					["WhoHealed"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Vampiric Speed"] = {
+									["count"] = 1464,
+								},
+								["Leech"] = {
+									["count"] = 26226,
+								},
+							},
+							["amount"] = 27690,
+						},
+						["Cynosure-Alleria"] = {
+							["Details"] = {
+								["Light of Dawn"] = {
+									["count"] = 6009,
+								},
+							},
+							["amount"] = 6009,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Charge"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Lunar Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Shadow Word: Pain"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Starsurge"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Jagged Maw (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Halo"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+						["Shadow Word: Pain (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 18,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 18,
+							["amount"] = 0,
+						},
+						["Savage Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Solar Wrath"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Jagged Maw"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Leech"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2556,
+									["min"] = 447,
+									["count"] = 5,
+									["amount"] = 4579,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 4579,
+						},
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["HOTs"] = {
+					},
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialAbsorb"] = {
+					},
+					["RageGain"] = 0,
+					["FAttacks"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["ElementDone"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementHitsDone"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["CCBreak"] = 0,
+					["EnergyGain"] = 0,
+					["WhoHealed"] = {
+					},
+					["PartialResist"] = {
+					},
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+					},
+					["Heals"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["Healing"] = 0,
+					["RunicPowerGained"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["DamagedWho"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 3770,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["HOTs"] = {
+					},
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 2885,
+						["Physical"] = 885,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialAbsorb"] = {
+						["Jagged Maw (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["RageGain"] = 0,
+					["FAttacks"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["ElementDone"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementHitsDone"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoDamaged"] = {
+						["Battle Crawg"] = {
+							["Details"] = {
+								["Jagged Maw (DoT)"] = {
+									["count"] = 885,
+								},
+							},
+							["amount"] = 885,
+						},
+						["Amaki Guard"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2885,
+								},
+							},
+							["amount"] = 2885,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["CCBreak"] = 0,
+					["EnergyGain"] = 0,
+					["WhoHealed"] = {
+					},
+					["PartialResist"] = {
+						["Jagged Maw (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+					},
+					["Heals"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["Healing"] = 0,
+					["RunicPowerGained"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["DamagedWho"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["FuryGain"] = 394,
+					["DOTs"] = {
+						["Trail of Ruin (DoT)"] = {
+							["Details"] = {
+								["Rogerp-Ragnaros"] = {
+									["count"] = 36,
+								},
+								["Skulld-Azralon"] = {
+									["count"] = 24,
+								},
+							},
+							["amount"] = 60,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Holy"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+								["Tick"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 15,
+								},
+								["Immune"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 21,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["TimeSpent"] = {
+						["Rogerp-Ragnaros"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 1.11,
+								},
+								["Trail of Ruin (DoT)"] = {
+									["count"] = 5.74,
+								},
+								["Melee"] = {
+									["count"] = 4.45,
+								},
+								["Fel Rush"] = {
+									["count"] = 1.59,
+								},
+								["Death Sweep"] = {
+									["count"] = 2.89,
+								},
+								["Felblade"] = {
+									["count"] = 2.4,
+								},
+								["Annihilation"] = {
+									["count"] = 1.17,
+								},
+								["Blade Dance"] = {
+									["count"] = 1,
+								},
+								["Throw Glaive"] = {
+									["count"] = 3.55,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0.03,
+								},
+								["Tidal Surge"] = {
+									["count"] = 0.21,
+								},
+								["Chaos Nova"] = {
+									["count"] = 0.23,
+								},
+								["Demon Blades"] = {
+									["count"] = 0.23,
+								},
+								["Eye Beam"] = {
+									["count"] = 0.98,
+								},
+							},
+							["amount"] = 25.58,
+						},
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Vampiric Speed"] = {
+									["count"] = 0.45,
+								},
+								["Leech"] = {
+									["count"] = 35.34,
+								},
+							},
+							["amount"] = 35.79,
+						},
+						["Skulld-Azralon"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0.66,
+								},
+								["Trail of Ruin (DoT)"] = {
+									["count"] = 4.15,
+								},
+								["Melee"] = {
+									["count"] = 5.27,
+								},
+								["Fel Rush"] = {
+									["count"] = 4.66,
+								},
+								["Death Sweep"] = {
+									["count"] = 1.19,
+								},
+								["Annihilation"] = {
+									["count"] = 0.48,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.01,
+								},
+								["Throw Glaive"] = {
+									["count"] = 2.65,
+								},
+								["Tidal Surge"] = {
+									["count"] = 0.37,
+								},
+								["Chaos Strike"] = {
+									["count"] = 1.9,
+								},
+								["Demon Blades"] = {
+									["count"] = 0.16,
+								},
+								["Eye Beam"] = {
+									["count"] = 1.43,
+								},
+							},
+							["amount"] = 24.93,
+						},
+					},
+					["FuryGained"] = {
+						["Chaos Strike"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 80,
+								},
+							},
+							["amount"] = 80,
+						},
+						["Felblade"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 83,
+								},
+							},
+							["amount"] = 83,
+						},
+						["Unending Hatred"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 25,
+								},
+							},
+							["amount"] = 25,
+						},
+						["Demon Blades"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 206,
+								},
+							},
+							["amount"] = 206,
+						},
+					},
+					["ElementDoneAbsorb"] = {
+						["Physical"] = 13632,
+						["Shadow"] = 3279,
+						["Melee"] = 7040,
+						["Fire"] = 4342,
+					},
+					["PartialResist"] = {
+						["Charge"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Lunar Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Shadow Word: Pain"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Starsurge"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Jagged Maw (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Halo"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 10,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 10,
+						},
+						["Shadow Word: Pain (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 18,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 18,
+						},
+						["Savage Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Solar Wrath"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Jagged Maw"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["TimeDamaging"] = {
+						["Rogerp-Ragnaros"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 1.11,
+								},
+								["Trail of Ruin (DoT)"] = {
+									["count"] = 5.74,
+								},
+								["Melee"] = {
+									["count"] = 4.45,
+								},
+								["Fel Rush"] = {
+									["count"] = 1.59,
+								},
+								["Death Sweep"] = {
+									["count"] = 2.89,
+								},
+								["Felblade"] = {
+									["count"] = 2.4,
+								},
+								["Annihilation"] = {
+									["count"] = 1.17,
+								},
+								["Blade Dance"] = {
+									["count"] = 1,
+								},
+								["Throw Glaive"] = {
+									["count"] = 3.55,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0.03,
+								},
+								["Tidal Surge"] = {
+									["count"] = 0.21,
+								},
+								["Chaos Nova"] = {
+									["count"] = 0.23,
+								},
+								["Demon Blades"] = {
+									["count"] = 0.23,
+								},
+								["Eye Beam"] = {
+									["count"] = 0.98,
+								},
+							},
+							["amount"] = 25.58,
+						},
+						["Skulld-Azralon"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0.66,
+								},
+								["Trail of Ruin (DoT)"] = {
+									["count"] = 4.15,
+								},
+								["Melee"] = {
+									["count"] = 5.27,
+								},
+								["Fel Rush"] = {
+									["count"] = 4.66,
+								},
+								["Death Sweep"] = {
+									["count"] = 1.19,
+								},
+								["Annihilation"] = {
+									["count"] = 0.48,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.01,
+								},
+								["Throw Glaive"] = {
+									["count"] = 2.65,
+								},
+								["Tidal Surge"] = {
+									["count"] = 0.37,
+								},
+								["Chaos Strike"] = {
+									["count"] = 1.9,
+								},
+								["Demon Blades"] = {
+									["count"] = 0.16,
+								},
+								["Eye Beam"] = {
+									["count"] = 1.43,
+								},
+							},
+							["amount"] = 24.93,
+						},
+					},
+					["Overhealing"] = 4579,
+					["ActiveTime"] = 86.3,
+					["DamageTaken"] = 71664,
+					["ElementTaken"] = {
+						["Holy"] = 4200,
+						["Melee"] = 25124,
+						["Arcane"] = 7485,
+						["Physical"] = 9882,
+						["Shadow"] = 12349,
+						["Nature"] = 4721,
+					},
+					["DOT_Time"] = 60,
+					["Damage"] = 161290,
+					["HealedWho"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Vampiric Speed"] = {
+									["count"] = 1464,
+								},
+								["Leech"] = {
+									["count"] = 26226,
+								},
+							},
+							["amount"] = 27690,
+						},
+					},
+					["FuryGainedFrom"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 80,
+								},
+								["Felblade"] = {
+									["count"] = 83,
+								},
+								["Unending Hatred"] = {
+									["count"] = 25,
+								},
+								["Demon Blades"] = {
+									["count"] = 206,
+								},
+							},
+							["amount"] = 394,
+						},
+					},
+					["Heals"] = {
+						["Vampiric Speed"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1464,
+									["min"] = 1464,
+									["count"] = 1,
+									["amount"] = 1464,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 1464,
+						},
+						["Leech"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 5312,
+									["min"] = 44,
+									["count"] = 28,
+									["amount"] = 26226,
+								},
+							},
+							["count"] = 28,
+							["amount"] = 26226,
+						},
+					},
+					["DamagedWho"] = {
+						["Rogerp-Ragnaros"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 2724,
+								},
+								["Trail of Ruin (DoT)"] = {
+									["count"] = 7576,
+								},
+								["Melee"] = {
+									["count"] = 13432,
+								},
+								["Fel Rush"] = {
+									["count"] = 2960,
+								},
+								["Death Sweep"] = {
+									["count"] = 17248,
+								},
+								["Felblade"] = {
+									["count"] = 8440,
+								},
+								["Vengeful Retreat"] = {
+									["count"] = 388,
+								},
+								["Annihilation"] = {
+									["count"] = 17211,
+								},
+								["Blade Dance"] = {
+									["count"] = 4669,
+								},
+								["Throw Glaive"] = {
+									["count"] = 4791,
+								},
+								["Metamorphosis"] = {
+									["count"] = 2190,
+								},
+								["Tidal Surge"] = {
+									["count"] = 2637,
+								},
+								["Chaos Nova"] = {
+									["count"] = 1266,
+								},
+								["Demon Blades"] = {
+									["count"] = 5230,
+								},
+								["Eye Beam"] = {
+									["count"] = 5008,
+								},
+							},
+							["amount"] = 95770,
+						},
+						["Skulld-Azralon"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 716,
+								},
+								["Trail of Ruin (DoT)"] = {
+									["count"] = 4153,
+								},
+								["Melee"] = {
+									["count"] = 10307,
+								},
+								["Fel Rush"] = {
+									["count"] = 5942,
+								},
+								["Death Sweep"] = {
+									["count"] = 7590,
+								},
+								["Annihilation"] = {
+									["count"] = 3591,
+								},
+								["Blade Dance"] = {
+									["count"] = 9448,
+								},
+								["Throw Glaive"] = {
+									["count"] = 4437,
+								},
+								["Tidal Surge"] = {
+									["count"] = 2072,
+								},
+								["Chaos Strike"] = {
+									["count"] = 8351,
+								},
+								["Demon Blades"] = {
+									["count"] = 2713,
+								},
+								["Eye Beam"] = {
+									["count"] = 6200,
+								},
+							},
+							["amount"] = 65520,
+						},
+					},
+					["TimeHeal"] = 35.79,
+					["Healing"] = 27690,
+					["Attacks"] = {
+						["Chaos Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2724,
+									["min"] = 1373,
+									["count"] = 6,
+									["amount"] = 11075,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 11075,
+						},
+						["Trail of Ruin (DoT)"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 677,
+									["min"] = 677,
+									["count"] = 2,
+									["amount"] = 1354,
+								},
+								["Crit"] = {
+									["max"] = 715,
+									["min"] = 609,
+									["count"] = 2,
+									["amount"] = 1324,
+								},
+								["Tick"] = {
+									["max"] = 733,
+									["min"] = 325,
+									["count"] = 16,
+									["amount"] = 9051,
+								},
+							},
+							["count"] = 20,
+							["amount"] = 11729,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1524,
+									["min"] = 588,
+									["count"] = 15,
+									["amount"] = 15088,
+								},
+								["Absorb"] = {
+									["max"] = 1366,
+									["min"] = 589,
+									["count"] = 7,
+									["amount"] = 7040,
+								},
+								["Crit"] = {
+									["max"] = 928,
+									["min"] = 683,
+									["count"] = 2,
+									["amount"] = 1611,
+								},
+								["Miss"] = {
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 28,
+							["amount"] = 23739,
+						},
+						["Fel Rush"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 2142,
+									["min"] = 1080,
+									["count"] = 4,
+									["amount"] = 6004,
+								},
+								["Hit"] = {
+									["max"] = 1538,
+									["min"] = 1360,
+									["count"] = 2,
+									["amount"] = 2898,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 8902,
+						},
+						["Death Sweep"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 1440,
+									["min"] = 1440,
+									["count"] = 1,
+									["amount"] = 1440,
+								},
+								["Hit"] = {
+									["max"] = 4305,
+									["min"] = 1267,
+									["count"] = 11,
+									["amount"] = 23398,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 24838,
+						},
+						["Felblade"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 3041,
+									["min"] = 1301,
+									["count"] = 2,
+									["amount"] = 4342,
+								},
+								["Hit"] = {
+									["max"] = 2027,
+									["min"] = 436,
+									["count"] = 3,
+									["amount"] = 4098,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 8440,
+						},
+						["Vengeful Retreat"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 369,
+									["min"] = 347,
+									["count"] = 2,
+									["amount"] = 716,
+								},
+								["Absorb"] = {
+									["max"] = 388,
+									["min"] = 388,
+									["count"] = 1,
+									["amount"] = 388,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 1104,
+						},
+						["Annihilation"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3809,
+									["min"] = 1625,
+									["count"] = 6,
+									["amount"] = 16139,
+								},
+								["Absorb"] = {
+									["max"] = 2577,
+									["min"] = 2086,
+									["count"] = 2,
+									["amount"] = 4663,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 20802,
+						},
+						["Blade Dance"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2363,
+									["min"] = 778,
+									["count"] = 5,
+									["amount"] = 7032,
+								},
+								["Absorb"] = {
+									["max"] = 2363,
+									["min"] = 787,
+									["count"] = 7,
+									["amount"] = 7085,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 14117,
+						},
+						["Throw Glaive"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1269,
+									["min"] = 1033,
+									["count"] = 4,
+									["amount"] = 4509,
+								},
+								["Absorb"] = {
+									["max"] = 1254,
+									["min"] = 1117,
+									["count"] = 4,
+									["amount"] = 4719,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 9228,
+						},
+						["Metamorphosis"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2190,
+									["min"] = 2190,
+									["count"] = 1,
+									["amount"] = 2190,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 2190,
+						},
+						["Tidal Surge"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2072,
+									["min"] = 2072,
+									["count"] = 1,
+									["amount"] = 2072,
+								},
+								["Hit"] = {
+									["max"] = 1618,
+									["min"] = 1019,
+									["count"] = 2,
+									["amount"] = 2637,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 4709,
+						},
+						["Chaos Nova"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1266,
+									["min"] = 1266,
+									["count"] = 1,
+									["amount"] = 1266,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 1266,
+						},
+						["Demon Blades"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 626,
+									["min"] = 334,
+									["count"] = 9,
+									["amount"] = 4664,
+								},
+								["Absorb"] = {
+									["max"] = 693,
+									["min"] = 462,
+									["count"] = 6,
+									["amount"] = 3279,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 7943,
+						},
+						["Eye Beam"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 689,
+									["min"] = 500,
+									["count"] = 18,
+									["amount"] = 10519,
+								},
+								["Absorb"] = {
+									["max"] = 689,
+									["min"] = 689,
+									["count"] = 1,
+									["amount"] = 689,
+								},
+							},
+							["count"] = 19,
+							["amount"] = 11208,
+						},
+					},
+					["TimeHealing"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Vampiric Speed"] = {
+									["count"] = 0.45,
+								},
+								["Leech"] = {
+									["count"] = 35.34,
+								},
+							},
+							["amount"] = 35.79,
+						},
+					},
+					["ElementDone"] = {
+						["Shadow"] = 7943,
+						["Melee"] = 23739,
+						["Fire"] = 8440,
+						["Physical"] = 49287,
+						["Frost"] = 4709,
+					},
+					["HealingTaken"] = 33699,
+					["ElementHitsDone"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 9,
+								},
+								["Absorb"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 15,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 15,
+								},
+								["Absorb"] = {
+									["count"] = 7,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Miss"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 28,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 22,
+								},
+								["Absorb"] = {
+									["count"] = 13,
+								},
+							},
+							["amount"] = 35,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["TimeDamage"] = 50.51,
+					["WhoDamaged"] = {
+						["Rogerp-Ragnaros"] = {
+							["Details"] = {
+								["Solar Wrath"] = {
+									["count"] = 4721,
+								},
+								["Lunar Strike"] = {
+									["count"] = 7485,
+								},
+								["Starsurge"] = {
+									["count"] = 7903,
+								},
+							},
+							["amount"] = 20109,
+						},
+						["Battle Crawg"] = {
+							["Details"] = {
+								["Jagged Maw"] = {
+									["count"] = 2929,
+								},
+								["Melee"] = {
+									["count"] = 12037,
+								},
+								["Jagged Maw (DoT)"] = {
+									["count"] = 1768,
+								},
+							},
+							["amount"] = 16734,
+						},
+						["Amaki Guard"] = {
+							["Details"] = {
+								["Savage Strike"] = {
+									["count"] = 2988,
+								},
+								["Melee"] = {
+									["count"] = 13087,
+								},
+								["Charge"] = {
+									["count"] = 2197,
+								},
+							},
+							["amount"] = 18272,
+						},
+						["Skulld-Azralon"] = {
+							["Details"] = {
+								["Shadow Word: Pain (DoT)"] = {
+									["count"] = 10402,
+								},
+								["Shadow Word: Pain"] = {
+									["count"] = 1947,
+								},
+								["Halo"] = {
+									["count"] = 4200,
+								},
+							},
+							["amount"] = 16549,
+						},
+					},
+					["WhoHealed"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Vampiric Speed"] = {
+									["count"] = 1464,
+								},
+								["Leech"] = {
+									["count"] = 26226,
+								},
+							},
+							["amount"] = 27690,
+						},
+						["Cynosure-Alleria"] = {
+							["Details"] = {
+								["Light of Dawn"] = {
+									["count"] = 6009,
+								},
+							},
+							["amount"] = 6009,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Charge"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Lunar Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Shadow Word: Pain"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Starsurge"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Jagged Maw (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Halo"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 10,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 0,
+						},
+						["Shadow Word: Pain (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 18,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 18,
+							["amount"] = 0,
+						},
+						["Savage Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Solar Wrath"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Jagged Maw"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Leech"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2556,
+									["min"] = 447,
+									["count"] = 5,
+									["amount"] = 4579,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 4579,
+						},
+					},
+				},
+				["Fight1"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 3770,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["HOTs"] = {
+					},
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 2885,
+						["Physical"] = 885,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialAbsorb"] = {
+						["Jagged Maw (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["RageGain"] = 0,
+					["FAttacks"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["ElementDone"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementHitsDone"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoDamaged"] = {
+						["Battle Crawg"] = {
+							["Details"] = {
+								["Jagged Maw (DoT)"] = {
+									["count"] = 885,
+								},
+							},
+							["amount"] = 885,
+						},
+						["Amaki Guard"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2885,
+								},
+							},
+							["amount"] = 2885,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["CCBreak"] = 0,
+					["EnergyGain"] = 0,
+					["WhoHealed"] = {
+					},
+					["PartialResist"] = {
+						["Jagged Maw (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+					},
+					["Heals"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["Healing"] = 0,
+					["RunicPowerGained"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["DamagedWho"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+			},
+			["Owner"] = false,
+			["LastEventTimes"] = {
+				37541.937, -- [1]
+				37542.129, -- [2]
+				37542.286, -- [3]
+				37542.592, -- [4]
+				37542.839, -- [5]
+				37543.411, -- [6]
+				37554.226, -- [7]
+				37555.103, -- [8]
+				37555.909, -- [9]
+				37556.627, -- [10]
+				37557.156, -- [11]
+				37557.833, -- [12]
+				37558.112, -- [13]
+				37559.59, -- [14]
+				37559.937, -- [15]
+				37560.533, -- [16]
+				37562.08, -- [17]
+				37562.498, -- [18]
+				37563.69, -- [19]
+				37564.582, -- [20]
+				37566.582, -- [21]
+				37567.356, -- [22]
+				37568.49, -- [23]
+				37536.229, -- [24]
+				37536.336, -- [25]
+				37536.389, -- [26]
+				37536.662, -- [27]
+				37537.125, -- [28]
+				37537.383, -- [29]
+				37537.703, -- [30]
+				37537.703, -- [31]
+				37538.353, -- [32]
+				37538.387, -- [33]
+				37538.741, -- [34]
+				37538.801, -- [35]
+				37538.829, -- [36]
+				37538.926, -- [37]
+				37539.018, -- [38]
+				37539.098, -- [39]
+				37539.279, -- [40]
+				37539.465, -- [41]
+				37539.55, -- [42]
+				37539.635, -- [43]
+				37539.82, -- [44]
+				37539.977, -- [45]
+				37540.789, -- [46]
+				37541.1, -- [47]
+				37541.747, -- [48]
+				37541.764, -- [49]
+				37541.894, -- [50]
+			},
+			["NextEventNum"] = 24,
+			["LastDamageTime"] = 37543.411,
+			["LastEvents"] = {
+				"Twiddlederr Demon Blades Skulld-Azralon Absorb -693 (693 Absorbed) (Shadow)", -- [1]
+				"Twiddlederr Blade Dance Skulld-Azralon Absorb -787 (787 Absorbed) (Physical)", -- [2]
+				"Twiddlederr Blade Dance Skulld-Azralon Absorb -787 (787 Absorbed) (Physical)", -- [3]
+				"Twiddlederr Blade Dance Skulld-Azralon Absorb -787 (787 Absorbed) (Physical)", -- [4]
+				"Twiddlederr Blade Dance Skulld-Azralon Absorb -2363 (2363 Absorbed) (Physical)", -- [5]
+				"Twiddlederr Chaos Strike Skulld-Azralon Hit -1894", -- [6]
+				"Amaki Guard Melee Twiddlederr Hit -2512 (Physical)", -- [7]
+				"Battle Crawg Melee Twiddlederr Hit -2594 (Physical)", -- [8]
+				"Amaki Guard Melee Twiddlederr Hit -2417 (Physical)", -- [9]
+				"Battle Crawg Melee Twiddlederr Hit -2487 (Physical)", -- [10]
+				"Amaki Guard Savage Strike Twiddlederr Hit -2988 (Physical)", -- [11]
+				"Amaki Guard Melee Twiddlederr Hit -2795 (Physical)", -- [12]
+				"Battle Crawg Melee Twiddlederr Hit -2434 (Physical)", -- [13]
+				"Battle Crawg Melee Twiddlederr Hit -2346 (Physical)", -- [14]
+				"Amaki Guard Melee Twiddlederr Hit -2478 (Physical)", -- [15]
+				"Battle Crawg Jagged Maw Twiddlederr Hit -2929 (Physical)", -- [16]
+				"Battle Crawg Melee Twiddlederr Hit -2176 (Physical)", -- [17]
+				"Battle Crawg Jagged Maw (DoT) Twiddlederr Tick -446 (Physical)", -- [18]
+				"Amaki Guard Charge Twiddlederr Hit -2197 (Physical)", -- [19]
+				"Battle Crawg Jagged Maw (DoT) Twiddlederr Tick -437 (Physical)", -- [20]
+				"Battle Crawg Jagged Maw (DoT) Twiddlederr Tick -444 (Physical)", -- [21]
+				"Amaki Guard Melee Twiddlederr Hit -2885 (Physical)", -- [22]
+				"Battle Crawg Jagged Maw (DoT) Twiddlederr Tick -441 (Physical)", -- [23]
+				"Twiddlederr Melee Skulld-Azralon Hit -643 (Physical)", -- [24]
+				"Twiddlederr Chaos Strike Skulld-Azralon Hit -1738", -- [25]
+				"Twiddlederr Trail of Ruin (DoT) Skulld-Azralon Tick -514", -- [26]
+				"Twiddlederr Chaos Strike Skulld-Azralon Hit -1373", -- [27]
+				"Twiddlederr Leech Twiddlederr Hit +428", -- [28]
+				"Twiddlederr Trail of Ruin (DoT) Skulld-Azralon Tick -515", -- [29]
+				"Twiddlederr Vengeful Retreat Skulld-Azralon Hit -347 (Physical)", -- [30]
+				"Twiddlederr Vengeful Retreat Rogerp-Ragnaros Absorb -388 (388 Absorbed) (Physical)", -- [31]
+				"Twiddlederr Leech Twiddlederr Hit +86", -- [32]
+				"Twiddlederr Trail of Ruin (DoT) Skulld-Azralon Tick -514", -- [33]
+				"Twiddlederr Eye Beam Skulld-Azralon Crit -689", -- [34]
+				"Twiddlederr Vampiric Speed Twiddlederr Hit +1464", -- [35]
+				"Twiddlederr Eye Beam Skulld-Azralon Crit -689", -- [36]
+				"Twiddlederr Eye Beam Skulld-Azralon Crit -689", -- [37]
+				"Twiddlederr Eye Beam Skulld-Azralon Crit -689", -- [38]
+				"Twiddlederr Eye Beam Skulld-Azralon Crit -688", -- [39]
+				"Twiddlederr Eye Beam Skulld-Azralon Crit -689", -- [40]
+				"Twiddlederr Eye Beam Skulld-Azralon Crit -689", -- [41]
+				"Twiddlederr Leech Twiddlederr Hit +534", -- [42]
+				"Twiddlederr Eye Beam Skulld-Azralon Crit -689", -- [43]
+				"Twiddlederr Eye Beam Skulld-Azralon Absorb -689 (689 Absorbed)", -- [44]
+				"Twiddlederr Fel Rush Skulld-Azralon Absorb -1080 (1080 Absorbed)", -- [45]
+				"Twiddlederr Leech Twiddlederr Hit +69", -- [46]
+				"Twiddlederr Throw Glaive Skulld-Azralon Absorb -1117 (1117 Absorbed) (Physical)", -- [47]
+				"Twiddlederr Melee Skulld-Azralon Absorb -1306 (1306 Absorbed) (1)", -- [48]
+				"Twiddlederr Demon Blades Skulld-Azralon Absorb -462 (462 Absorbed) (Shadow)", -- [49]
+				"Twiddlederr Melee Skulld-Azralon Absorb -646 (646 Absorbed) (1)", -- [50]
+			},
+			["Name"] = "Twiddlederr",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				false, -- [5]
+				false, -- [6]
+				true, -- [7]
+				true, -- [8]
+				true, -- [9]
+				true, -- [10]
+				true, -- [11]
+				true, -- [12]
+				true, -- [13]
+				true, -- [14]
+				true, -- [15]
+				true, -- [16]
+				true, -- [17]
+				true, -- [18]
+				true, -- [19]
+				true, -- [20]
+				true, -- [21]
+				true, -- [22]
+				true, -- [23]
+				false, -- [24]
+				false, -- [25]
+				false, -- [26]
+				false, -- [27]
+				true, -- [28]
+				false, -- [29]
+				false, -- [30]
+				false, -- [31]
+				true, -- [32]
+				false, -- [33]
+				false, -- [34]
+				true, -- [35]
+				false, -- [36]
+				false, -- [37]
+				false, -- [38]
+				false, -- [39]
+				false, -- [40]
+				false, -- [41]
+				true, -- [42]
+				false, -- [43]
+				false, -- [44]
+				false, -- [45]
+				true, -- [46]
+				false, -- [47]
+				false, -- [48]
+				false, -- [49]
+				false, -- [50]
+			},
+			["LastEventHealth"] = {
+				70041, -- [1]
+				70041, -- [2]
+				70041, -- [3]
+				70041, -- [4]
+				70041, -- [5]
+				70041, -- [6]
+				73000, -- [7]
+				70488, -- [8]
+				67894, -- [9]
+				65477, -- [10]
+				60002, -- [11]
+				60002, -- [12]
+				57207, -- [13]
+				54773, -- [14]
+				52427, -- [15]
+				47020, -- [16]
+				47020, -- [17]
+				44398, -- [18]
+				42201, -- [19]
+				41764, -- [20]
+				42063, -- [21]
+				42063, -- [22]
+				38737, -- [23]
+				67460, -- [24]
+				67460, -- [25]
+				67460, -- [26]
+				67460, -- [27]
+				67888, -- [28]
+				67888, -- [29]
+				67888, -- [30]
+				67888, -- [31]
+				67974, -- [32]
+				67974, -- [33]
+				67974, -- [34]
+				69438, -- [35]
+				69438, -- [36]
+				69438, -- [37]
+				69438, -- [38]
+				69438, -- [39]
+				69438, -- [40]
+				69438, -- [41]
+				69972, -- [42]
+				69972, -- [43]
+				69972, -- [44]
+				69972, -- [45]
+				70041, -- [46]
+				70041, -- [47]
+				70041, -- [48]
+				70041, -- [49]
+				70041, -- [50]
+			},
+			["LastDamageTaken"] = 441,
+			["LastEventHealthMax"] = {
+				73000, -- [1]
+				73000, -- [2]
+				73000, -- [3]
+				73000, -- [4]
+				73000, -- [5]
+				73000, -- [6]
+				73000, -- [7]
+				73000, -- [8]
+				73000, -- [9]
+				73000, -- [10]
+				73000, -- [11]
+				73000, -- [12]
+				73000, -- [13]
+				73000, -- [14]
+				73000, -- [15]
+				73000, -- [16]
+				73000, -- [17]
+				73000, -- [18]
+				73000, -- [19]
+				73000, -- [20]
+				73000, -- [21]
+				73000, -- [22]
+				73000, -- [23]
+				73000, -- [24]
+				73000, -- [25]
+				73000, -- [26]
+				73000, -- [27]
+				73000, -- [28]
+				73000, -- [29]
+				73000, -- [30]
+				73000, -- [31]
+				73000, -- [32]
+				73000, -- [33]
+				73000, -- [34]
+				73000, -- [35]
+				73000, -- [36]
+				73000, -- [37]
+				73000, -- [38]
+				73000, -- [39]
+				73000, -- [40]
+				73000, -- [41]
+				73000, -- [42]
+				73000, -- [43]
+				73000, -- [44]
+				73000, -- [45]
+				73000, -- [46]
+				73000, -- [47]
+				73000, -- [48]
+				73000, -- [49]
+				73000, -- [50]
+			},
+			["LastActive"] = 37568.31,
+		},
+		["Nalls-ShatteredHalls"] = {
+			["GUID"] = "Player-155-0959B8CF",
+			["LastEventHealth"] = {
+				55159, -- [1]
+				55159, -- [2]
+				55159, -- [3]
+				54902, -- [4]
+				54406, -- [5]
+				67084, -- [6]
+				66324, -- [7]
+				66083, -- [8]
+				65587, -- [9]
+				71460, -- [10]
+				71460, -- [11]
+				71460, -- [12]
+				71460, -- [13]
+				70927, -- [14]
+				70670, -- [15]
+				70670, -- [16]
+				70670, -- [17]
+				70632, -- [18]
+				70136, -- [19]
+				71460, -- [20]
+				71460, -- [21]
+				71460, -- [22]
+				71460, -- [23]
+				71460, -- [24]
+				67615, -- [25]
+				67346, -- [26]
+				66740, -- [27]
+				66221, -- [28]
+				66221, -- [29]
+				66221, -- [30]
+				66221, -- [31]
+				66221, -- [32]
+				65663, -- [33]
+				62167, -- [34]
+				62167, -- [35]
+				61897, -- [36]
+				61377, -- [37]
+				60771, -- [38]
+				60771, -- [39]
+				60771, -- [40]
+				60771, -- [41]
+				60771, -- [42]
+				54709, -- [43]
+				54709, -- [44]
+				59056, -- [45]
+				56660, -- [46]
+				56257, -- [47]
+				55745, -- [48]
+				55745, -- [49]
+				55159, -- [50]
+			},
+			["LastAttackedBy"] = "Rogerp-Ragnaros",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"HEAL", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"HEAL", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"HEAL", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["TimeHeal"] = {
+					13.45, -- [1]
+				},
+				["Healing"] = {
+					7574, -- [1]
+				},
+				["DamageTaken"] = {
+					151973, -- [1]
+				},
+				["TimeDamage"] = {
+					48.42, -- [1]
+				},
+				["Absorbs"] = {
+					6406, -- [1]
+				},
+				["HealingTaken"] = {
+					148185, -- [1]
+				},
+				["Overhealing"] = {
+					13232, -- [1]
+				},
+				["Interrupts"] = {
+					1, -- [1]
+				},
+				["ActiveTime"] = {
+					61.87, -- [1]
+				},
+				["RageGain"] = {
+					79.6000003814697, -- [1]
+				},
+				["DOT_Time"] = {
+					60, -- [1]
+				},
+				["Damage"] = {
+					191777, -- [1]
+				},
+			},
+			["enClass"] = "WARRIOR",
+			["unit"] = "Nalls-ShatteredHalls",
+			["LastAbility"] = 37704.809,
+			["level"] = 120,
+			["LastDamageAbility"] = "Sunfire (DoT)",
+			["LastFightIn"] = 0,
+			["LastHealTime"] = 37541.225,
+			["type"] = "Ungrouped",
+			["FightsSaved"] = 2,
+			["UnitLockout"] = 37488.085,
+			["Fights"] = {
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["HOTs"] = {
+					},
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialAbsorb"] = {
+					},
+					["RageGain"] = 0,
+					["FAttacks"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["ElementDone"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementHitsDone"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["CCBreak"] = 0,
+					["EnergyGain"] = 0,
+					["WhoHealed"] = {
+					},
+					["PartialResist"] = {
+					},
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+					},
+					["Heals"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["Healing"] = 0,
+					["RunicPowerGained"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["DamagedWho"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight2"] = {
+					["DOTs"] = {
+						["Deep Wounds (DoT)"] = {
+							["Details"] = {
+								["Rogerp-Ragnaros"] = {
+									["count"] = 48,
+								},
+								["Skulld-Azralon"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 60,
+						},
+					},
+					["TimeSpent"] = {
+						["Rogerp-Ragnaros"] = {
+							["Details"] = {
+								["Mortal Strike"] = {
+									["count"] = 1.87,
+								},
+								["Melee"] = {
+									["count"] = 4.92,
+								},
+								["Deep Wounds (DoT)"] = {
+									["count"] = 10.01,
+								},
+								["Execute"] = {
+									["count"] = 1.23,
+								},
+								["Overpower"] = {
+									["count"] = 0.92,
+								},
+								["Slam"] = {
+									["count"] = 5.84,
+								},
+								["Bladestorm"] = {
+									["count"] = 5.03,
+								},
+							},
+							["amount"] = 29.82,
+						},
+						["Nalls-ShatteredHalls"] = {
+							["Details"] = {
+								["Last Gift"] = {
+									["count"] = 10.45,
+								},
+								["Azerite Fortification"] = {
+									["count"] = 1.5,
+								},
+								["Victory Rush"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 13.45,
+						},
+						["Skulld-Azralon"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 0.2,
+								},
+								["Deep Wounds (DoT)"] = {
+									["count"] = 3.77,
+								},
+								["Warbreaker"] = {
+									["count"] = 2.22,
+								},
+								["Slam"] = {
+									["count"] = 0.53,
+								},
+								["Mortal Strike"] = {
+									["count"] = 2.68,
+								},
+								["Storm Bolt"] = {
+									["count"] = 3,
+								},
+								["Victory Rush"] = {
+									["count"] = 1.5,
+								},
+								["Melee"] = {
+									["count"] = 2.89,
+								},
+								["Overpower"] = {
+									["count"] = 1.81,
+								},
+							},
+							["amount"] = 18.6,
+						},
+					},
+					["HealedWho"] = {
+						["Nalls-ShatteredHalls"] = {
+							["Details"] = {
+								["Last Gift"] = {
+									["count"] = 6406,
+								},
+								["Azerite Fortification"] = {
+									["count"] = 1668,
+								},
+								["Victory Rush"] = {
+									["count"] = 5906,
+								},
+							},
+							["amount"] = 13980,
+						},
+					},
+					["RageGainedFrom"] = {
+						["Nalls-ShatteredHalls"] = {
+							["Details"] = {
+								["Lord of War"] = {
+									["count"] = 20,
+								},
+								["Charge"] = {
+									["count"] = 40,
+								},
+								["Avatar"] = {
+									["count"] = 19.6000003814697,
+								},
+							},
+							["amount"] = 79.6000003814697,
+						},
+					},
+					["Absorbs"] = 6406,
+					["Overhealing"] = 13232,
+					["ElementTaken"] = {
+						["Shadow"] = 14718,
+						["Arcane"] = 67021,
+						["Nature"] = 24936,
+					},
+					["RageGained"] = {
+						["Lord of War"] = {
+							["Details"] = {
+								["Nalls-ShatteredHalls"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["Nalls-ShatteredHalls"] = {
+									["count"] = 40,
+								},
+							},
+							["amount"] = 40,
+						},
+						["Avatar"] = {
+							["Details"] = {
+								["Nalls-ShatteredHalls"] = {
+									["count"] = 19.6000003814697,
+								},
+							},
+							["amount"] = 19.6000003814697,
+						},
+					},
+					["Damage"] = 191777,
+					["TimeHeal"] = 13.45,
+					["ElementDone"] = {
+						["Melee"] = 25835,
+						["Physical"] = 165942,
+					},
+					["DamagedWho"] = {
+						["Rogerp-Ragnaros"] = {
+							["Details"] = {
+								["Mortal Strike"] = {
+									["count"] = 24732,
+								},
+								["Deep Wounds (DoT)"] = {
+									["count"] = 17999,
+								},
+								["Melee"] = {
+									["count"] = 17293,
+								},
+								["Warbreaker"] = {
+									["count"] = 11912,
+								},
+								["Execute"] = {
+									["count"] = 21394,
+								},
+								["Overpower"] = {
+									["count"] = 6329,
+								},
+								["Slam"] = {
+									["count"] = 12178,
+								},
+								["Bladestorm"] = {
+									["count"] = 10535,
+								},
+							},
+							["amount"] = 122372,
+						},
+						["Skulld-Azralon"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 1294,
+								},
+								["Deep Wounds (DoT)"] = {
+									["count"] = 4327,
+								},
+								["Warbreaker"] = {
+									["count"] = 25137,
+								},
+								["Slam"] = {
+									["count"] = 2877,
+								},
+								["Mortal Strike"] = {
+									["count"] = 14429,
+								},
+								["Storm Bolt"] = {
+									["count"] = 1457,
+								},
+								["Victory Rush"] = {
+									["count"] = 2422,
+								},
+								["Melee"] = {
+									["count"] = 8542,
+								},
+								["Overpower"] = {
+									["count"] = 8920,
+								},
+							},
+							["amount"] = 69405,
+						},
+					},
+					["WhoDamaged"] = {
+						["Rogerp-Ragnaros"] = {
+							["Details"] = {
+								["Stellar Flare (DoT)"] = {
+									["count"] = 8305,
+								},
+								["New Moon"] = {
+									["count"] = 5944,
+								},
+								["Lunar Strike"] = {
+									["count"] = 19995,
+								},
+								["Stellar Flare"] = {
+									["count"] = 1088,
+								},
+								["Moonfire"] = {
+									["count"] = 1271,
+								},
+								["Starsurge"] = {
+									["count"] = 35905,
+								},
+								["Full Moon"] = {
+									["count"] = 12827,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 19913,
+								},
+								["Sunfire (DoT)"] = {
+									["count"] = 19190,
+								},
+								["Sunfire"] = {
+									["count"] = 2279,
+								},
+								["Half Moon"] = {
+									["count"] = 7071,
+								},
+								["Solar Wrath"] = {
+									["count"] = 3467,
+								},
+							},
+							["amount"] = 137255,
+						},
+						["Skulld-Azralon"] = {
+							["Details"] = {
+								["Shadow Word: Pain"] = {
+									["count"] = 2559,
+								},
+								["Shadow Word: Pain (DoT)"] = {
+									["count"] = 12159,
+								},
+							},
+							["amount"] = 14718,
+						},
+					},
+					["Absorbed"] = {
+						["Last Gift"] = {
+							["Details"] = {
+								["Nalls-ShatteredHalls"] = {
+									["max"] = 948,
+									["min"] = 4,
+									["count"] = 12,
+									["amount"] = 6406,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 6406,
+						},
+					},
+					["TimeHealing"] = {
+						["Nalls-ShatteredHalls"] = {
+							["Details"] = {
+								["Last Gift"] = {
+									["count"] = 10.45,
+								},
+								["Azerite Fortification"] = {
+									["count"] = 1.5,
+								},
+								["Victory Rush"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 13.45,
+						},
+					},
+					["OverHeals"] = {
+						["Azerite Fortification"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 4768,
+									["min"] = 4768,
+									["count"] = 1,
+									["amount"] = 4768,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 4768,
+						},
+						["Victory Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 8464,
+									["min"] = 8464,
+									["count"] = 1,
+									["amount"] = 8464,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 8464,
+						},
+					},
+					["PartialResist"] = {
+						["Sunfire (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 28,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 28,
+						},
+						["New Moon"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Lunar Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Shadow Word: Pain"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Moonfire"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Starsurge"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 5,
+						},
+						["Stellar Flare"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Stellar Flare (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 24,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 24,
+						},
+						["Full Moon"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 30,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 30,
+						},
+						["Shadow Word: Pain (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 20,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 20,
+						},
+						["Sunfire"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Half Moon"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Solar Wrath"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Sunfire (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 25,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 876,
+									["min"] = 545,
+									["count"] = 3,
+									["amount"] = 1981,
+								},
+							},
+							["count"] = 28,
+							["amount"] = 1981,
+						},
+						["New Moon"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Lunar Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Shadow Word: Pain"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Moonfire"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Starsurge"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 930,
+									["min"] = 930,
+									["count"] = 1,
+									["amount"] = 930,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 930,
+						},
+						["Stellar Flare"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Stellar Flare (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 23,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 384,
+									["min"] = 384,
+									["count"] = 1,
+									["amount"] = 384,
+								},
+							},
+							["count"] = 24,
+							["amount"] = 384,
+						},
+						["Full Moon"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 28,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 316,
+									["min"] = 53,
+									["count"] = 2,
+									["amount"] = 369,
+								},
+							},
+							["count"] = 30,
+							["amount"] = 369,
+						},
+						["Shadow Word: Pain (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 17,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 632,
+									["min"] = 4,
+									["count"] = 3,
+									["amount"] = 890,
+								},
+							},
+							["count"] = 20,
+							["amount"] = 890,
+						},
+						["Sunfire"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 953,
+									["min"] = 930,
+									["count"] = 2,
+									["amount"] = 1883,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 1883,
+						},
+						["Half Moon"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Solar Wrath"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 61.87,
+					["InterruptData"] = {
+						["Rogerp-Ragnaros"] = {
+							["Details"] = {
+								["Solar Wrath (Pummel)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["Heals"] = {
+						["Last Gift"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 948,
+									["min"] = 4,
+									["count"] = 12,
+									["amount"] = 6406,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 6406,
+						},
+						["Azerite Fortification"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1668,
+									["min"] = 1668,
+									["count"] = 1,
+									["amount"] = 1668,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 1668,
+						},
+						["Victory Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 5906,
+									["min"] = 5906,
+									["count"] = 1,
+									["amount"] = 5906,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 5906,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 11,
+								},
+								["Absorb"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 15,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 27,
+								},
+								["Absorb"] = {
+									["count"] = 14,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Tick"] = {
+									["count"] = 14,
+								},
+							},
+							["amount"] = 58,
+						},
+					},
+					["HealingTaken"] = 148185,
+					["WhoHealed"] = {
+						["Cynosure-Alleria"] = {
+							["Details"] = {
+								["Bestow Faith"] = {
+									["count"] = 18730,
+								},
+								["Flash of Light"] = {
+									["count"] = 55428,
+								},
+								["Beacon of Light"] = {
+									["count"] = 5678,
+								},
+								["Holy Shock"] = {
+									["count"] = 54369,
+								},
+							},
+							["amount"] = 134205,
+						},
+						["Nalls-ShatteredHalls"] = {
+							["Details"] = {
+								["Last Gift"] = {
+									["count"] = 6406,
+								},
+								["Azerite Fortification"] = {
+									["count"] = 1668,
+								},
+								["Victory Rush"] = {
+									["count"] = 5906,
+								},
+							},
+							["amount"] = 13980,
+						},
+					},
+					["Healing"] = 7574,
+					["DamageTaken"] = 151973,
+					["ElementDoneAbsorb"] = {
+						["Melee"] = 6223,
+						["Physical"] = 29699,
+					},
+					["Attacks"] = {
+						["Charge"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 600,
+									["min"] = 600,
+									["count"] = 1,
+									["amount"] = 600,
+								},
+								["Absorb"] = {
+									["max"] = 694,
+									["min"] = 694,
+									["count"] = 1,
+									["amount"] = 694,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 1294,
+						},
+						["Deep Wounds (DoT)"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 1780,
+									["min"] = 269,
+									["count"] = 5,
+									["amount"] = 5887,
+								},
+								["Crit"] = {
+									["max"] = 1945,
+									["min"] = 1945,
+									["count"] = 1,
+									["amount"] = 1945,
+								},
+								["Tick"] = {
+									["max"] = 1780,
+									["min"] = 133,
+									["count"] = 14,
+									["amount"] = 14494,
+								},
+							},
+							["count"] = 20,
+							["amount"] = 22326,
+						},
+						["Warbreaker"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 4021,
+									["min"] = 3011,
+									["count"] = 2,
+									["amount"] = 7032,
+								},
+								["Crit"] = {
+									["max"] = 13004,
+									["min"] = 13004,
+									["count"] = 1,
+									["amount"] = 13004,
+								},
+								["Hit"] = {
+									["max"] = 11912,
+									["min"] = 5101,
+									["count"] = 2,
+									["amount"] = 17013,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 37049,
+						},
+						["Slam"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3017,
+									["min"] = 1206,
+									["count"] = 5,
+									["amount"] = 12038,
+								},
+								["Absorb"] = {
+									["max"] = 3017,
+									["min"] = 3017,
+									["count"] = 1,
+									["amount"] = 3017,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 15055,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 8878,
+									["min"] = 2411,
+									["count"] = 6,
+									["amount"] = 31376,
+								},
+								["Absorb"] = {
+									["max"] = 5316,
+									["min"] = 2469,
+									["count"] = 2,
+									["amount"] = 7785,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 39161,
+						},
+						["Storm Bolt"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 771,
+									["min"] = 771,
+									["count"] = 1,
+									["amount"] = 771,
+								},
+								["Hit"] = {
+									["max"] = 686,
+									["min"] = 686,
+									["count"] = 1,
+									["amount"] = 686,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 1457,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2407,
+									["min"] = 867,
+									["count"] = 11,
+									["amount"] = 19612,
+								},
+								["Absorb"] = {
+									["max"] = 3130,
+									["min"] = 140,
+									["count"] = 4,
+									["amount"] = 6223,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 25835,
+						},
+						["Bladestorm"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2558,
+									["min"] = 1227,
+									["count"] = 7,
+									["amount"] = 10535,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 10535,
+						},
+						["Victory Rush"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 2422,
+									["min"] = 2422,
+									["count"] = 1,
+									["amount"] = 2422,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 2422,
+						},
+						["Overpower"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 5299,
+									["min"] = 5299,
+									["count"] = 1,
+									["amount"] = 5299,
+								},
+								["Hit"] = {
+									["max"] = 3797,
+									["min"] = 2532,
+									["count"] = 3,
+									["amount"] = 9950,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 15249,
+						},
+						["Execute"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 11028,
+									["min"] = 8275,
+									["count"] = 2,
+									["amount"] = 19303,
+								},
+								["Absorb"] = {
+									["max"] = 2091,
+									["min"] = 2091,
+									["count"] = 1,
+									["amount"] = 2091,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 21394,
+						},
+					},
+					["RageGain"] = 79.6000003814697,
+					["ElementTakenAbsorb"] = {
+						["Shadow"] = 890,
+						["Nature"] = 3864,
+						["Arcane"] = 369,
+					},
+					["TimeDamage"] = 48.42,
+					["TimeDamaging"] = {
+						["Rogerp-Ragnaros"] = {
+							["Details"] = {
+								["Mortal Strike"] = {
+									["count"] = 1.87,
+								},
+								["Melee"] = {
+									["count"] = 4.92,
+								},
+								["Deep Wounds (DoT)"] = {
+									["count"] = 10.01,
+								},
+								["Execute"] = {
+									["count"] = 1.23,
+								},
+								["Overpower"] = {
+									["count"] = 0.92,
+								},
+								["Slam"] = {
+									["count"] = 5.84,
+								},
+								["Bladestorm"] = {
+									["count"] = 5.03,
+								},
+							},
+							["amount"] = 29.82,
+						},
+						["Skulld-Azralon"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 0.2,
+								},
+								["Deep Wounds (DoT)"] = {
+									["count"] = 3.77,
+								},
+								["Warbreaker"] = {
+									["count"] = 2.22,
+								},
+								["Slam"] = {
+									["count"] = 0.53,
+								},
+								["Mortal Strike"] = {
+									["count"] = 2.68,
+								},
+								["Storm Bolt"] = {
+									["count"] = 3,
+								},
+								["Victory Rush"] = {
+									["count"] = 1.5,
+								},
+								["Melee"] = {
+									["count"] = 2.89,
+								},
+								["Overpower"] = {
+									["count"] = 1.81,
+								},
+							},
+							["amount"] = 18.6,
+						},
+					},
+					["DOT_Time"] = 60,
+					["Interrupts"] = 1,
+					["ElementHitsTaken"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+								["Absorb"] = {
+									["count"] = 3,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Tick"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 23,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 12,
+								},
+								["Absorb"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 4,
+								},
+								["Tick"] = {
+									["count"] = 24,
+								},
+							},
+							["amount"] = 42,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 5,
+								},
+								["Absorb"] = {
+									["count"] = 5,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Tick"] = {
+									["count"] = 23,
+								},
+							},
+							["amount"] = 36,
+						},
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["HOTs"] = {
+					},
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialAbsorb"] = {
+					},
+					["RageGain"] = 0,
+					["FAttacks"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["ElementDone"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementHitsDone"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["CCBreak"] = 0,
+					["EnergyGain"] = 0,
+					["WhoHealed"] = {
+					},
+					["PartialResist"] = {
+					},
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+					},
+					["Heals"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["Healing"] = 0,
+					["RunicPowerGained"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["DamagedWho"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["DOTs"] = {
+						["Deep Wounds (DoT)"] = {
+							["Details"] = {
+								["Rogerp-Ragnaros"] = {
+									["count"] = 48,
+								},
+								["Skulld-Azralon"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 60,
+						},
+					},
+					["TimeSpent"] = {
+						["Rogerp-Ragnaros"] = {
+							["Details"] = {
+								["Mortal Strike"] = {
+									["count"] = 1.87,
+								},
+								["Melee"] = {
+									["count"] = 4.92,
+								},
+								["Deep Wounds (DoT)"] = {
+									["count"] = 10.01,
+								},
+								["Execute"] = {
+									["count"] = 1.23,
+								},
+								["Overpower"] = {
+									["count"] = 0.92,
+								},
+								["Slam"] = {
+									["count"] = 5.84,
+								},
+								["Bladestorm"] = {
+									["count"] = 5.03,
+								},
+							},
+							["amount"] = 29.82,
+						},
+						["Nalls-ShatteredHalls"] = {
+							["Details"] = {
+								["Last Gift"] = {
+									["count"] = 10.45,
+								},
+								["Azerite Fortification"] = {
+									["count"] = 1.5,
+								},
+								["Victory Rush"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 13.45,
+						},
+						["Skulld-Azralon"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 0.2,
+								},
+								["Deep Wounds (DoT)"] = {
+									["count"] = 3.77,
+								},
+								["Warbreaker"] = {
+									["count"] = 2.22,
+								},
+								["Slam"] = {
+									["count"] = 0.53,
+								},
+								["Mortal Strike"] = {
+									["count"] = 2.68,
+								},
+								["Storm Bolt"] = {
+									["count"] = 3,
+								},
+								["Victory Rush"] = {
+									["count"] = 1.5,
+								},
+								["Melee"] = {
+									["count"] = 2.89,
+								},
+								["Overpower"] = {
+									["count"] = 1.81,
+								},
+							},
+							["amount"] = 18.6,
+						},
+					},
+					["HealedWho"] = {
+						["Nalls-ShatteredHalls"] = {
+							["Details"] = {
+								["Last Gift"] = {
+									["count"] = 6406,
+								},
+								["Azerite Fortification"] = {
+									["count"] = 1668,
+								},
+								["Victory Rush"] = {
+									["count"] = 5906,
+								},
+							},
+							["amount"] = 13980,
+						},
+					},
+					["RageGainedFrom"] = {
+						["Nalls-ShatteredHalls"] = {
+							["Details"] = {
+								["Lord of War"] = {
+									["count"] = 20,
+								},
+								["Charge"] = {
+									["count"] = 40,
+								},
+								["Avatar"] = {
+									["count"] = 19.6000003814697,
+								},
+							},
+							["amount"] = 79.6000003814697,
+						},
+					},
+					["Absorbs"] = 6406,
+					["Overhealing"] = 13232,
+					["ElementTaken"] = {
+						["Shadow"] = 14718,
+						["Arcane"] = 67021,
+						["Nature"] = 24936,
+					},
+					["RageGained"] = {
+						["Lord of War"] = {
+							["Details"] = {
+								["Nalls-ShatteredHalls"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["Nalls-ShatteredHalls"] = {
+									["count"] = 40,
+								},
+							},
+							["amount"] = 40,
+						},
+						["Avatar"] = {
+							["Details"] = {
+								["Nalls-ShatteredHalls"] = {
+									["count"] = 19.6000003814697,
+								},
+							},
+							["amount"] = 19.6000003814697,
+						},
+					},
+					["Damage"] = 191777,
+					["TimeHeal"] = 13.45,
+					["ElementDone"] = {
+						["Melee"] = 25835,
+						["Physical"] = 165942,
+					},
+					["DamagedWho"] = {
+						["Rogerp-Ragnaros"] = {
+							["Details"] = {
+								["Mortal Strike"] = {
+									["count"] = 24732,
+								},
+								["Deep Wounds (DoT)"] = {
+									["count"] = 17999,
+								},
+								["Melee"] = {
+									["count"] = 17293,
+								},
+								["Warbreaker"] = {
+									["count"] = 11912,
+								},
+								["Execute"] = {
+									["count"] = 21394,
+								},
+								["Overpower"] = {
+									["count"] = 6329,
+								},
+								["Slam"] = {
+									["count"] = 12178,
+								},
+								["Bladestorm"] = {
+									["count"] = 10535,
+								},
+							},
+							["amount"] = 122372,
+						},
+						["Skulld-Azralon"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 1294,
+								},
+								["Deep Wounds (DoT)"] = {
+									["count"] = 4327,
+								},
+								["Warbreaker"] = {
+									["count"] = 25137,
+								},
+								["Slam"] = {
+									["count"] = 2877,
+								},
+								["Mortal Strike"] = {
+									["count"] = 14429,
+								},
+								["Storm Bolt"] = {
+									["count"] = 1457,
+								},
+								["Victory Rush"] = {
+									["count"] = 2422,
+								},
+								["Melee"] = {
+									["count"] = 8542,
+								},
+								["Overpower"] = {
+									["count"] = 8920,
+								},
+							},
+							["amount"] = 69405,
+						},
+					},
+					["WhoDamaged"] = {
+						["Rogerp-Ragnaros"] = {
+							["Details"] = {
+								["Stellar Flare (DoT)"] = {
+									["count"] = 8305,
+								},
+								["New Moon"] = {
+									["count"] = 5944,
+								},
+								["Lunar Strike"] = {
+									["count"] = 19995,
+								},
+								["Stellar Flare"] = {
+									["count"] = 1088,
+								},
+								["Moonfire"] = {
+									["count"] = 1271,
+								},
+								["Starsurge"] = {
+									["count"] = 35905,
+								},
+								["Full Moon"] = {
+									["count"] = 12827,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 19913,
+								},
+								["Sunfire (DoT)"] = {
+									["count"] = 19190,
+								},
+								["Sunfire"] = {
+									["count"] = 2279,
+								},
+								["Half Moon"] = {
+									["count"] = 7071,
+								},
+								["Solar Wrath"] = {
+									["count"] = 3467,
+								},
+							},
+							["amount"] = 137255,
+						},
+						["Skulld-Azralon"] = {
+							["Details"] = {
+								["Shadow Word: Pain"] = {
+									["count"] = 2559,
+								},
+								["Shadow Word: Pain (DoT)"] = {
+									["count"] = 12159,
+								},
+							},
+							["amount"] = 14718,
+						},
+					},
+					["Absorbed"] = {
+						["Last Gift"] = {
+							["Details"] = {
+								["Nalls-ShatteredHalls"] = {
+									["max"] = 948,
+									["min"] = 4,
+									["count"] = 12,
+									["amount"] = 6406,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 6406,
+						},
+					},
+					["TimeHealing"] = {
+						["Nalls-ShatteredHalls"] = {
+							["Details"] = {
+								["Last Gift"] = {
+									["count"] = 10.45,
+								},
+								["Azerite Fortification"] = {
+									["count"] = 1.5,
+								},
+								["Victory Rush"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 13.45,
+						},
+					},
+					["OverHeals"] = {
+						["Azerite Fortification"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 4768,
+									["min"] = 4768,
+									["count"] = 1,
+									["amount"] = 4768,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 4768,
+						},
+						["Victory Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 8464,
+									["min"] = 8464,
+									["count"] = 1,
+									["amount"] = 8464,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 8464,
+						},
+					},
+					["PartialResist"] = {
+						["Sunfire (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 28,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 28,
+						},
+						["New Moon"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Lunar Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Shadow Word: Pain"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Moonfire"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Starsurge"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 5,
+						},
+						["Stellar Flare"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Stellar Flare (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 24,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 24,
+						},
+						["Full Moon"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 30,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 30,
+						},
+						["Shadow Word: Pain (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 20,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 20,
+						},
+						["Sunfire"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Half Moon"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Solar Wrath"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Sunfire (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 25,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 876,
+									["min"] = 545,
+									["count"] = 3,
+									["amount"] = 1981,
+								},
+							},
+							["count"] = 28,
+							["amount"] = 1981,
+						},
+						["New Moon"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Lunar Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Shadow Word: Pain"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Moonfire"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Starsurge"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 930,
+									["min"] = 930,
+									["count"] = 1,
+									["amount"] = 930,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 930,
+						},
+						["Stellar Flare"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Stellar Flare (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 23,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 384,
+									["min"] = 384,
+									["count"] = 1,
+									["amount"] = 384,
+								},
+							},
+							["count"] = 24,
+							["amount"] = 384,
+						},
+						["Full Moon"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 28,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 316,
+									["min"] = 53,
+									["count"] = 2,
+									["amount"] = 369,
+								},
+							},
+							["count"] = 30,
+							["amount"] = 369,
+						},
+						["Shadow Word: Pain (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 17,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 632,
+									["min"] = 4,
+									["count"] = 3,
+									["amount"] = 890,
+								},
+							},
+							["count"] = 20,
+							["amount"] = 890,
+						},
+						["Sunfire"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 953,
+									["min"] = 930,
+									["count"] = 2,
+									["amount"] = 1883,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 1883,
+						},
+						["Half Moon"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Solar Wrath"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 61.87,
+					["InterruptData"] = {
+						["Rogerp-Ragnaros"] = {
+							["Details"] = {
+								["Solar Wrath (Pummel)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["Heals"] = {
+						["Last Gift"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 948,
+									["min"] = 4,
+									["count"] = 12,
+									["amount"] = 6406,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 6406,
+						},
+						["Azerite Fortification"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1668,
+									["min"] = 1668,
+									["count"] = 1,
+									["amount"] = 1668,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 1668,
+						},
+						["Victory Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 5906,
+									["min"] = 5906,
+									["count"] = 1,
+									["amount"] = 5906,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 5906,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 11,
+								},
+								["Absorb"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 15,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 27,
+								},
+								["Absorb"] = {
+									["count"] = 14,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Tick"] = {
+									["count"] = 14,
+								},
+							},
+							["amount"] = 58,
+						},
+					},
+					["HealingTaken"] = 148185,
+					["WhoHealed"] = {
+						["Cynosure-Alleria"] = {
+							["Details"] = {
+								["Bestow Faith"] = {
+									["count"] = 18730,
+								},
+								["Flash of Light"] = {
+									["count"] = 55428,
+								},
+								["Beacon of Light"] = {
+									["count"] = 5678,
+								},
+								["Holy Shock"] = {
+									["count"] = 54369,
+								},
+							},
+							["amount"] = 134205,
+						},
+						["Nalls-ShatteredHalls"] = {
+							["Details"] = {
+								["Last Gift"] = {
+									["count"] = 6406,
+								},
+								["Azerite Fortification"] = {
+									["count"] = 1668,
+								},
+								["Victory Rush"] = {
+									["count"] = 5906,
+								},
+							},
+							["amount"] = 13980,
+						},
+					},
+					["Healing"] = 7574,
+					["DamageTaken"] = 151973,
+					["ElementDoneAbsorb"] = {
+						["Melee"] = 6223,
+						["Physical"] = 29699,
+					},
+					["Attacks"] = {
+						["Charge"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 600,
+									["min"] = 600,
+									["count"] = 1,
+									["amount"] = 600,
+								},
+								["Absorb"] = {
+									["max"] = 694,
+									["min"] = 694,
+									["count"] = 1,
+									["amount"] = 694,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 1294,
+						},
+						["Deep Wounds (DoT)"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 1780,
+									["min"] = 269,
+									["count"] = 5,
+									["amount"] = 5887,
+								},
+								["Crit"] = {
+									["max"] = 1945,
+									["min"] = 1945,
+									["count"] = 1,
+									["amount"] = 1945,
+								},
+								["Tick"] = {
+									["max"] = 1780,
+									["min"] = 133,
+									["count"] = 14,
+									["amount"] = 14494,
+								},
+							},
+							["count"] = 20,
+							["amount"] = 22326,
+						},
+						["Warbreaker"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 4021,
+									["min"] = 3011,
+									["count"] = 2,
+									["amount"] = 7032,
+								},
+								["Crit"] = {
+									["max"] = 13004,
+									["min"] = 13004,
+									["count"] = 1,
+									["amount"] = 13004,
+								},
+								["Hit"] = {
+									["max"] = 11912,
+									["min"] = 5101,
+									["count"] = 2,
+									["amount"] = 17013,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 37049,
+						},
+						["Slam"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3017,
+									["min"] = 1206,
+									["count"] = 5,
+									["amount"] = 12038,
+								},
+								["Absorb"] = {
+									["max"] = 3017,
+									["min"] = 3017,
+									["count"] = 1,
+									["amount"] = 3017,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 15055,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 8878,
+									["min"] = 2411,
+									["count"] = 6,
+									["amount"] = 31376,
+								},
+								["Absorb"] = {
+									["max"] = 5316,
+									["min"] = 2469,
+									["count"] = 2,
+									["amount"] = 7785,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 39161,
+						},
+						["Storm Bolt"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 771,
+									["min"] = 771,
+									["count"] = 1,
+									["amount"] = 771,
+								},
+								["Hit"] = {
+									["max"] = 686,
+									["min"] = 686,
+									["count"] = 1,
+									["amount"] = 686,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 1457,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2407,
+									["min"] = 867,
+									["count"] = 11,
+									["amount"] = 19612,
+								},
+								["Absorb"] = {
+									["max"] = 3130,
+									["min"] = 140,
+									["count"] = 4,
+									["amount"] = 6223,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 25835,
+						},
+						["Bladestorm"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2558,
+									["min"] = 1227,
+									["count"] = 7,
+									["amount"] = 10535,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 10535,
+						},
+						["Victory Rush"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 2422,
+									["min"] = 2422,
+									["count"] = 1,
+									["amount"] = 2422,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 2422,
+						},
+						["Overpower"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 5299,
+									["min"] = 5299,
+									["count"] = 1,
+									["amount"] = 5299,
+								},
+								["Hit"] = {
+									["max"] = 3797,
+									["min"] = 2532,
+									["count"] = 3,
+									["amount"] = 9950,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 15249,
+						},
+						["Execute"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 11028,
+									["min"] = 8275,
+									["count"] = 2,
+									["amount"] = 19303,
+								},
+								["Absorb"] = {
+									["max"] = 2091,
+									["min"] = 2091,
+									["count"] = 1,
+									["amount"] = 2091,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 21394,
+						},
+					},
+					["RageGain"] = 79.6000003814697,
+					["ElementTakenAbsorb"] = {
+						["Shadow"] = 890,
+						["Nature"] = 3864,
+						["Arcane"] = 369,
+					},
+					["TimeDamage"] = 48.42,
+					["TimeDamaging"] = {
+						["Rogerp-Ragnaros"] = {
+							["Details"] = {
+								["Mortal Strike"] = {
+									["count"] = 1.87,
+								},
+								["Melee"] = {
+									["count"] = 4.92,
+								},
+								["Deep Wounds (DoT)"] = {
+									["count"] = 10.01,
+								},
+								["Execute"] = {
+									["count"] = 1.23,
+								},
+								["Overpower"] = {
+									["count"] = 0.92,
+								},
+								["Slam"] = {
+									["count"] = 5.84,
+								},
+								["Bladestorm"] = {
+									["count"] = 5.03,
+								},
+							},
+							["amount"] = 29.82,
+						},
+						["Skulld-Azralon"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 0.2,
+								},
+								["Deep Wounds (DoT)"] = {
+									["count"] = 3.77,
+								},
+								["Warbreaker"] = {
+									["count"] = 2.22,
+								},
+								["Slam"] = {
+									["count"] = 0.53,
+								},
+								["Mortal Strike"] = {
+									["count"] = 2.68,
+								},
+								["Storm Bolt"] = {
+									["count"] = 3,
+								},
+								["Victory Rush"] = {
+									["count"] = 1.5,
+								},
+								["Melee"] = {
+									["count"] = 2.89,
+								},
+								["Overpower"] = {
+									["count"] = 1.81,
+								},
+							},
+							["amount"] = 18.6,
+						},
+					},
+					["DOT_Time"] = 60,
+					["Interrupts"] = 1,
+					["ElementHitsTaken"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+								["Absorb"] = {
+									["count"] = 3,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Tick"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 23,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 12,
+								},
+								["Absorb"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 4,
+								},
+								["Tick"] = {
+									["count"] = 24,
+								},
+							},
+							["amount"] = 42,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 5,
+								},
+								["Absorb"] = {
+									["count"] = 5,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Tick"] = {
+									["count"] = 23,
+								},
+							},
+							["amount"] = 36,
+						},
+					},
+				},
+			},
+			["Owner"] = false,
+			["LastEventTimes"] = {
+				37538.31, -- [1]
+				37538.31, -- [2]
+				37538.801, -- [3]
+				37538.968, -- [4]
+				37539.265, -- [5]
+				37539.82, -- [6]
+				37540.09, -- [7]
+				37540.835, -- [8]
+				37541.131, -- [9]
+				37541.225, -- [10]
+				37541.225, -- [11]
+				37541.32, -- [12]
+				37541.696, -- [13]
+				37541.967, -- [14]
+				37542.699, -- [15]
+				37542.88, -- [16]
+				37542.88, -- [17]
+				37542.958, -- [18]
+				37542.991, -- [19]
+				37543.824, -- [20]
+				37544.859, -- [21]
+				37545.682, -- [22]
+				37546.722, -- [23]
+				37547.554, -- [24]
+				37533.348, -- [25]
+				37533.364, -- [26]
+				37533.637, -- [27]
+				37533.661, -- [28]
+				37534.113, -- [29]
+				37534.113, -- [30]
+				37534.113, -- [31]
+				37534.479, -- [32]
+				37534.499, -- [33]
+				37534.741, -- [34]
+				37535.061, -- [35]
+				37535.236, -- [36]
+				37535.534, -- [37]
+				37535.55, -- [38]
+				37535.808, -- [39]
+				37536.336, -- [40]
+				37536.36, -- [41]
+				37536.94, -- [42]
+				37536.997, -- [43]
+				37536.997, -- [44]
+				37536.997, -- [45]
+				37537.083, -- [46]
+				37537.097, -- [47]
+				37537.397, -- [48]
+				37537.834, -- [49]
+				37538.225, -- [50]
+			},
+			["NextEventNum"] = 25,
+			["LastDamageTime"] = 37542.88,
+			["LastEvents"] = {
+				"Nalls-ShatteredHalls Execute Rogerp-Ragnaros Absorb -2091 (Physical)", -- [1]
+				"Nalls-ShatteredHalls Execute Rogerp-Ragnaros Hit -8275 (2091 Absorbed) (Physical)", -- [2]
+				"Nalls-ShatteredHalls Deep Wounds (DoT) Rogerp-Ragnaros Tick -1779 (Physical)", -- [3]
+				"Rogerp-Ragnaros Stellar Flare (DoT) Nalls-ShatteredHalls Tick -258", -- [4]
+				"Rogerp-Ragnaros Moonfire (DoT) Nalls-ShatteredHalls Tick -498 (Arcane)", -- [5]
+				"Cynosure-Alleria Flash of Light Nalls-ShatteredHalls Hit +12747", -- [6]
+				"Rogerp-Ragnaros Sunfire (DoT) Nalls-ShatteredHalls Crit -764 (Nature)", -- [7]
+				"Rogerp-Ragnaros Stellar Flare (DoT) Nalls-ShatteredHalls Tick -242", -- [8]
+				"Rogerp-Ragnaros Moonfire (DoT) Nalls-ShatteredHalls Tick -498 (Arcane)", -- [9]
+				"Nalls-ShatteredHalls Victory Rush Nalls-ShatteredHalls Hit +14370 (8464 Overheal)", -- [10]
+				"Nalls-ShatteredHalls Victory Rush Skulld-Azralon Absorb -2422 (2422 Absorbed) (Physical)", -- [11]
+				"Nalls-ShatteredHalls Charge Skulld-Azralon Absorb -694 (694 Absorbed) (Physical)", -- [12]
+				"Nalls-ShatteredHalls Melee Skulld-Azralon Absorb -2148 (2148 Absorbed) (1)", -- [13]
+				"Rogerp-Ragnaros Sunfire (DoT) Nalls-ShatteredHalls Tick -535 (Nature)", -- [14]
+				"Rogerp-Ragnaros Stellar Flare (DoT) Nalls-ShatteredHalls Tick -258", -- [15]
+				"Nalls-ShatteredHalls Mortal Strike Skulld-Azralon Absorb -2469 (Physical)", -- [16]
+				"Nalls-ShatteredHalls Mortal Strike Skulld-Azralon Hit -3082 (2469 Absorbed) (Physical)", -- [17]
+				"Rogerp-Ragnaros Stellar Flare (DoT) Nalls-ShatteredHalls Tick -38", -- [18]
+				"Rogerp-Ragnaros Moonfire (DoT) Nalls-ShatteredHalls Tick -498 (Arcane)", -- [19]
+				"Rogerp-Ragnaros Sunfire (DoT) Nalls-ShatteredHalls Tick -508 (Nature)", -- [20]
+				"Rogerp-Ragnaros Moonfire (DoT) Nalls-ShatteredHalls Tick -474 (Arcane)", -- [21]
+				"Rogerp-Ragnaros Sunfire (DoT) Nalls-ShatteredHalls Tick -509 (Nature)", -- [22]
+				"Rogerp-Ragnaros Moonfire (DoT) Nalls-ShatteredHalls Tick -473 (Arcane)", -- [23]
+				"Rogerp-Ragnaros Sunfire (DoT) Nalls-ShatteredHalls Tick -509 (Nature)", -- [24]
+				"Rogerp-Ragnaros Sunfire Nalls-ShatteredHalls Crit -245 (930 Absorbed) (Nature)", -- [25]
+				"Rogerp-Ragnaros Stellar Flare (DoT) Nalls-ShatteredHalls Tick -270", -- [26]
+				"Skulld-Azralon Shadow Word: Pain (DoT) Nalls-ShatteredHalls Tick -609 (Shadow)", -- [27]
+				"Rogerp-Ragnaros Moonfire (DoT) Nalls-ShatteredHalls Tick -521 (Arcane)", -- [28]
+				"Nalls-ShatteredHalls Warbreaker Skulld-Azralon Absorb -3011 (Physical)", -- [29]
+				"Nalls-ShatteredHalls Warbreaker Skulld-Azralon Crit -13004 (3011 Absorbed) (Physical)", -- [30]
+				"Nalls-ShatteredHalls Warbreaker Rogerp-Ragnaros Hit -11912 (Physical)", -- [31]
+				"Nalls-ShatteredHalls Melee Rogerp-Ragnaros Hit -2407 (Physical)", -- [32]
+				"Rogerp-Ragnaros Sunfire (DoT) Nalls-ShatteredHalls Tick -561 (Nature)", -- [33]
+				"Rogerp-Ragnaros Lunar Strike Nalls-ShatteredHalls Hit -3515 (Arcane)", -- [34]
+				"Nalls-ShatteredHalls Deep Wounds (DoT) Rogerp-Ragnaros Tick -1780 (Physical)", -- [35]
+				"Rogerp-Ragnaros Stellar Flare (DoT) Nalls-ShatteredHalls Tick -271", -- [36]
+				"Rogerp-Ragnaros Moonfire (DoT) Nalls-ShatteredHalls Tick -522 (Arcane)", -- [37]
+				"Skulld-Azralon Shadow Word: Pain (DoT) Nalls-ShatteredHalls Tick -609 (Shadow)", -- [38]
+				"Nalls-ShatteredHalls Execute Rogerp-Ragnaros Hit -11028 (Physical)", -- [39]
+				"Skulld-Azralon Shadow Word: Pain (DoT) Nalls-ShatteredHalls Absorb -254 (254 Absorbed) (Shadow)", -- [40]
+				"Rogerp-Ragnaros Sunfire (DoT) Nalls-ShatteredHalls Absorb -560 (560 Absorbed) (Nature)", -- [41]
+				"Nalls-ShatteredHalls Deep Wounds (DoT) Rogerp-Ragnaros Absorb -1780 (1780 Absorbed) (Physical)", -- [42]
+				"Rogerp-Ragnaros Starsurge Nalls-ShatteredHalls Absorb -930", -- [43]
+				"Rogerp-Ragnaros Starsurge Nalls-ShatteredHalls Hit -6095 (930 Absorbed)", -- [44]
+				"Cynosure-Alleria Beacon of Light Nalls-ShatteredHalls Hit +4370", -- [45]
+				"Rogerp-Ragnaros New Moon Nalls-ShatteredHalls Hit -2409 (Arcane)", -- [46]
+				"Rogerp-Ragnaros Stellar Flare (DoT) Nalls-ShatteredHalls Crit -405", -- [47]
+				"Rogerp-Ragnaros Moonfire (DoT) Nalls-ShatteredHalls Tick -514 (Arcane)", -- [48]
+				"Nalls-ShatteredHalls Melee Rogerp-Ragnaros Absorb -3130 (3130 Absorbed) (1)", -- [49]
+				"Rogerp-Ragnaros Sunfire (DoT) Nalls-ShatteredHalls Tick -589 (Nature)", -- [50]
+			},
+			["Name"] = "Nalls-ShatteredHalls",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				false, -- [2]
+				false, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+				true, -- [9]
+				true, -- [10]
+				false, -- [11]
+				false, -- [12]
+				false, -- [13]
+				true, -- [14]
+				true, -- [15]
+				false, -- [16]
+				false, -- [17]
+				true, -- [18]
+				true, -- [19]
+				true, -- [20]
+				true, -- [21]
+				true, -- [22]
+				true, -- [23]
+				true, -- [24]
+				true, -- [25]
+				true, -- [26]
+				true, -- [27]
+				true, -- [28]
+				false, -- [29]
+				false, -- [30]
+				false, -- [31]
+				false, -- [32]
+				true, -- [33]
+				true, -- [34]
+				false, -- [35]
+				true, -- [36]
+				true, -- [37]
+				true, -- [38]
+				false, -- [39]
+				true, -- [40]
+				true, -- [41]
+				false, -- [42]
+				true, -- [43]
+				true, -- [44]
+				true, -- [45]
+				true, -- [46]
+				true, -- [47]
+				true, -- [48]
+				false, -- [49]
+				true, -- [50]
+			},
+			["TimeLast"] = {
+				["TimeHeal"] = 37541.085,
+				["Healing"] = 37541.085,
+				["OVERALL"] = 37547.087,
+				["DamageTaken"] = 37547.087,
+				["TimeDamage"] = 37542.086,
+				["Absorbs"] = 37536.089,
+				["RageGain"] = 37540.09,
+				["Overhealing"] = 37541.085,
+				["Interrupts"] = 37512.076,
+				["HealingTaken"] = 37541.085,
+				["ActiveTime"] = 37542.086,
+				["DOT_Time"] = 37538.083,
+				["Damage"] = 37542.086,
+			},
+			["LastDamageTaken"] = 509,
+			["LastEventHealthMax"] = {
+				71460, -- [1]
+				71460, -- [2]
+				71460, -- [3]
+				71460, -- [4]
+				71460, -- [5]
+				71460, -- [6]
+				71460, -- [7]
+				71460, -- [8]
+				71460, -- [9]
+				71460, -- [10]
+				71460, -- [11]
+				71460, -- [12]
+				71460, -- [13]
+				71460, -- [14]
+				71460, -- [15]
+				71460, -- [16]
+				71460, -- [17]
+				71460, -- [18]
+				71460, -- [19]
+				71460, -- [20]
+				71460, -- [21]
+				71460, -- [22]
+				71460, -- [23]
+				71460, -- [24]
+				71460, -- [25]
+				71460, -- [26]
+				71460, -- [27]
+				71460, -- [28]
+				71460, -- [29]
+				71460, -- [30]
+				71460, -- [31]
+				71460, -- [32]
+				71460, -- [33]
+				71460, -- [34]
+				71460, -- [35]
+				71460, -- [36]
+				71460, -- [37]
+				71460, -- [38]
+				71460, -- [39]
+				71460, -- [40]
+				71460, -- [41]
+				71460, -- [42]
+				71460, -- [43]
+				71460, -- [44]
+				71460, -- [45]
+				71460, -- [46]
+				71460, -- [47]
+				71460, -- [48]
+				71460, -- [49]
+				71460, -- [50]
+			},
+			["LastActive"] = 37547.087,
+		},
+		["Cynosure-Alleria"] = {
+			["GUID"] = "Player-52-0A2A8D24",
+			["LastEventHealth"] = {
+				62408, -- [1]
+				61548, -- [2]
+				61548, -- [3]
+				60580, -- [4]
+				64821, -- [5]
+				64821, -- [6]
+				64821, -- [7]
+				64821, -- [8]
+				64821, -- [9]
+				64185, -- [10]
+				76534, -- [11]
+				76534, -- [12]
+				75898, -- [13]
+				75644, -- [14]
+				77480, -- [15]
+				77480, -- [16]
+				68521, -- [17]
+				68018, -- [18]
+				66666, -- [19]
+				66666, -- [20]
+				66163, -- [21]
+				64864, -- [22]
+				64864, -- [23]
+				64361, -- [24]
+				63165, -- [25]
+				63165, -- [26]
+				62662, -- [27]
+				61460, -- [28]
+				61460, -- [29]
+				71099, -- [30]
+				71099, -- [31]
+				69981, -- [32]
+				69981, -- [33]
+				69750, -- [34]
+				69750, -- [35]
+				68598, -- [36]
+				68598, -- [37]
+				68158, -- [38]
+				68158, -- [39]
+				67008, -- [40]
+				67008, -- [41]
+				67008, -- [42]
+				65858, -- [43]
+				65858, -- [44]
+				64708, -- [45]
+				64708, -- [46]
+				63558, -- [47]
+				63558, -- [48]
+				63558, -- [49]
+				62408, -- [50]
+			},
+			["LastAttackedBy"] = "Skulld-Azralon",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"HEAL", -- [3]
+				"DAMAGE", -- [4]
+				"HEAL", -- [5]
+				"HEAL", -- [6]
+				"HEAL", -- [7]
+				"HEAL", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"HEAL", -- [11]
+				"HEAL", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"HEAL", -- [15]
+				"HEAL", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"HEAL", -- [30]
+				"HEAL", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"HEAL", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"HEAL", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["TimeHeal"] = {
+					22.81, -- [1]
+				},
+				["Healing"] = {
+					165239, -- [1]
+				},
+				["DamageTaken"] = {
+					10199, -- [1]
+				},
+				["Overhealing"] = {
+					6530, -- [1]
+				},
+				["HealingTaken"] = {
+					25025, -- [1]
+				},
+				["FDamage"] = {
+					17788, -- [1]
+				},
+				["ActiveTime"] = {
+					39.33, -- [1]
+				},
+				["TimeDamage"] = {
+					16.52, -- [1]
+				},
+				["ManaGain"] = {
+					5280, -- [1]
+				},
+				["DOT_Time"] = {
+					48, -- [1]
+				},
+				["HOT_Time"] = {
+					6, -- [1]
+				},
+			},
+			["enClass"] = "PALADIN",
+			["unit"] = true,
+			["LastAbility"] = 37704.809,
+			["level"] = 120,
+			["LastDamageAbility"] = "Shadow Word: Pain (DoT)",
+			["LastFightIn"] = 0,
+			["LastDamageTaken"] = 239,
+			["type"] = "Ungrouped",
+			["FightsSaved"] = 2,
+			["UnitLockout"] = 37493.078,
+			["Fights"] = {
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["HOTs"] = {
+					},
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialAbsorb"] = {
+					},
+					["RageGain"] = 0,
+					["FAttacks"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["ElementDone"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementHitsDone"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["CCBreak"] = 0,
+					["EnergyGain"] = 0,
+					["WhoHealed"] = {
+					},
+					["PartialResist"] = {
+					},
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+					},
+					["Heals"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["Healing"] = 0,
+					["RunicPowerGained"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["DamagedWho"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight2"] = {
+					["TimeHealing"] = {
+						["Cynosure-Alleria"] = {
+							["Details"] = {
+								["Flash of Light"] = {
+									["count"] = 1.5,
+								},
+								["Light of Dawn"] = {
+									["count"] = 1.43,
+								},
+								["Vampiric Speed"] = {
+									["count"] = 1.5,
+								},
+								["Holy Shock"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 5.93,
+						},
+						["Nalls-ShatteredHalls"] = {
+							["Details"] = {
+								["Bestow Faith"] = {
+									["count"] = 2.1,
+								},
+								["Flash of Light"] = {
+									["count"] = 8.38,
+								},
+								["Beacon of Light"] = {
+									["count"] = 0.02,
+								},
+								["Holy Shock"] = {
+									["count"] = 6.38,
+								},
+							},
+							["amount"] = 16.88,
+						},
+					},
+					["OverHeals"] = {
+						["Beacon of Light"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 693,
+									["min"] = 693,
+									["count"] = 1,
+									["amount"] = 693,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 693,
+						},
+						["Vampiric Speed"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 224,
+									["min"] = 224,
+									["count"] = 1,
+									["amount"] = 224,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 224,
+						},
+						["Holy Shock"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 5613,
+									["min"] = 5613,
+									["count"] = 1,
+									["amount"] = 5613,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 5613,
+						},
+					},
+					["TimeSpent"] = {
+						["Cynosure-Alleria"] = {
+							["Details"] = {
+								["Light of Dawn"] = {
+									["count"] = 1.43,
+								},
+								["Vampiric Speed"] = {
+									["count"] = 1.5,
+								},
+								["Flash of Light"] = {
+									["count"] = 1.5,
+								},
+								["Ultimate Sacrifice (DoT)"] = {
+									["count"] = 16.52,
+								},
+								["Holy Shock"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 22.45,
+						},
+						["Nalls-ShatteredHalls"] = {
+							["Details"] = {
+								["Bestow Faith"] = {
+									["count"] = 2.1,
+								},
+								["Flash of Light"] = {
+									["count"] = 8.38,
+								},
+								["Beacon of Light"] = {
+									["count"] = 0.02,
+								},
+								["Holy Shock"] = {
+									["count"] = 6.38,
+								},
+							},
+							["amount"] = 16.88,
+						},
+					},
+					["HealedWho"] = {
+						["Cynosure-Alleria"] = {
+							["Details"] = {
+								["Flash of Light"] = {
+									["count"] = 9105,
+								},
+								["Light of Dawn"] = {
+									["count"] = 4006,
+								},
+								["Vampiric Speed"] = {
+									["count"] = 987,
+								},
+								["Holy Shock"] = {
+									["count"] = 10927,
+								},
+							},
+							["amount"] = 25025,
+						},
+						["Nalls-ShatteredHalls"] = {
+							["Details"] = {
+								["Bestow Faith"] = {
+									["count"] = 18730,
+								},
+								["Flash of Light"] = {
+									["count"] = 55428,
+								},
+								["Beacon of Light"] = {
+									["count"] = 5678,
+								},
+								["Holy Shock"] = {
+									["count"] = 54369,
+								},
+							},
+							["amount"] = 134205,
+						},
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Light of Dawn"] = {
+									["count"] = 6009,
+								},
+							},
+							["amount"] = 6009,
+						},
+					},
+					["TimeHeal"] = 22.81,
+					["PartialResist"] = {
+						["Shadow Word: Pain (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Halo"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Sunfire"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Filthy Transfusion (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Shadow Word: Pain"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["ManaGained"] = {
+						["Beacon of Light"] = {
+							["Details"] = {
+								["Cynosure-Alleria"] = {
+									["count"] = 5280,
+								},
+							},
+							["amount"] = 5280,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Shadow Word: Pain (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Halo"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Sunfire"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Filthy Transfusion (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Shadow Word: Pain"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 39.33,
+					["DamageTaken"] = 10199,
+					["ElementTaken"] = {
+						["Holy"] = 4184,
+						["Shadow"] = 6015,
+					},
+					["HOTs"] = {
+						["Bestow Faith"] = {
+							["Details"] = {
+								["Nalls-ShatteredHalls"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["FDamagedWho"] = {
+						["Cynosure-Alleria"] = {
+							["Details"] = {
+								["Ultimate Sacrifice (DoT)"] = {
+									["count"] = 17788,
+								},
+							},
+							["amount"] = 17788,
+						},
+					},
+					["WhoDamaged"] = {
+						["Skulld-Azralon"] = {
+							["Details"] = {
+								["Halo"] = {
+									["count"] = 4184,
+								},
+								["Shadow Word: Pain"] = {
+									["count"] = 812,
+								},
+								["Filthy Transfusion (DoT)"] = {
+									["count"] = 2850,
+								},
+								["Shadow Word: Pain (DoT)"] = {
+									["count"] = 2353,
+								},
+							},
+							["amount"] = 10199,
+						},
+					},
+					["Heals"] = {
+						["Bestow Faith"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 10103,
+									["min"] = 8627,
+									["count"] = 2,
+									["amount"] = 18730,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 18730,
+						},
+						["Light of Dawn"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 6009,
+									["min"] = 6009,
+									["count"] = 1,
+									["amount"] = 6009,
+								},
+								["Hit"] = {
+									["max"] = 4006,
+									["min"] = 4006,
+									["count"] = 1,
+									["amount"] = 4006,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 10015,
+						},
+						["Vampiric Speed"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 987,
+									["min"] = 987,
+									["count"] = 1,
+									["amount"] = 987,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 987,
+						},
+						["Flash of Light"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 12747,
+									["min"] = 7377,
+									["count"] = 7,
+									["amount"] = 64533,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 64533,
+						},
+						["Beacon of Light"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 4370,
+									["min"] = 508,
+									["count"] = 3,
+									["amount"] = 5678,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 5678,
+						},
+						["Holy Shock"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 15953,
+									["min"] = 9581,
+									["count"] = 2,
+									["amount"] = 25534,
+								},
+								["Hit"] = {
+									["max"] = 10927,
+									["min"] = 9215,
+									["count"] = 4,
+									["amount"] = 39762,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 65296,
+						},
+					},
+					["FDamage"] = 17788,
+					["DOTs"] = {
+						["Ultimate Sacrifice (DoT)"] = {
+							["Details"] = {
+								["Cynosure-Alleria"] = {
+									["count"] = 48,
+								},
+							},
+							["amount"] = 48,
+						},
+					},
+					["DOT_Time"] = 48,
+					["Healing"] = 165239,
+					["FAttacks"] = {
+						["Ultimate Sacrifice (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 1277,
+									["min"] = 958,
+									["count"] = 16,
+									["amount"] = 17788,
+								},
+							},
+							["count"] = 16,
+							["amount"] = 17788,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Holy"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 9,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 11,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Immune"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["HOT_Time"] = 6,
+					["HealingTaken"] = 25025,
+					["ManaGainedFrom"] = {
+						["Cynosure-Alleria"] = {
+							["Details"] = {
+								["Beacon of Light"] = {
+									["count"] = 5280,
+								},
+							},
+							["amount"] = 5280,
+						},
+					},
+					["TimeDamage"] = 16.52,
+					["TimeDamaging"] = {
+						["Cynosure-Alleria"] = {
+							["Details"] = {
+								["Ultimate Sacrifice (DoT)"] = {
+									["count"] = 16.52,
+								},
+							},
+							["amount"] = 16.52,
+						},
+					},
+					["ManaGain"] = 5280,
+					["WhoHealed"] = {
+						["Cynosure-Alleria"] = {
+							["Details"] = {
+								["Flash of Light"] = {
+									["count"] = 9105,
+								},
+								["Light of Dawn"] = {
+									["count"] = 4006,
+								},
+								["Vampiric Speed"] = {
+									["count"] = 987,
+								},
+								["Holy Shock"] = {
+									["count"] = 10927,
+								},
+							},
+							["amount"] = 25025,
+						},
+					},
+					["Overhealing"] = 6530,
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["HOTs"] = {
+					},
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialAbsorb"] = {
+					},
+					["RageGain"] = 0,
+					["FAttacks"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["ElementDone"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementHitsDone"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["CCBreak"] = 0,
+					["EnergyGain"] = 0,
+					["WhoHealed"] = {
+					},
+					["PartialResist"] = {
+					},
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+					},
+					["Heals"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["Healing"] = 0,
+					["RunicPowerGained"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["DamagedWho"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["TimeHealing"] = {
+						["Cynosure-Alleria"] = {
+							["Details"] = {
+								["Flash of Light"] = {
+									["count"] = 1.5,
+								},
+								["Light of Dawn"] = {
+									["count"] = 1.43,
+								},
+								["Vampiric Speed"] = {
+									["count"] = 1.5,
+								},
+								["Holy Shock"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 5.93,
+						},
+						["Nalls-ShatteredHalls"] = {
+							["Details"] = {
+								["Bestow Faith"] = {
+									["count"] = 2.1,
+								},
+								["Flash of Light"] = {
+									["count"] = 8.38,
+								},
+								["Beacon of Light"] = {
+									["count"] = 0.02,
+								},
+								["Holy Shock"] = {
+									["count"] = 6.38,
+								},
+							},
+							["amount"] = 16.88,
+						},
+					},
+					["OverHeals"] = {
+						["Beacon of Light"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 693,
+									["min"] = 693,
+									["count"] = 1,
+									["amount"] = 693,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 693,
+						},
+						["Vampiric Speed"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 224,
+									["min"] = 224,
+									["count"] = 1,
+									["amount"] = 224,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 224,
+						},
+						["Holy Shock"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 5613,
+									["min"] = 5613,
+									["count"] = 1,
+									["amount"] = 5613,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 5613,
+						},
+					},
+					["TimeSpent"] = {
+						["Cynosure-Alleria"] = {
+							["Details"] = {
+								["Light of Dawn"] = {
+									["count"] = 1.43,
+								},
+								["Vampiric Speed"] = {
+									["count"] = 1.5,
+								},
+								["Flash of Light"] = {
+									["count"] = 1.5,
+								},
+								["Ultimate Sacrifice (DoT)"] = {
+									["count"] = 16.52,
+								},
+								["Holy Shock"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 22.45,
+						},
+						["Nalls-ShatteredHalls"] = {
+							["Details"] = {
+								["Bestow Faith"] = {
+									["count"] = 2.1,
+								},
+								["Flash of Light"] = {
+									["count"] = 8.38,
+								},
+								["Beacon of Light"] = {
+									["count"] = 0.02,
+								},
+								["Holy Shock"] = {
+									["count"] = 6.38,
+								},
+							},
+							["amount"] = 16.88,
+						},
+					},
+					["HealedWho"] = {
+						["Cynosure-Alleria"] = {
+							["Details"] = {
+								["Flash of Light"] = {
+									["count"] = 9105,
+								},
+								["Light of Dawn"] = {
+									["count"] = 4006,
+								},
+								["Vampiric Speed"] = {
+									["count"] = 987,
+								},
+								["Holy Shock"] = {
+									["count"] = 10927,
+								},
+							},
+							["amount"] = 25025,
+						},
+						["Nalls-ShatteredHalls"] = {
+							["Details"] = {
+								["Bestow Faith"] = {
+									["count"] = 18730,
+								},
+								["Flash of Light"] = {
+									["count"] = 55428,
+								},
+								["Beacon of Light"] = {
+									["count"] = 5678,
+								},
+								["Holy Shock"] = {
+									["count"] = 54369,
+								},
+							},
+							["amount"] = 134205,
+						},
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Light of Dawn"] = {
+									["count"] = 6009,
+								},
+							},
+							["amount"] = 6009,
+						},
+					},
+					["TimeHeal"] = 22.81,
+					["PartialResist"] = {
+						["Shadow Word: Pain (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Halo"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Sunfire"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Filthy Transfusion (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Shadow Word: Pain"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["ManaGained"] = {
+						["Beacon of Light"] = {
+							["Details"] = {
+								["Cynosure-Alleria"] = {
+									["count"] = 5280,
+								},
+							},
+							["amount"] = 5280,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Shadow Word: Pain (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Halo"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Sunfire"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Filthy Transfusion (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Shadow Word: Pain"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 39.33,
+					["DamageTaken"] = 10199,
+					["ElementTaken"] = {
+						["Holy"] = 4184,
+						["Shadow"] = 6015,
+					},
+					["HOTs"] = {
+						["Bestow Faith"] = {
+							["Details"] = {
+								["Nalls-ShatteredHalls"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["FDamagedWho"] = {
+						["Cynosure-Alleria"] = {
+							["Details"] = {
+								["Ultimate Sacrifice (DoT)"] = {
+									["count"] = 17788,
+								},
+							},
+							["amount"] = 17788,
+						},
+					},
+					["WhoDamaged"] = {
+						["Skulld-Azralon"] = {
+							["Details"] = {
+								["Halo"] = {
+									["count"] = 4184,
+								},
+								["Shadow Word: Pain"] = {
+									["count"] = 812,
+								},
+								["Filthy Transfusion (DoT)"] = {
+									["count"] = 2850,
+								},
+								["Shadow Word: Pain (DoT)"] = {
+									["count"] = 2353,
+								},
+							},
+							["amount"] = 10199,
+						},
+					},
+					["Heals"] = {
+						["Bestow Faith"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 10103,
+									["min"] = 8627,
+									["count"] = 2,
+									["amount"] = 18730,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 18730,
+						},
+						["Light of Dawn"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 6009,
+									["min"] = 6009,
+									["count"] = 1,
+									["amount"] = 6009,
+								},
+								["Hit"] = {
+									["max"] = 4006,
+									["min"] = 4006,
+									["count"] = 1,
+									["amount"] = 4006,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 10015,
+						},
+						["Vampiric Speed"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 987,
+									["min"] = 987,
+									["count"] = 1,
+									["amount"] = 987,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 987,
+						},
+						["Flash of Light"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 12747,
+									["min"] = 7377,
+									["count"] = 7,
+									["amount"] = 64533,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 64533,
+						},
+						["Beacon of Light"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 4370,
+									["min"] = 508,
+									["count"] = 3,
+									["amount"] = 5678,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 5678,
+						},
+						["Holy Shock"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 15953,
+									["min"] = 9581,
+									["count"] = 2,
+									["amount"] = 25534,
+								},
+								["Hit"] = {
+									["max"] = 10927,
+									["min"] = 9215,
+									["count"] = 4,
+									["amount"] = 39762,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 65296,
+						},
+					},
+					["FDamage"] = 17788,
+					["DOTs"] = {
+						["Ultimate Sacrifice (DoT)"] = {
+							["Details"] = {
+								["Cynosure-Alleria"] = {
+									["count"] = 48,
+								},
+							},
+							["amount"] = 48,
+						},
+					},
+					["DOT_Time"] = 48,
+					["Healing"] = 165239,
+					["FAttacks"] = {
+						["Ultimate Sacrifice (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 1277,
+									["min"] = 958,
+									["count"] = 16,
+									["amount"] = 17788,
+								},
+							},
+							["count"] = 16,
+							["amount"] = 17788,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Holy"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 9,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 11,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Immune"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["HOT_Time"] = 6,
+					["HealingTaken"] = 25025,
+					["ManaGainedFrom"] = {
+						["Cynosure-Alleria"] = {
+							["Details"] = {
+								["Beacon of Light"] = {
+									["count"] = 5280,
+								},
+							},
+							["amount"] = 5280,
+						},
+					},
+					["TimeDamage"] = 16.52,
+					["TimeDamaging"] = {
+						["Cynosure-Alleria"] = {
+							["Details"] = {
+								["Ultimate Sacrifice (DoT)"] = {
+									["count"] = 16.52,
+								},
+							},
+							["amount"] = 16.52,
+						},
+					},
+					["ManaGain"] = 5280,
+					["WhoHealed"] = {
+						["Cynosure-Alleria"] = {
+							["Details"] = {
+								["Flash of Light"] = {
+									["count"] = 9105,
+								},
+								["Light of Dawn"] = {
+									["count"] = 4006,
+								},
+								["Vampiric Speed"] = {
+									["count"] = 987,
+								},
+								["Holy Shock"] = {
+									["count"] = 10927,
+								},
+							},
+							["amount"] = 25025,
+						},
+					},
+					["Overhealing"] = 6530,
+				},
+			},
+			["Owner"] = false,
+			["LastEventTimes"] = {
+				37521.622, -- [1]
+				37522.052, -- [2]
+				37528.4, -- [3]
+				37529.652, -- [4]
+				37529.832, -- [5]
+				37529.832, -- [6]
+				37529.832, -- [7]
+				37529.848, -- [8]
+				37533.333, -- [9]
+				37535.368, -- [10]
+				37536.997, -- [11]
+				37536.997, -- [12]
+				37537.268, -- [13]
+				37538.054, -- [14]
+				37538.801, -- [15]
+				37539.82, -- [16]
+				37508.621, -- [17]
+				37509.194, -- [18]
+				37509.646, -- [19]
+				37509.646, -- [20]
+				37510.208, -- [21]
+				37510.631, -- [22]
+				37510.631, -- [23]
+				37511.205, -- [24]
+				37511.653, -- [25]
+				37511.653, -- [26]
+				37512.196, -- [27]
+				37512.638, -- [28]
+				37512.638, -- [29]
+				37512.932, -- [30]
+				37513.534, -- [31]
+				37513.638, -- [32]
+				37513.638, -- [33]
+				37514.629, -- [34]
+				37514.629, -- [35]
+				37515.637, -- [36]
+				37515.637, -- [37]
+				37516.635, -- [38]
+				37516.635, -- [39]
+				37517.636, -- [40]
+				37517.636, -- [41]
+				37517.831, -- [42]
+				37518.628, -- [43]
+				37518.628, -- [44]
+				37519.625, -- [45]
+				37519.625, -- [46]
+				37520.637, -- [47]
+				37520.637, -- [48]
+				37520.668, -- [49]
+				37521.622, -- [50]
+			},
+			["NextEventNum"] = 17,
+			["LastDamageTime"] = 37521.622,
+			["LastEvents"] = {
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1086 (Holy)", -- [1]
+				"Skulld-Azralon Shadow Word: Pain Cynosure-Alleria Hit -812 (Shadow)", -- [2]
+				"Cynosure-Alleria Holy Shock Nalls-ShatteredHalls Crit +15953", -- [3]
+				"Skulld-Azralon Shadow Word: Pain (DoT) Cynosure-Alleria Crit -914 (Shadow)", -- [4]
+				"Cynosure-Alleria Light of Dawn Cynosure-Alleria Hit +4006", -- [5]
+				"Cynosure-Alleria Light of Dawn Twiddlederr Crit +6009", -- [6]
+				"Cynosure-Alleria Beacon of Light Nalls-ShatteredHalls Hit +800", -- [7]
+				"Cynosure-Alleria Beacon of Light Nalls-ShatteredHalls Hit +1201 (693 Overheal)", -- [8]
+				"Rogerp-Ragnaros Sunfire Cynosure-Alleria Immune (Nature)", -- [9]
+				"Skulld-Azralon Shadow Word: Pain (DoT) Cynosure-Alleria Tick -600 (Shadow)", -- [10]
+				"Cynosure-Alleria Holy Shock Cynosure-Alleria Hit +10927", -- [11]
+				"Cynosure-Alleria Beacon of Light Nalls-ShatteredHalls Hit +4370", -- [12]
+				"Skulld-Azralon Shadow Word: Pain (DoT) Cynosure-Alleria Tick -600 (Shadow)", -- [13]
+				"Skulld-Azralon Shadow Word: Pain (DoT) Cynosure-Alleria Tick -239 (Shadow)", -- [14]
+				"Cynosure-Alleria Vampiric Speed Cynosure-Alleria Hit +1211 (224 Overheal)", -- [15]
+				"Cynosure-Alleria Flash of Light Nalls-ShatteredHalls Hit +12747", -- [16]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1140 (Holy)", -- [17]
+				"Skulld-Azralon Filthy Transfusion (DoT) Cynosure-Alleria Tick -475 (Shadow)", -- [18]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1277 (Holy)", -- [19]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1277 (Holy)", -- [20]
+				"Skulld-Azralon Filthy Transfusion (DoT) Cynosure-Alleria Tick -475 (Shadow)", -- [21]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1227 (Holy)", -- [22]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1227 (Holy)", -- [23]
+				"Skulld-Azralon Filthy Transfusion (DoT) Cynosure-Alleria Tick -475 (Shadow)", -- [24]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1129 (Holy)", -- [25]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1129 (Holy)", -- [26]
+				"Skulld-Azralon Filthy Transfusion (DoT) Cynosure-Alleria Tick -475 (Shadow)", -- [27]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1135 (Holy)", -- [28]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1135 (Holy)", -- [29]
+				"Cynosure-Alleria Flash of Light Cynosure-Alleria Hit +9105", -- [30]
+				"Cynosure-Alleria Bestow Faith Nalls-ShatteredHalls Tick +8627", -- [31]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1056 (Holy)", -- [32]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1056 (Holy)", -- [33]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -958 (Holy)", -- [34]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -958 (Holy)", -- [35]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1088 (Holy)", -- [36]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1088 (Holy)", -- [37]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1160 (Holy)", -- [38]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1160 (Holy)", -- [39]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1086 (Holy)", -- [40]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1086 (Holy)", -- [41]
+				"Cynosure-Alleria Holy Shock Nalls-ShatteredHalls Hit +10179", -- [42]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1086 (Holy)", -- [43]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1086 (Holy)", -- [44]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1086 (Holy)", -- [45]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1086 (Holy)", -- [46]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1086 (Holy)", -- [47]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1086 (Holy)", -- [48]
+				"Cynosure-Alleria Flash of Light Nalls-ShatteredHalls Hit +8912", -- [49]
+				"Cynosure-Alleria Ultimate Sacrifice (DoT) Cynosure-Alleria Tick -1086 (Holy)", -- [50]
+			},
+			["Name"] = "Cynosure-Alleria",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				true, -- [2]
+				false, -- [3]
+				true, -- [4]
+				true, -- [5]
+				false, -- [6]
+				false, -- [7]
+				false, -- [8]
+				true, -- [9]
+				true, -- [10]
+				true, -- [11]
+				false, -- [12]
+				true, -- [13]
+				true, -- [14]
+				true, -- [15]
+				false, -- [16]
+				true, -- [17]
+				true, -- [18]
+				false, -- [19]
+				true, -- [20]
+				true, -- [21]
+				false, -- [22]
+				true, -- [23]
+				true, -- [24]
+				false, -- [25]
+				true, -- [26]
+				true, -- [27]
+				false, -- [28]
+				true, -- [29]
+				true, -- [30]
+				false, -- [31]
+				false, -- [32]
+				true, -- [33]
+				false, -- [34]
+				true, -- [35]
+				false, -- [36]
+				true, -- [37]
+				false, -- [38]
+				true, -- [39]
+				false, -- [40]
+				true, -- [41]
+				false, -- [42]
+				false, -- [43]
+				true, -- [44]
+				false, -- [45]
+				true, -- [46]
+				false, -- [47]
+				true, -- [48]
+				false, -- [49]
+				false, -- [50]
+			},
+			["LastHealTime"] = 37539.82,
+			["TimeLast"] = {
+				["TimeHeal"] = 37539.083,
+				["Healing"] = 37539.083,
+				["DamageTaken"] = 37537.083,
+				["OVERALL"] = 37539.083,
+				["Overhealing"] = 37538.083,
+				["HealingTaken"] = 37538.083,
+				["HOT_Time"] = 37513.077,
+				["ActiveTime"] = 37539.083,
+				["TimeDamage"] = 37521.082,
+				["ManaGain"] = 37539.083,
+				["DOT_Time"] = 37521.082,
+				["FDamage"] = 37521.082,
+			},
+			["LastEventHealthMax"] = {
+				77480, -- [1]
+				77480, -- [2]
+				77480, -- [3]
+				77480, -- [4]
+				77480, -- [5]
+				77480, -- [6]
+				77480, -- [7]
+				77480, -- [8]
+				77480, -- [9]
+				77480, -- [10]
+				77480, -- [11]
+				77480, -- [12]
+				77480, -- [13]
+				77480, -- [14]
+				77480, -- [15]
+				77480, -- [16]
+				77480, -- [17]
+				77480, -- [18]
+				77480, -- [19]
+				77480, -- [20]
+				77480, -- [21]
+				77480, -- [22]
+				77480, -- [23]
+				77480, -- [24]
+				77480, -- [25]
+				77480, -- [26]
+				77480, -- [27]
+				77480, -- [28]
+				77480, -- [29]
+				77480, -- [30]
+				77480, -- [31]
+				77480, -- [32]
+				77480, -- [33]
+				77480, -- [34]
+				77480, -- [35]
+				77480, -- [36]
+				77480, -- [37]
+				77480, -- [38]
+				77480, -- [39]
+				77480, -- [40]
+				77480, -- [41]
+				77480, -- [42]
+				77480, -- [43]
+				77480, -- [44]
+				77480, -- [45]
+				77480, -- [46]
+				77480, -- [47]
+				77480, -- [48]
+				77480, -- [49]
+				77480, -- [50]
+			},
+			["LastActive"] = 37539.083,
+		},
+	},
+	["FightNum"] = 2,
+	["CombatTimes"] = {
+		{
+			37487.088, -- [1]
+			37564.318, -- [2]
+			"21:39:22", -- [3]
+			"21:40:39", -- [4]
+			"Skulld-Azralon", -- [5]
+		}, -- [1]
+		{
+			37566.308, -- [1]
+			37590.317, -- [2]
+			"21:40:41", -- [3]
+			"21:41:05", -- [4]
+			"Battle Crawg", -- [5]
+		}, -- [2]
+	},
+	["FoughtWho"] = {
+		"Battle Crawg 21:40:41-21:41:05", -- [1]
+		"Skulld-Azralon 21:39:22-21:40:39", -- [2]
+	},
+}
