@@ -1,0 +1,45 @@
+VER 3 0100000000000004 "CC1" "ABILITY_DEMONHUNTER_IMPRISON"
+/cast [@arena1,exists] Imprison;
+/cast Imprison;
+END
+VER 3 0100000000000005 "CC2" "ABILITY_DEMONHUNTER_IMPRISON"
+/cast [@arena2,exists] Imprison;
+/cast Imprison;
+END
+VER 3 0100000000000006 "CC3" "ABILITY_DEMONHUNTER_IMPRISON"
+/cast [@arena3,exists] Imprison;
+/cast Imprison;
+END
+VER 3 0100000000000008 "CCRing" "ABILITY_DEMONHUNTER_IMPRISON"
+/click ORLOpen CC
+END
+VER 3 010000000000000A "ConsumeMagic1" "828455"
+/cast [@arena1,exists] Consume Magic;;
+/cast Consume Magic;
+END
+VER 3 010000000000000B "ConsumeMagic2" "828455"
+/cast [@arena2,exists] Consume Magic;;
+/cast Consume Magic;
+END
+VER 3 010000000000000C "ConsumeMagic3e" "828455"
+/cast [@arena3,exists] Consume Magic;;
+/cast Consume Magic;
+END
+VER 3 0100000000000001 "Interrupt1" "ABILITY_DEMONHUNTER_CONSUMEMAGIC"
+/cast [@arena1,exists] Disrupt;
+/cast Disrupt;
+END
+VER 3 0100000000000002 "Interrupt2" "ABILITY_DEMONHUNTER_CONSUMEMAGIC"
+/cast [@arena2,exists] Disrupt;
+/cast Disrupt;
+END
+VER 3 0100000000000003 "Interrupt3" "ABILITY_DEMONHUNTER_CONSUMEMAGIC"
+/cast [@arena3,exists] Disrupt;
+/cast Disrupt;
+END
+VER 3 0100000000000007 "InterruptRing" "ABILITY_DEMONHUNTER_CONSUMEMAGIC"
+/click ORLOpen Interrupt
+END
+VER 3 0100000000000009 "travel ring" "ACHIEVEMENT_GUILDPERK_HASTYHEARTH"
+/click ORLOpen travel
+END

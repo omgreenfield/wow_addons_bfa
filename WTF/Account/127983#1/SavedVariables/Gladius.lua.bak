@@ -1,0 +1,27 @@
+
+Gladius2DB = {
+	["profileKeys"] = {
+		["Twiddlederr - Anvilmar"] = "Twiddlederr - Anvilmar",
+	},
+	["profiles"] = {
+		["Twiddlederr - Anvilmar"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["y"] = {
+				["arena1"] = 536.177703955436,
+			},
+			["x"] = {
+				["arena1"] = 880.355837289499,
+			},
+			["announcements"] = {
+				["dispell"] = true,
+				["trinket"] = true,
+			},
+			["tagsTexts"] = {
+				["HealthBar Left Text"] = {
+					["text"] = "[name:status] [maxhealth]",
+				},
+			},
+		},
+	},
+}

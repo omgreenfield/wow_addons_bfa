@@ -1,0 +1,3 @@
+
+FishingBuddy_Info = {
+}

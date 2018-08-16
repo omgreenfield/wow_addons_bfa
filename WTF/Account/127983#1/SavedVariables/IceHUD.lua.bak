@@ -1,0 +1,52 @@
+
+IceCoreDB = {
+	["profileKeys"] = {
+		["Twiddlederr - Anvilmar"] = "Default",
+	},
+	["global"] = {
+		["lastRunVersion"] = 2017011240441,
+	},
+	["profiles"] = {
+		["Default"] = {
+			["modules"] = {
+				["PetHealth"] = {
+					["myTagVersion"] = 3,
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+				},
+				["PlayerHealth"] = {
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+					["myTagVersion"] = 3,
+				},
+				["TargetMana"] = {
+					["myTagVersion"] = 3,
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+				},
+				["SunderCount"] = {
+				},
+				["TargetHealth"] = {
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+					["myTagVersion"] = 3,
+				},
+				["LacerateCount"] = {
+				},
+				["MaelstromCount"] = {
+				},
+				["PlayerMana"] = {
+					["myTagVersion"] = 3,
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+				},
+			},
+			["updatedOocNotFull"] = true,
+			["colors"] = {
+				["ScaledManaColor"] = {
+					["r"] = 1,
+				},
+			},
+		},
+	},
+}

@@ -1,0 +1,33 @@
+
+RecountDB = {
+	["profileKeys"] = {
+		["Twiddlederr - Anvilmar"] = "Twiddlederr - Anvilmar",
+	},
+	["profiles"] = {
+		["Twiddlederr - Anvilmar"] = {
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -242.999938964844,
+					["x"] = 482,
+					["w"] = 201.999923706055,
+					["h"] = 210,
+				},
+			},
+			["MainWindowMode"] = 2,
+			["MainWindowHeight"] = 209.999984741211,
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["LastInstanceName"] = "Silvershard Mines",
+			["CurDataSet"] = "LastFightData",
+			["MainWindowWidth"] = 201.999923706055,
+		},
+	},
+}

@@ -1,0 +1,41 @@
+
+AucAdvancedConfig = {
+	["version"] = 1,
+	["profile.Default"] = {
+		["stat"] = {
+			["sales"] = {
+				["upgraded32"] = true,
+				["ignoredsigs"] = {
+				},
+			},
+		},
+		["util"] = {
+			["automagic"] = {
+				["uierrormsg"] = 1,
+				["SavedMailButtons"] = {
+				},
+			},
+		},
+	},
+	["users.Anvilmar.Twiddlederr"] = "Default",
+}
+AucAdvancedData = {
+	["Stats"] = {
+	},
+}
+AucAdvancedServers = {
+	["ConnectedRealmTables"] = {
+		["#Anvilmar"] = {
+			"Anvilmar", -- [1]
+			"Undermine", -- [2]
+		},
+	},
+	["Version"] = 1,
+	["KnownRealms"] = {
+		["Anvilmar"] = "#Anvilmar",
+	},
+	["Timestamp"] = 1534090318,
+	["KnownServerKeys"] = {
+		["#Anvilmar"] = 1534090355,
+	},
+}
