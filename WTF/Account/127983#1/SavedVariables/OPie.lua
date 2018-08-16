@@ -14,8 +14,8 @@ OneRing_Config = {
 			["XTScaleSpeed"] = 4,
 			["MISpinOnHide"] = false,
 			["XTRotationPeriod"] = 10,
+			["SliceBinding"] = true,
 			["XTZoomTime"] = 0,
-			["XTPointerSpeed"] = 4,
 			["IndicationOffsetY"] = -150,
 			["ShowCooldowns"] = true,
 			["CenterAction"] = true,
@@ -23,7 +23,7 @@ OneRing_Config = {
 				["RaidSymbols#SliceBinding"] = true,
 			},
 			["IndicationOffsetX"] = 300,
-			["SliceBinding"] = true,
+			["XTPointerSpeed"] = 4,
 		},
 	},
 	["PersistentStorage"] = {

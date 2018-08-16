@@ -6,13 +6,13 @@ Gladius2DB = {
 	},
 	["profiles"] = {
 		["Twiddlederr - Kel'Thuzad"] = {
-			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 897.422330758309,
-			},
 			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
 			["y"] = {
 				["arena1"] = 642.133348882198,
+			},
+			["x"] = {
+				["arena1"] = 897.422330758309,
 			},
 		},
 		["Twiddlederr - Anvilmar"] = {

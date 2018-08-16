@@ -1,7 +1,7 @@
 SET minimapZoom "3"
 SET minimapInsideZoom "2"
 SET autoQuestPopUps "v##$"
-SET trackedQuests "v(7m(]I(a<(c=(e_(hX(ib(kc(w?(wu(wx(xf(z4)$N)$v))?).D)0*"
+SET trackedQuests "v(c=(hX(xf(]I)$v(ib(z4)0*(e_(7m(a<(kc(w?(wu(wx)$N))?).D"
 SET hardTrackedQuests "v"
 SET trackedWorldQuests "v"
 SET hardTrackedWorldQuests "v"

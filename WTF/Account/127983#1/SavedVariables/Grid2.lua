@@ -1,7 +1,7 @@
 
 Grid2DB = {
 	["namespaces"] = {
-		["LibDualSpec-1.0"] = {
+		["Grid2AoeHeals"] = {
 		},
 		["Grid2RaidDebuffs"] = {
 		},
@@ -16,13 +16,13 @@ Grid2DB = {
 				},
 			},
 		},
-		["Grid2AoeHeals"] = {
+		["LibDualSpec-1.0"] = {
 		},
 		["Grid2Options"] = {
 		},
-		["Grid2Frame"] = {
-		},
 		["Grid2Utils"] = {
+		},
+		["Grid2Frame"] = {
 		},
 	},
 	["profileKeys"] = {
@@ -87,9 +87,6 @@ Grid2DB = {
 					},
 					["type"] = "alpha",
 				},
-				["text-down-color"] = {
-					["type"] = "text-color",
-				},
 				["text-down"] = {
 					["type"] = "text",
 					["location"] = {
@@ -110,6 +107,9 @@ Grid2DB = {
 						["r"] = 0,
 					},
 					["type"] = "border",
+				},
+				["text-down-color"] = {
+					["type"] = "text-color",
 				},
 				["health"] = {
 					["type"] = "bar",
@@ -176,10 +176,6 @@ Grid2DB = {
 					["size"] = 14,
 				},
 			},
-			["versions"] = {
-				["Grid2"] = 5,
-				["Grid2RaidDebuffs"] = 3,
-			},
 			["statusMap"] = {
 				["heals"] = {
 					["heals-incoming"] = 99,
@@ -198,15 +194,18 @@ Grid2DB = {
 					["range"] = 99,
 					["death"] = 98,
 				},
-				["text-down-color"] = {
-					["classcolor"] = 99,
-				},
 				["border"] = {
 					["target"] = 50,
 					["health-low"] = 55,
 				},
+				["corner-bottom-left"] = {
+					["threat"] = 99,
+				},
 				["health"] = {
 					["health-current"] = 99,
+				},
+				["text-down-color"] = {
+					["classcolor"] = 99,
 				},
 				["text-up"] = {
 					["charmed"] = 65,
@@ -215,9 +214,6 @@ Grid2DB = {
 					["offline"] = 93,
 					["vehicle"] = 70,
 					["death"] = 95,
-				},
-				["corner-bottom-left"] = {
-					["threat"] = 99,
 				},
 				["text-up-color"] = {
 					["charmed"] = 65,
@@ -235,6 +231,10 @@ Grid2DB = {
 					["raid-debuffs"] = 155,
 					["death"] = 155,
 				},
+			},
+			["versions"] = {
+				["Grid2"] = 5,
+				["Grid2RaidDebuffs"] = 3,
 			},
 		},
 		["Twiddlederr - Anvilmar"] = {
@@ -409,13 +409,8 @@ Grid2DB = {
 					["target"] = 50,
 					["health-low"] = 55,
 				},
-				["text-up"] = {
-					["charmed"] = 65,
-					["feign-death"] = 96,
-					["health-deficit"] = 50,
-					["offline"] = 93,
-					["vehicle"] = 70,
-					["death"] = 95,
+				["corner-bottom-left"] = {
+					["threat"] = 99,
 				},
 				["health"] = {
 					["health-current"] = 99,
@@ -423,8 +418,13 @@ Grid2DB = {
 				["text-down-color"] = {
 					["classcolor"] = 99,
 				},
-				["corner-bottom-left"] = {
-					["threat"] = 99,
+				["text-up"] = {
+					["charmed"] = 65,
+					["feign-death"] = 96,
+					["health-deficit"] = 50,
+					["offline"] = 93,
+					["vehicle"] = 70,
+					["death"] = 95,
 				},
 				["text-up-color"] = {
 					["charmed"] = 65,

@@ -43,12 +43,12 @@ Bagnon_Sets = {
 			["y"] = 100,
 			["x"] = -50.0001220703125,
 			["brokerObject"] = "BagnonLauncher",
-			["showBags"] = true,
+			["borderColor"] = {
+			},
 			["itemScale"] = 1,
 			["scale"] = 1,
 			["alpha"] = 1,
-			["borderColor"] = {
-			},
+			["showBags"] = true,
 		},
 		["vault"] = {
 			["rules"] = {

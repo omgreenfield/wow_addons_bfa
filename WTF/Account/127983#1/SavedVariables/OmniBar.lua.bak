@@ -1,6 +1,7 @@
 
 OmniBarDB = {
 	["profileKeys"] = {
+		["Twiddlederr - Kel'Thuzad"] = "Default",
 		["Twiddlederr - Anvilmar"] = "Default",
 	},
 	["cooldowns"] = {
@@ -23,10 +24,10 @@ OmniBarDB = {
 					["growUpward"] = true,
 					["locked"] = true,
 					["padding"] = 2,
-					["highlightTarget"] = true,
-					["world"] = true,
-					["cooldownCount"] = true,
 					["ratedBattleground"] = true,
+					["size"] = 40,
+					["cooldownCount"] = true,
+					["highlightTarget"] = true,
 					["columns"] = 8,
 					["unusedAlpha"] = 0.45,
 					["align"] = "CENTER",
@@ -44,7 +45,7 @@ OmniBarDB = {
 						["xOfs"] = -31.0000343322754,
 						["frameStrata"] = "MEDIUM",
 					},
-					["size"] = 40,
+					["world"] = true,
 					["arena"] = true,
 					["border"] = true,
 					["battleground"] = true,

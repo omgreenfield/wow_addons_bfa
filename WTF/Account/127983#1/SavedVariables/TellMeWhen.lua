@@ -27,10 +27,10 @@ TellMeWhenDB = {
 	["Version"] = 85204,
 	["profiles"] = {
 		["Twiddlederr - Kel'Thuzad"] = {
+			["Locked"] = true,
 			["Version"] = 85204,
 			["Groups"] = {
 				{
-					["GUID"] = "TMW:group:1RTTs9so74Au",
 					["Icons"] = {
 						{
 							["States"] = {
@@ -77,6 +77,7 @@ TellMeWhenDB = {
 							},
 						}, -- [4]
 					},
+					["GUID"] = "TMW:group:1RTTs9so74Au",
 					["Point"] = {
 						["y"] = -43.0000305175781,
 						["x"] = -7.99972534179688,
@@ -86,6 +87,8 @@ TellMeWhenDB = {
 		},
 		["Twiddlederr - Anvilmar"] = {
 			["Locked"] = true,
+			["Version"] = 85204,
+			["NumGroups"] = 4,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1QwL7gQwOB=r",
@@ -858,8 +861,6 @@ TellMeWhenDB = {
 					},
 				}, -- [4]
 			},
-			["Version"] = 85204,
-			["NumGroups"] = 4,
 		},
 	},
 }

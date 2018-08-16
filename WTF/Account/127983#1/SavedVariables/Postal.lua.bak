@@ -4,13 +4,17 @@ Postal3DB = {
 		["BlackBook"] = {
 			["alts"] = {
 				"Twiddlederr|Anvilmar|Alliance|120|DEMONHUNTER", -- [1]
+				"Twiddlederr|Kel'Thuzad|Alliance|120|DEMONHUNTER", -- [2]
 			},
 		},
 	},
 	["profileKeys"] = {
+		["Twiddlederr - Kel'Thuzad"] = "Twiddlederr - Kel'Thuzad",
 		["Twiddlederr - Anvilmar"] = "Twiddlederr - Anvilmar",
 	},
 	["profiles"] = {
+		["Twiddlederr - Kel'Thuzad"] = {
+		},
 		["Twiddlederr - Anvilmar"] = {
 		},
 	},

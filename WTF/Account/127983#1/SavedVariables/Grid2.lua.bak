@@ -1,9 +1,9 @@
 
 Grid2DB = {
 	["namespaces"] = {
-		["Grid2Frame"] = {
-		},
 		["Grid2Utils"] = {
+		},
+		["Grid2Frame"] = {
 		},
 		["Grid2Layout"] = {
 			["profiles"] = {
@@ -16,20 +16,21 @@ Grid2DB = {
 				},
 			},
 		},
-		["Grid2AoeHeals"] = {
+		["LibDualSpec-1.0"] = {
 		},
 		["Grid2Options"] = {
 		},
 		["Grid2RaidDebuffs"] = {
 		},
-		["LibDualSpec-1.0"] = {
+		["Grid2AoeHeals"] = {
 		},
 	},
 	["profileKeys"] = {
+		["Twiddlederr - Kel'Thuzad"] = "Twiddlederr - Kel'Thuzad",
 		["Twiddlederr - Anvilmar"] = "Twiddlederr - Anvilmar",
 	},
 	["profiles"] = {
-		["Twiddlederr - Anvilmar"] = {
+		["Twiddlederr - Kel'Thuzad"] = {
 			["indicators"] = {
 				["heals"] = {
 					["type"] = "bar",
@@ -211,12 +212,6 @@ Grid2DB = {
 					["death"] = 95,
 					["vehicle"] = 70,
 				},
-				["corner-bottom-left"] = {
-					["threat"] = 99,
-				},
-				["text-down-color"] = {
-					["classcolor"] = 99,
-				},
 				["text-up"] = {
 					["charmed"] = 65,
 					["feign-death"] = 96,
@@ -224,6 +219,12 @@ Grid2DB = {
 					["offline"] = 93,
 					["death"] = 95,
 					["vehicle"] = 70,
+				},
+				["text-down-color"] = {
+					["classcolor"] = 99,
+				},
+				["corner-bottom-left"] = {
+					["threat"] = 99,
 				},
 				["icon-center"] = {
 					["ready-check"] = 150,
@@ -234,6 +235,213 @@ Grid2DB = {
 			["versions"] = {
 				["Grid2"] = 5,
 				["Grid2RaidDebuffs"] = 3,
+			},
+		},
+		["Twiddlederr - Anvilmar"] = {
+			["versions"] = {
+				["Grid2"] = 5,
+				["Grid2RaidDebuffs"] = 3,
+			},
+			["indicators"] = {
+				["heals"] = {
+					["type"] = "bar",
+					["texture"] = "Gradient",
+					["anchorTo"] = "health",
+					["location"] = {
+						["y"] = 0,
+						["relPoint"] = "CENTER",
+						["point"] = "CENTER",
+						["x"] = 0,
+					},
+					["level"] = 1,
+					["opacity"] = 0.25,
+					["color1"] = {
+						["a"] = 0,
+						["r"] = 0,
+						["g"] = 0,
+						["b"] = 0,
+					},
+				},
+				["icon-right"] = {
+					["type"] = "icon",
+					["location"] = {
+						["y"] = 0,
+						["relPoint"] = "RIGHT",
+						["point"] = "RIGHT",
+						["x"] = 2,
+					},
+					["level"] = 8,
+					["fontSize"] = 8,
+					["size"] = 12,
+				},
+				["heals-color"] = {
+					["type"] = "bar-color",
+				},
+				["icon-left"] = {
+					["type"] = "icon",
+					["location"] = {
+						["y"] = 0,
+						["relPoint"] = "LEFT",
+						["point"] = "LEFT",
+						["x"] = -2,
+					},
+					["level"] = 8,
+					["fontSize"] = 8,
+					["size"] = 12,
+				},
+				["alpha"] = {
+					["type"] = "alpha",
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 0,
+						["g"] = 0,
+						["b"] = 0,
+					},
+				},
+				["text-down"] = {
+					["type"] = "text",
+					["location"] = {
+						["y"] = 4,
+						["relPoint"] = "BOTTOM",
+						["point"] = "BOTTOM",
+						["x"] = 0,
+					},
+					["level"] = 6,
+					["textlength"] = 6,
+					["fontSize"] = 8,
+				},
+				["health-color"] = {
+					["type"] = "bar-color",
+				},
+				["text-up-color"] = {
+					["type"] = "text-color",
+				},
+				["health"] = {
+					["type"] = "bar",
+					["location"] = {
+						["y"] = 0,
+						["relPoint"] = "CENTER",
+						["point"] = "CENTER",
+						["x"] = 0,
+					},
+					["level"] = 2,
+					["texture"] = "Gradient",
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 0,
+						["g"] = 0,
+						["b"] = 0,
+					},
+				},
+				["corner-bottom-left"] = {
+					["type"] = "square",
+					["location"] = {
+						["y"] = 0,
+						["relPoint"] = "BOTTOMLEFT",
+						["point"] = "BOTTOMLEFT",
+						["x"] = 0,
+					},
+					["level"] = 5,
+					["size"] = 5,
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 1,
+						["g"] = 1,
+						["b"] = 1,
+					},
+				},
+				["text-up"] = {
+					["type"] = "text",
+					["location"] = {
+						["y"] = -8,
+						["relPoint"] = "TOP",
+						["point"] = "TOP",
+						["x"] = 0,
+					},
+					["level"] = 7,
+					["textlength"] = 6,
+					["fontSize"] = 8,
+				},
+				["text-down-color"] = {
+					["type"] = "text-color",
+				},
+				["border"] = {
+					["type"] = "border",
+					["color1"] = {
+						["a"] = 0,
+						["r"] = 0,
+						["g"] = 0,
+						["b"] = 0,
+					},
+				},
+				["icon-center"] = {
+					["type"] = "icon",
+					["location"] = {
+						["y"] = 0,
+						["relPoint"] = "CENTER",
+						["point"] = "CENTER",
+						["x"] = 0,
+					},
+					["level"] = 8,
+					["fontSize"] = 8,
+					["size"] = 14,
+				},
+			},
+			["statusMap"] = {
+				["heals"] = {
+					["heals-incoming"] = 99,
+				},
+				["text-down"] = {
+					["name"] = 99,
+				},
+				["heals-color"] = {
+					["classcolor"] = 99,
+				},
+				["icon-left"] = {
+					["raid-icon-player"] = 155,
+				},
+				["alpha"] = {
+					["offline"] = 97,
+					["range"] = 99,
+					["death"] = 98,
+				},
+				["border"] = {
+					["target"] = 50,
+					["health-low"] = 55,
+				},
+				["health-color"] = {
+					["classcolor"] = 99,
+				},
+				["health"] = {
+					["health-current"] = 99,
+				},
+				["text-up-color"] = {
+					["charmed"] = 65,
+					["feign-death"] = 96,
+					["health-deficit"] = 50,
+					["offline"] = 93,
+					["death"] = 95,
+					["vehicle"] = 70,
+				},
+				["text-up"] = {
+					["charmed"] = 65,
+					["feign-death"] = 96,
+					["health-deficit"] = 50,
+					["offline"] = 93,
+					["death"] = 95,
+					["vehicle"] = 70,
+				},
+				["text-down-color"] = {
+					["classcolor"] = 99,
+				},
+				["corner-bottom-left"] = {
+					["threat"] = 99,
+				},
+				["icon-center"] = {
+					["ready-check"] = 150,
+					["raid-debuffs"] = 155,
+					["death"] = 155,
+				},
 			},
 		},
 	},

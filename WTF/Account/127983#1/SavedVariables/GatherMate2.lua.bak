@@ -4,6 +4,7 @@ GatherMate2DB = {
 		["data_version"] = 5,
 	},
 	["profileKeys"] = {
+		["Twiddlederr - Kel'Thuzad"] = "Default",
 		["Twiddlederr - Anvilmar"] = "Default",
 	},
 	["profiles"] = {
@@ -21,8 +22,8 @@ GatherMate2MineDB = {
 		[4825656100] = 267,
 		[5313547800] = 267,
 		[4072512700] = 266,
-		[4807628500] = 267,
 		[6420481400] = 267,
+		[4807628500] = 267,
 	},
 	[896] = {
 		[5382349800] = 265,
