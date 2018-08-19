@@ -9,10 +9,19 @@ Gladius2DB = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
 			["y"] = {
-				["arena1"] = 642.133348882198,
+				["arena1"] = 536.177703955436,
 			},
 			["x"] = {
-				["arena1"] = 897.422330758309,
+				["arena1"] = 880.355837289499,
+			},
+			["announcements"] = {
+				["dispell"] = true,
+				["trinket"] = true,
+			},
+			["tagsTexts"] = {
+				["HealthBar Left Text"] = {
+					["text"] = "[name:status] [maxhealth]",
+				},
 			},
 		},
 		["Twiddlederr - Anvilmar"] = {

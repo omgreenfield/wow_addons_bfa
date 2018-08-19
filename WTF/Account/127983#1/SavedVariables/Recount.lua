@@ -8,12 +8,13 @@ RecountDB = {
 		["Twiddlederr - Kel'Thuzad"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -197.999816894531,
-					["x"] = 446.500122070313,
-					["w"] = 247,
-					["h"] = 226.000106811523,
+					["y"] = -224.999908447266,
+					["x"] = 500.000122070313,
+					["w"] = 202.000213623047,
+					["h"] = 210.000091552734,
 				},
 			},
+			["MainWindowMode"] = 2,
 			["MainWindowHeight"] = 225.999984741211,
 			["Colors"] = {
 				["Bar"] = {
@@ -25,8 +26,8 @@ RecountDB = {
 					},
 				},
 			},
-			["MainWindowVis"] = false,
-			["CurDataSet"] = "OverallData",
+			["LastInstanceName"] = "The Battle for Gilneas",
+			["CurDataSet"] = "LastFightData",
 			["MainWindowWidth"] = 247,
 		},
 		["Twiddlederr - Anvilmar"] = {
@@ -39,8 +40,8 @@ RecountDB = {
 				},
 			},
 			["MainWindowMode"] = 2,
-			["MainWindowHeight"] = 209.999984741211,
 			["LastInstanceName"] = "Silvershard Mines",
+			["MainWindowHeight"] = 209.999984741211,
 			["CurDataSet"] = "LastFightData",
 			["MainWindowWidth"] = 201.999923706055,
 			["Colors"] = {

@@ -1,12 +1,19 @@
 
 Grid2DB = {
 	["namespaces"] = {
-		["Grid2AoeHeals"] = {
+		["LibDualSpec-1.0"] = {
 		},
 		["Grid2RaidDebuffs"] = {
 		},
 		["Grid2Layout"] = {
 			["profiles"] = {
+				["Twiddlederr - Kel'Thuzad"] = {
+					["minimapIcon"] = {
+						["minimapPos"] = 200.854525461809,
+					},
+					["PosY"] = -180.620750901398,
+					["PosX"] = 112.444436316523,
+				},
 				["Twiddlederr - Anvilmar"] = {
 					["minimapIcon"] = {
 						["minimapPos"] = 160.34621628808,
@@ -16,13 +23,13 @@ Grid2DB = {
 				},
 			},
 		},
-		["LibDualSpec-1.0"] = {
+		["Grid2AoeHeals"] = {
 		},
 		["Grid2Options"] = {
 		},
-		["Grid2Utils"] = {
-		},
 		["Grid2Frame"] = {
+		},
+		["Grid2Utils"] = {
 		},
 	},
 	["profileKeys"] = {
@@ -198,15 +205,6 @@ Grid2DB = {
 					["target"] = 50,
 					["health-low"] = 55,
 				},
-				["corner-bottom-left"] = {
-					["threat"] = 99,
-				},
-				["health"] = {
-					["health-current"] = 99,
-				},
-				["text-down-color"] = {
-					["classcolor"] = 99,
-				},
 				["text-up"] = {
 					["charmed"] = 65,
 					["feign-death"] = 96,
@@ -214,6 +212,15 @@ Grid2DB = {
 					["offline"] = 93,
 					["vehicle"] = 70,
 					["death"] = 95,
+				},
+				["health"] = {
+					["health-current"] = 99,
+				},
+				["text-down-color"] = {
+					["classcolor"] = 99,
+				},
+				["corner-bottom-left"] = {
+					["threat"] = 99,
 				},
 				["text-up-color"] = {
 					["charmed"] = 65,
@@ -409,15 +416,6 @@ Grid2DB = {
 					["target"] = 50,
 					["health-low"] = 55,
 				},
-				["corner-bottom-left"] = {
-					["threat"] = 99,
-				},
-				["health"] = {
-					["health-current"] = 99,
-				},
-				["text-down-color"] = {
-					["classcolor"] = 99,
-				},
 				["text-up"] = {
 					["charmed"] = 65,
 					["feign-death"] = 96,
@@ -425,6 +423,15 @@ Grid2DB = {
 					["offline"] = 93,
 					["vehicle"] = 70,
 					["death"] = 95,
+				},
+				["health"] = {
+					["health-current"] = 99,
+				},
+				["text-down-color"] = {
+					["classcolor"] = 99,
+				},
+				["corner-bottom-left"] = {
+					["threat"] = 99,
 				},
 				["text-up-color"] = {
 					["charmed"] = 65,

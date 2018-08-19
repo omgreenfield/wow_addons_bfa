@@ -40,15 +40,15 @@ Bagnon_Sets = {
 			},
 			["hiddenRules"] = {
 			},
-			["y"] = 100,
-			["x"] = -50.0001220703125,
+			["y"] = 175.000106811523,
+			["x"] = -82.9998779296875,
 			["brokerObject"] = "BagnonLauncher",
-			["borderColor"] = {
-			},
+			["showBags"] = true,
 			["itemScale"] = 1,
 			["scale"] = 1,
 			["alpha"] = 1,
-			["showBags"] = true,
+			["borderColor"] = {
+			},
 		},
 		["vault"] = {
 			["rules"] = {
@@ -153,7 +153,7 @@ Bagnon_Sets = {
 			},
 			["hiddenRules"] = {
 			},
-			["y"] = -295.499145507813,
+			["y"] = -295.499084472656,
 			["x"] = 95.0000076293945,
 			["borderColor"] = {
 			},

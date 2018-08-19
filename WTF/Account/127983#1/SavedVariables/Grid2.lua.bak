@@ -1,12 +1,19 @@
 
 Grid2DB = {
 	["namespaces"] = {
-		["Grid2Utils"] = {
-		},
 		["Grid2Frame"] = {
+		},
+		["Grid2Utils"] = {
 		},
 		["Grid2Layout"] = {
 			["profiles"] = {
+				["Twiddlederr - Kel'Thuzad"] = {
+					["minimapIcon"] = {
+						["minimapPos"] = 200.854525461809,
+					},
+					["PosY"] = -180.620750901398,
+					["PosX"] = 112.444436316523,
+				},
 				["Twiddlederr - Anvilmar"] = {
 					["minimapIcon"] = {
 						["minimapPos"] = 160.34621628808,
@@ -16,13 +23,13 @@ Grid2DB = {
 				},
 			},
 		},
-		["LibDualSpec-1.0"] = {
+		["Grid2AoeHeals"] = {
 		},
 		["Grid2Options"] = {
 		},
 		["Grid2RaidDebuffs"] = {
 		},
-		["Grid2AoeHeals"] = {
+		["LibDualSpec-1.0"] = {
 		},
 	},
 	["profileKeys"] = {
@@ -212,6 +219,12 @@ Grid2DB = {
 					["death"] = 95,
 					["vehicle"] = 70,
 				},
+				["corner-bottom-left"] = {
+					["threat"] = 99,
+				},
+				["text-down-color"] = {
+					["classcolor"] = 99,
+				},
 				["text-up"] = {
 					["charmed"] = 65,
 					["feign-death"] = 96,
@@ -219,12 +232,6 @@ Grid2DB = {
 					["offline"] = 93,
 					["death"] = 95,
 					["vehicle"] = 70,
-				},
-				["text-down-color"] = {
-					["classcolor"] = 99,
-				},
-				["corner-bottom-left"] = {
-					["threat"] = 99,
 				},
 				["icon-center"] = {
 					["ready-check"] = 150,
@@ -423,6 +430,12 @@ Grid2DB = {
 					["death"] = 95,
 					["vehicle"] = 70,
 				},
+				["corner-bottom-left"] = {
+					["threat"] = 99,
+				},
+				["text-down-color"] = {
+					["classcolor"] = 99,
+				},
 				["text-up"] = {
 					["charmed"] = 65,
 					["feign-death"] = 96,
@@ -430,12 +443,6 @@ Grid2DB = {
 					["offline"] = 93,
 					["death"] = 95,
 					["vehicle"] = 70,
-				},
-				["text-down-color"] = {
-					["classcolor"] = 99,
-				},
-				["corner-bottom-left"] = {
-					["threat"] = 99,
 				},
 				["icon-center"] = {
 					["ready-check"] = 150,

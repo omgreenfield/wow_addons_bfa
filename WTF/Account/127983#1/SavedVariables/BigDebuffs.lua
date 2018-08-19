@@ -5,7 +5,7 @@ BigDebuffsDB = {
 		},
 	},
 	["profileKeys"] = {
-		["Twiddlederr - Kel'Thuzad"] = "Default",
+		["Twiddlederr - Kel'Thuzad"] = "Twiddlederr - Kel'Thuzad",
 		["Twiddlederr - Anvilmar"] = "Default",
 	},
 	["profiles"] = {
@@ -14,6 +14,8 @@ BigDebuffsDB = {
 				["arena1"] = {
 				},
 			},
+		},
+		["Twiddlederr - Kel'Thuzad"] = {
 		},
 	},
 }

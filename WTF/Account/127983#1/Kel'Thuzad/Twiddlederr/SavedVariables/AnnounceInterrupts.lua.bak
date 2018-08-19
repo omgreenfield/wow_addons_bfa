@@ -1,6 +1,6 @@
 
 AnnounceInterruptsDB = {
-	["enabled"] = true,
+	["enabled"] = false,
 	["inArena"] = true,
 	["inRaid"] = true,
 	["channelExtra"] = "",
