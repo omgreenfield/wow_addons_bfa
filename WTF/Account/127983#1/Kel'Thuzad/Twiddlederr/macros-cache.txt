@@ -3,6 +3,10 @@ VER 3 010000000000000D "CC MO" "1380368"
 /cast [@mouseover,exists] Imprison;
 /cast Imprisont;
 END
+VER 3 0100000000000010 "CC Opie" "1380368"
+#showtooltip Imprison
+/click ORLOpen Imprison;
+END
 VER 3 0100000000000004 "CC1" "ABILITY_DEMONHUNTER_IMPRISON"
 /cast [@arena1,exists] Imprison;
 /cast Imprison;
@@ -35,6 +39,10 @@ VER 3 0100000000000007 "D MO" "ABILITY_DEMONHUNTER_CONSUMEMAGIC"
 /cast [@mouseover,exists] Disrupt;
 /cast Disrupt;
 END
+VER 3 010000000000000F "I OPie" "1305153"
+#showtooltip Disrupt
+/click ORLOpen Disrupt;
+END
 VER 3 0100000000000001 "Interrupt1" "ABILITY_DEMONHUNTER_CONSUMEMAGIC"
 /cast [@arena1,exists] Disrupt;
 /cast Disrupt;
@@ -51,6 +59,10 @@ VER 3 010000000000000E "P MO" "828455"
 #showtooltip Consume Magic
 /cast [@mouseover,exists] Consume Magic;
 /cast Consume Magic;
+END
+VER 3 0100000000000011 "P Opie" "828455"
+#showtooltip Consume Magic
+/click ORLOpen nsumeMagic;
 END
 VER 3 0100000000000009 "travel ring" "ACHIEVEMENT_GUILDPERK_HASTYHEARTH"
 /click ORLOpen travel

@@ -10,6 +10,9 @@ VER 3 0000000000000032 "BearThenFrenzy" "ABILITY_BULLRUSH"
 /cast [nostance:1] Bear Form;
 /cast [stance:1] Frenzied Regeneration
 END
+VER 3 0000000000000038 "BGOpie" "1322720"
+/click ORLOpen BGs
+END
 VER 3 0000000000000035 "CatThenMaim" "ABILITY_DRUID_MANGLE.TGA"
 #showtooltip;
 /cast [nostance:2] Cat Form;;
@@ -33,11 +36,20 @@ END
 VER 3 0000000000000027 "HealerProfRing" "INV_MISC_QUESTIONMARK"
 /click ORLOpen rofessions
 END
+VER 3 0000000000000039 "IE Opie" "2203916"
+/click ORLOpen IslandExp
+END
 VER 3 0000000000000013 "Imprison" "ABILITY_DEMONHUNTER_IMPRISON"
 /cast [nomod,@target] [mod:shift,@arena1] [mod:alt,@arena2] [mod:ctrl,@arena3] Imprison;
 END
+VER 3 0000000000000037 "Mark A1" "134399"
+/run SetRaidTarget("party1",3)
+END
 VER 3 0000000000000023 "Market OPie" "INV_HELMET_21"
 /click ORLOpen RaidSymbols
+END
+VER 3 000000000000003A "Mnt OPIE" "132265"
+/click ORLOpen Mounts
 END
 VER 3 000000000000002F "MoonOrSwift" "SPELL_NATURE_STARFALL"
 #showtooltip
@@ -89,10 +101,4 @@ VER 3 0000000000000036 "TravelPie" "413582"
 END
 VER 3 0000000000000024 "WorldMarkRing" "656166"
 /click ORLOpen WorldMarkers
-END
-VER 3 000000000000000E "zoomFactor" "INV_MISC_QUESTIONMARK"
-/console MaxCameraDistanceFactor 4
-END
-VER 3 000000000000000D "zoomOut" "INV_MISC_QUESTIONMARK"
-/console cameraDistanceMax 50
 END

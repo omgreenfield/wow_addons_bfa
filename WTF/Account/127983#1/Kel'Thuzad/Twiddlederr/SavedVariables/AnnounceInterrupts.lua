@@ -1,6 +1,6 @@
 
 AnnounceInterruptsDB = {
-	["enabled"] = false,
+	["enabled"] = true,
 	["inArena"] = true,
 	["inRaid"] = true,
 	["channelExtra"] = "",
@@ -9,8 +9,8 @@ AnnounceInterruptsDB = {
 	["message"] = "Interrupted %sl on %t",
 	["outdoors"] = true,
 	["channel"] = "SAY",
-	["inScenario"] = true,
+	["includePets"] = true,
 	["smartChannel"] = false,
 	["printedOnce"] = true,
-	["includePets"] = true,
+	["inScenario"] = true,
 }

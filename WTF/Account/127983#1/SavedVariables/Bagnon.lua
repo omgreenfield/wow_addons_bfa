@@ -40,13 +40,13 @@ Bagnon_Sets = {
 			},
 			["hiddenRules"] = {
 			},
-			["y"] = 175.000106811523,
+			["y"] = 139.000778198242,
 			["x"] = -82.9998779296875,
-			["brokerObject"] = "BagnonLauncher",
-			["showBags"] = true,
-			["itemScale"] = 1,
-			["scale"] = 1,
 			["alpha"] = 1,
+			["showBags"] = true,
+			["scale"] = 1,
+			["itemScale"] = 1,
+			["brokerObject"] = "BagnonLauncher",
 			["borderColor"] = {
 			},
 		},
@@ -85,6 +85,7 @@ Bagnon_Sets = {
 			},
 		},
 		["guild"] = {
+			["y"] = 355.499908447266,
 			["rules"] = {
 				"all", -- [1]
 				"all/all", -- [2]
@@ -108,11 +109,16 @@ Bagnon_Sets = {
 				"trade/recipe", -- [20]
 				"quest", -- [21]
 				"misc", -- [22]
+				"quest/all", -- [23]
+				"contain/all", -- [24]
+				"misc/all", -- [25]
 			},
+			["point"] = "BOTTOMLEFT",
 			["hiddenBags"] = {
 			},
 			["color"] = {
 			},
+			["x"] = 679.999938964844,
 			["hiddenRules"] = {
 			},
 			["borderColor"] = {
@@ -146,18 +152,19 @@ Bagnon_Sets = {
 				"contain/all", -- [24]
 				"misc/all", -- [25]
 			},
-			["point"] = "TOPLEFT",
+			["point"] = "BOTTOMLEFT",
 			["hiddenBags"] = {
 			},
 			["color"] = {
 			},
 			["hiddenRules"] = {
 			},
-			["y"] = -295.499084472656,
+			["y"] = 259.500732421875,
 			["x"] = 95.0000076293945,
 			["borderColor"] = {
 			},
 			["brokerObject"] = "BagnonLauncher",
+			["showBags"] = true,
 		},
 	},
 	["engineerColor"] = {
@@ -170,14 +177,14 @@ Bagnon_Sets = {
 	},
 	["inscribeColor"] = {
 	},
-	["tackleColor"] = {
-	},
-	["leatherColor"] = {
-	},
-	["herbColor"] = {
+	["enchantColor"] = {
 	},
 	["normalColor"] = {
 	},
-	["enchantColor"] = {
+	["herbColor"] = {
+	},
+	["leatherColor"] = {
+	},
+	["tackleColor"] = {
 	},
 }

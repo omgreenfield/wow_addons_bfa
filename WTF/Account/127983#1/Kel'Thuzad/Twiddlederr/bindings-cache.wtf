@@ -149,3 +149,4 @@ bind ALT-F3 CLICK BT4Button33:LeftButton
 bind ALT-SHIFT-F1 CLICK BT4Button34:LeftButton
 bind ALT-SHIFT-F2 CLICK BT4Button35:LeftButton
 bind ALT-SHIFT-F3 CLICK BT4Button36:LeftButton
+bind ALT-CTRL-SHIFT-M TOGGLESOUND
