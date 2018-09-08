@@ -8,14 +8,14 @@ Gladius2DB = {
 	},
 	["profiles"] = {
 		["Twiddlederr - Kel'Thuzad"] = {
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
 			["y"] = {
-				["arena1"] = 611.555353350104,
+				["arena1"] = 691.199886528648,
 			},
 			["x"] = {
-				["arena1"] = 999.822593654535,
+				["arena1"] = 975.644902096865,
 			},
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
 			["announcements"] = {
 				["dispell"] = true,
 				["trinket"] = true,
@@ -35,35 +35,35 @@ Gladius2DB = {
 			},
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
+			["announcements"] = {
+				["dispell"] = true,
+				["trinket"] = true,
+			},
 			["tagsTexts"] = {
 				["HealthBar Left Text"] = {
 					["text"] = "[name:status] [maxhealth]",
 				},
 			},
-			["announcements"] = {
-				["dispell"] = true,
-				["trinket"] = true,
-			},
 		},
 		["Suhdrude - Anvilmar"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 985.600110671257,
-			},
 			["y"] = {
 				["arena1"] = 580.266724120247,
 			},
+			["x"] = {
+				["arena1"] = 985.600110671257,
+			},
 		},
 		["Fistbeavers - Kel'Thuzad"] = {
+			["tagsVersion"] = 4,
+			["locked"] = true,
 			["y"] = {
 				["arena1"] = 648.533392439949,
 			},
 			["x"] = {
 				["arena1"] = 974.933270135189,
 			},
-			["locked"] = true,
-			["tagsVersion"] = 4,
 			["auraVersion"] = 1,
 		},
 	},

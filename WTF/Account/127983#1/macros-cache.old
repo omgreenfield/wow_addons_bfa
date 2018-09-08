@@ -1,3 +1,6 @@
+VER 3 000000000000003C "B OPIE" "135926"
+/click ORLOpen Buffs
+END
 VER 3 0000000000000034 "BashOrOvergrowth" "ABILITY_DRUID_BASH"
 #showtooltip
 /cast [@target, help] Overgrowth;
@@ -30,6 +33,9 @@ END
 VER 3 0000000000000029 "DisableRBTarget2" "INV_MISC_QUESTIONMARK"
 /run local f=CreateFrame("frame",nil,nil,"SecureHandlerStateTemplate")RegisterStateDriver(f,"mov","[@mouseover,exists]1;0")f:SetAttribute("_onstate-mov","if newstate==1 then self:SetBindingClick(1,'BUTTON2','mlook')else self:ClearBindings()end")
 END
+VER 3 000000000000003B "FishOpie" "134017"
+/click ORLOpen Fishing
+END
 VER 3 0000000000000026 "giftpie" "INV_MACE_1H_ARTIFACTAZSHARA_D_02"
 /click ORLOpen GiftorRain
 END
@@ -47,6 +53,9 @@ VER 3 0000000000000037 "Mark A1" "134399"
 END
 VER 3 0000000000000023 "Market OPie" "INV_HELMET_21"
 /click ORLOpen RaidSymbols
+END
+VER 3 000000000000003A "Mnt OPIE" "132265"
+/click ORLOpen Mounts
 END
 VER 3 000000000000002F "MoonOrSwift" "SPELL_NATURE_STARFALL"
 #showtooltip

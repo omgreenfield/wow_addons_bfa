@@ -736,12 +736,12 @@ Bartender4DB = {
 	},
 	["profiles"] = {
 		["Twiddlederr - Kel'Thuzad"] = {
-			["focuscastmodifier"] = false,
+			["snapping"] = false,
 			["minimapIcon"] = {
 				["minimapPos"] = 187.199265012558,
 			},
 			["blizzardVehicle"] = true,
-			["snapping"] = false,
+			["focuscastmodifier"] = false,
 			["outofrange"] = "hotkey",
 		},
 		["Twiddlederr - Anvilmar"] = {
@@ -760,8 +760,8 @@ Bartender4DB = {
 		},
 		["Fistbeavers - Kel'Thuzad"] = {
 			["blizzardVehicle"] = true,
-			["focuscastmodifier"] = false,
 			["snapping"] = false,
+			["focuscastmodifier"] = false,
 			["minimapIcon"] = {
 				["minimapPos"] = 187.199265012558,
 			},

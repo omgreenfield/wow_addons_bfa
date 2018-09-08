@@ -10,15 +10,15 @@ RecountDB = {
 		["Twiddlederr - Kel'Thuzad"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -235.999816894531,
-					["x"] = 486.000122070312,
+					["y"] = -214.999755859375,
+					["x"] = 488.999755859375,
 					["w"] = 201.999923706055,
-					["h"] = 209.999984741211,
+					["h"] = 210,
 				},
 			},
 			["MainWindowMode"] = 2,
-			["LastInstanceName"] = "Siege of Boralus",
-			["CurDataSet"] = "LastFightData",
+			["LastInstanceName"] = "Ashamane's Fall",
+			["CurDataSet"] = "OverallData",
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -54,10 +54,10 @@ RecountDB = {
 					},
 				},
 			},
-			["LastInstanceName"] = "Silvershard Mines",
+			["MainWindowHeight"] = 209.999984741211,
 			["CurDataSet"] = "LastFightData",
 			["MainWindowWidth"] = 201.999923706055,
-			["MainWindowHeight"] = 209.999984741211,
+			["LastInstanceName"] = "Silvershard Mines",
 		},
 		["Suhdrude - Anvilmar"] = {
 			["MainWindow"] = {
@@ -82,14 +82,13 @@ RecountDB = {
 		["Fistbeavers - Kel'Thuzad"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -215.999633789062,
-					["x"] = 420.499877929688,
+					["y"] = -255,
+					["x"] = 515.000122070313,
 					["w"] = 211,
 					["h"] = 207,
 				},
 			},
 			["MainWindowMode"] = 2,
-			["MainWindowHeight"] = 207.000076293945,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -103,6 +102,7 @@ RecountDB = {
 			["LastInstanceName"] = "Lordaeron",
 			["CurDataSet"] = "CurrentFightData",
 			["MainWindowWidth"] = 211,
+			["MainWindowHeight"] = 207.000076293945,
 		},
 	},
 }

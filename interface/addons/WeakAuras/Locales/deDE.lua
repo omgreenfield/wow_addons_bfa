@@ -10,7 +10,6 @@ L["   • %d auras deleted"] = "   • %d Auren gelöscht"
 L["   • %d auras modified"] = "   • %d Auren modifiziert"
 L["!="] = "!= (Ungleich)"
 L["%s - %i. Trigger"] = "%s - %i. Auslöser"
-L["%s - 1. Trigger"] = "%s - 1. Auslöser"
 L["%s - Alpha Animation"] = "%s - Transparenz der Animation"
 L["%s - Color Animation"] = "%s - Farbe der Animation"
 --[[Translation missing --]]
@@ -54,6 +53,8 @@ L["20 Man Raid"] = "20-Mann-Schlachtzug"
 L["25 Man Raid"] = "25-Mann-Schlachtzug"
 L["40 Man Raid"] = "40-Mann-Schlachtzug"
 L["5 Man Dungeon"] = "5-Mann-Dungeon"
+--[[Translation missing --]]
+L["A WeakAura just tried to use a forbidden function but has been blocked from doing so. Please check your auras!"] = "A WeakAura just tried to use a forbidden function but has been blocked from doing so. Please check your auras!"
 L["Absorb"] = "Absorbieren"
 L["Absorb Display"] = "Absorbanzeige"
 L["Absorbed"] = "Absorbiert"
@@ -336,8 +337,7 @@ L["Import as Update"] = "Als Update importieren"
 L["Import disabled"] = "Import disabled"
 --[[Translation missing --]]
 L["Import Group"] = "Import Group"
---[[Translation missing --]]
-L["Import in progress"] = "Import in progress"
+L["Import in progress"] = "Import im Gange"
 --[[Translation missing --]]
 L["Importing is disabled while in combat"] = "Importing is disabled while in combat"
 L["In Combat"] = "im Kampf"

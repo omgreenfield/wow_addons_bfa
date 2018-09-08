@@ -15,21 +15,14 @@ local function IsRegionAGroup(data)
 end
 
 local ignoreForCopyingDisplay = {
-  trigger = true,
-  untrigger = true,
+  triggers = true,
   conditions = true,
   load = true,
   actions = true,
   animation = true,
   id = true,
   parent = true,
-  activeTriggerMode = true,
-  numTriggers = true,
   controlledChildren = true,
-  customTriggerLogic = true,
-  disjunctive = true,
-  additional_triggers = true,
-  disjunctive = true,
   uid = true,
 }
 
@@ -47,20 +40,8 @@ local function copyAuraPart(source, destination, part)
     end
   end
   if (part == "trigger" or all) and not IsRegionAGroup(source) then
-    destination.trigger = {};
-    WeakAuras.DeepCopy(source.trigger, destination.trigger);
-    if (source.additional_triggers) then
-      destination.additional_triggers = {};
-      WeakAuras.DeepCopy(source.additional_triggers, destination.additional_triggers);
-    else
-      destination.additional_triggers = nil;
-    end
-    destination.untrigger = {};
-    WeakAuras.DeepCopy(source.untrigger, destination.untrigger);
-    destination.activeTriggerMode = source.activeTriggerMode;
-    destination.numTriggers = source.numTriggers;
-    destination.customTriggerLogic = source.customTriggerLogic;
-    destination.disjunctive = source.disjunctive;
+    destination.triggers = {};
+    WeakAuras.DeepCopy(source.triggers, destination.triggers);
   end
   if (part == "condition" or all) and not IsRegionAGroup(source) then
     destination.conditions = {};
@@ -114,9 +95,8 @@ clipboard.copyEverythingEntry = {
   text = L["Everything"],
   notCheckable = true,
   func = function()
+    WeakAuras_DropDownMenu:Hide();
     CopyToClipboard("all", L["Paste Settings"])
-    WeakAuras_DropDownMenu:Hide();
-    WeakAuras_DropDownMenu:Hide();
   end
 };
 
@@ -124,9 +104,8 @@ clipboard.copyGroupEntry = {
   text = L["Group"],
   notCheckable = true,
   func = function()
+    WeakAuras_DropDownMenu:Hide();
     CopyToClipboard("display", L["Paste Group Settings"])
-    WeakAuras_DropDownMenu:Hide();
-    WeakAuras_DropDownMenu:Hide();
   end
 };
 
@@ -134,9 +113,8 @@ clipboard.copyDisplayEntry = {
   text = L["Display"],
   notCheckable = true,
   func = function()
+    WeakAuras_DropDownMenu:Hide();
     CopyToClipboard("display", L["Paste Display Settings"])
-    WeakAuras_DropDownMenu:Hide();
-    WeakAuras_DropDownMenu:Hide();
   end
 };
 
@@ -144,9 +122,8 @@ clipboard.copyTriggerEntry = {
   text = L["Trigger"],
   notCheckable = true,
   func = function()
+    WeakAuras_DropDownMenu:Hide();
     CopyToClipboard("trigger", L["Paste Trigger Settings"])
-    WeakAuras_DropDownMenu:Hide();
-    WeakAuras_DropDownMenu:Hide();
   end
 };
 
@@ -154,9 +131,8 @@ clipboard.copyConditionsEntry = {
   text = L["Conditions"],
   notCheckable = true,
   func = function()
+    WeakAuras_DropDownMenu:Hide();
     CopyToClipboard("condition", L["Paste Condition Settings"])
-    WeakAuras_DropDownMenu:Hide();
-    WeakAuras_DropDownMenu:Hide();
   end
 };
 
@@ -164,9 +140,8 @@ clipboard.copyLoadEntry = {
   text = L["Load"],
   notCheckable = true,
   func = function()
+    WeakAuras_DropDownMenu:Hide();
     CopyToClipboard("load", L["Paste Load Settings"])
-    WeakAuras_DropDownMenu:Hide();
-    WeakAuras_DropDownMenu:Hide();
   end
 };
 
@@ -174,9 +149,8 @@ clipboard.copyActionsEntry = {
   text = L["Actions"],
   notCheckable = true,
   func = function()
+    WeakAuras_DropDownMenu:Hide();
     CopyToClipboard("action", L["Paste Action Settings"])
-    WeakAuras_DropDownMenu:Hide();
-    WeakAuras_DropDownMenu:Hide();
   end
 };
 
@@ -184,9 +158,8 @@ clipboard.copyAnimationsEntry = {
   text = L["Animations"],
   notCheckable = true,
   func = function()
+    WeakAuras_DropDownMenu:Hide();
     CopyToClipboard("animation", L["Paste Animations Settings"])
-    WeakAuras_DropDownMenu:Hide();
-    WeakAuras_DropDownMenu:Hide();
   end
 };
 
@@ -980,13 +953,8 @@ local methods = {
         namestable[1] = L["No Children"];
       end
     else
-      for triggernum = 0, data.numTriggers or 9 do
-        local trigger;
-        if(triggernum == 0) then
-          trigger = data.trigger;
-        elseif(data.additional_triggers and data.additional_triggers[triggernum]) then
-          trigger = data.additional_triggers[triggernum].trigger;
-        end
+      for triggernum, triggerData in ipairs(data.triggers) do
+        local trigger = triggerData.trigger
         if(trigger) then
           if(trigger.type == "aura") then
             if(trigger.fullscan) then
@@ -1571,7 +1539,7 @@ local function Constructor()
   renamebox:SetPoint("TOP", button, "TOP");
   renamebox:SetPoint("LEFT", icon, "RIGHT", 6, 0);
   renamebox:SetPoint("RIGHT", button, "RIGHT", -4, 0);
-  renamebox:SetFont("Fonts\\FRIZQT__.TTF", 10);
+  renamebox:SetFont(STANDARD_TEXT_FONT, 10);
   renamebox:Hide();
 
   renamebox.func = function() --[[By default, do nothing!]] end;

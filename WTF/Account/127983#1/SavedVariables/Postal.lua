@@ -3,7 +3,7 @@ Postal3DB = {
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
-				"Fistbeavers|Kel'Thuzad|Alliance|112|MONK", -- [1]
+				"Fistbeavers|Kel'Thuzad|Alliance|117|MONK", -- [1]
 				"Suhdrude|Anvilmar|Alliance|110|DRUID", -- [2]
 				"Twiddlederr|Anvilmar|Alliance|120|DEMONHUNTER", -- [3]
 				"Twiddlederr|Kel'Thuzad|Alliance|120|DEMONHUNTER", -- [4]
@@ -29,6 +29,11 @@ Postal3DB = {
 		["Suhdrude - Anvilmar"] = {
 		},
 		["Fistbeavers - Kel'Thuzad"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Twiddlederr|Kel'Thuzad|Alliance", -- [1]
+				},
+			},
 		},
 	},
 }

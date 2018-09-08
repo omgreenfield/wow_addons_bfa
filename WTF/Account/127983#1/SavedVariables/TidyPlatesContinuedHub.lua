@@ -150,7 +150,7 @@ TidyPlatesContHubCache = {
 		["WidgetsMyBuff"] = false,
 		["ClassEnemyIcon"] = true,
 		["HeadlineFriendlyColor"] = 4,
-		["OpacitySpotlight"] = 0.849999964237213,
+		["OpacityFiltered"] = 0,
 		["OpacityTarget"] = 1,
 		["StyleFriendlyBarsInstanceMode"] = false,
 		["OpacityFilterList"] = "Fanged Pit Viper\nLiberated Karabor Prisoner",
@@ -277,7 +277,7 @@ TidyPlatesContHubCache = {
 		},
 		["ScaleCastingSpotlight"] = false,
 		["StyleFriendlyBarsOnNPC"] = false,
-		["OpacityFiltered"] = 0,
+		["OpacitySpotlight"] = 0.849999964237213,
 		["OpacityFilterMini"] = false,
 	},
 }

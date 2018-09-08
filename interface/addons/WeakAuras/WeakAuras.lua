@@ -1,4 +1,4 @@
-local internalVersion = 6;
+local internalVersion = 7;
 
 -- Lua APIs
 local tinsert, tconcat, tremove, tContains, wipe = table.insert, table.concat, table.remove, tContains, wipe
@@ -372,7 +372,7 @@ WeakAuras.ShowOverlayGlow = WeakAuras_ShowOverlayGlow;
 WeakAuras.HideOverlayGlow = WeakAuras_HideOverlayGlow;
 
 local function forbidden()
-  print("|cffffff00A WeakAura just tried to use a forbidden function but has been blocked from doing so. Please check your auras!|r")
+  prettyPrint(L["A WeakAura just tried to use a forbidden function but has been blocked from doing so. Please check your auras!"])
 end
 
 local blockedFunctions = {
@@ -381,6 +381,7 @@ local blockedFunctions = {
   setfenv = true,
   loadstring = true,
   pcall = true,
+  xpcall = true,
   -- blocked WoW API
   SendMail = true,
   SetTradeMoney = true,
@@ -482,7 +483,7 @@ function WeakAuras.LoadFunction(string, id, inTrigger)
   if function_cache[string] then
     return function_cache[string]
   else
-    local loadedFunction, errorString = loadstring("--[[ Error in ' ".. (id or "Unknown") .. (inTrigger and ("':'".. inTrigger) or "") .."' ]]" .. string)
+    local loadedFunction, errorString = loadstring("--[[ Error in '" .. (id or "Unknown") .. (inTrigger and ("':'".. inTrigger) or "") .."' ]] " .. string)
     if errorString then
       print(errorString)
     else
@@ -738,64 +739,110 @@ function WeakAuras.scheduleConditionCheck(time, id, cloneId)
   end
 end
 
-local function CreateCheckCondition(ret, condition, conditionNumber, allConditionsTemplate, debug)
-  local trigger = condition.check and condition.check.trigger;
-  local variable = condition.check and condition.check.variable;
-  local op = condition.check and condition.check.op;
-  local value = condition.check and condition.check.value;
+WeakAuras.customConditionTestFunctions = {};
+
+local function CreateTestForCondition(input, allConditionsTemplate, usedStates)
+  local trigger = input and input.trigger;
+  local variable = input and input.variable;
+  local op = input and input.op;
+  local value = input and input.value;
+
+  local check = nil;
+  local recheckCode = nil;
+
+  if (variable == "AND" or variable == "OR") then
+    local test = {};
+    if (input.checks) then
+      for i, subcheck in ipairs(input.checks) do
+        local subtest, subrecheckCode = CreateTestForCondition(subcheck, allConditionsTemplate, usedStates);
+        if (subtest) then
+          tinsert(test, "(" .. subtest .. ")");
+        end
+        if (subrecheckCode) then
+          recheckCode = recheckCode or "";
+          recheckCode = recheckCode .. subrecheckCode;
+        end
+      end
+    end
+    if (next(test)) then
+      if (variable == "AND") then
+        check = tconcat(test, " and ");
+      else
+        check = tconcat(test, " or ");
+      end
+    end
+  end
+
   if (trigger and variable and value) then
+    usedStates[trigger] = true;
+
     local conditionTemplate = allConditionsTemplate[trigger] and allConditionsTemplate[trigger][variable];
-    local type = conditionTemplate and conditionTemplate.type;
+    local ctype = conditionTemplate and conditionTemplate.type;
     local test = conditionTemplate and conditionTemplate.test;
 
-    local check = nil;
-    local stateCheck = "state and state.show and ";
-    local stateVariableCheck = "state." .. variable .. "~= nil and ";
+    local stateCheck = "state[" .. trigger .. "] and state[" .. trigger .. "].show and ";
+    local stateVariableCheck = "state[" .. trigger .. "]." .. variable .. "~= nil and ";
     if (test) then
       if (value) then
-        check = string.format(test, value, op or "");
+        tinsert(WeakAuras.customConditionTestFunctions, test);
+        local testFunctionNumber = #(WeakAuras.customConditionTestFunctions);
+        local valueString = type(value) == "string" and "[[" .. value .. "]]" or value;
+        local opString = type(op) == "string" and  "[[" .. op .. "]]" or op;
+        check = "state and WeakAuras.customConditionTestFunctions[" .. testFunctionNumber .. "](state[" .. trigger .. "], " .. valueString .. ", " .. (opString or "nil") .. ")";
       end
-    elseif (type == "number" and op) then
-      check = stateCheck .. stateVariableCheck .. "state." .. variable .. op .. value;
-    elseif (type == "timer" and op) then
+    elseif (ctype == "number" and op) then
+      check = stateCheck .. stateVariableCheck .. "state[" .. trigger .. "]." .. variable .. op .. value;
+    elseif (ctype == "timer" and op) then
       if (op == "==") then
-        check = stateCheck .. stateVariableCheck .. "abs(state." ..variable .. "- now -" .. value .. ") < 0.05";
+        check = stateCheck .. stateVariableCheck .. "abs(state[" .. trigger .. "]." ..variable .. "- now -" .. value .. ") < 0.05";
       else
-        check = stateCheck .. stateVariableCheck .. "state." .. variable .. "- now" .. op .. value;
+        check = stateCheck .. stateVariableCheck .. "state[" .. trigger .. "]." .. variable .. "- now" .. op .. value;
       end
-    elseif (type == "select" and op) then
+    elseif (ctype == "select" and op) then
       if (tonumber(value)) then
-        check = stateCheck .. stateVariableCheck .. "state." .. variable .. op .. tonumber(value);
+        check = stateCheck .. stateVariableCheck .. "state[" .. trigger .. "]." .. variable .. op .. tonumber(value);
       else
-        check = stateCheck .. stateVariableCheck .. "state." .. variable .. op .. "'" .. value .. "'";
+        check = stateCheck .. stateVariableCheck .. "state[" .. trigger .. "]." .. variable .. op .. "'" .. value .. "'";
       end
-    elseif (type == "bool") then
+    elseif (ctype == "bool") then
       local rightSide = value == 0 and "false" or "true";
-      check = stateCheck .. stateVariableCheck .. "state." .. variable .. "==" .. rightSide
-    elseif (type == "string") then
+      check = stateCheck .. stateVariableCheck .. "state[" .. trigger .. "]." .. variable .. "==" .. rightSide
+    elseif (ctype == "string") then
       if(op == "==") then
-        check = stateCheck .. stateVariableCheck .. "state." .. variable .. " == [[" .. value .. "]]";
+        check = stateCheck .. stateVariableCheck .. "state[" .. trigger .. "]." .. variable .. " == [[" .. value .. "]]";
       elseif (op  == "find('%s')") then
-        check = stateCheck .. stateVariableCheck .. "state." .. variable .. ":find([[" .. value .. "]], 1, true)";
+        check = stateCheck .. stateVariableCheck .. "state[" .. trigger .. "]." .. variable .. ":find([[" .. value .. "]], 1, true)";
       elseif (op == "match('%s')") then
-        check = stateCheck .. stateVariableCheck .. "state." ..  variable .. ":match([[" .. value .. "]], 1, true)";
+        check = stateCheck .. stateVariableCheck .. "state[" .. trigger .. "]." ..  variable .. ":match([[" .. value .. "]], 1, true)";
       end
     end
 
-    if (check) then
-      ret = ret .. "  allStates = WeakAuras.GetTriggerStateForTrigger(id, " .. trigger .. ")\n";
-      ret = ret .. "  state = allStates[cloneId] or allStates['']\n";
-      ret = ret .. "  if (" .. check .. ") then\n";
-      ret = ret .. "    newActiveConditions[" .. conditionNumber .. "] = true;\n";
-      ret = ret .. "  end\n";
+    if (ctype == "timer" and value) then
+      recheckCode = "  nextTime = state[" .. trigger .. "] and state[" .. trigger .. "]." .. variable .. " and (state[" .. trigger .. "]." .. variable .. " -" .. value .. ")\n";
+      recheckCode = recheckCode .. "  if (nextTime and (not recheckTime or nextTime < recheckTime) and nextTime >= now) then\n"
+      recheckCode = recheckCode .. "    recheckTime = nextTime\n";
+      recheckCode = recheckCode .. "  end\n"
     end
+  end
+  return check, recheckCode;
+end
 
-    if (type == "timer" and value) then
-      ret = ret .. "  local nextTime = state and state." .. variable .. " and (state." .. variable .. " -" .. value .. ")\n";
-      ret = ret .. "  if (nextTime and (not recheckTime or nextTime < recheckTime) and nextTime >= now) then\n"
-      ret = ret .. "    recheckTime = nextTime\n";
-      ret = ret .. "  end\n"
+local function CreateCheckCondition(ret, condition, conditionNumber, allConditionsTemplate, debug)
+  local usedStates = {};
+  local check, recheckCode = CreateTestForCondition(condition.check, allConditionsTemplate, usedStates);
+  if (check) then
+    for triggernum in pairs(usedStates) do
+      ret = ret .. "    allStates = WeakAuras.GetTriggerStateForTrigger(id, " .. triggernum .. ")\n";
+      ret = ret .. "    state[" .. triggernum  .. "] = allStates[cloneId] or allStates['']\n";
     end
+    ret = ret .. "    if (" .. check .. ") then\n";
+    ret = ret .. "      newActiveConditions[" .. conditionNumber .. "] = true;\n";
+    ret = ret .. "    end\n";
+  end
+  if (recheckCode) then
+    ret = ret .. recheckCode;
+  end
+  if (check or recheckCode) then
     ret = ret .. "\n";
   end
   return ret;
@@ -856,10 +903,8 @@ local function CreateActivateCondition(ret, id, condition, conditionNumber, prop
               and WeakAuras.customConditionsFunctions[id][conditionNumber].changes[changeNum]) then
               pathToCustomFunction = string.format("WeakAuras.customConditionsFunctions[%q][%s].changes[%s]", id, conditionNumber, changeNum);
             end
-            ret = ret .. "     if (not skipActions) then\n";
-            ret = ret .. "       region:" .. propertyData.action .. "(" .. formatValueForAssignment(propertyData.type, change.value, pathToCustomFunction) .. ")" .. "\n";
-            if (debug) then ret = ret .. "       print('# " .. propertyData.action .. "(" .. formatValueForAssignment(propertyData.type, change.value, pathToCustomFunction) .. "')\n"; end
-            ret = ret .. "     end\n"
+            ret = ret .. "     region:" .. propertyData.action .. "(" .. formatValueForAssignment(propertyData.type, change.value, pathToCustomFunction) .. ")" .. "\n";
+            if (debug) then ret = ret .. "     print('# " .. propertyData.action .. "(" .. formatValueForAssignment(propertyData.type, change.value, pathToCustomFunction) .. "')\n"; end
           end
         end
       end
@@ -999,24 +1044,28 @@ function WeakAuras.ConstructConditionFunction(data)
   local ret = "";
   ret = ret .. "local newActiveConditions = {};\n"
   ret = ret .. "local propertyChanges = {};\n"
-  ret = ret .. "return function(region, skipActions)\n";
+  ret = ret .. "local state = {};\n"
+  ret = ret .. "local nextTime;\n"
+  ret = ret .. "return function(region, hideRegion)\n";
   if (debug) then ret = ret .. "  print('check conditions for:', region.id, region.cloneId)\n"; end
   ret = ret .. "  local id = region.id\n";
   ret = ret .. "  local cloneId = region.cloneId or ''\n";
   ret = ret .. "  local activatedConditions = WeakAuras.GetActiveConditions(id, cloneId)\n";
   ret = ret .. "  wipe(newActiveConditions)\n";
   ret = ret .. "  local allStates\n";
-  ret = ret .. "  local state\n";
+  ret = ret .. "  wipe(state)\n";
   ret = ret .. "  local recheckTime;\n"
   ret = ret .. "  local now = GetTime();\n"
 
   local normalConditionCount = data.conditions and #data.conditions;
   -- First Loop gather which conditions are active
+  ret = ret .. " if (not hideRegion) then\n"
   if (data.conditions) then
     for conditionNumber, condition in ipairs(data.conditions) do
       ret = CreateCheckCondition(ret, condition, conditionNumber, allConditionsTemplate, debug)
     end
   end
+  ret = ret .. "  end\n";
 
   ret = ret .. "  if (recheckTime) then\n"
   ret = ret .. "    WeakAuras.scheduleConditionCheck(recheckTime, id, cloneId);\n"
@@ -1110,6 +1159,40 @@ local function handleDynamicConditionsOnUpdate(self)
 end
 
 local registeredGlobalFunctions = {};
+
+local function EvaluateCheckForRegisterForGlobalConditions(id, check, allConditionsTemplate, register)
+  local trigger = check and check.trigger;
+  local variable = check and check.variable;
+
+  if (trigger == -2) then
+    if (check.checks) then
+      for _, subcheck in ipairs(check.checks) do
+        EvaluateCheckForRegisterForGlobalConditions(id, subcheck, allConditionsTemplate, register);
+      end
+    end
+  elseif (trigger and variable) then
+    local conditionTemplate = allConditionsTemplate[trigger] and allConditionsTemplate[trigger][variable];
+    if (conditionTemplate and conditionTemplate.events) then
+      for _, event in ipairs(conditionTemplate.events) do
+        if (not dynamicConditions[event]) then
+          register[event] = true;
+          dynamicConditions[event] = {};
+        end
+        dynamicConditions[event][id] = true;
+      end
+
+      if (conditionTemplate.globalStateUpdate and not registeredGlobalFunctions[variable]) then
+        registeredGlobalFunctions[variable] = true;
+        for _, event in ipairs(conditionTemplate.events) do
+          globalDynamicConditionFuncs[event] = globalDynamicConditionFuncs[event] or {};
+          tinsert(globalDynamicConditionFuncs[event], conditionTemplate.globalStateUpdate);
+        end
+        conditionTemplate.globalStateUpdate(globalConditionState);
+      end
+    end
+  end
+end
+
 function WeakAuras.RegisterForGlobalConditions(id)
   local data = WeakAuras.GetData(id);
   for event, conditonFunctions in pairs(dynamicConditions) do
@@ -1122,30 +1205,7 @@ function WeakAuras.RegisterForGlobalConditions(id)
     allConditionsTemplate[-1] = WeakAuras.GetGlobalConditions();
 
     for conditionNumber, condition in ipairs(data.conditions) do
-      local trigger = condition.check and condition.check.trigger;
-      local variable = condition.check and condition.check.variable;
-
-      if (trigger and variable) then
-        local conditionTemplate = allConditionsTemplate[trigger] and allConditionsTemplate[trigger][variable];
-        if (conditionTemplate and conditionTemplate.events) then
-          for _, event in ipairs(conditionTemplate.events) do
-            if (not dynamicConditions[event]) then
-              register[event] = true;
-              dynamicConditions[event] = {};
-            end
-            dynamicConditions[event][id] = true;
-          end
-
-          if (conditionTemplate.globalStateUpdate and not registeredGlobalFunctions[variable]) then
-            registeredGlobalFunctions[variable] = true;
-            for _, event in ipairs(conditionTemplate.events) do
-              globalDynamicConditionFuncs[event] = globalDynamicConditionFuncs[event] or {};
-              tinsert(globalDynamicConditionFuncs[event], conditionTemplate.globalStateUpdate);
-            end
-            conditionTemplate.globalStateUpdate(globalConditionState);
-          end
-        end
-      end
+      EvaluateCheckForRegisterForGlobalConditions(id, condition.check, allConditionsTemplate, register);
     end
   end
 
@@ -1532,7 +1592,7 @@ function WeakAuras.ScanForLoads(self, event, arg1)
   local incombat = UnitAffectingCombat("player") -- or UnitAffectingCombat("pet");
   local inencounter = encounter_id ~= 0;
   local inpetbattle = C_PetBattles.IsInBattle()
-  local vehicle = UnitInVehicle('player')
+  local vehicle = UnitInVehicle('player') or UnitOnTaxi('player')
   local vehicleUi = UnitHasVehicleUI('player') or HasOverrideActionBar()
 
   local _, instanceType, difficultyIndex, _, _, _, _, ZoneMapID = GetInstanceInfo()
@@ -1704,21 +1764,36 @@ loadFrame:RegisterEvent("PLAYER_ROLES_ASSIGNED");
 loadFrame:RegisterEvent("PLAYER_DIFFICULTY_CHANGED");
 loadFrame:RegisterEvent("PET_BATTLE_OPENING_START");
 loadFrame:RegisterEvent("PET_BATTLE_CLOSE");
-loadFrame:RegisterEvent("UNIT_ENTERED_VEHICLE");
-loadFrame:RegisterEvent("UNIT_EXITED_VEHICLE");
+loadFrame:RegisterEvent("VEHICLE_UPDATE");
 loadFrame:RegisterEvent("SPELLS_CHANGED");
 loadFrame:RegisterEvent("GROUP_JOINED");
 loadFrame:RegisterEvent("GROUP_LEFT");
-loadFrame:RegisterEvent("UPDATE_OVERRIDE_ACTIONBAR")
+loadFrame:RegisterEvent("UPDATE_OVERRIDE_ACTIONBAR");
 
 loadFrame:RegisterEvent("CHALLENGE_MODE_COMPLETED")
 loadFrame:RegisterEvent("CHALLENGE_MODE_START")
+
+local unitLoadFrame = CreateFrame("FRAME");
+WeakAuras.loadFrame = unitLoadFrame;
+WeakAuras.frames["Display Load Handling 2"] = unitLoadFrame;
+
+unitLoadFrame:RegisterEvent("UNIT_FLAGS");
+unitLoadFrame:RegisterEvent("UNIT_ENTERED_VEHICLE");
+unitLoadFrame:RegisterEvent("UNIT_EXITED_VEHICLE");
 
 function WeakAuras.RegisterLoadEvents()
   loadFrame:SetScript("OnEvent", function(...)
     WeakAuras.StartProfileSystem("load");
     WeakAuras.ScanForLoads(...)
     WeakAuras.StopProfileSystem("load");
+  end);
+
+  unitLoadFrame:SetScript("OnEvent", function(s, e, arg1, ...)
+    WeakAuras.StartProfileSystem("load");
+    if (arg1 == "player") then
+      WeakAuras.ScanForLoads(...)
+      WeakAuras.StopProfileSystem("load");
+    end
   end);
 end
 
@@ -1729,7 +1804,7 @@ end
 
 function WeakAuras.UnloadAll()
   for _, v in pairs(triggerState) do
-    for i = 0, v.numTriggers - 1 do
+    for i = 1, v.numTriggers do
       if (v[i]) then
         wipe(v[i]);
       end
@@ -1776,7 +1851,7 @@ do
   end
 
   function WeakAuras.UnloadDisplay(id)
-    for i = 0, triggerState[id].numTriggers - 1 do
+    for i = 1, triggerState[id].numTriggers do
       if (triggerState[id][i]) then
         wipe(triggerState[id][i]);
       end
@@ -2532,6 +2607,52 @@ function WeakAuras.Modernize(data)
     end
   end
 
+  -- Version 6 was introduced July 30, 2018 in BFA
+  -- Changes were entirely within triggers, so no code runs here
+
+  -- Version 7 was introduced %DATE% in BFA
+  -- Triggers were cleaned up into a 1-indexed array
+
+  if data.internalVersion < 7 then
+
+    -- migrate trigger data
+    data.triggers = data.additional_triggers or {}
+    tinsert(data.triggers, 1, {
+      trigger = data.trigger or {},
+      untrigger = data.untrigger or {},
+    })
+    data.additional_triggers = nil
+    data.trigger = nil
+    data.untrigger = nil
+    data.numTriggers = nil
+    data.triggers.customTriggerLogic = data.customTriggerLogic
+    data.customTriggerLogic = nil
+    local activeTriggerMode = data.activeTriggerMode or WeakAuras.trigger_modes.first_active
+    if activeTriggerMode ~= WeakAuras.trigger_modes.first_active then
+      activeTriggerMode = activeTriggerMode + 1
+    end
+    data.triggers.activeTriggerMode = activeTriggerMode
+    data.activeTriggerMode = nil
+    data.triggers.disjunctive = data.disjunctive
+    data.disjunctive = nil
+    -- migrate condition trigger references
+    local function recurseRepairChecks(checks)
+      if not checks then return end
+      for _, check in pairs(checks) do
+        if check.trigger and check.trigger >= 0 then
+          check.trigger = check.trigger + 1
+        end
+        recurseRepairChecks(check.checks)
+      end
+    end
+    for _, condition in pairs(data.conditions) do
+      if condition.check.trigger and condition.check.trigger >= 0 then
+        condition.check.trigger = condition.check.trigger + 1
+      end
+      recurseRepairChecks(condition.check.checks)
+    end
+  end
+
   for _, triggerSystem in pairs(triggerSystems) do
     triggerSystem.Modernize(data);
   end
@@ -2637,23 +2758,21 @@ end
 
 local function removeSpellNames(data)
   local trigger
-  for triggernum=0,(data.numTriggers or 9) do
-    if(triggernum == 0) then
-      trigger = data.trigger;
-    elseif(data.additional_triggers and data.additional_triggers[triggernum]) then
-      trigger = data.additional_triggers[triggernum].trigger;
-    end
-    if type(trigger.spellName) == "number" then
-      trigger.realSpellName = GetSpellInfo(trigger.spellName) or trigger.realSpellName
-    end
-    if (trigger.spellId) then
-      trigger.name = GetSpellInfo(trigger.spellId) or trigger.name;
-    end
-    if (trigger.spellIds) then
-      for i = 1, 10 do
-        if (trigger.spellIds[i]) then
-          trigger.names = trigger.names or {};
-          trigger.names[i] = GetSpellInfo(trigger.spellIds[i]) or trigger.names[i];
+  for i = 1, #data.triggers do
+    trigger = data.triggers[i].trigger
+    if trigger then
+      if type(trigger.spellName) == "number" then
+        trigger.realSpellName = GetSpellInfo(trigger.spellName) or trigger.realSpellName
+      end
+      if (trigger.spellId) then
+        trigger.name = GetSpellInfo(trigger.spellId) or trigger.name;
+      end
+      if (trigger.spellIds) then
+        for i = 1, 10 do
+          if (trigger.spellIds[i]) then
+            trigger.names = trigger.names or {};
+            trigger.names[i] = GetSpellInfo(trigger.spellIds[i]) or trigger.names[i];
+          end
         end
       end
     end
@@ -2678,14 +2797,13 @@ local function pAdd(data)
     db.displays[id] = data;
     WeakAuras.SetRegion(data);
   else
-    if (not data.activeTriggerMode or data.activeTriggerMode >= data.numTriggers) then
-      data.activeTriggerMode = WeakAuras.trigger_modes.first_active;
+    if (not data.triggers.activeTriggerMode or data.triggers.activeTriggerMode > #data.triggers) then
+      data.triggers.activeTriggerMode = WeakAuras.trigger_modes.first_active;
     end
 
     for _, triggerSystem in pairs(triggerSystems) do
       triggerSystem.Add(data);
     end
-
 
     data.init_started = nil;
     data.load = data.load or {};
@@ -2697,7 +2815,7 @@ local function pAdd(data)
     local loadForOptionsFuncStr = WeakAuras.ConstructFunction(load_prototype, data.load, true);
     local loadFunc = WeakAuras.LoadFunction(loadFuncStr);
     local loadForOptionsFunc = WeakAuras.LoadFunction(loadForOptionsFuncStr);
-    local triggerLogicFunc = WeakAuras.LoadFunction("return "..(data.customTriggerLogic or ""), id);
+    local triggerLogicFunc = WeakAuras.LoadFunction("return "..(data.triggers.customTriggerLogic or ""), id);
     WeakAuras.LoadCustomActionFunctions(data);
     WeakAuras.LoadConditionPropertyFunctions(data);
     local checkConditionsFuncStr = WeakAuras.ConstructConditionFunction(data);
@@ -2722,9 +2840,9 @@ local function pAdd(data)
     end
 
     triggerState[id] = {
-      disjunctive = data.disjunctive or "all",
-      numTriggers = data.numTriggers,
-      activeTriggerMode = data.activeTriggerMode or 0,
+      disjunctive = data.triggers.disjunctive or "all",
+      numTriggers = #data.triggers,
+      activeTriggerMode = data.triggers.activeTriggerMode or WeakAuras.trigger_modes.first_active,
       triggerLogicFunc = triggerLogicFunc,
       triggers = {},
       triggerCount = 0,
@@ -3448,34 +3566,30 @@ function WeakAuras.GetData(id)
 end
 
 function WeakAuras.GetTriggerSystem(data, triggernum)
-  if (triggernum == 0) then
-    return triggerTypes[data.trigger.type];
-  elseif (data.additional_triggers and data.additional_triggers[triggernum]) then
-    return triggerTypes[data.additional_triggers[triggernum].trigger.type];
-  end
-  return nil;
+  local triggerType = data.triggers[triggernum] and data.triggers[triggernum].trigger.type
+  return triggerType and triggerTypes[triggerType]
 end
 
 local function wrapTriggerSystemFunction(functionName, mode)
   local func;
   func = function(data, triggernum)
     if (not triggernum) then
-      return func(data, data.activeTriggerMode or -1);
+      return func(data, data.triggers.activeTriggerMode or -1);
     elseif (triggernum < 0) then
       local result;
       if (mode == "or") then
         result = false;
-        for i = 0, data.numTriggers - 1 do
+        for i = 1, #data.triggers do
           result = result or func(data, i);
         end
       elseif (mode == "and") then
         result = true;
-        for i = 0, data.numTriggers - 1 do
+        for i = 1, #data.triggers do
           result = result and func(data, i);
         end
       elseif (mode == "table") then
         result = {};
-        for i = 0, data.numTriggers - 1 do
+        for i = 1, #data.triggers do
           local tmp = func(data, i);
           if (tmp) then
             for k, v in pairs(tmp) do
@@ -3485,7 +3599,7 @@ local function wrapTriggerSystemFunction(functionName, mode)
         end
       elseif (mode == "firstValue") then
         result = false;
-        for i = 0, data.numTriggers - 1 do
+        for i = 1, #data.triggers do
           local tmp = func(data, i);
           if (tmp) then
             result = tmp;
@@ -3493,7 +3607,7 @@ local function wrapTriggerSystemFunction(functionName, mode)
           end
         end
       elseif (mode == "nameAndIcon") then
-        for i = 0, data.numTriggers - 1 do
+        for i = 1, #data.triggers do
           local tmp1, tmp2 = func(data, i);
           if (tmp1) then
             return tmp1, tmp2;
@@ -3501,10 +3615,10 @@ local function wrapTriggerSystemFunction(functionName, mode)
         end
       end
       return result;
-    else -- triggernum >= 0
+    else -- triggernum >= 1
       local triggerSystem = WeakAuras.GetTriggerSystem(data, triggernum);
       if (not triggerSystem) then
-        return false;
+        return false
       end
       return triggerSystem[functionName](data, triggernum);
     end
@@ -3542,7 +3656,7 @@ end
 
 function WeakAuras.GetTriggerConditions(data)
   local conditions = {};
-  for i = 0, data.numTriggers - 1 do
+  for i = 1, #data.triggers do
     local triggerSystem = WeakAuras.GetTriggerSystem(data, i);
     if (triggerSystem) then
       conditions[i] = triggerSystem.GetTriggerConditions(data, i);
@@ -3550,7 +3664,9 @@ function WeakAuras.GetTriggerConditions(data)
       conditions[i].show = {
         display = L["Active"],
         type = "bool",
-        test = "(state and state.show or false) == (%s == 1)"
+        test = function(state, needle)
+          return (state and state.show or false) == (needle == 1);
+        end
       }
     end
   end
@@ -3564,16 +3680,10 @@ function WeakAuras.CreateFallbackState(id, triggernum, state)
     return false;
   end
 
-  triggerSystem.CreateFallbackState(data, triggernum, state);
-  if (triggernum == 0) then
-    state.trigger = data.trigger;
-    state.triggernum = 0;
-    state.id = id;
-  else
-    state.trigger = data.additional_triggers[triggernum].trigger;
-    state.triggernum = triggernum;
-    state.id = id;
-  end
+  triggerSystem.CreateFallbackState(data, triggernum, state)
+  state.trigger = data.triggers[triggernum].trigger
+  state.triggernum = triggernum
+  state.id = id
 end
 
 function WeakAuras.CanShowNameInfo(data)
@@ -3608,11 +3718,19 @@ function WeakAuras.CorrectSpellName(input)
     else
       link = GetSpellLink(input);
     end
-    if(link) then
+    if(link) and link ~= "" then
       local itemId = link:match("spell:(%d+)");
       return tonumber(itemId);
     else
-      return nil;
+      for tier = 1, MAX_TALENT_TIERS do
+        for column = 1, NUM_TALENT_COLUMNS do
+          local _, _, _, _, _, spellId = GetTalentInfo(tier, column, 1)
+          local name = GetSpellInfo(spellId);
+          if name == input then
+            return spellId;
+          end
+        end
+      end
     end
   end
 end
@@ -4150,11 +4268,11 @@ local emptyState = {};
 emptyState[""] = {};
 
 local function applyToTriggerStateTriggers(stateShown, id, triggernum)
-  if (stateShown and not triggerState[id].triggers[triggernum + 1]) then
-    triggerState[id].triggers[triggernum + 1] = true;
+  if (stateShown and not triggerState[id].triggers[triggernum]) then
+    triggerState[id].triggers[triggernum] = true;
     triggerState[id].triggerCount = triggerState[id].triggerCount + 1;
     return true;
-  elseif (not stateShown and triggerState[id].triggers[triggernum + 1]) then
+  elseif (not stateShown and triggerState[id].triggers[triggernum]) then
     -- Check if any other clone is shown
     local anyCloneShown = false;
     for _, state in pairs(triggerState[id][triggernum]) do
@@ -4164,7 +4282,7 @@ local function applyToTriggerStateTriggers(stateShown, id, triggernum)
       end
     end
     if (not anyCloneShown) then
-      triggerState[id].triggers[triggernum + 1] = false;
+      triggerState[id].triggers[triggernum] = false;
       triggerState[id].triggerCount = triggerState[id].triggerCount - 1;
       return true;
     end
@@ -4203,7 +4321,7 @@ local function ApplyStatesToRegions(id, triggernum, states)
       end
     end
     if (checkConditions[id]) then -- Even if this state has not changed
-      checkConditions[id](region);
+      checkConditions[id](region, not state.show);
     end
   end
 
@@ -4230,18 +4348,12 @@ function WeakAuras.UpdatedTriggerState(id)
   end
 
   local changed = false;
-  for triggernum = 0, triggerState[id].numTriggers - 1 do
+  for triggernum = 1, triggerState[id].numTriggers do
     triggerState[id][triggernum] = triggerState[id][triggernum] or {};
     for cloneId, state in pairs(triggerState[id][triggernum]) do
-      if (triggernum == 0) then
-        state.trigger = db.displays[id].trigger;
-        state.triggernum = 0;
-        state.id = id;
-      else
-        state.trigger = db.displays[id].additional_triggers[triggernum].trigger;
-        state.triggernum = triggernum;
-        state.id = id;
-      end
+      state.trigger = db.displays[id].triggers[triggernum].trigger;
+      state.triggernum = triggernum;
+      state.id = id;
 
       if (state.changed) then
         startStopTimers(id, cloneId, triggernum, state);
@@ -4262,8 +4374,8 @@ function WeakAuras.UpdatedTriggerState(id)
   local newActiveTrigger = triggerState[id].activeTriggerMode;
   if (newActiveTrigger == WeakAuras.trigger_modes.first_active) then
     -- Mode is first active trigger, so find a active trigger
-    for i = 0, triggerState[id].numTriggers - 1 do
-      if (triggerState[id].triggers[i + 1]) then
+    for i = 1, triggerState[id].numTriggers do
+      if (triggerState[id].triggers[i]) then
         newActiveTrigger = i;
         break;
       end
@@ -4284,27 +4396,30 @@ function WeakAuras.UpdatedTriggerState(id)
   if (show and not oldShow) then -- Hide => Show
     ApplyStatesToRegions(id, newActiveTrigger, activeTriggerState);
   elseif (not show and oldShow) then -- Show => Hide
+    for cloneId, state in pairs(activeTriggerState) do
+      if (checkConditions[id]) then
+        local region = WeakAuras.GetRegion(id, cloneId);
+        checkConditions[id](region, true);
+      end
+    end
     WeakAuras.CollapseAllClones(id);
     WeakAuras.regions[id].region:Collapse();
   elseif (show and oldShow) then -- Already shown, update regions
     -- Hide old clones
     for cloneId, clone in pairs(clones[id]) do
       if (not activeTriggerState[cloneId] or not activeTriggerState[cloneId].show) then
+        if (checkConditions[id]) then
+          local region = WeakAuras.GetRegion(id, cloneId);
+          checkConditions[id](region, true);
+        end
         clone:Collapse();
       end
-  end
-  -- Show new states
-  ApplyStatesToRegions(id, newActiveTrigger, activeTriggerState);
-  end
-
-  for cloneId, state in pairs(activeTriggerState) do
-    local region = WeakAuras.GetRegion(id, cloneId);
-    if (checkConditions[id]) then
-      checkConditions[id](region, not show or not state.show);
     end
+    -- Show new states
+    ApplyStatesToRegions(id, newActiveTrigger, activeTriggerState);
   end
 
-  for triggernum = 0, triggerState[id].numTriggers - 1 do
+  for triggernum = 1, triggerState[id].numTriggers do
     triggerState[id][triggernum] = triggerState[id][triggernum] or {};
     for cloneId, state in pairs(triggerState[id][triggernum]) do
       if (not state.show) then

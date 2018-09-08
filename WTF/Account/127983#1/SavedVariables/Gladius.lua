@@ -9,10 +9,10 @@ Gladius2DB = {
 	["profiles"] = {
 		["Twiddlederr - Kel'Thuzad"] = {
 			["y"] = {
-				["arena1"] = 611.555353350104,
+				["arena1"] = 691.199886528648,
 			},
 			["x"] = {
-				["arena1"] = 999.822593654535,
+				["arena1"] = 975.644902096865,
 			},
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
@@ -35,24 +35,24 @@ Gladius2DB = {
 			},
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["announcements"] = {
-				["dispell"] = true,
-				["trinket"] = true,
-			},
 			["tagsTexts"] = {
 				["HealthBar Left Text"] = {
 					["text"] = "[name:status] [maxhealth]",
 				},
 			},
+			["announcements"] = {
+				["dispell"] = true,
+				["trinket"] = true,
+			},
 		},
 		["Suhdrude - Anvilmar"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 580.266724120247,
-			},
 			["x"] = {
 				["arena1"] = 985.600110671257,
+			},
+			["y"] = {
+				["arena1"] = 580.266724120247,
 			},
 		},
 		["Fistbeavers - Kel'Thuzad"] = {
