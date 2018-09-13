@@ -129,8 +129,9 @@ BigDebuffs.Spells = {
 
 	[47476] = { type = "cc" }, -- Strangulate
 	[48707] = { type = "immunities_spells" }, -- Anti-Magic Shell
+	[48265] = { type = "buffs_defensive" }, -- Death's Advance
 	[48792] = { type = "buffs_defensive" }, -- Icebound Fortitude
-	[49028] = { type = "buffs_offensive" }, -- Dancing Rune Weapon
+	[81256] = { type = "buffs_defensive" }, -- Dancing Rune Weapon
 	[51271] = { type = "buffs_offensive" }, -- Pillar of Frost
 	[55233] = { type = "buffs_defensive" }, -- Vampiric Blood
 	[77606] = { type = "buffs_other" }, -- Dark Simulacrum
@@ -147,6 +148,7 @@ BigDebuffs.Spells = {
 	[207167] = { type = "cc" }, -- Blinding Sleet
 	[207171] = { type = "cc" }, -- Winter is Coming
 	[207256] = { type = "buffs_offensive" }, -- Obliteration
+	[207289] = { type = "buffs_offensive" }, -- Unholy Frenzy
 	[207319] = { type = "buffs_defensive" }, -- Corpse Shield
 	[212332] = { type = "cc" }, -- Smash
 		[212337] = { type = "cc", parent = 212332 }, -- Powerful Smash
@@ -181,6 +183,8 @@ BigDebuffs.Spells = {
 	[339] = { type = "roots" }, -- Entangling Roots
 	[740] = { type = "buffs_defensive" }, -- Tranquility
 	[1850] = { type = "buffs_other" }, -- Dash
+		[252216] = { type = "buffs_other", parent = 1850 }, -- Tiger Dash
+	[2637] = { type = "cc" }, -- Hibernate
 	[5211] = { type = "cc" }, -- Mighty Bash
 	[5217] = { type = "buffs_offensive" }, -- Tiger's Fury
 	[22812] = { type = "buffs_defensive" }, -- Barkskin
@@ -197,6 +201,7 @@ BigDebuffs.Spells = {
 	[102560] = { type = "buffs_offensive" }, -- Incarnation: Chosen of Elune
 	[106951] = { type = "buffs_offensive" }, -- Berserk
 	[155835] = { type = "buffs_defensive" }, -- Bristling Fur
+	[192081] = { type = "buffs_defensive" }, -- Ironfur
 	[163505] = { type = "cc" }, -- Rake
 	[194223] = { type = "buffs_offensive" }, -- Celestial Alignment
 	[200851] = { type = "buffs_defensive" }, -- Rage of the Sleeper
@@ -210,6 +215,7 @@ BigDebuffs.Spells = {
 	[22570] = { type = "cc" }, -- Maim
 		[203123] = { type = "cc", parent = 22570 }, -- Maim
 		[236025] = { type = "cc", parent = 22570 }, -- Enraged Maim (Feral Honor Talent)
+	[236696] = { type = "buffs_defensive" }, -- Thorns (PvP Talent)
 
 	-- Hunter
 
@@ -221,12 +227,13 @@ BigDebuffs.Spells = {
 	[19577] = { type = "cc" }, -- Intimidation
 		[24394] = { type = "cc", parent = 19577 }, -- Intimidation
 	[53480] = { type = "buffs_defensive" }, -- Roar of Sacrifice (Hunter Pet Skill)
-	[117526] = { type = "cc" }, -- Binding Shot Stun
+	[117526] = { type = "roots" }, -- Binding Shot 
 	[131894] = { type = "buffs_offensive" }, -- A Murder of Crows (Beast Mastery, Marksmanship)
 		[206505] = { type = "buffs_offensive", parent = 131894 }, -- A Murder of Crows (Survival)
 	[186265] = { type = "buffs_defensive" }, -- Aspect of the Turtle
 	[186289] = { type = "buffs_offensive" }, -- Aspect of the Eagle
 	[238559] = { type = "cc" }, -- Bursting Shot
+		[186387] = { type = "cc", parent = 238559 }, -- Bursting Shot
 	[193526] = { type = "buffs_offensive" }, -- Trueshot
 	[193530] = { type = "buffs_offensive" }, -- Aspect of the Wild
 	[199483] = { type = "buffs_defensive" }, -- Camouflage
@@ -236,6 +243,7 @@ BigDebuffs.Spells = {
 	[209790] = { type = "cc" }, -- Freezing Arrow
 	[209997] = { type = "buffs_defensive" }, -- Play Dead
 	[213691] = { type = "cc" }, -- Scatter Shot
+	[272682] = { type = "buffs_defensive" }, -- Master's Call
 
 	-- Mage
 
@@ -345,8 +353,10 @@ BigDebuffs.Spells = {
 	[47536] = { type = "buffs_defensive" }, -- Rapture
 	[47585] = { type = "buffs_defensive" }, -- Dispersion
 	[47788] = { type = "buffs_defensive" }, -- Guardian Spirit
+	[64044] = { type = "cc" }, -- Psychic Horror
 	[64843] = { type = "buffs_defensive" }, -- Divine Hymn
 	[81782] = { type = "buffs_defensive" }, -- Power Word: Barrier
+		[271466] = { type = "buffs_defensive", parent = 81782 }, -- Luminous Barrier (Disc Talent)
 	[87204] = { type = "cc" }, -- Sin and Punishment
 	[193223] = { type = "buffs_offensive" }, -- Surrender to Madness
 	[194249] = { type = "buffs_offensive" }, -- Voidform
@@ -358,7 +368,7 @@ BigDebuffs.Spells = {
 	[200196] = { type = "cc" }, -- Holy Word: Chastise
 		[200200] = { type = "cc", parent = 200196 }, -- Holy Word: Chastise (Stun)
 	[205369] = { type = "cc" }, -- Mind Bomb
-		[226943] = { type = "cc", parent = 205369 }, -- Mind Bomb (Stun)
+		[226943] = { type = "cc", parent = 205369 }, -- Mind Bomb (Disorient)
 	[213610] = { type = "buffs_defensive" }, -- Holy Ward
 	[215769] = { type = "buffs_defensive" }, -- Spirit of Redemption
 	[221660] = { type = "immunities_spells" }, -- Holy Concentration
@@ -411,6 +421,7 @@ BigDebuffs.Spells = {
 	[204293] = { type = "buffs_defensive" }, -- Spirit Link
 	[204366] = { type = "buffs_offensive" }, -- Thundercharge
 	[204945] = { type = "buffs_offensive" }, -- Doom Winds
+	[260878] = { type = "buffs_defensive" }, -- Spirit Wolf
 
 
 	-- Warlock
@@ -428,6 +439,8 @@ BigDebuffs.Spells = {
 	[89766] = { type = "cc" }, -- Axe Toss
 	[104773] = { type = "immunities_spells" }, -- Unending Resolve
 	[108416] = { type = "buffs_defensive" }, -- Dark Pact
+	[113860] = { type = "buffs_offensive" }, -- Dark Soul: Misery (Affliction)
+	[113858] = { type = "buffs_offensive" }, -- Dark Soul: Instability (Demonology)
 	[118699] = { type = "cc" }, -- Fear
 		[130616] = { type = "cc", parent = 118699 }, -- Fear (Glyph of Fear)
 	[171017] = { type = "cc" }, -- Meteor Strike
@@ -440,7 +453,7 @@ BigDebuffs.Spells = {
 	-- Warrior
 
 	[871] = { type = "buffs_defensive" }, -- Shield Wall
-	[1719] = { type = "buffs_offensive" }, -- Battle Cry
+	[1719] = { type = "buffs_offensive" }, -- Recklessness
 	[5246] = { type = "cc" }, -- Intimidating Shout
 	[12975] = { type = "buffs_defensive" }, -- Last Stand
 	[18499] = { type = "buffs_other" }, -- Berserker Rage
@@ -448,7 +461,7 @@ BigDebuffs.Spells = {
 		[213915] = { type = "immunities_spells", parent = 23920 }, -- Mass Spell Reflection
 		[216890] = { type = "immunities_spells", parent = 23920 }, -- Spell Reflection (Arms, Fury)
 	[46968] = { type = "cc" }, -- Shockwave
-	[97462] = { type = "buffs_defensive" }, -- Commanding Shout
+	[97462] = { type = "buffs_defensive" }, -- Rallying Cry
 	[105771] = { type = "roots" }, -- Charge (Warrior)
 	[107574] = { type = "buffs_offensive" }, -- Avatar
 	[118038] = { type = "buffs_defensive" }, -- Die by the Sword
@@ -479,6 +492,7 @@ BigDebuffs.Spells = {
 		[232633] = { type = "cc", parent = 129597 }, -- Arcane Torrent
 	[192001] = { type = "buffs_other" }, -- Drink
 		[167152] = { type = "buffs_other", parent = 192001 }, -- Refreshment
+	[257040] = { type = "buffs_other" }, -- Spatial Rift
 
 	-- Legacy (may be deprecated)
 
@@ -489,6 +503,15 @@ BigDebuffs.Spells = {
 }
 
 local specDispel = {
+	[62] = { -- Arcane Mage
+		Curse = true,
+	},		
+	[63] = { -- Fire Mage
+		Curse = true,
+	},		
+	[64] = { -- Frost Mage
+		Curse = true,
+	},		
 	[65] = { -- Holy Paladin
 		Magic = true,
 		Poison = true,
@@ -878,7 +901,8 @@ end
 local function UnitDebuffTest(unit, index)
 	local debuff = TestDebuffs[index]
 	if not debuff then return end
-	return "Test", nil, debuff[2], 0, debuff[4], 0, 0, nil, nil, nil, debuff[1]
+	-- name, icon, count, debuffType, duration, expirationTime, unitCaster, canStealOrPurge, _, spellId
+	return "Test", debuff[2], 0, debuff[4], 0, 0, nil, nil, nil, debuff[1]
 end
 
 function BigDebuffs:OnEnable()
@@ -891,14 +915,15 @@ function BigDebuffs:OnEnable()
 	self:RegisterEvent("COMBAT_LOG_EVENT_UNFILTERED")
 	self:PLAYER_TALENT_UPDATE()
 
+	-- (finish animations deprecated in latest OmniCC beta)
 	-- Prevent OmniCC finish animations
-	if OmniCC then
-		self:RawHook(OmniCC, "TriggerEffect", function(object, cooldown)
-			local name = cooldown:GetName()
-			if name and name:find("BigDebuffs") then return end
-			self.hooks[OmniCC].TriggerEffect(object, cooldown)
-		end, true)
-	end
+	-- if OmniCC then
+	-- 	self:RawHook(OmniCC, "TriggerEffect", function(object, cooldown)
+	-- 		local name = cooldown:GetName()
+	-- 		if name and name:find("BigDebuffs") then return end
+	-- 		self.hooks[OmniCC].TriggerEffect(object, cooldown)
+	-- 	end, true)
+	-- end
 
 	InsertTestDebuff(8122, "Magic") -- Psychic Scream
 	InsertTestDebuff(408, nil) -- Kidney Shot
@@ -916,12 +941,20 @@ function BigDebuffs:PLAYER_ENTERING_WORLD()
 	end
 end
 
-function BigDebuffs:COMBAT_LOG_EVENT_UNFILTERED(_, _, event, ...)
+local function UnitBuffByName(unit, name)
+	for i = 1, 40 do
+		local n = UnitBuff(unit, i)
+		if n == name then return end
+	end
+end
+
+function BigDebuffs:COMBAT_LOG_EVENT_UNFILTERED()
+
+	local _, event, _,_,_,_,_, destGUID, _,_,_, spellId = CombatLogGetCurrentEventInfo()
 
 	-- SPELL_INTERRUPT doesn't fire for some channeled spells
 	if event ~= "SPELL_INTERRUPT" and event ~= "SPELL_CAST_SUCCESS" then return end
 
-	local _,_,_,_,_, destGUID, _,_,_, spellId = ...
 	local spell = self.Spells[spellId]
 
 	if not spell or spell.type ~= "interrupts" then return end
@@ -933,12 +966,12 @@ function BigDebuffs:COMBAT_LOG_EVENT_UNFILTERED(_, _, event, ...)
 			local duration = spell.duration
 			local _, class = UnitClass(unit)
 
-			if class == "PRIEST" or class == "SHAMAN" or class == "WARLOCK" then
-				duration = duration * 0.7
-			end
+			-- if class == "PRIEST" or class == "SHAMAN" or class == "WARLOCK" then
+			-- 	duration = duration * 0.7
+			-- end
 
-			if UnitBuff(unit, "Burning Determination") or UnitBuff(unit, "Calming Waters") or UnitBuff(unit, "Casting Circle") then
-				duration = duration * 0.3
+			if UnitBuffByName(unit, "Calming Waters") then
+				duration = duration * 0.5
 			end
 
 			self.units[destGUID] = self.units[destGUID] or {}
@@ -1134,14 +1167,26 @@ function BigDebuffs:GetAuraPriority(id)
 	return self.db.profile.priority[self.Spells[id].type] or 0
 end
 
--- Copy this function to check for testing mode
-local function CompactUnitFrame_UtilSetDebuff(debuffFrame, unit, index, filter, isBossAura, isBossBuff, test)
+function CompactUnitFrame_UtilSetDispelDebuff(dispellDebuffFrame, debuffType, index)
+	dispellDebuffFrame:Show();
+	dispellDebuffFrame.icon:SetTexture("Interface\\RaidFrame\\Raid-Icon-Debuff"..debuffType);
+	dispellDebuffFrame:SetID(index);
+end
+
+function CompactUnitFrame_HideAllDispelDebuffs(frame)
+	if frame.dispelDebuffFrames then
+		for i=1, #frame.dispelDebuffFrames do
+			frame.dispelDebuffFrames[i]:Hide();
+		end
+	end
+end
+
+function CompactUnitFrame_UtilSetDebuff(debuffFrame, unit, index, filter, isBossAura, isBossBuff, test)
 	local UnitDebuff = test and UnitDebuffTest or UnitDebuff
 	-- make sure you are using the correct index here!
 	--isBossAura says make this look large.
 	--isBossBuff looks in HELPFULL auras otherwise it looks in HARMFULL ones
-	local name, rank, icon, count, debuffType, duration, expirationTime, unitCaster, canStealOrPurge, shouldConsolidate, spellId;
-
+	local name, icon, count, debuffType, duration, expirationTime, unitCaster, canStealOrPurge, _, spellId;
 	if index == -1 then
 		-- it's an interrupt
 		local spell = BigDebuffs.units[UnitGUID(unit)]
@@ -1152,9 +1197,9 @@ local function CompactUnitFrame_UtilSetDebuff(debuffFrame, unit, index, filter, 
 		expirationTime = spell.expires
 	else
 		if (isBossBuff) then
-			name, icon, count, debuffType, duration, expirationTime, unitCaster, canStealOrPurge, shouldConsolidate, spellId = UnitBuff(unit, index, filter);
+			name, icon, count, debuffType, duration, expirationTime, unitCaster, canStealOrPurge, _, spellId = UnitBuff(unit, index, filter);
 		else
-			name, icon, count, debuffType, duration, expirationTime, unitCaster, canStealOrPurge, shouldConsolidate, spellId = UnitDebuff(unit, index, filter);
+			name, icon, count, debuffType, duration, expirationTime, unitCaster, canStealOrPurge, _, spellId = UnitDebuff(unit, index, filter);
 		end
 	end
 
@@ -1162,7 +1207,7 @@ local function CompactUnitFrame_UtilSetDebuff(debuffFrame, unit, index, filter, 
 	debuffFrame.icon:SetTexture(icon);
 	if ( count > 1 ) then
 		local countText = count;
-		if ( count >= 10 ) then
+		if ( count >= 100 ) then
 			countText = BUFF_STACKS_OVERFLOW;
 		end
 		debuffFrame.count:Show();
@@ -1171,12 +1216,12 @@ local function CompactUnitFrame_UtilSetDebuff(debuffFrame, unit, index, filter, 
 		debuffFrame.count:Hide();
 	end
 	debuffFrame:SetID(index);
-	if ( expirationTime and expirationTime ~= 0 ) then
+	local enabled = expirationTime and expirationTime ~= 0;
+	if enabled then
 		local startTime = expirationTime - duration;
-		debuffFrame.cooldown:SetCooldown(startTime, duration);
-		debuffFrame.cooldown:Show();
+		CooldownFrame_Set(debuffFrame.cooldown, startTime, duration, true);
 	else
-		debuffFrame.cooldown:Hide();
+		CooldownFrame_Clear(debuffFrame.cooldown);
 	end
 
 	local color = DebuffTypeColor[debuffType] or DebuffTypeColor["none"];
@@ -1184,7 +1229,8 @@ local function CompactUnitFrame_UtilSetDebuff(debuffFrame, unit, index, filter, 
 
 	debuffFrame.isBossBuff = isBossBuff;
 	if ( isBossAura ) then
-		debuffFrame:SetSize(debuffFrame.baseSize + BOSS_DEBUFF_SIZE_INCREASE, debuffFrame.baseSize + BOSS_DEBUFF_SIZE_INCREASE);
+		local size = min(debuffFrame.baseSize + BOSS_DEBUFF_SIZE_INCREASE, debuffFrame.maxHeight);
+		debuffFrame:SetSize(size, size);
 	else
 		debuffFrame:SetSize(debuffFrame.baseSize, debuffFrame.baseSize);
 	end

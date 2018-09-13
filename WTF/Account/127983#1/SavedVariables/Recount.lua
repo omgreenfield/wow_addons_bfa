@@ -10,14 +10,14 @@ RecountDB = {
 		["Twiddlederr - Kel'Thuzad"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -214.999755859375,
-					["x"] = 488.999755859375,
+					["y"] = -85.9999389648438,
+					["x"] = 601.000122070313,
 					["w"] = 201.999923706055,
-					["h"] = 210,
+					["h"] = 209.999984741211,
 				},
 			},
 			["MainWindowMode"] = 2,
-			["LastInstanceName"] = "Ashamane's Fall",
+			["LastInstanceName"] = "Hook Point",
 			["CurDataSet"] = "OverallData",
 			["Colors"] = {
 				["Bar"] = {
@@ -44,6 +44,10 @@ RecountDB = {
 				},
 			},
 			["MainWindowMode"] = 2,
+			["MainWindowHeight"] = 209.999984741211,
+			["LastInstanceName"] = "Silvershard Mines",
+			["CurDataSet"] = "LastFightData",
+			["MainWindowWidth"] = 201.999923706055,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -54,10 +58,6 @@ RecountDB = {
 					},
 				},
 			},
-			["MainWindowHeight"] = 209.999984741211,
-			["CurDataSet"] = "LastFightData",
-			["MainWindowWidth"] = 201.999923706055,
-			["LastInstanceName"] = "Silvershard Mines",
 		},
 		["Suhdrude - Anvilmar"] = {
 			["MainWindow"] = {
@@ -99,8 +99,8 @@ RecountDB = {
 					},
 				},
 			},
-			["LastInstanceName"] = "Lordaeron",
-			["CurDataSet"] = "CurrentFightData",
+			["LastInstanceName"] = "Atal'Dazar",
+			["CurDataSet"] = "LastFightData",
 			["MainWindowWidth"] = 211,
 			["MainWindowHeight"] = 207.000076293945,
 		},

@@ -21,13 +21,13 @@ OneRing_Config = {
 			["XTRotationPeriod"] = 10,
 			["XTPointerSpeed"] = 4,
 			["ShowRecharge"] = true,
-			["IndicationOffsetX"] = 150,
+			["IndicationOffsetY"] = -150,
 			["ShowCooldowns"] = true,
 			["CenterAction"] = true,
 			["RingOptions"] = {
 				["RaidSymbols#SliceBinding"] = true,
 			},
-			["IndicationOffsetY"] = -150,
+			["IndicationOffsetX"] = 150,
 			["XTZoomTime"] = 0,
 		},
 	},
@@ -106,42 +106,6 @@ OneRing_Config = {
 				["save"] = true,
 				["hotkey"] = "ALT-H",
 			},
-			["Fishing"] = {
-				{
-					["id"] = 131474,
-					["sliceToken"] = "ABuedqpZMtt",
-				}, -- [1]
-				{
-					"item", -- [1]
-					136377, -- [2]
-					["sliceToken"] = "ABuedqpZMt1",
-				}, -- [2]
-				{
-					"item", -- [1]
-					6532, -- [2]
-					["sliceToken"] = "ABuedekjY/o",
-				}, -- [3]
-				{
-					"equipmentset", -- [1]
-					"Fishing", -- [2]
-					["sliceToken"] = "ABuedekjY/2",
-				}, -- [4]
-				{
-					"equipmentset", -- [1]
-					"Havoc", -- [2]
-					["sliceToken"] = "ABuedekjY/i",
-				}, -- [5]
-				{
-					"item", -- [1]
-					6533, -- [2]
-					["sliceToken"] = "ABuede6=dWe",
-				}, -- [6]
-				["name"] = "Fishing",
-				["save"] = true,
-			},
-			["OPieFlagStore"] = {
-				["FlushedDefaultColors"] = true,
-			},
 			["Disrupt"] = {
 				{
 					"macro", -- [1]
@@ -170,6 +134,19 @@ OneRing_Config = {
 				}, -- [5]
 				["name"] = "Disrupt",
 				["save"] = true,
+			},
+			["MonkDmg"] = {
+				{
+					["sliceToken"] = "ABuedivYhU1",
+					["id"] = 117952,
+				}, -- [1]
+				{
+					["sliceToken"] = "ABuedivYhUr",
+					["id"] = 101546,
+				}, -- [2]
+				["limit"] = "Fistbeavers-Kel'Thuzad",
+				["save"] = true,
+				["name"] = "MonkDmg",
 			},
 			["BGs"] = {
 				{
@@ -203,103 +180,6 @@ OneRing_Config = {
 					["sliceToken"] = "ABue3/fRvWa",
 				}, -- [6]
 				["name"] = "BGs",
-				["save"] = true,
-			},
-			["Mounts"] = {
-				{
-					["sliceToken"] = "ABue3Nac4Qu",
-					["id"] = 223578,
-				}, -- [1]
-				{
-					["sliceToken"] = "ABue3Nac4Qy",
-					["id"] = 274610,
-				}, -- [2]
-				{
-					["sliceToken"] = "ABue3Nac4Qt",
-					["id"] = 61425,
-				}, -- [3]
-				{
-					["sliceToken"] = "ABuedwH3D2e",
-					["id"] = 278803,
-				}, -- [4]
-				["name"] = "Mounts",
-				["save"] = true,
-			},
-			["nsumeMagic"] = {
-				{
-					"macro", -- [1]
-					"ConsumeMagic1", -- [2]
-					["sliceToken"] = "ABue3VjFJrZ",
-				}, -- [1]
-				{
-					"macro", -- [1]
-					"ConsumeMagic2", -- [2]
-					["sliceToken"] = "ABue3VjFJr=",
-				}, -- [2]
-				{
-					"macro", -- [1]
-					"ConsumeMagic3e", -- [2]
-					["sliceToken"] = "ABue3VjFJrL",
-				}, -- [3]
-				{
-					["id"] = 278326,
-					["sliceToken"] = "ABue3VjFJrK",
-				}, -- [4]
-				{
-					"macro", -- [1]
-					"P MO", -- [2]
-					["sliceToken"] = "ABue3VjFJrJ",
-				}, -- [5]
-				["name"] = "ConsumeMagic",
-				["save"] = true,
-			},
-			["IslandExp"] = {
-				{
-					"item", -- [1]
-					163768, -- [2]
-					["sliceToken"] = "ABue3Bo=xE1",
-				}, -- [1]
-				{
-					"item", -- [1]
-					163770, -- [2]
-					["sliceToken"] = "ABue3Bo=xEr",
-				}, -- [2]
-				{
-					"item", -- [1]
-					163769, -- [2]
-					["sliceToken"] = "ABue3BGoqv1",
-				}, -- [3]
-				{
-					"item", -- [1]
-					163771, -- [2]
-					["sliceToken"] = "ABue3BGoqvr",
-				}, -- [4]
-				{
-					"item", -- [1]
-					151114, -- [2]
-					["sliceToken"] = "ABuedwFyGAe",
-				}, -- [5]
-				{
-					"item", -- [1]
-					144430, -- [2]
-					["sliceToken"] = "ABuedwLLEQe",
-				}, -- [6]
-				{
-					"item", -- [1]
-					163754, -- [2]
-					["sliceToken"] = "ABued1KdNAu",
-				}, -- [7]
-				{
-					"item", -- [1]
-					163753, -- [2]
-					["sliceToken"] = "ABued1KdNAy",
-				}, -- [8]
-				{
-					"item", -- [1]
-					163755, -- [2]
-					["sliceToken"] = "ABued1KdNAt",
-				}, -- [9]
-				["name"] = "IslandExp",
 				["save"] = true,
 			},
 			["RaidSymbols"] = {
@@ -352,6 +232,111 @@ OneRing_Config = {
 				["save"] = true,
 				["hotkey"] = "ALT-R",
 			},
+			["OPieFlagStore"] = {
+				["FlushedDefaultColors"] = true,
+			},
+			["IslandExp"] = {
+				{
+					"item", -- [1]
+					163768, -- [2]
+					["sliceToken"] = "ABue3Bo=xE1",
+				}, -- [1]
+				{
+					"item", -- [1]
+					163770, -- [2]
+					["sliceToken"] = "ABue3Bo=xEr",
+				}, -- [2]
+				{
+					"item", -- [1]
+					163769, -- [2]
+					["sliceToken"] = "ABue3BGoqv1",
+				}, -- [3]
+				{
+					"item", -- [1]
+					163771, -- [2]
+					["sliceToken"] = "ABue3BGoqvr",
+				}, -- [4]
+				{
+					"item", -- [1]
+					151114, -- [2]
+					["sliceToken"] = "ABuedwFyGAe",
+				}, -- [5]
+				{
+					"item", -- [1]
+					144430, -- [2]
+					["sliceToken"] = "ABuedwLLEQe",
+				}, -- [6]
+				{
+					"item", -- [1]
+					163754, -- [2]
+					["sliceToken"] = "ABued1KdNAu",
+				}, -- [7]
+				{
+					"item", -- [1]
+					163753, -- [2]
+					["sliceToken"] = "ABued1KdNAy",
+				}, -- [8]
+				{
+					"item", -- [1]
+					163755, -- [2]
+					["sliceToken"] = "ABued1KdNAt",
+				}, -- [9]
+				["name"] = "IslandExp",
+				["save"] = true,
+			},
+			["Mounts"] = {
+				{
+					["sliceToken"] = "ABue3Nac4Qu",
+					["id"] = 223578,
+				}, -- [1]
+				{
+					["sliceToken"] = "ABue3Nac4Qy",
+					["id"] = 274610,
+				}, -- [2]
+				{
+					["sliceToken"] = "ABue3Nac4Qt",
+					["id"] = 61425,
+				}, -- [3]
+				{
+					["sliceToken"] = "ABuedwH3D2e",
+					["id"] = 278803,
+				}, -- [4]
+				["name"] = "Mounts",
+				["save"] = true,
+			},
+			["Fishing"] = {
+				{
+					["sliceToken"] = "ABuedqpZMtt",
+					["id"] = 131474,
+				}, -- [1]
+				{
+					"item", -- [1]
+					136377, -- [2]
+					["sliceToken"] = "ABuedqpZMt1",
+				}, -- [2]
+				{
+					"item", -- [1]
+					6532, -- [2]
+					["sliceToken"] = "ABuedekjY/o",
+				}, -- [3]
+				{
+					"equipmentset", -- [1]
+					"Fishing", -- [2]
+					["sliceToken"] = "ABuedekjY/2",
+				}, -- [4]
+				{
+					"equipmentset", -- [1]
+					"Havoc", -- [2]
+					["sliceToken"] = "ABuedekjY/i",
+				}, -- [5]
+				{
+					"item", -- [1]
+					6533, -- [2]
+					["sliceToken"] = "ABuede6=dWe",
+				}, -- [6]
+				["name"] = "Fishing",
+				["save"] = true,
+			},
 			["Buffs"] = {
 				{
 					"item", -- [1]
@@ -379,6 +364,34 @@ OneRing_Config = {
 					["sliceToken"] = "ABuedrxG0na",
 				}, -- [5]
 				["name"] = "Buffs",
+				["save"] = true,
+			},
+			["nsumeMagic"] = {
+				{
+					"macro", -- [1]
+					"ConsumeMagic1", -- [2]
+					["sliceToken"] = "ABue3VjFJrZ",
+				}, -- [1]
+				{
+					"macro", -- [1]
+					"ConsumeMagic2", -- [2]
+					["sliceToken"] = "ABue3VjFJr=",
+				}, -- [2]
+				{
+					"macro", -- [1]
+					"ConsumeMagic3e", -- [2]
+					["sliceToken"] = "ABue3VjFJrL",
+				}, -- [3]
+				{
+					["id"] = 278326,
+					["sliceToken"] = "ABue3VjFJrK",
+				}, -- [4]
+				{
+					"macro", -- [1]
+					"P MO", -- [2]
+					["sliceToken"] = "ABue3VjFJrJ",
+				}, -- [5]
+				["name"] = "ConsumeMagic",
 				["save"] = true,
 			},
 			["Imprison"] = {

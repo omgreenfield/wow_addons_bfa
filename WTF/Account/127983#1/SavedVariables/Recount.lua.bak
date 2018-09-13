@@ -10,15 +10,13 @@ RecountDB = {
 		["Twiddlederr - Kel'Thuzad"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -214.999755859375,
-					["x"] = 488.999755859375,
+					["y"] = -85.9999389648438,
+					["x"] = 601.000122070313,
 					["w"] = 201.999923706055,
-					["h"] = 210,
+					["h"] = 209.999984741211,
 				},
 			},
 			["MainWindowMode"] = 2,
-			["LastInstanceName"] = "Ashamane's Fall",
-			["CurDataSet"] = "OverallData",
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -31,6 +29,8 @@ RecountDB = {
 			},
 			["DetailWindowY"] = -305.000061035156,
 			["DetailWindowX"] = 565.000061035156,
+			["LastInstanceName"] = "Hook Point",
+			["CurDataSet"] = "OverallData",
 			["MainWindowWidth"] = 247,
 			["MainWindowHeight"] = 225.999984741211,
 		},
@@ -44,10 +44,6 @@ RecountDB = {
 				},
 			},
 			["MainWindowMode"] = 2,
-			["MainWindowHeight"] = 209.999984741211,
-			["LastInstanceName"] = "Silvershard Mines",
-			["CurDataSet"] = "LastFightData",
-			["MainWindowWidth"] = 201.999923706055,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -58,6 +54,10 @@ RecountDB = {
 					},
 				},
 			},
+			["LastInstanceName"] = "Silvershard Mines",
+			["CurDataSet"] = "LastFightData",
+			["MainWindowWidth"] = 201.999923706055,
+			["MainWindowHeight"] = 209.999984741211,
 		},
 		["Suhdrude - Anvilmar"] = {
 			["MainWindow"] = {
@@ -89,6 +89,10 @@ RecountDB = {
 				},
 			},
 			["MainWindowMode"] = 2,
+			["MainWindowHeight"] = 207.000076293945,
+			["LastInstanceName"] = "Waycrest Manor",
+			["CurDataSet"] = "CurrentFightData",
+			["MainWindowWidth"] = 211,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -99,10 +103,6 @@ RecountDB = {
 					},
 				},
 			},
-			["LastInstanceName"] = "Lordaeron",
-			["CurDataSet"] = "CurrentFightData",
-			["MainWindowWidth"] = 211,
-			["MainWindowHeight"] = 207.000076293945,
 		},
 	},
 }

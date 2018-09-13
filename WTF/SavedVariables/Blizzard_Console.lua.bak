@@ -1,154 +1,153 @@
 
 Blizzard_Console_SavedVars = {
 	["version"] = 3,
-	["height"] = 300,
 	["messageHistory"] = {
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [1]
 		{
-			"Time set to 9/6/2018 (Thu) 17:22", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [2]
 		{
-			"Gamespeed set from 0.017 to 0.017", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [3]
 		{
-			"World transfer aborted (reason: 30)", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [4]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [5]
 		{
-			"Got new connection 3", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [6]
 		{
-			"Weather changed to 2, intensity 0.500000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [7]
 		{
-			"Only one lightning storm at a time is supported (including storms from weather).", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [8]
 		{
-			"Changing lightning storm from previous lightning ID:0 to new lightning ID: 116.", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [9]
 		{
-			"Weather changed to 2, intensity 0.500000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [10]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [11]
 		{
-			"Got new connection 3", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [12]
 		{
-			"Only one lightning storm at a time is supported (including storms from weather).", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [13]
 		{
-			"Changing lightning storm from previous lightning ID:0 to new lightning ID: 116.", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [14]
 		{
-			"Weather changed to 2, intensity 0.500000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [15]
 		{
-			"World transfer pending...", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [16]
 		{
-			"Got new connection 3", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [17]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [18]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [19]
 		{
-			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [20]
 		{
-			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [21]
 		{
-			"Attempted to register existing command: ShowObjUsage\n", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [22]
 		{
-			"Attempted to register existing command: SetDifficulty\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [23]
 		{
-			"Failed to set SpellClutter callback on graphicsQuality CVar - using default of 30.0", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [24]
 		{
-			"Failed to set SpellClutter callback on RAIDgraphicsQuality CVar - using default of 30.0", -- [1]
+			"Weather changed to 3, intensity 0.500000\n", -- [1]
 			0, -- [2]
 		}, -- [25]
 		{
-			"Got new connection 3", -- [1]
+			"Weather changed to 3, intensity 0.500000\n", -- [1]
 			0, -- [2]
 		}, -- [26]
 		{
-			"Proficiency in item class 2 set to 0x0000000080", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [27]
 		{
-			"Proficiency in item class 2 set to 0x0000000081", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [28]
 		{
-			"Proficiency in item class 4 set to 0x0000000021", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [29]
 		{
-			"Proficiency in item class 2 set to 0x0000004081", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [30]
 		{
-			"Proficiency in item class 2 set to 0x0000104081", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [31]
 		{
-			"Proficiency in item class 4 set to 0x0000000025", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [32]
 		{
-			"Proficiency in item class 4 set to 0x0000000027", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [33]
 		{
-			"Proficiency in item class 2 set to 0x0000106081", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [34]
 		{
-			"Proficiency in item class 2 set to 0x0000106281", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [35]
 		{
-			"Proficiency in item class 2 set to 0x0000106281", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [36]
 		{
-			"Proficiency in item class 4 set to 0x0000000027", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [37]
 		{
@@ -156,35 +155,35 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [38]
 		{
-			"Time set to 9/6/2018 (Thu) 18:10", -- [1]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
 			0, -- [2]
 		}, -- [39]
 		{
-			"Gamespeed set from 0.017 to 0.017", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [40]
 		{
-			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [41]
 		{
-			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [42]
 		{
-			"Attempted to register existing command: ShowObjUsage\n", -- [1]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
 			0, -- [2]
 		}, -- [43]
 		{
-			"Attempted to register existing command: SetDifficulty\n", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [44]
 		{
-			"Failed to set SpellClutter callback on graphicsQuality CVar - using default of 30.0", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [45]
 		{
-			"Failed to set SpellClutter callback on RAIDgraphicsQuality CVar - using default of 30.0", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [46]
 		{
@@ -192,91 +191,91 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [47]
 		{
-			"Proficiency in item class 2 set to 0x0000000080", -- [1]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
 			0, -- [2]
 		}, -- [48]
 		{
-			"Proficiency in item class 2 set to 0x0000000081", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [49]
 		{
-			"Proficiency in item class 2 set to 0x0000000091", -- [1]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
 			0, -- [2]
 		}, -- [50]
 		{
-			"Proficiency in item class 2 set to 0x0000000491", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [51]
 		{
-			"Proficiency in item class 4 set to 0x0000000021", -- [1]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
 			0, -- [2]
 		}, -- [52]
 		{
-			"Proficiency in item class 2 set to 0x0000004491", -- [1]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
 			0, -- [2]
 		}, -- [53]
 		{
-			"Proficiency in item class 2 set to 0x00000044d1", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [54]
 		{
-			"Proficiency in item class 4 set to 0x0000000025", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [55]
 		{
-			"Proficiency in item class 4 set to 0x0000000027", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [56]
 		{
-			"Proficiency in item class 2 set to 0x00000064d1", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [57]
 		{
-			"Proficiency in item class 2 set to 0x00000064d1", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [58]
 		{
-			"Proficiency in item class 4 set to 0x0000000027", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [59]
 		{
-			"Weather changed to 2, intensity 1.000000\n", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [60]
 		{
-			"Time set to 9/6/2018 (Thu) 18:10", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [61]
 		{
-			"Gamespeed set from 0.017 to 0.017", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [62]
 		{
-			"Weather changed to 2, intensity 0.249022\n", -- [1]
+			"Weather changed to 1, intensity 0.250000\n", -- [1]
 			0, -- [2]
 		}, -- [63]
 		{
-			"Weather changed to 2, intensity 1.000000\n", -- [1]
+			"Weather changed to 1, intensity 0.250000\n", -- [1]
 			0, -- [2]
 		}, -- [64]
 		{
-			"Weather changed to 1, intensity 0.250000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [65]
 		{
-			"Weather changed to 2, intensity 0.221302\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [66]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [67]
 		{
-			"Got new connection 3", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [68]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [69]
 		{
@@ -284,23 +283,23 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [70]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [71]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [72]
 		{
-			"Got new connection 3", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [73]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [74]
 		{
-			"Weather changed to 2, intensity 0.272671\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [75]
 		{
@@ -308,63 +307,63 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [76]
 		{
-			"Weather changed to 2, intensity 0.272671\n", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [77]
 		{
-			"Skill 182 increased from 128 to 129", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [78]
 		{
-			"Skill 2549 increased from 128 to 129", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [79]
 		{
-			"Weather changed to 2, intensity 1.000000\n", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [80]
 		{
-			"Weather changed to 1, intensity 0.250000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [81]
 		{
-			"Weather changed to 2, intensity 0.220421\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [82]
 		{
-			"Skill 182 increased from 129 to 130", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [83]
 		{
-			"Skill 2549 increased from 129 to 130", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [84]
 		{
-			"World transfer pending...", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [85]
 		{
-			"Got new connection 3", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [86]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [87]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [88]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [89]
 		{
-			"Got new connection 3", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [90]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [91]
 		{
@@ -392,11 +391,11 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [97]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
 			0, -- [2]
 		}, -- [98]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
 			0, -- [2]
 		}, -- [99]
 		{
@@ -412,11 +411,11 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [102]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [103]
 		{
-			"Got new connection 3", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [104]
 		{
@@ -448,103 +447,103 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [111]
 		{
-			"Weather changed to 2, intensity 0.067639\n", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [112]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [113]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [114]
 		{
-			"Got new connection 3", -- [1]
+			"Weather changed to 3, intensity 0.500000\n", -- [1]
 			0, -- [2]
 		}, -- [115]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Weather changed to 3, intensity 0.500000\n", -- [1]
 			0, -- [2]
 		}, -- [116]
 		{
-			"Weather changed to 2, intensity 1.000000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [117]
 		{
-			"Skill 182 increased from 130 to 131", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [118]
 		{
-			"Skill 2549 increased from 130 to 131", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [119]
 		{
-			"Weather changed to 1, intensity 0.250000\n", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [120]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [121]
 		{
-			"Weather changed to 2, intensity 0.233432\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [122]
 		{
-			"Skill 183 increased from 565 to 570", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [123]
 		{
-			"Skill 754 increased from 565 to 570", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [124]
 		{
-			"Skill 829 increased from 565 to 570", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [125]
 		{
-			"Weather changed to 2, intensity 1.000000\n", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [126]
 		{
-			"Weather changed to 2, intensity 0.206931\n", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [127]
 		{
-			"Skill 182 increased from 131 to 132", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [128]
 		{
-			"Skill 2549 increased from 131 to 132", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [129]
 		{
-			"Skill 182 increased from 132 to 133", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [130]
 		{
-			"Skill 2549 increased from 132 to 133", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [131]
 		{
-			"Weather changed to 2, intensity 1.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [132]
 		{
-			"Weather changed to 1, intensity 0.250000\n", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [133]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [134]
 		{
-			"Got new connection 3", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [135]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [136]
 		{
@@ -564,23 +563,23 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [140]
 		{
-			"GameTimeSync: delta=0, differential=1, HoursAndMinutes=1161", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [141]
 		{
-			"Got new connection 3", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [142]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [143]
 		{
-			"World transfer pending...", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [144]
 		{
-			"Got new connection 3", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [145]
 		{
@@ -612,15 +611,15 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [152]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [153]
 		{
-			"Got new connection 3", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [154]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [155]
 		{
@@ -632,15 +631,15 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [157]
 		{
-			"Got new connection 3", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [158]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [159]
 		{
-			"Weather changed to 2, intensity 0.254915\n", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [160]
 		{
@@ -648,71 +647,71 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [161]
 		{
-			"Skill 182 increased from 133 to 134", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [162]
 		{
-			"Skill 2549 increased from 133 to 134", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [163]
 		{
-			"Weather changed to 2, intensity 0.254915\n", -- [1]
+			"Weather changed to 1, intensity 0.250000\n", -- [1]
 			0, -- [2]
 		}, -- [164]
 		{
-			"Skill 182 increased from 134 to 135", -- [1]
+			"Weather changed to 1, intensity 0.250000\n", -- [1]
 			0, -- [2]
 		}, -- [165]
 		{
-			"Skill 2549 increased from 134 to 135", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [166]
 		{
-			"Weather changed to 2, intensity 1.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [167]
 		{
-			"Skill 182 increased from 135 to 136", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [168]
 		{
-			"Skill 2549 increased from 135 to 136", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [169]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [170]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [171]
 		{
-			"Weather changed to 2, intensity 1.000000\n", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [172]
 		{
-			"Skill 182 increased from 136 to 137", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [173]
 		{
-			"Skill 2549 increased from 136 to 137", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [174]
 		{
-			"Weather changed to 1, intensity 0.250000\n", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [175]
 		{
-			"Weather changed to 2, intensity 0.275108\n", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [176]
 		{
-			"Weather changed to 2, intensity 0.800000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [177]
 		{
-			"Weather changed to 1, intensity 0.250000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [178]
 		{
@@ -720,31 +719,31 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [179]
 		{
-			"Weather changed to 2, intensity 0.213805\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [180]
 		{
-			"Weather changed to 2, intensity 1.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [181]
 		{
-			"Weather changed to 2, intensity 0.274679\n", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [182]
 		{
-			"Skill 182 increased from 137 to 138", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [183]
 		{
-			"Skill 2549 increased from 137 to 138", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [184]
 		{
-			"Weather changed to 2, intensity 1.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [185]
 		{
-			"Weather changed to 2, intensity 0.274679\n", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [186]
 		{
@@ -764,23 +763,23 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [190]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [191]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [192]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.250000\n", -- [1]
 			0, -- [2]
 		}, -- [193]
 		{
-			"Got new connection 3", -- [1]
+			"Weather changed to 1, intensity 0.250000\n", -- [1]
 			0, -- [2]
 		}, -- [194]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [195]
 		{
@@ -792,35 +791,35 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [197]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [198]
 		{
-			"Got new connection 3", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [199]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [200]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
 			0, -- [2]
 		}, -- [201]
 		{
-			"Got new connection 3", -- [1]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
 			0, -- [2]
 		}, -- [202]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [203]
 		{
-			"World transfer pending...", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [204]
 		{
-			"Got new connection 3", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [205]
 		{
@@ -844,39 +843,39 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [210]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [211]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [212]
 		{
-			"Skill 182 increased from 138 to 139", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [213]
 		{
-			"Skill 2549 increased from 138 to 139", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [214]
 		{
-			"Skill 182 increased from 139 to 140", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [215]
 		{
-			"Skill 2549 increased from 139 to 140", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [216]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [217]
 		{
-			"Got new connection 3", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [218]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [219]
 		{
@@ -884,15 +883,15 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [220]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [221]
 		{
-			"Got new connection 3", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [222]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [223]
 		{
@@ -900,167 +899,167 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [224]
 		{
-			"Skill 393 increased from 1 to 2", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [225]
 		{
-			"Skill 2557 increased from 1 to 2", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [226]
 		{
-			"Skill 182 increased from 140 to 141", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [227]
 		{
-			"Skill 2549 increased from 140 to 141", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [228]
 		{
-			"Skill 393 increased from 2 to 3", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [229]
 		{
-			"Skill 2557 increased from 2 to 3", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [230]
 		{
-			"Skill 393 increased from 3 to 4", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [231]
 		{
-			"Skill 2557 increased from 3 to 4", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [232]
 		{
-			"Skill 393 increased from 4 to 5", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [233]
 		{
-			"Skill 2557 increased from 4 to 5", -- [1]
+			"Weather changed to 2, intensity 0.127830\n", -- [1]
 			0, -- [2]
 		}, -- [234]
 		{
-			"Skill 393 increased from 5 to 6", -- [1]
+			"Weather changed to 2, intensity 0.127830\n", -- [1]
 			0, -- [2]
 		}, -- [235]
 		{
-			"Skill 2557 increased from 5 to 6", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [236]
 		{
-			"Skill 182 increased from 141 to 142", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [237]
 		{
-			"Skill 2549 increased from 141 to 142", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [238]
 		{
-			"Skill 182 increased from 142 to 143", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [239]
 		{
-			"Skill 2549 increased from 142 to 143", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [240]
 		{
-			"Skill 393 increased from 6 to 7", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [241]
 		{
-			"Skill 2557 increased from 6 to 7", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [242]
 		{
-			"Skill 393 increased from 7 to 8", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [243]
 		{
-			"Skill 2557 increased from 7 to 8", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [244]
 		{
-			"Skill 393 increased from 8 to 9", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [245]
 		{
-			"Skill 2557 increased from 8 to 9", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [246]
 		{
-			"Skill 393 increased from 9 to 10", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [247]
 		{
-			"Skill 2557 increased from 9 to 10", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [248]
 		{
-			"Skill 393 increased from 10 to 11", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [249]
 		{
-			"Skill 2557 increased from 10 to 11", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [250]
 		{
-			"Skill 393 increased from 11 to 12", -- [1]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
 			0, -- [2]
 		}, -- [251]
 		{
-			"Skill 2557 increased from 11 to 12", -- [1]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
 			0, -- [2]
 		}, -- [252]
 		{
-			"GameTimeSync: delta=0, differential=1, HoursAndMinutes=1232", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [253]
 		{
-			"Skill 393 increased from 12 to 13", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [254]
 		{
-			"Skill 2557 increased from 12 to 13", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [255]
 		{
-			"Skill 393 increased from 13 to 14", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [256]
 		{
-			"Skill 2557 increased from 13 to 14", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [257]
 		{
-			"Skill 393 increased from 14 to 15", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [258]
 		{
-			"Skill 2557 increased from 14 to 15", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [259]
 		{
-			"Skill 393 increased from 15 to 16", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [260]
 		{
-			"Skill 2557 increased from 15 to 16", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [261]
 		{
-			"Skill 393 increased from 16 to 17", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [262]
 		{
-			"Skill 2557 increased from 16 to 17", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [263]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [264]
 		{
-			"Got new connection 3", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [265]
 		{
@@ -1068,27 +1067,27 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [266]
 		{
-			"World transfer pending...", -- [1]
+			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
 			0, -- [2]
 		}, -- [267]
 		{
-			"Got new connection 3", -- [1]
+			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
 			0, -- [2]
 		}, -- [268]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Attempted to register existing command: ShowObjUsage\n", -- [1]
 			0, -- [2]
 		}, -- [269]
 		{
-			"Got new connection 3", -- [1]
+			"Attempted to register existing command: SetDifficulty\n", -- [1]
 			0, -- [2]
 		}, -- [270]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Failed to set SpellClutter callback on graphicsQuality CVar - using default of 30.0", -- [1]
 			0, -- [2]
 		}, -- [271]
 		{
-			"World transfer pending...", -- [1]
+			"Failed to set SpellClutter callback on RAIDgraphicsQuality CVar - using default of 30.0", -- [1]
 			0, -- [2]
 		}, -- [272]
 		{
@@ -1096,567 +1095,567 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [273]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 2 set to 0x0000000080", -- [1]
 			0, -- [2]
 		}, -- [274]
 		{
-			"World transfer pending...", -- [1]
+			"Proficiency in item class 2 set to 0x0000000081", -- [1]
 			0, -- [2]
 		}, -- [275]
 		{
-			"Got new connection 3", -- [1]
+			"Proficiency in item class 4 set to 0x0000000021", -- [1]
 			0, -- [2]
 		}, -- [276]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 2 set to 0x0000004081", -- [1]
 			0, -- [2]
 		}, -- [277]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 2 set to 0x0000104081", -- [1]
 			0, -- [2]
 		}, -- [278]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 4 set to 0x0000000025", -- [1]
 			0, -- [2]
 		}, -- [279]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 4 set to 0x0000000027", -- [1]
 			0, -- [2]
 		}, -- [280]
 		{
-			"Got new connection 3", -- [1]
+			"Proficiency in item class 2 set to 0x0000106081", -- [1]
 			0, -- [2]
 		}, -- [281]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 2 set to 0x0000106281", -- [1]
 			0, -- [2]
 		}, -- [282]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 2 set to 0x0000106281", -- [1]
 			0, -- [2]
 		}, -- [283]
 		{
-			"Skill 183 increased from 570 to 575", -- [1]
+			"Proficiency in item class 4 set to 0x0000000027", -- [1]
 			0, -- [2]
 		}, -- [284]
 		{
-			"Skill 754 increased from 570 to 575", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [285]
 		{
-			"Skill 829 increased from 570 to 575", -- [1]
+			"Time set to 9/10/2018 (Mon) 22:06", -- [1]
 			0, -- [2]
 		}, -- [286]
 		{
-			"Skill 182 increased from 143 to 144", -- [1]
+			"Gamespeed set from 0.017 to 0.017", -- [1]
 			0, -- [2]
 		}, -- [287]
 		{
-			"Skill 2549 increased from 143 to 144", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [288]
 		{
-			"Skill 182 increased from 144 to 145", -- [1]
+			"Weather changed to 2, intensity 0.193252\n", -- [1]
 			0, -- [2]
 		}, -- [289]
 		{
-			"Skill 2549 increased from 144 to 145", -- [1]
+			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
 			0, -- [2]
 		}, -- [290]
 		{
-			"World transfer pending...", -- [1]
+			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
 			0, -- [2]
 		}, -- [291]
 		{
-			"Got new connection 3", -- [1]
+			"Attempted to register existing command: ShowObjUsage\n", -- [1]
 			0, -- [2]
 		}, -- [292]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Attempted to register existing command: SetDifficulty\n", -- [1]
 			0, -- [2]
 		}, -- [293]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Failed to set SpellClutter callback on graphicsQuality CVar - using default of 30.0", -- [1]
 			0, -- [2]
 		}, -- [294]
 		{
-			"Weather changed to 2, intensity 0.146909\n", -- [1]
+			"Failed to set SpellClutter callback on RAIDgraphicsQuality CVar - using default of 30.0", -- [1]
 			0, -- [2]
 		}, -- [295]
 		{
-			"Weather changed to 2, intensity 0.600000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [296]
 		{
-			"Weather changed to 2, intensity 0.146909\n", -- [1]
+			"Proficiency in item class 2 set to 0x0000000080", -- [1]
 			0, -- [2]
 		}, -- [297]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 2 set to 0x0000000081", -- [1]
 			0, -- [2]
 		}, -- [298]
 		{
-			"Got new connection 3", -- [1]
+			"Proficiency in item class 2 set to 0x0000000091", -- [1]
 			0, -- [2]
 		}, -- [299]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 2 set to 0x0000000491", -- [1]
 			0, -- [2]
 		}, -- [300]
 		{
-			"Skill 182 increased from 145 to 146", -- [1]
+			"Proficiency in item class 4 set to 0x0000000021", -- [1]
 			0, -- [2]
 		}, -- [301]
 		{
-			"Skill 2549 increased from 145 to 146", -- [1]
+			"Proficiency in item class 2 set to 0x0000004491", -- [1]
 			0, -- [2]
 		}, -- [302]
 		{
-			"World transfer pending...", -- [1]
+			"Proficiency in item class 2 set to 0x00000044d1", -- [1]
 			0, -- [2]
 		}, -- [303]
 		{
-			"Got new connection 3", -- [1]
+			"Proficiency in item class 2 set to 0x00001044d1", -- [1]
 			0, -- [2]
 		}, -- [304]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 4 set to 0x0000000025", -- [1]
 			0, -- [2]
 		}, -- [305]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 4 set to 0x0000000027", -- [1]
 			0, -- [2]
 		}, -- [306]
 		{
-			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
+			"Proficiency in item class 2 set to 0x00001064d1", -- [1]
 			0, -- [2]
 		}, -- [307]
 		{
-			"Sorting particles normally.", -- [1]
+			"Proficiency in item class 2 set to 0x00001064d1", -- [1]
 			0, -- [2]
 		}, -- [308]
 		{
-			"Water detail changed to 2", -- [1]
+			"Proficiency in item class 4 set to 0x0000000027", -- [1]
 			0, -- [2]
 		}, -- [309]
 		{
-			"Ripple detail changed to 1", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [310]
 		{
-			"Reflection mode changed to 0", -- [1]
+			"Time set to 9/10/2018 (Mon) 22:15", -- [1]
 			0, -- [2]
 		}, -- [311]
 		{
-			"Reflection downscale changed to 0", -- [1]
+			"Gamespeed set from 0.017 to 0.017", -- [1]
 			0, -- [2]
 		}, -- [312]
 		{
-			"Sunshafts quality changed to 2", -- [1]
+			"Weather changed to 2, intensity 0.085419\n", -- [1]
 			0, -- [2]
 		}, -- [313]
 		{
-			"Refraction mode changed to 2", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [314]
 		{
-			"Enabling BSP node cache (first time - starting up)", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [315]
 		{
-			"WorldPoolUsage must be stream, dynamic or static.", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [316]
 		{
-			"CVar 'worldPoolUsage' failed validation for its initial value.", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [317]
 		{
-			"Alpha map bit depth set to 8bit on restart.", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [318]
 		{
-			"Volume fog enabled.", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [319]
 		{
-			"Projected textures enabled.", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [320]
 		{
-			"Shadow mode changed to 3 - 4 band dynamic shadows, 2048", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [321]
 		{
-			"Shadow texture size changed to 2048.", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [322]
 		{
-			"Soft shadows changed to 0.", -- [1]
+			"Weather changed to 2, intensity 0.085419\n", -- [1]
 			0, -- [2]
 		}, -- [323]
 		{
-			"SSAO mode set to 3", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [324]
 		{
-			"SSAO distance value set to 100.000000", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [325]
 		{
-			"SSAO blur set to 2", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [326]
 		{
-			"Depth Based Opacity Enabled", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [327]
 		{
-			"SkyCloudLOD set to 0", -- [1]
+			"Weather changed to 1, intensity 0.250000\n", -- [1]
 			0, -- [2]
 		}, -- [328]
 		{
-			"Terrain mip level changed to 0.", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [329]
 		{
-			"Outline mode changed to 2", -- [1]
+			"Weather changed to 2, intensity 1.000000\n", -- [1]
 			0, -- [2]
 		}, -- [330]
 		{
-			"LightBuffer mode changed to 2", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [331]
 		{
-			"Physics interaction level changed to 1", -- [1]
+			"Weather changed to 1, intensity 0.250000\n", -- [1]
 			0, -- [2]
 		}, -- [332]
 		{
-			"Render scale changed to 1", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [333]
 		{
-			"Resample quality changed to 0", -- [1]
+			"Weather changed to 2, intensity 0.500000\n", -- [1]
 			0, -- [2]
 		}, -- [334]
 		{
-			"MSAA disabled", -- [1]
+			"Only one lightning storm at a time is supported (including storms from weather).", -- [1]
 			0, -- [2]
 		}, -- [335]
 		{
-			"MSAA for alpha-test enabled.", -- [1]
+			"Changing lightning storm from previous lightning ID:0 to new lightning ID: 116.", -- [1]
 			0, -- [2]
 		}, -- [336]
 		{
-			"Component texture lod changed to 0", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [337]
 		{
-			"Component texture lod changed to 0", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [338]
 		{
-			"World preload object sort enabled.", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [339]
 		{
-			"World load object sort enabled.", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [340]
 		{
-			"World preload non critical enabled.", -- [1]
+			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
 			0, -- [2]
 		}, -- [341]
 		{
-			"World preload high res textures enabled.", -- [1]
+			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
 			0, -- [2]
 		}, -- [342]
 		{
-			"Full memory crash dump disabled", -- [1]
+			"Attempted to register existing command: ShowObjUsage\n", -- [1]
 			0, -- [2]
 		}, -- [343]
 		{
-			"Error display disabled", -- [1]
+			"Attempted to register existing command: SetDifficulty\n", -- [1]
 			0, -- [2]
 		}, -- [344]
 		{
-			"Error display shown", -- [1]
+			"Failed to set SpellClutter callback on graphicsQuality CVar - using default of 30.0", -- [1]
 			0, -- [2]
 		}, -- [345]
 		{
-			"Displaying errors through fatal errors", -- [1]
+			"Failed to set SpellClutter callback on RAIDgraphicsQuality CVar - using default of 30.0", -- [1]
 			0, -- [2]
 		}, -- [346]
 		{
-			"Displaying errors through fatal errors", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [347]
 		{
-			"Now filtering: all messages", -- [1]
+			"Proficiency in item class 2 set to 0x0000000080", -- [1]
 			0, -- [2]
 		}, -- [348]
 		{
-			"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.", -- [1]
+			"Proficiency in item class 2 set to 0x0000000081", -- [1]
 			0, -- [2]
 		}, -- [349]
 		{
-			"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.", -- [1]
+			"Proficiency in item class 4 set to 0x0000000021", -- [1]
 			0, -- [2]
 		}, -- [350]
 		{
-			"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.", -- [1]
+			"Proficiency in item class 2 set to 0x0000004081", -- [1]
 			0, -- [2]
 		}, -- [351]
 		{
-			"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.", -- [1]
+			"Proficiency in item class 2 set to 0x0000104081", -- [1]
 			0, -- [2]
 		}, -- [352]
 		{
-			"FFX: Anti Aliasing Mode disabled", -- [1]
+			"Proficiency in item class 4 set to 0x0000000025", -- [1]
 			0, -- [2]
 		}, -- [353]
 		{
-			"FFX: Color Blind Test Mode Disabled", -- [1]
+			"Proficiency in item class 4 set to 0x0000000027", -- [1]
 			0, -- [2]
 		}, -- [354]
 		{
-			"[GlueLogin] Starting loginlauncherPortal=\"us.actual.battle.net\" loginPortal=\"us.actual.battle.net:1119\"", -- [1]
+			"Proficiency in item class 2 set to 0x0000106081", -- [1]
 			0, -- [2]
 		}, -- [355]
 		{
-			"[GlueLogin] Resetting", -- [1]
+			"Proficiency in item class 2 set to 0x0000106281", -- [1]
 			0, -- [2]
 		}, -- [356]
 		{
-			"[IBN_Login] Initializing", -- [1]
+			"Proficiency in item class 2 set to 0x0000106281", -- [1]
 			0, -- [2]
 		}, -- [357]
 		{
-			"[IBN_Login] Attempting logonhost=\"us.actual.battle.net\" port=\"1119\"", -- [1]
+			"Proficiency in item class 4 set to 0x0000000027", -- [1]
 			0, -- [2]
 		}, -- [358]
 		{
-			"[GlueLogin] Waiting for server response.", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [359]
 		{
-			"[GlueLogin] Waiting for server response.", -- [1]
+			"Time set to 9/10/2018 (Mon) 22:31", -- [1]
 			0, -- [2]
 		}, -- [360]
 		{
-			"[GlueLogin] Waiting for server response.", -- [1]
+			"Gamespeed set from 0.017 to 0.017", -- [1]
 			0, -- [2]
 		}, -- [361]
 		{
-			"[GlueLogin] Logon complete.", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [362]
 		{
-			"[GlueLogin] Waiting for realm list.", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [363]
 		{
-			"[IBN_Login] Requesting realm list ticket", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [364]
 		{
-			"[IBN_Login] Received realm list ticketcode=\"ERROR_OK (0)\"", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [365]
 		{
-			"[GlueLogin] Waiting for realm list.", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [366]
 		{
-			"[IBN_Login] Received sub region listcode=\"ERROR_OK (0)\"", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [367]
 		{
-			"[IBN_Login] Requesting last played charsnumSubRegions=\"3\"", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [368]
 		{
-			"[GlueLogin] Realm list ready.", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [369]
 		{
-			"[IBN_Login] Joining realmsubRegion=\"1-101-89\" realmAddress=\"1-5-28\"", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [370]
 		{
-			"[IBN_Login] OnRealmJoincode=\"ERROR_OK (0)\"", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [371]
 		{
-			"NetClient::HandleConnect()\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [372]
 		{
-			"[GlueLogin] Received AuthedToWoWresult=\"ERROR_OK (0)\"", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [373]
 		{
-			"Got new connection 2", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [374]
 		{
-			"[IBN_Login] Front disconnectingconnectionId=\"1\"", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [375]
 		{
-			"[GlueLogin] Disconnecting from authentication server.", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [376]
 		{
-			"[IBN_BackInterface] Session with Battle.net established.", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [377]
 		{
-			"[IBN_Login] Front disconnectedconnectionId=\"1\" result=\"( code=\"ERROR_NETWORK_MODULE_SOCKET_CLOSED (1016)\" localizedMessage=\"\" debugMessage=\"\")\"", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [378]
 		{
-			"[GlueLogin] Disconnected from authentication server.", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [379]
 		{
-			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [380]
 		{
-			"Game table failed consistency check: ChallengeModeHealth. rows: 50, expectedRows: 51, columns: 1, expectedColumns: 1\n", -- [1]
-			3, -- [2]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			0, -- [2]
 		}, -- [381]
 		{
-			"Game table failed consistency check: ChallengeModeDamage. rows: 50, expectedRows: 51, columns: 1, expectedColumns: 1\n", -- [1]
-			3, -- [2]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			0, -- [2]
 		}, -- [382]
 		{
-			"Got new connection 3", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [383]
 		{
-			"Proficiency in item class 2 set to 0x0000000080", -- [1]
+			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
 			0, -- [2]
 		}, -- [384]
 		{
-			"Proficiency in item class 2 set to 0x0000000081", -- [1]
+			"Failed to set SpellClutter callback on graphicsQuality CVar - using default of 30.0", -- [1]
 			0, -- [2]
 		}, -- [385]
 		{
-			"Proficiency in item class 2 set to 0x0000000091", -- [1]
+			"Failed to set SpellClutter callback on RAIDgraphicsQuality CVar - using default of 30.0", -- [1]
 			0, -- [2]
 		}, -- [386]
 		{
-			"Proficiency in item class 2 set to 0x0000000491", -- [1]
+			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
 			0, -- [2]
 		}, -- [387]
 		{
-			"Proficiency in item class 4 set to 0x0000000021", -- [1]
+			"Failed to set SpellClutter callback on graphicsQuality CVar - using default of 30.0", -- [1]
 			0, -- [2]
 		}, -- [388]
 		{
-			"Proficiency in item class 2 set to 0x0000004491", -- [1]
+			"Failed to set SpellClutter callback on RAIDgraphicsQuality CVar - using default of 30.0", -- [1]
 			0, -- [2]
 		}, -- [389]
 		{
-			"Proficiency in item class 2 set to 0x00000044d1", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [390]
 		{
-			"Proficiency in item class 4 set to 0x0000000025", -- [1]
+			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
 			0, -- [2]
 		}, -- [391]
 		{
-			"Proficiency in item class 4 set to 0x0000000027", -- [1]
+			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
 			0, -- [2]
 		}, -- [392]
 		{
-			"Proficiency in item class 2 set to 0x00000064d1", -- [1]
+			"Attempted to register existing command: ShowObjUsage\n", -- [1]
 			0, -- [2]
 		}, -- [393]
 		{
-			"Proficiency in item class 2 set to 0x00000064d1", -- [1]
+			"Attempted to register existing command: SetDifficulty\n", -- [1]
 			0, -- [2]
 		}, -- [394]
 		{
-			"Proficiency in item class 4 set to 0x0000000027", -- [1]
+			"Failed to set SpellClutter callback on graphicsQuality CVar - using default of 30.0", -- [1]
 			0, -- [2]
 		}, -- [395]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Failed to set SpellClutter callback on RAIDgraphicsQuality CVar - using default of 30.0", -- [1]
 			0, -- [2]
 		}, -- [396]
 		{
-			"Time set to 9/7/2018 (Fri) 13:48", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [397]
 		{
-			"Gamespeed set from 0.017 to 0.017", -- [1]
+			"Proficiency in item class 2 set to 0x0000000080", -- [1]
 			0, -- [2]
 		}, -- [398]
 		{
-			"World transfer pending...", -- [1]
+			"Proficiency in item class 2 set to 0x0000000081", -- [1]
 			0, -- [2]
 		}, -- [399]
 		{
-			"Got new connection 3", -- [1]
+			"Proficiency in item class 2 set to 0x0000000091", -- [1]
 			0, -- [2]
 		}, -- [400]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 2 set to 0x0000000491", -- [1]
 			0, -- [2]
 		}, -- [401]
 		{
-			"World transfer pending...", -- [1]
+			"Proficiency in item class 4 set to 0x0000000021", -- [1]
 			0, -- [2]
 		}, -- [402]
 		{
-			"Got new connection 3", -- [1]
+			"Proficiency in item class 2 set to 0x0000004491", -- [1]
 			0, -- [2]
 		}, -- [403]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 2 set to 0x00000044d1", -- [1]
 			0, -- [2]
 		}, -- [404]
 		{
-			"Got new connection 3", -- [1]
+			"Proficiency in item class 2 set to 0x00001044d1", -- [1]
 			0, -- [2]
 		}, -- [405]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 4 set to 0x0000000025", -- [1]
 			0, -- [2]
 		}, -- [406]
 		{
-			"World transfer pending...", -- [1]
+			"Proficiency in item class 4 set to 0x0000000027", -- [1]
 			0, -- [2]
 		}, -- [407]
 		{
-			"Got new connection 3", -- [1]
+			"Proficiency in item class 2 set to 0x00001064d1", -- [1]
 			0, -- [2]
 		}, -- [408]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 2 set to 0x00001064d1", -- [1]
 			0, -- [2]
 		}, -- [409]
 		{
-			"World transfer pending...", -- [1]
+			"Proficiency in item class 4 set to 0x0000000027", -- [1]
 			0, -- [2]
 		}, -- [410]
 		{
-			"Got new connection 3", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [411]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Time set to 9/10/2018 (Mon) 22:51", -- [1]
 			0, -- [2]
 		}, -- [412]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Gamespeed set from 0.017 to 0.017", -- [1]
 			0, -- [2]
 		}, -- [413]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [414]
 		{
@@ -1668,7 +1667,7 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [416]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [417]
 		{
@@ -1680,939 +1679,939 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [419]
 		{
-			"Weather changed to 3, intensity 0.331653\n", -- [1]
+			"Weather changed to 2, intensity 0.136129\n", -- [1]
 			0, -- [2]
 		}, -- [420]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
 			0, -- [2]
 		}, -- [421]
 		{
-			"Got new connection 3", -- [1]
+			"Sorting particles normally.", -- [1]
 			0, -- [2]
 		}, -- [422]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Water detail changed to 2", -- [1]
 			0, -- [2]
 		}, -- [423]
 		{
-			"Got new connection 3", -- [1]
+			"Ripple detail changed to 1", -- [1]
 			0, -- [2]
 		}, -- [424]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Reflection mode changed to 0", -- [1]
 			0, -- [2]
 		}, -- [425]
 		{
-			"Got new connection 3", -- [1]
+			"Reflection downscale changed to 0", -- [1]
 			0, -- [2]
 		}, -- [426]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Sunshafts quality changed to 2", -- [1]
 			0, -- [2]
 		}, -- [427]
 		{
-			"Skill 393 increased from 17 to 18", -- [1]
+			"Refraction mode changed to 2", -- [1]
 			0, -- [2]
 		}, -- [428]
 		{
-			"Skill 2557 increased from 17 to 18", -- [1]
+			"Enabling BSP node cache (first time - starting up)", -- [1]
 			0, -- [2]
 		}, -- [429]
 		{
-			"Skill 393 increased from 18 to 19", -- [1]
+			"WorldPoolUsage must be stream, dynamic or static.", -- [1]
 			0, -- [2]
 		}, -- [430]
 		{
-			"Skill 2557 increased from 18 to 19", -- [1]
+			"CVar 'worldPoolUsage' failed validation for its initial value.", -- [1]
 			0, -- [2]
 		}, -- [431]
 		{
-			"Skill 393 increased from 19 to 20", -- [1]
+			"Alpha map bit depth set to 8bit on restart.", -- [1]
 			0, -- [2]
 		}, -- [432]
 		{
-			"Skill 2557 increased from 19 to 20", -- [1]
+			"Volume fog enabled.", -- [1]
 			0, -- [2]
 		}, -- [433]
 		{
-			"Skill 393 increased from 20 to 21", -- [1]
+			"Projected textures enabled.", -- [1]
 			0, -- [2]
 		}, -- [434]
 		{
-			"Skill 2557 increased from 20 to 21", -- [1]
+			"Shadow mode changed to 3 - 4 band dynamic shadows, 2048", -- [1]
 			0, -- [2]
 		}, -- [435]
 		{
-			"Skill 182 increased from 146 to 147", -- [1]
+			"Shadow texture size changed to 2048.", -- [1]
 			0, -- [2]
 		}, -- [436]
 		{
-			"Skill 2549 increased from 146 to 147", -- [1]
+			"Soft shadows changed to 0.", -- [1]
 			0, -- [2]
 		}, -- [437]
 		{
-			"Skill 393 increased from 21 to 22", -- [1]
+			"SSAO mode set to 3", -- [1]
 			0, -- [2]
 		}, -- [438]
 		{
-			"Skill 2557 increased from 21 to 22", -- [1]
+			"SSAO distance value set to 100.000000", -- [1]
 			0, -- [2]
 		}, -- [439]
 		{
-			"Skill 393 increased from 22 to 23", -- [1]
+			"SSAO blur set to 2", -- [1]
 			0, -- [2]
 		}, -- [440]
 		{
-			"Skill 2557 increased from 22 to 23", -- [1]
+			"Depth Based Opacity Enabled", -- [1]
 			0, -- [2]
 		}, -- [441]
 		{
-			"Skill 393 increased from 23 to 24", -- [1]
+			"SkyCloudLOD set to 0", -- [1]
 			0, -- [2]
 		}, -- [442]
 		{
-			"Skill 2557 increased from 23 to 24", -- [1]
+			"Terrain mip level changed to 0.", -- [1]
 			0, -- [2]
 		}, -- [443]
 		{
-			"Skill 393 increased from 24 to 25", -- [1]
+			"Outline mode changed to 2", -- [1]
 			0, -- [2]
 		}, -- [444]
 		{
-			"Skill 2557 increased from 24 to 25", -- [1]
+			"LightBuffer mode changed to 2", -- [1]
 			0, -- [2]
 		}, -- [445]
 		{
-			"Skill 393 increased from 25 to 26", -- [1]
+			"Physics interaction level changed to 1", -- [1]
 			0, -- [2]
 		}, -- [446]
 		{
-			"Skill 2557 increased from 25 to 26", -- [1]
+			"Render scale changed to 1", -- [1]
 			0, -- [2]
 		}, -- [447]
 		{
-			"Skill 393 increased from 26 to 27", -- [1]
+			"Resample quality changed to 0", -- [1]
 			0, -- [2]
 		}, -- [448]
 		{
-			"Skill 2557 increased from 26 to 27", -- [1]
+			"MSAA disabled", -- [1]
 			0, -- [2]
 		}, -- [449]
 		{
-			"Skill 393 increased from 27 to 28", -- [1]
+			"MSAA for alpha-test enabled.", -- [1]
 			0, -- [2]
 		}, -- [450]
 		{
-			"Skill 2557 increased from 27 to 28", -- [1]
+			"Component texture lod changed to 0", -- [1]
 			0, -- [2]
 		}, -- [451]
 		{
-			"Skill 393 increased from 28 to 29", -- [1]
+			"Component texture lod changed to 0", -- [1]
 			0, -- [2]
 		}, -- [452]
 		{
-			"Skill 2557 increased from 28 to 29", -- [1]
+			"World preload object sort enabled.", -- [1]
 			0, -- [2]
 		}, -- [453]
 		{
-			"Skill 183 increased from 575 to 580", -- [1]
+			"World load object sort enabled.", -- [1]
 			0, -- [2]
 		}, -- [454]
 		{
-			"Skill 754 increased from 575 to 580", -- [1]
+			"World preload non critical enabled.", -- [1]
 			0, -- [2]
 		}, -- [455]
 		{
-			"Skill 829 increased from 575 to 580", -- [1]
+			"World preload high res textures enabled.", -- [1]
 			0, -- [2]
 		}, -- [456]
 		{
-			"Skill 182 increased from 147 to 148", -- [1]
+			"Full memory crash dump disabled", -- [1]
 			0, -- [2]
 		}, -- [457]
 		{
-			"Skill 2549 increased from 147 to 148", -- [1]
+			"Error display disabled", -- [1]
 			0, -- [2]
 		}, -- [458]
 		{
-			"Skill 393 increased from 29 to 30", -- [1]
+			"Error display shown", -- [1]
 			0, -- [2]
 		}, -- [459]
 		{
-			"Skill 2557 increased from 29 to 30", -- [1]
+			"Displaying errors through fatal errors", -- [1]
 			0, -- [2]
 		}, -- [460]
 		{
-			"World transfer pending...", -- [1]
+			"Displaying errors through fatal errors", -- [1]
 			0, -- [2]
 		}, -- [461]
 		{
-			"Got new connection 3", -- [1]
+			"Now filtering: all messages", -- [1]
 			0, -- [2]
 		}, -- [462]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.", -- [1]
 			0, -- [2]
 		}, -- [463]
 		{
-			"World transfer pending...", -- [1]
+			"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.", -- [1]
 			0, -- [2]
 		}, -- [464]
 		{
-			"Got new connection 3", -- [1]
+			"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.", -- [1]
 			0, -- [2]
 		}, -- [465]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.", -- [1]
 			0, -- [2]
 		}, -- [466]
 		{
-			"Got new connection 3", -- [1]
+			"FFX: Anti Aliasing Mode disabled", -- [1]
 			0, -- [2]
 		}, -- [467]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"FFX: Color Blind Test Mode Disabled", -- [1]
 			0, -- [2]
 		}, -- [468]
 		{
-			"Got new connection 3", -- [1]
+			"[GlueLogin] Starting loginlauncherPortal=\"us.actual.battle.net\" loginPortal=\"us.actual.battle.net:1119\"", -- [1]
 			0, -- [2]
 		}, -- [469]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"[GlueLogin] Resetting", -- [1]
 			0, -- [2]
 		}, -- [470]
 		{
-			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
+			"[IBN_Login] Initializing", -- [1]
 			0, -- [2]
 		}, -- [471]
 		{
-			"Sorting particles normally.", -- [1]
+			"[IBN_Login] Attempting logonhost=\"us.actual.battle.net\" port=\"1119\"", -- [1]
 			0, -- [2]
 		}, -- [472]
 		{
-			"Water detail changed to 2", -- [1]
+			"[GlueLogin] Waiting for server response.", -- [1]
 			0, -- [2]
 		}, -- [473]
 		{
-			"Ripple detail changed to 1", -- [1]
+			"[GlueLogin] Waiting for server response.", -- [1]
 			0, -- [2]
 		}, -- [474]
 		{
-			"Reflection mode changed to 0", -- [1]
+			"[GlueLogin] Waiting for server response.", -- [1]
 			0, -- [2]
 		}, -- [475]
 		{
-			"Reflection downscale changed to 0", -- [1]
+			"[GlueLogin] Logon complete.", -- [1]
 			0, -- [2]
 		}, -- [476]
 		{
-			"Sunshafts quality changed to 2", -- [1]
+			"[GlueLogin] Waiting for realm list.", -- [1]
 			0, -- [2]
 		}, -- [477]
 		{
-			"Refraction mode changed to 2", -- [1]
+			"[IBN_Login] Requesting realm list ticket", -- [1]
 			0, -- [2]
 		}, -- [478]
 		{
-			"Enabling BSP node cache (first time - starting up)", -- [1]
+			"[IBN_Login] Received realm list ticketcode=\"ERROR_OK (0)\"", -- [1]
 			0, -- [2]
 		}, -- [479]
 		{
-			"WorldPoolUsage must be stream, dynamic or static.", -- [1]
+			"[GlueLogin] Waiting for realm list.", -- [1]
 			0, -- [2]
 		}, -- [480]
 		{
-			"CVar 'worldPoolUsage' failed validation for its initial value.", -- [1]
+			"[IBN_Login] Received sub region listcode=\"ERROR_OK (0)\"", -- [1]
 			0, -- [2]
 		}, -- [481]
 		{
-			"Alpha map bit depth set to 8bit on restart.", -- [1]
+			"[IBN_Login] Requesting last played charsnumSubRegions=\"3\"", -- [1]
 			0, -- [2]
 		}, -- [482]
 		{
-			"Volume fog enabled.", -- [1]
+			"[GlueLogin] Realm list ready.", -- [1]
 			0, -- [2]
 		}, -- [483]
 		{
-			"Projected textures enabled.", -- [1]
+			"[IBN_Login] Joining realmsubRegion=\"1-101-89\" realmAddress=\"1-5-28\"", -- [1]
 			0, -- [2]
 		}, -- [484]
 		{
-			"Shadow mode changed to 3 - 4 band dynamic shadows, 2048", -- [1]
+			"[IBN_Login] OnRealmJoincode=\"ERROR_OK (0)\"", -- [1]
 			0, -- [2]
 		}, -- [485]
 		{
-			"Shadow texture size changed to 2048.", -- [1]
+			"NetClient::HandleConnect()\n", -- [1]
 			0, -- [2]
 		}, -- [486]
 		{
-			"Soft shadows changed to 0.", -- [1]
+			"[GlueLogin] Received AuthedToWoWresult=\"ERROR_OK (0)\"", -- [1]
 			0, -- [2]
 		}, -- [487]
 		{
-			"SSAO mode set to 3", -- [1]
+			"[IBN_Login] Front disconnectingconnectionId=\"1\"", -- [1]
 			0, -- [2]
 		}, -- [488]
 		{
-			"SSAO distance value set to 100.000000", -- [1]
+			"[GlueLogin] Disconnecting from authentication server.", -- [1]
 			0, -- [2]
 		}, -- [489]
 		{
-			"SSAO blur set to 2", -- [1]
+			"[IBN_BackInterface] Session with Battle.net established.", -- [1]
 			0, -- [2]
 		}, -- [490]
 		{
-			"Depth Based Opacity Enabled", -- [1]
+			"[IBN_Login] Front disconnectedconnectionId=\"1\" result=\"( code=\"ERROR_NETWORK_MODULE_SOCKET_CLOSED (1016)\" localizedMessage=\"\" debugMessage=\"\")\"", -- [1]
 			0, -- [2]
 		}, -- [491]
 		{
-			"SkyCloudLOD set to 0", -- [1]
+			"[GlueLogin] Disconnected from authentication server.", -- [1]
 			0, -- [2]
 		}, -- [492]
 		{
-			"Terrain mip level changed to 0.", -- [1]
+			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
 			0, -- [2]
 		}, -- [493]
 		{
-			"Outline mode changed to 2", -- [1]
-			0, -- [2]
-		}, -- [494]
-		{
-			"LightBuffer mode changed to 2", -- [1]
-			0, -- [2]
-		}, -- [495]
-		{
-			"Physics interaction level changed to 1", -- [1]
-			0, -- [2]
-		}, -- [496]
-		{
-			"Render scale changed to 1", -- [1]
-			0, -- [2]
-		}, -- [497]
-		{
-			"Resample quality changed to 0", -- [1]
-			0, -- [2]
-		}, -- [498]
-		{
-			"MSAA disabled", -- [1]
-			0, -- [2]
-		}, -- [499]
-		{
-			"MSAA for alpha-test enabled.", -- [1]
-			0, -- [2]
-		}, -- [500]
-		{
-			"Component texture lod changed to 0", -- [1]
-			0, -- [2]
-		}, -- [501]
-		{
-			"Component texture lod changed to 0", -- [1]
-			0, -- [2]
-		}, -- [502]
-		{
-			"World preload object sort enabled.", -- [1]
-			0, -- [2]
-		}, -- [503]
-		{
-			"World load object sort enabled.", -- [1]
-			0, -- [2]
-		}, -- [504]
-		{
-			"World preload non critical enabled.", -- [1]
-			0, -- [2]
-		}, -- [505]
-		{
-			"World preload high res textures enabled.", -- [1]
-			0, -- [2]
-		}, -- [506]
-		{
-			"Full memory crash dump disabled", -- [1]
-			0, -- [2]
-		}, -- [507]
-		{
-			"Error display disabled", -- [1]
-			0, -- [2]
-		}, -- [508]
-		{
-			"Error display shown", -- [1]
-			0, -- [2]
-		}, -- [509]
-		{
-			"Displaying errors through fatal errors", -- [1]
-			0, -- [2]
-		}, -- [510]
-		{
-			"Displaying errors through fatal errors", -- [1]
-			0, -- [2]
-		}, -- [511]
-		{
-			"Now filtering: all messages", -- [1]
-			0, -- [2]
-		}, -- [512]
-		{
-			"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.", -- [1]
-			0, -- [2]
-		}, -- [513]
-		{
-			"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.", -- [1]
-			0, -- [2]
-		}, -- [514]
-		{
-			"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.", -- [1]
-			0, -- [2]
-		}, -- [515]
-		{
-			"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.", -- [1]
-			0, -- [2]
-		}, -- [516]
-		{
-			"FFX: Anti Aliasing Mode disabled", -- [1]
-			0, -- [2]
-		}, -- [517]
-		{
-			"FFX: Color Blind Test Mode Disabled", -- [1]
-			0, -- [2]
-		}, -- [518]
-		{
-			"[GlueLogin] Starting loginlauncherPortal=\"us.actual.battle.net\" loginPortal=\"us.actual.battle.net:1119\"", -- [1]
-			0, -- [2]
-		}, -- [519]
-		{
-			"[GlueLogin] Resetting", -- [1]
-			0, -- [2]
-		}, -- [520]
-		{
-			"[IBN_Login] Initializing", -- [1]
-			0, -- [2]
-		}, -- [521]
-		{
-			"[IBN_Login] Attempting logonhost=\"us.actual.battle.net\" port=\"1119\"", -- [1]
-			0, -- [2]
-		}, -- [522]
-		{
-			"[GlueLogin] Waiting for server response.", -- [1]
-			0, -- [2]
-		}, -- [523]
-		{
-			"[GlueLogin] Waiting for server response.", -- [1]
-			0, -- [2]
-		}, -- [524]
-		{
-			"[GlueLogin] Waiting for server response.", -- [1]
-			0, -- [2]
-		}, -- [525]
-		{
-			"[GlueLogin] Logon complete.", -- [1]
-			0, -- [2]
-		}, -- [526]
-		{
-			"[GlueLogin] Waiting for realm list.", -- [1]
-			0, -- [2]
-		}, -- [527]
-		{
-			"[IBN_Login] Requesting realm list ticket", -- [1]
-			0, -- [2]
-		}, -- [528]
-		{
-			"[IBN_Login] Received realm list ticketcode=\"ERROR_OK (0)\"", -- [1]
-			0, -- [2]
-		}, -- [529]
-		{
-			"[GlueLogin] Waiting for realm list.", -- [1]
-			0, -- [2]
-		}, -- [530]
-		{
-			"[IBN_Login] Received sub region listcode=\"ERROR_OK (0)\"", -- [1]
-			0, -- [2]
-		}, -- [531]
-		{
-			"[IBN_Login] Requesting last played charsnumSubRegions=\"3\"", -- [1]
-			0, -- [2]
-		}, -- [532]
-		{
-			"[GlueLogin] Realm list ready.", -- [1]
-			0, -- [2]
-		}, -- [533]
-		{
-			"[IBN_Login] Joining realmsubRegion=\"1-101-89\" realmAddress=\"1-5-28\"", -- [1]
-			0, -- [2]
-		}, -- [534]
-		{
-			"[IBN_Login] OnRealmJoincode=\"ERROR_OK (0)\"", -- [1]
-			0, -- [2]
-		}, -- [535]
-		{
-			"NetClient::HandleConnect()\n", -- [1]
-			0, -- [2]
-		}, -- [536]
-		{
-			"[GlueLogin] Received AuthedToWoWresult=\"ERROR_OK (0)\"", -- [1]
-			0, -- [2]
-		}, -- [537]
-		{
-			"[IBN_Login] Front disconnectingconnectionId=\"1\"", -- [1]
-			0, -- [2]
-		}, -- [538]
-		{
-			"[GlueLogin] Disconnecting from authentication server.", -- [1]
-			0, -- [2]
-		}, -- [539]
-		{
-			"[IBN_BackInterface] Session with Battle.net established.", -- [1]
-			0, -- [2]
-		}, -- [540]
-		{
-			"[IBN_Login] Front disconnectedconnectionId=\"1\" result=\"( code=\"ERROR_NETWORK_MODULE_SOCKET_CLOSED (1016)\" localizedMessage=\"\" debugMessage=\"\")\"", -- [1]
-			0, -- [2]
-		}, -- [541]
-		{
-			"[GlueLogin] Disconnected from authentication server.", -- [1]
-			0, -- [2]
-		}, -- [542]
-		{
-			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
-			0, -- [2]
-		}, -- [543]
-		{
 			"Game table failed consistency check: ChallengeModeHealth. rows: 50, expectedRows: 51, columns: 1, expectedColumns: 1\n", -- [1]
 			3, -- [2]
-		}, -- [544]
+		}, -- [494]
 		{
 			"Game table failed consistency check: ChallengeModeDamage. rows: 50, expectedRows: 51, columns: 1, expectedColumns: 1\n", -- [1]
 			3, -- [2]
+		}, -- [495]
+		{
+			"Got new connection 3", -- [1]
+			0, -- [2]
+		}, -- [496]
+		{
+			"Proficiency in item class 2 set to 0x0000000080", -- [1]
+			0, -- [2]
+		}, -- [497]
+		{
+			"Proficiency in item class 2 set to 0x0000000081", -- [1]
+			0, -- [2]
+		}, -- [498]
+		{
+			"Proficiency in item class 2 set to 0x0000000091", -- [1]
+			0, -- [2]
+		}, -- [499]
+		{
+			"Proficiency in item class 2 set to 0x0000000491", -- [1]
+			0, -- [2]
+		}, -- [500]
+		{
+			"Proficiency in item class 4 set to 0x0000000021", -- [1]
+			0, -- [2]
+		}, -- [501]
+		{
+			"Proficiency in item class 2 set to 0x0000004491", -- [1]
+			0, -- [2]
+		}, -- [502]
+		{
+			"Proficiency in item class 2 set to 0x00000044d1", -- [1]
+			0, -- [2]
+		}, -- [503]
+		{
+			"Proficiency in item class 2 set to 0x00001044d1", -- [1]
+			0, -- [2]
+		}, -- [504]
+		{
+			"Proficiency in item class 4 set to 0x0000000025", -- [1]
+			0, -- [2]
+		}, -- [505]
+		{
+			"Proficiency in item class 4 set to 0x0000000027", -- [1]
+			0, -- [2]
+		}, -- [506]
+		{
+			"Proficiency in item class 2 set to 0x00001064d1", -- [1]
+			0, -- [2]
+		}, -- [507]
+		{
+			"Proficiency in item class 2 set to 0x00001064d1", -- [1]
+			0, -- [2]
+		}, -- [508]
+		{
+			"Proficiency in item class 4 set to 0x0000000027", -- [1]
+			0, -- [2]
+		}, -- [509]
+		{
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			0, -- [2]
+		}, -- [510]
+		{
+			"Time set to 9/12/2018 (Wed) 18:02", -- [1]
+			0, -- [2]
+		}, -- [511]
+		{
+			"Gamespeed set from 0.017 to 0.017", -- [1]
+			0, -- [2]
+		}, -- [512]
+		{
+			"World transfer pending...", -- [1]
+			0, -- [2]
+		}, -- [513]
+		{
+			"Got new connection 3", -- [1]
+			0, -- [2]
+		}, -- [514]
+		{
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			0, -- [2]
+		}, -- [515]
+		{
+			"Got new connection 3", -- [1]
+			0, -- [2]
+		}, -- [516]
+		{
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			0, -- [2]
+		}, -- [517]
+		{
+			"Dissolve Effect ID 1075 has invalid fade out time. This will result in the record beign ignore and a regular fade out being applied to the creature.", -- [1]
+			0, -- [2]
+		}, -- [518]
+		{
+			"Got new connection 3", -- [1]
+			0, -- [2]
+		}, -- [519]
+		{
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			0, -- [2]
+		}, -- [520]
+		{
+			"Got new connection 3", -- [1]
+			0, -- [2]
+		}, -- [521]
+		{
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			0, -- [2]
+		}, -- [522]
+		{
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
+			0, -- [2]
+		}, -- [523]
+		{
+			"Got new connection 3", -- [1]
+			0, -- [2]
+		}, -- [524]
+		{
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			0, -- [2]
+		}, -- [525]
+		{
+			"Got new connection 3", -- [1]
+			0, -- [2]
+		}, -- [526]
+		{
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			0, -- [2]
+		}, -- [527]
+		{
+			"Got new connection 3", -- [1]
+			0, -- [2]
+		}, -- [528]
+		{
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			0, -- [2]
+		}, -- [529]
+		{
+			"World transfer pending...", -- [1]
+			0, -- [2]
+		}, -- [530]
+		{
+			"Got new connection 3", -- [1]
+			0, -- [2]
+		}, -- [531]
+		{
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			0, -- [2]
+		}, -- [532]
+		{
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			0, -- [2]
+		}, -- [533]
+		{
+			"World transfer pending...", -- [1]
+			0, -- [2]
+		}, -- [534]
+		{
+			"Got new connection 3", -- [1]
+			0, -- [2]
+		}, -- [535]
+		{
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			0, -- [2]
+		}, -- [536]
+		{
+			"World transfer pending...", -- [1]
+			0, -- [2]
+		}, -- [537]
+		{
+			"Got new connection 3", -- [1]
+			0, -- [2]
+		}, -- [538]
+		{
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			0, -- [2]
+		}, -- [539]
+		{
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			0, -- [2]
+		}, -- [540]
+		{
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			0, -- [2]
+		}, -- [541]
+		{
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			0, -- [2]
+		}, -- [542]
+		{
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			0, -- [2]
+		}, -- [543]
+		{
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			0, -- [2]
+		}, -- [544]
+		{
+			"World transfer pending...", -- [1]
+			0, -- [2]
 		}, -- [545]
 		{
 			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [546]
 		{
-			"Proficiency in item class 2 set to 0x0000000080", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [547]
 		{
-			"Proficiency in item class 2 set to 0x0000000081", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [548]
 		{
-			"Proficiency in item class 2 set to 0x0000000091", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [549]
 		{
-			"Proficiency in item class 2 set to 0x0000000491", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [550]
 		{
-			"Proficiency in item class 4 set to 0x0000000021", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [551]
 		{
-			"Proficiency in item class 2 set to 0x0000004491", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [552]
 		{
-			"Proficiency in item class 2 set to 0x00000044d1", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [553]
 		{
-			"Proficiency in item class 4 set to 0x0000000025", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [554]
 		{
-			"Proficiency in item class 4 set to 0x0000000027", -- [1]
+			"Weather changed to 2, intensity 0.065403\n", -- [1]
 			0, -- [2]
 		}, -- [555]
 		{
-			"Proficiency in item class 2 set to 0x00000064d1", -- [1]
+			"Weather changed to 2, intensity 0.065403\n", -- [1]
 			0, -- [2]
 		}, -- [556]
 		{
-			"Proficiency in item class 2 set to 0x00000064d1", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [557]
 		{
-			"Proficiency in item class 4 set to 0x0000000027", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [558]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
 			0, -- [2]
 		}, -- [559]
 		{
-			"Time set to 9/7/2018 (Fri) 15:18", -- [1]
+			"Sorting particles normally.", -- [1]
 			0, -- [2]
 		}, -- [560]
 		{
-			"Gamespeed set from 0.017 to 0.017", -- [1]
+			"Water detail changed to 2", -- [1]
 			0, -- [2]
 		}, -- [561]
 		{
-			"Got new connection 3", -- [1]
+			"Ripple detail changed to 1", -- [1]
 			0, -- [2]
 		}, -- [562]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Reflection mode changed to 0", -- [1]
 			0, -- [2]
 		}, -- [563]
 		{
-			"GameTimeSync: delta=0, differential=1, HoursAndMinutes=921", -- [1]
+			"Reflection downscale changed to 0", -- [1]
 			0, -- [2]
 		}, -- [564]
 		{
-			"World transfer pending...", -- [1]
+			"Sunshafts quality changed to 2", -- [1]
 			0, -- [2]
 		}, -- [565]
 		{
-			"Got new connection 3", -- [1]
+			"Refraction mode changed to 2", -- [1]
 			0, -- [2]
 		}, -- [566]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Enabling BSP node cache (first time - starting up)", -- [1]
 			0, -- [2]
 		}, -- [567]
 		{
-			"World transfer pending...", -- [1]
+			"WorldPoolUsage must be stream, dynamic or static.", -- [1]
 			0, -- [2]
 		}, -- [568]
 		{
-			"Got new connection 3", -- [1]
+			"CVar 'worldPoolUsage' failed validation for its initial value.", -- [1]
 			0, -- [2]
 		}, -- [569]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Alpha map bit depth set to 8bit on restart.", -- [1]
 			0, -- [2]
 		}, -- [570]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Volume fog enabled.", -- [1]
 			0, -- [2]
 		}, -- [571]
 		{
-			"Got new connection 3", -- [1]
+			"Projected textures enabled.", -- [1]
 			0, -- [2]
 		}, -- [572]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Shadow mode changed to 3 - 4 band dynamic shadows, 2048", -- [1]
 			0, -- [2]
 		}, -- [573]
 		{
-			"World transfer pending...", -- [1]
+			"Shadow texture size changed to 2048.", -- [1]
 			0, -- [2]
 		}, -- [574]
 		{
-			"Got new connection 3", -- [1]
+			"Soft shadows changed to 0.", -- [1]
 			0, -- [2]
 		}, -- [575]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"SSAO mode set to 3", -- [1]
 			0, -- [2]
 		}, -- [576]
 		{
-			"World transfer pending...", -- [1]
+			"SSAO distance value set to 100.000000", -- [1]
 			0, -- [2]
 		}, -- [577]
 		{
-			"Got new connection 3", -- [1]
+			"SSAO blur set to 2", -- [1]
 			0, -- [2]
 		}, -- [578]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Depth Based Opacity Enabled", -- [1]
 			0, -- [2]
 		}, -- [579]
 		{
-			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
+			"SkyCloudLOD set to 0", -- [1]
 			0, -- [2]
 		}, -- [580]
 		{
-			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
+			"Terrain mip level changed to 0.", -- [1]
 			0, -- [2]
 		}, -- [581]
 		{
-			"Attempted to register existing command: ShowObjUsage\n", -- [1]
+			"Outline mode changed to 2", -- [1]
 			0, -- [2]
 		}, -- [582]
 		{
-			"Attempted to register existing command: SetDifficulty\n", -- [1]
+			"LightBuffer mode changed to 2", -- [1]
 			0, -- [2]
 		}, -- [583]
 		{
-			"Failed to set SpellClutter callback on graphicsQuality CVar - using default of 30.0", -- [1]
+			"Physics interaction level changed to 1", -- [1]
 			0, -- [2]
 		}, -- [584]
 		{
-			"Failed to set SpellClutter callback on RAIDgraphicsQuality CVar - using default of 30.0", -- [1]
+			"Render scale changed to 1", -- [1]
 			0, -- [2]
 		}, -- [585]
 		{
-			"Got new connection 3", -- [1]
+			"Resample quality changed to 0", -- [1]
 			0, -- [2]
 		}, -- [586]
 		{
-			"Proficiency in item class 2 set to 0x0000000080", -- [1]
+			"MSAA disabled", -- [1]
 			0, -- [2]
 		}, -- [587]
 		{
-			"Proficiency in item class 2 set to 0x0000000081", -- [1]
+			"MSAA for alpha-test enabled.", -- [1]
 			0, -- [2]
 		}, -- [588]
 		{
-			"Proficiency in item class 4 set to 0x0000000021", -- [1]
+			"Component texture lod changed to 0", -- [1]
 			0, -- [2]
 		}, -- [589]
 		{
-			"Proficiency in item class 2 set to 0x0000004081", -- [1]
+			"Component texture lod changed to 0", -- [1]
 			0, -- [2]
 		}, -- [590]
 		{
-			"Proficiency in item class 2 set to 0x0000104081", -- [1]
+			"World preload object sort enabled.", -- [1]
 			0, -- [2]
 		}, -- [591]
 		{
-			"Proficiency in item class 4 set to 0x0000000025", -- [1]
+			"World load object sort enabled.", -- [1]
 			0, -- [2]
 		}, -- [592]
 		{
-			"Proficiency in item class 4 set to 0x0000000027", -- [1]
+			"World preload non critical enabled.", -- [1]
 			0, -- [2]
 		}, -- [593]
 		{
-			"Proficiency in item class 2 set to 0x0000106081", -- [1]
+			"World preload high res textures enabled.", -- [1]
 			0, -- [2]
 		}, -- [594]
 		{
-			"Proficiency in item class 2 set to 0x0000106281", -- [1]
+			"Full memory crash dump disabled", -- [1]
 			0, -- [2]
 		}, -- [595]
 		{
-			"Proficiency in item class 2 set to 0x0000106281", -- [1]
+			"Error display disabled", -- [1]
 			0, -- [2]
 		}, -- [596]
 		{
-			"Proficiency in item class 4 set to 0x0000000027", -- [1]
+			"Error display shown", -- [1]
 			0, -- [2]
 		}, -- [597]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Displaying errors through fatal errors", -- [1]
 			0, -- [2]
 		}, -- [598]
 		{
-			"Time set to 9/7/2018 (Fri) 15:43", -- [1]
+			"Displaying errors through fatal errors", -- [1]
 			0, -- [2]
 		}, -- [599]
 		{
-			"Gamespeed set from 0.017 to 0.017", -- [1]
+			"Now filtering: all messages", -- [1]
 			0, -- [2]
 		}, -- [600]
 		{
-			"Got new connection 3", -- [1]
+			"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.", -- [1]
 			0, -- [2]
 		}, -- [601]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.", -- [1]
 			0, -- [2]
 		}, -- [602]
 		{
-			"Weather changed to 2, intensity 0.153625\n", -- [1]
+			"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.", -- [1]
 			0, -- [2]
 		}, -- [603]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.", -- [1]
 			0, -- [2]
 		}, -- [604]
 		{
-			"Weather changed to 2, intensity 0.153625\n", -- [1]
+			"FFX: Anti Aliasing Mode disabled", -- [1]
 			0, -- [2]
 		}, -- [605]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"FFX: Color Blind Test Mode Disabled", -- [1]
 			0, -- [2]
 		}, -- [606]
 		{
-			"Weather changed to 2, intensity 0.153625\n", -- [1]
+			"[GlueLogin] Starting loginlauncherPortal=\"us.actual.battle.net\" loginPortal=\"us.actual.battle.net:1119\"", -- [1]
 			0, -- [2]
 		}, -- [607]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"[GlueLogin] Resetting", -- [1]
 			0, -- [2]
 		}, -- [608]
 		{
-			"Weather changed to 2, intensity 0.153625\n", -- [1]
+			"[IBN_Login] Initializing", -- [1]
 			0, -- [2]
 		}, -- [609]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"[IBN_Login] Attempting logonhost=\"us.actual.battle.net\" port=\"1119\"", -- [1]
 			0, -- [2]
 		}, -- [610]
 		{
-			"Got new connection 3", -- [1]
+			"[GlueLogin] Waiting for server response.", -- [1]
 			0, -- [2]
 		}, -- [611]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"[GlueLogin] Waiting for server response.", -- [1]
 			0, -- [2]
 		}, -- [612]
 		{
-			"Weather changed to 2, intensity 0.600000\n", -- [1]
+			"[GlueLogin] Waiting for server response.", -- [1]
 			0, -- [2]
 		}, -- [613]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"[GlueLogin] Logon complete.", -- [1]
 			0, -- [2]
 		}, -- [614]
 		{
-			"Weather changed to 3, intensity 0.107227\n", -- [1]
+			"[GlueLogin] Waiting for realm list.", -- [1]
 			0, -- [2]
 		}, -- [615]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"[IBN_Login] Requesting realm list ticket", -- [1]
 			0, -- [2]
 		}, -- [616]
 		{
-			"Weather changed to 3, intensity 0.107227\n", -- [1]
+			"[IBN_Login] Received realm list ticketcode=\"ERROR_OK (0)\"", -- [1]
 			0, -- [2]
 		}, -- [617]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"[GlueLogin] Waiting for realm list.", -- [1]
 			0, -- [2]
 		}, -- [618]
 		{
-			"Weather changed to 3, intensity 0.107227\n", -- [1]
+			"[IBN_Login] Received sub region listcode=\"ERROR_OK (0)\"", -- [1]
 			0, -- [2]
 		}, -- [619]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"[IBN_Login] Requesting last played charsnumSubRegions=\"3\"", -- [1]
 			0, -- [2]
 		}, -- [620]
 		{
-			"Weather changed to 3, intensity 0.107227\n", -- [1]
+			"[GlueLogin] Realm list ready.", -- [1]
 			0, -- [2]
 		}, -- [621]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"[IBN_Login] Joining realmsubRegion=\"1-101-89\" realmAddress=\"1-5-28\"", -- [1]
 			0, -- [2]
 		}, -- [622]
 		{
-			"Weather changed to 3, intensity 0.107227\n", -- [1]
+			"[IBN_Login] OnRealmJoincode=\"ERROR_OK (0)\"", -- [1]
 			0, -- [2]
 		}, -- [623]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"NetClient::HandleConnect()\n", -- [1]
 			0, -- [2]
 		}, -- [624]
 		{
-			"World transfer pending...", -- [1]
+			"[GlueLogin] Received AuthedToWoWresult=\"ERROR_OK (0)\"", -- [1]
 			0, -- [2]
 		}, -- [625]
 		{
-			"Got new connection 3", -- [1]
+			"[IBN_Login] Front disconnectingconnectionId=\"1\"", -- [1]
 			0, -- [2]
 		}, -- [626]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"[GlueLogin] Disconnecting from authentication server.", -- [1]
 			0, -- [2]
 		}, -- [627]
 		{
-			"World transfer pending...", -- [1]
+			"[IBN_BackInterface] Session with Battle.net established.", -- [1]
 			0, -- [2]
 		}, -- [628]
 		{
-			"Got new connection 3", -- [1]
+			"[IBN_Login] Front disconnectedconnectionId=\"1\" result=\"( code=\"ERROR_NETWORK_MODULE_SOCKET_CLOSED (1016)\" localizedMessage=\"\" debugMessage=\"\")\"", -- [1]
 			0, -- [2]
 		}, -- [629]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"[GlueLogin] Disconnected from authentication server.", -- [1]
 			0, -- [2]
 		}, -- [630]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
 			0, -- [2]
 		}, -- [631]
 		{
-			"Weather changed to 3, intensity 0.107227\n", -- [1]
-			0, -- [2]
+			"Game table failed consistency check: ChallengeModeHealth. rows: 50, expectedRows: 51, columns: 1, expectedColumns: 1\n", -- [1]
+			3, -- [2]
 		}, -- [632]
 		{
-			"World transfer pending...", -- [1]
-			0, -- [2]
+			"Game table failed consistency check: ChallengeModeDamage. rows: 50, expectedRows: 51, columns: 1, expectedColumns: 1\n", -- [1]
+			3, -- [2]
 		}, -- [633]
 		{
 			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [634]
 		{
-			"Weather changed to 2, intensity 0.800000\n", -- [1]
+			"Proficiency in item class 2 set to 0x0000000080", -- [1]
 			0, -- [2]
 		}, -- [635]
 		{
-			"Weather changed to 2, intensity 0.800000\n", -- [1]
+			"Proficiency in item class 2 set to 0x0000000081", -- [1]
 			0, -- [2]
 		}, -- [636]
 		{
-			"World transfer pending...", -- [1]
+			"Proficiency in item class 2 set to 0x0000000091", -- [1]
 			0, -- [2]
 		}, -- [637]
 		{
-			"Got new connection 3", -- [1]
+			"Proficiency in item class 2 set to 0x0000000491", -- [1]
 			0, -- [2]
 		}, -- [638]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 4 set to 0x0000000021", -- [1]
 			0, -- [2]
 		}, -- [639]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 2 set to 0x0000004491", -- [1]
 			0, -- [2]
 		}, -- [640]
 		{
-			"World transfer pending...", -- [1]
+			"Proficiency in item class 2 set to 0x00000044d1", -- [1]
 			0, -- [2]
 		}, -- [641]
 		{
-			"Got new connection 3", -- [1]
+			"Proficiency in item class 2 set to 0x00001044d1", -- [1]
 			0, -- [2]
 		}, -- [642]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 4 set to 0x0000000025", -- [1]
 			0, -- [2]
 		}, -- [643]
 		{
-			"World transfer pending...", -- [1]
+			"Proficiency in item class 4 set to 0x0000000027", -- [1]
 			0, -- [2]
 		}, -- [644]
 		{
-			"Got new connection 3", -- [1]
+			"Proficiency in item class 2 set to 0x00001064d1", -- [1]
 			0, -- [2]
 		}, -- [645]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 2 set to 0x00001064d1", -- [1]
 			0, -- [2]
 		}, -- [646]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 4 set to 0x0000000027", -- [1]
 			0, -- [2]
 		}, -- [647]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [648]
 		{
-			"Got new connection 3", -- [1]
+			"Time set to 9/12/2018 (Wed) 20:48", -- [1]
 			0, -- [2]
 		}, -- [649]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Gamespeed set from 0.017 to 0.017", -- [1]
 			0, -- [2]
 		}, -- [650]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [651]
 		{
-			"Got new connection 3", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [652]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [653]
 		{
@@ -2620,27 +2619,27 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [654]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 2, intensity 1.000000\n", -- [1]
 			0, -- [2]
 		}, -- [655]
 		{
-			"Got new connection 3", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [656]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Weather changed to 2, intensity 1.000000\n", -- [1]
 			0, -- [2]
 		}, -- [657]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.250000\n", -- [1]
 			0, -- [2]
 		}, -- [658]
 		{
-			"Got new connection 3", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [659]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [660]
 		{
@@ -2648,19 +2647,19 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [661]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [662]
 		{
-			"Got new connection 3", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [663]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [664]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [665]
 		{
@@ -2676,79 +2675,79 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [668]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [669]
 		{
-			"Got new connection 3", -- [1]
+			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
 			0, -- [2]
 		}, -- [670]
 		{
-			"Weather changed to 1, intensity 0.250000\n", -- [1]
+			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
 			0, -- [2]
 		}, -- [671]
 		{
-			"Weather changed to 1, intensity 0.250000\n", -- [1]
+			"Attempted to register existing command: ShowObjUsage\n", -- [1]
 			0, -- [2]
 		}, -- [672]
 		{
-			"World transfer pending...", -- [1]
+			"Attempted to register existing command: SetDifficulty\n", -- [1]
 			0, -- [2]
 		}, -- [673]
 		{
-			"Got new connection 3", -- [1]
+			"Failed to set SpellClutter callback on graphicsQuality CVar - using default of 30.0", -- [1]
 			0, -- [2]
 		}, -- [674]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Failed to set SpellClutter callback on RAIDgraphicsQuality CVar - using default of 30.0", -- [1]
 			0, -- [2]
 		}, -- [675]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [676]
 		{
-			"World transfer pending...", -- [1]
+			"Proficiency in item class 2 set to 0x0000000080", -- [1]
 			0, -- [2]
 		}, -- [677]
 		{
-			"Got new connection 3", -- [1]
+			"Proficiency in item class 2 set to 0x0000000081", -- [1]
 			0, -- [2]
 		}, -- [678]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 4 set to 0x0000000021", -- [1]
 			0, -- [2]
 		}, -- [679]
 		{
-			"World transfer pending...", -- [1]
+			"Proficiency in item class 2 set to 0x0000004081", -- [1]
 			0, -- [2]
 		}, -- [680]
 		{
-			"Got new connection 3", -- [1]
+			"Proficiency in item class 2 set to 0x0000104081", -- [1]
 			0, -- [2]
 		}, -- [681]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 4 set to 0x0000000025", -- [1]
 			0, -- [2]
 		}, -- [682]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 4 set to 0x0000000027", -- [1]
 			0, -- [2]
 		}, -- [683]
 		{
-			"World transfer pending...", -- [1]
+			"Proficiency in item class 2 set to 0x0000106081", -- [1]
 			0, -- [2]
 		}, -- [684]
 		{
-			"Got new connection 3", -- [1]
+			"Proficiency in item class 2 set to 0x0000106281", -- [1]
 			0, -- [2]
 		}, -- [685]
 		{
-			"World transfer pending...", -- [1]
+			"Proficiency in item class 2 set to 0x0000106281", -- [1]
 			0, -- [2]
 		}, -- [686]
 		{
-			"Got new connection 3", -- [1]
+			"Proficiency in item class 4 set to 0x0000000027", -- [1]
 			0, -- [2]
 		}, -- [687]
 		{
@@ -2756,43 +2755,43 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [688]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Time set to 9/12/2018 (Wed) 21:38", -- [1]
 			0, -- [2]
 		}, -- [689]
 		{
-			"World transfer pending...", -- [1]
+			"Gamespeed set from 0.017 to 0.017", -- [1]
 			0, -- [2]
 		}, -- [690]
 		{
-			"Got new connection 3", -- [1]
+			"Weather changed to 2, intensity 0.600000\n", -- [1]
 			0, -- [2]
 		}, -- [691]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [692]
 		{
-			"Got new connection 3", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [693]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [694]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [695]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [696]
 		{
-			"Got new connection 3", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [697]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [698]
 		{
@@ -2800,527 +2799,527 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [699]
 		{
-			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [700]
 		{
-			"Sorting particles normally.", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [701]
 		{
-			"Water detail changed to 2", -- [1]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
 			0, -- [2]
 		}, -- [702]
 		{
-			"Ripple detail changed to 1", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [703]
 		{
-			"Reflection mode changed to 0", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [704]
 		{
-			"Reflection downscale changed to 0", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [705]
 		{
-			"Sunshafts quality changed to 2", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [706]
 		{
-			"Refraction mode changed to 2", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [707]
 		{
-			"Enabling BSP node cache (first time - starting up)", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [708]
 		{
-			"WorldPoolUsage must be stream, dynamic or static.", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [709]
 		{
-			"CVar 'worldPoolUsage' failed validation for its initial value.", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [710]
 		{
-			"Alpha map bit depth set to 8bit on restart.", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [711]
 		{
-			"Volume fog enabled.", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [712]
 		{
-			"Projected textures enabled.", -- [1]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
 			0, -- [2]
 		}, -- [713]
 		{
-			"Shadow mode changed to 3 - 4 band dynamic shadows, 2048", -- [1]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
 			0, -- [2]
 		}, -- [714]
 		{
-			"Shadow texture size changed to 2048.", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [715]
 		{
-			"Soft shadows changed to 0.", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [716]
 		{
-			"SSAO mode set to 3", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [717]
 		{
-			"SSAO distance value set to 100.000000", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [718]
 		{
-			"SSAO blur set to 2", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [719]
 		{
-			"Depth Based Opacity Enabled", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [720]
 		{
-			"SkyCloudLOD set to 0", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [721]
 		{
-			"Terrain mip level changed to 0.", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [722]
 		{
-			"Outline mode changed to 2", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [723]
 		{
-			"LightBuffer mode changed to 2", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [724]
 		{
-			"Physics interaction level changed to 1", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [725]
 		{
-			"Render scale changed to 1", -- [1]
+			"Weather changed to 1, intensity 0.250000\n", -- [1]
 			0, -- [2]
 		}, -- [726]
 		{
-			"Resample quality changed to 0", -- [1]
+			"Weather changed to 1, intensity 0.250000\n", -- [1]
 			0, -- [2]
 		}, -- [727]
 		{
-			"MSAA disabled", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [728]
 		{
-			"MSAA for alpha-test enabled.", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [729]
 		{
-			"Component texture lod changed to 0", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [730]
 		{
-			"Component texture lod changed to 0", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [731]
 		{
-			"World preload object sort enabled.", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [732]
 		{
-			"World load object sort enabled.", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [733]
 		{
-			"World preload non critical enabled.", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [734]
 		{
-			"World preload high res textures enabled.", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [735]
 		{
-			"Full memory crash dump disabled", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [736]
 		{
-			"Error display disabled", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [737]
 		{
-			"Error display shown", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [738]
 		{
-			"Displaying errors through fatal errors", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [739]
 		{
-			"Displaying errors through fatal errors", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [740]
 		{
-			"Now filtering: all messages", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [741]
 		{
-			"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [742]
 		{
-			"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [743]
 		{
-			"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [744]
 		{
-			"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [745]
 		{
-			"FFX: Anti Aliasing Mode disabled", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [746]
 		{
-			"FFX: Color Blind Test Mode Disabled", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [747]
 		{
-			"[GlueLogin] Starting loginlauncherPortal=\"us.actual.battle.net\" loginPortal=\"us.actual.battle.net:1119\"", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [748]
 		{
-			"[GlueLogin] Resetting", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [749]
 		{
-			"[IBN_Login] Initializing", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [750]
 		{
-			"[IBN_Login] Attempting logonhost=\"us.actual.battle.net\" port=\"1119\"", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [751]
 		{
-			"[GlueLogin] Waiting for server response.", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [752]
 		{
-			"[GlueLogin] Waiting for server response.", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [753]
 		{
-			"[GlueLogin] Waiting for server response.", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [754]
 		{
-			"[GlueLogin] Logon complete.", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [755]
 		{
-			"[GlueLogin] Waiting for realm list.", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [756]
 		{
-			"[IBN_Login] Requesting realm list ticket", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [757]
 		{
-			"[IBN_Login] Received realm list ticketcode=\"ERROR_OK (0)\"", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [758]
 		{
-			"[GlueLogin] Waiting for realm list.", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [759]
 		{
-			"[IBN_Login] Received sub region listcode=\"ERROR_OK (0)\"", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [760]
 		{
-			"[IBN_Login] Requesting last played charsnumSubRegions=\"3\"", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [761]
 		{
-			"[GlueLogin] Realm list ready.", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [762]
 		{
-			"[IBN_Login] Joining realmsubRegion=\"1-101-89\" realmAddress=\"1-5-28\"", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [763]
 		{
-			"[IBN_Login] OnRealmJoincode=\"ERROR_OK (0)\"", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [764]
 		{
-			"NetClient::HandleConnect()\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [765]
 		{
-			"[GlueLogin] Received AuthedToWoWresult=\"ERROR_OK (0)\"", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [766]
 		{
-			"Got new connection 2", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [767]
 		{
-			"[IBN_Login] Front disconnectingconnectionId=\"1\"", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [768]
 		{
-			"[GlueLogin] Disconnecting from authentication server.", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [769]
 		{
-			"[IBN_BackInterface] Session with Battle.net established.", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [770]
 		{
-			"[IBN_Login] Front disconnectedconnectionId=\"1\" result=\"( code=\"ERROR_NETWORK_MODULE_SOCKET_CLOSED (1016)\" localizedMessage=\"\" debugMessage=\"\")\"", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [771]
 		{
-			"[GlueLogin] Disconnected from authentication server.", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [772]
 		{
-			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
 			0, -- [2]
 		}, -- [773]
 		{
-			"Game table failed consistency check: ChallengeModeHealth. rows: 50, expectedRows: 51, columns: 1, expectedColumns: 1\n", -- [1]
-			3, -- [2]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
+			0, -- [2]
 		}, -- [774]
 		{
-			"Game table failed consistency check: ChallengeModeDamage. rows: 50, expectedRows: 51, columns: 1, expectedColumns: 1\n", -- [1]
-			3, -- [2]
+			"World transfer pending...", -- [1]
+			0, -- [2]
 		}, -- [775]
 		{
 			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [776]
 		{
-			"Proficiency in item class 2 set to 0x0000000080", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [777]
 		{
-			"Proficiency in item class 2 set to 0x0000000081", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [778]
 		{
-			"Proficiency in item class 4 set to 0x0000000021", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [779]
 		{
-			"Proficiency in item class 2 set to 0x0000004081", -- [1]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
 			0, -- [2]
 		}, -- [780]
 		{
-			"Proficiency in item class 2 set to 0x0000104081", -- [1]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
 			0, -- [2]
 		}, -- [781]
 		{
-			"Proficiency in item class 4 set to 0x0000000025", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [782]
 		{
-			"Proficiency in item class 4 set to 0x0000000027", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [783]
 		{
-			"Proficiency in item class 2 set to 0x0000106081", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [784]
 		{
-			"Proficiency in item class 2 set to 0x0000106281", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [785]
 		{
-			"Proficiency in item class 2 set to 0x0000106281", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [786]
 		{
-			"Proficiency in item class 4 set to 0x0000000027", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [787]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [788]
 		{
-			"Time set to 9/7/2018 (Fri) 16:48", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [789]
 		{
-			"Gamespeed set from 0.017 to 0.017", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [790]
 		{
-			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [791]
 		{
-			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [792]
 		{
-			"Attempted to register existing command: ShowObjUsage\n", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [793]
 		{
-			"Attempted to register existing command: SetDifficulty\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [794]
 		{
-			"Failed to set SpellClutter callback on graphicsQuality CVar - using default of 30.0", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [795]
 		{
-			"Failed to set SpellClutter callback on RAIDgraphicsQuality CVar - using default of 30.0", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [796]
 		{
-			"Got new connection 3", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [797]
 		{
-			"Proficiency in item class 2 set to 0x0000000080", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [798]
 		{
-			"Proficiency in item class 2 set to 0x0000000081", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [799]
 		{
-			"Proficiency in item class 2 set to 0x0000000091", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [800]
 		{
-			"Proficiency in item class 2 set to 0x0000000491", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [801]
 		{
-			"Proficiency in item class 4 set to 0x0000000021", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [802]
 		{
-			"Proficiency in item class 2 set to 0x0000004491", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [803]
 		{
-			"Proficiency in item class 2 set to 0x00000044d1", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [804]
 		{
-			"Proficiency in item class 4 set to 0x0000000025", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [805]
 		{
-			"Proficiency in item class 4 set to 0x0000000027", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [806]
 		{
-			"Proficiency in item class 2 set to 0x00000064d1", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [807]
 		{
-			"Proficiency in item class 2 set to 0x00000064d1", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [808]
 		{
-			"Proficiency in item class 4 set to 0x0000000027", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [809]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [810]
 		{
-			"Time set to 9/7/2018 (Fri) 16:48", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [811]
 		{
-			"Gamespeed set from 0.017 to 0.017", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [812]
 		{
-			"-------------------------------------------------- Previous Session --------------------------------------------------", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [813]
 		{
-			"Failed to set SpellClutter callback on graphicsQuality CVar - using default of 30.0", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [814]
 		{
-			"Failed to set SpellClutter callback on RAIDgraphicsQuality CVar - using default of 30.0", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [815]
 		{
-			"Got new connection 3", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [816]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [817]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [818]
 		{
-			"Got new connection 3", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [819]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [820]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
 			0, -- [2]
 		}, -- [821]
 		{
-			"Got new connection 3", -- [1]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
 			0, -- [2]
 		}, -- [822]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [823]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [824]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [825]
 		{
-			"Got new connection 3", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [826]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [827]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [828]
 		{
-			"Got new connection 3", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [829]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [830]
 		{
@@ -3328,55 +3327,55 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [831]
 		{
-			"Got new connection 3", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [832]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [833]
 		{
-			"Weather changed to 2, intensity 0.600000\n", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [834]
 		{
-			"Skill 393 increased from 30 to 31", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [835]
 		{
-			"Skill 2557 increased from 30 to 31", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [836]
 		{
-			"Skill 393 increased from 31 to 32", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [837]
 		{
-			"Skill 2557 increased from 31 to 32", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [838]
 		{
-			"Skill 393 increased from 32 to 33", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [839]
 		{
-			"Skill 2557 increased from 32 to 33", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [840]
 		{
-			"Skill 393 increased from 33 to 34", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [841]
 		{
-			"Skill 2557 increased from 33 to 34", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [842]
 		{
-			"Skill 393 increased from 34 to 35", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [843]
 		{
-			"Skill 2557 increased from 34 to 35", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [844]
 		{
@@ -3384,15 +3383,15 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [845]
 		{
-			"Weather changed to 3, intensity 0.391782\n", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [846]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [847]
 		{
-			"Weather changed to 3, intensity 0.194510\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [848]
 		{
@@ -3400,47 +3399,47 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [849]
 		{
-			"Weather changed to 3, intensity 0.194510\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [850]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [851]
 		{
-			"Weather changed to 3, intensity 0.194510\n", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [852]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [853]
 		{
-			"Skill 393 increased from 35 to 36", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [854]
 		{
-			"Skill 2557 increased from 35 to 36", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [855]
 		{
-			"Weather changed to 3, intensity 0.320871\n", -- [1]
+			"Skill 2517 increased from 138 to 139", -- [1]
 			0, -- [2]
 		}, -- [856]
 		{
-			"Weather changed to 2, intensity 0.600000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [857]
 		{
-			"World transfer pending...", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [858]
 		{
-			"Got new connection 3", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [859]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Dissolve Effect ID 1075 has invalid fade out time. This will result in the record beign ignore and a regular fade out being applied to the creature.", -- [1]
 			0, -- [2]
 		}, -- [860]
 		{
@@ -3456,203 +3455,203 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [863]
 		{
-			"Got new connection 3", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [864]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [865]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [866]
 		{
-			"Got new connection 3", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [867]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [868]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [869]
 		{
-			"Got new connection 3", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [870]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [871]
 		{
-			"Weather changed to 2, intensity 0.119822\n", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [872]
 		{
-			"Weather changed to 3, intensity 0.358386\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [873]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [874]
 		{
-			"Weather changed to 3, intensity 0.119946\n", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [875]
 		{
-			"Skill 393 increased from 36 to 37", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [876]
 		{
-			"Skill 2557 increased from 36 to 37", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [877]
 		{
-			"Skill 393 increased from 37 to 38", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [878]
 		{
-			"Skill 2557 increased from 37 to 38", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [879]
 		{
-			"Skill 393 increased from 38 to 39", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [880]
 		{
-			"Skill 2557 increased from 38 to 39", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [881]
 		{
-			"Skill 393 increased from 39 to 40", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [882]
 		{
-			"Skill 2557 increased from 39 to 40", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [883]
 		{
-			"Skill 393 increased from 40 to 41", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [884]
 		{
-			"Skill 2557 increased from 40 to 41", -- [1]
+			"Weather changed to 1, intensity 0.250000\n", -- [1]
 			0, -- [2]
 		}, -- [885]
 		{
-			"Skill 393 increased from 41 to 42", -- [1]
+			"Weather changed to 1, intensity 0.250000\n", -- [1]
 			0, -- [2]
 		}, -- [886]
 		{
-			"Skill 2557 increased from 41 to 42", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [887]
 		{
-			"Skill 393 increased from 42 to 43", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [888]
 		{
-			"Skill 2557 increased from 42 to 43", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [889]
 		{
-			"Skill 393 increased from 43 to 44", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [890]
 		{
-			"Skill 2557 increased from 43 to 44", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [891]
 		{
-			"Skill 393 increased from 44 to 45", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [892]
 		{
-			"Skill 2557 increased from 44 to 45", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [893]
 		{
-			"Skill 393 increased from 45 to 46", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [894]
 		{
-			"Skill 2557 increased from 45 to 46", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [895]
 		{
-			"Skill 393 increased from 46 to 47", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [896]
 		{
-			"Skill 2557 increased from 46 to 47", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [897]
 		{
-			"Skill 393 increased from 47 to 48", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [898]
 		{
-			"Skill 2557 increased from 47 to 48", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [899]
 		{
-			"Skill 393 increased from 48 to 49", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [900]
 		{
-			"Skill 2557 increased from 48 to 49", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [901]
 		{
-			"Skill 393 increased from 49 to 50", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [902]
 		{
-			"Skill 2557 increased from 49 to 50", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [903]
 		{
-			"Skill 393 increased from 50 to 51", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [904]
 		{
-			"Skill 2557 increased from 50 to 51", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [905]
 		{
-			"Weather changed to 3, intensity 1.000000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [906]
 		{
-			"Skill 182 increased from 148 to 149", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [907]
 		{
-			"Skill 2549 increased from 148 to 149", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [908]
 		{
-			"Weather changed to 3, intensity 0.389819\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [909]
 		{
-			"Weather changed to 3, intensity 0.119946\n", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [910]
 		{
-			"Skill 183 increased from 580 to 585", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [911]
 		{
-			"Skill 754 increased from 580 to 585", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [912]
 		{
-			"Skill 829 increased from 580 to 585", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [913]
 		{
@@ -3660,7 +3659,7 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [914]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [915]
 		{
@@ -3684,15 +3683,15 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [920]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [921]
 		{
-			"World transfer pending...", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [922]
 		{
-			"Got new connection 3", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [923]
 		{
@@ -3956,7 +3955,7 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [988]
 		{
-			"[IBN_Login] Requesting last played charsnumSubRegions=\"3\"", -- [1]
+			"[IBN_Login] Requesting last played charsnumSubRegions=\"2\"", -- [1]
 			0, -- [2]
 		}, -- [989]
 		{
@@ -4048,355 +4047,355 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [1011]
 		{
-			"Proficiency in item class 4 set to 0x0000000025", -- [1]
+			"Proficiency in item class 2 set to 0x00001044d1", -- [1]
 			0, -- [2]
 		}, -- [1012]
 		{
-			"Proficiency in item class 4 set to 0x0000000027", -- [1]
+			"Proficiency in item class 4 set to 0x0000000025", -- [1]
 			0, -- [2]
 		}, -- [1013]
 		{
-			"Proficiency in item class 2 set to 0x00000064d1", -- [1]
+			"Proficiency in item class 4 set to 0x0000000027", -- [1]
 			0, -- [2]
 		}, -- [1014]
 		{
-			"Proficiency in item class 2 set to 0x00000064d1", -- [1]
+			"Proficiency in item class 2 set to 0x00001064d1", -- [1]
 			0, -- [2]
 		}, -- [1015]
 		{
-			"Proficiency in item class 4 set to 0x0000000027", -- [1]
+			"Proficiency in item class 2 set to 0x00001064d1", -- [1]
 			0, -- [2]
 		}, -- [1016]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Proficiency in item class 4 set to 0x0000000027", -- [1]
 			0, -- [2]
 		}, -- [1017]
 		{
-			"Time set to 9/7/2018 (Fri) 19:07", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1018]
 		{
-			"Gamespeed set from 0.017 to 0.017", -- [1]
+			"Time set to 9/13/2018 (Thu) 12:01", -- [1]
 			0, -- [2]
 		}, -- [1019]
 		{
-			"Skill 393 increased from 51 to 0", -- [1]
+			"Gamespeed set from 0.017 to 0.017", -- [1]
 			0, -- [2]
 		}, -- [1020]
 		{
-			"Skill 2557 increased from 51 to 0", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [1021]
 		{
-			"Skill 2564 increased from 1 to 0", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [1022]
 		{
-			"Skill 171 increased from 0 to 1", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1023]
 		{
-			"Skill 2485 increased from 0 to 1", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [1024]
 		{
-			"Skill 2478 increased from 0 to 1", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [1025]
 		{
-			"Skill 171 increased from 1 to 2", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1026]
 		{
-			"Skill 2478 increased from 1 to 2", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1027]
 		{
-			"Skill 171 increased from 2 to 3", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1028]
 		{
-			"Skill 2478 increased from 2 to 3", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [1029]
 		{
-			"Skill 171 increased from 3 to 4", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1030]
 		{
-			"Skill 2478 increased from 3 to 4", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1031]
 		{
-			"Skill 171 increased from 4 to 5", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [1032]
 		{
-			"Skill 2478 increased from 4 to 5", -- [1]
+			"Weather changed to 2, intensity 0.199031\n", -- [1]
 			0, -- [2]
 		}, -- [1033]
 		{
-			"Skill 171 increased from 5 to 6", -- [1]
+			"Weather changed to 2, intensity 0.600000\n", -- [1]
 			0, -- [2]
 		}, -- [1034]
 		{
-			"Skill 2478 increased from 5 to 6", -- [1]
+			"Weather changed to 3, intensity 0.114249\n", -- [1]
 			0, -- [2]
 		}, -- [1035]
 		{
-			"Skill 171 increased from 6 to 7", -- [1]
+			"Weather changed to 2, intensity 0.151262\n", -- [1]
 			0, -- [2]
 		}, -- [1036]
 		{
-			"Skill 2478 increased from 6 to 7", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1037]
 		{
-			"Skill 171 increased from 7 to 8", -- [1]
+			"Weather changed to 2, intensity 0.151262\n", -- [1]
 			0, -- [2]
 		}, -- [1038]
 		{
-			"Skill 2478 increased from 7 to 8", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1039]
 		{
-			"Skill 171 increased from 8 to 9", -- [1]
+			"Weather changed to 2, intensity 0.151262\n", -- [1]
 			0, -- [2]
 		}, -- [1040]
 		{
-			"Skill 2478 increased from 8 to 9", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1041]
 		{
-			"Skill 171 increased from 9 to 10", -- [1]
+			"Weather changed to 2, intensity 0.151262\n", -- [1]
 			0, -- [2]
 		}, -- [1042]
 		{
-			"Skill 2478 increased from 9 to 10", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1043]
 		{
-			"Skill 171 increased from 10 to 11", -- [1]
+			"Weather changed to 2, intensity 0.151262\n", -- [1]
 			0, -- [2]
 		}, -- [1044]
 		{
-			"Skill 2478 increased from 10 to 11", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1045]
 		{
-			"Skill 171 increased from 11 to 12", -- [1]
+			"Weather changed to 2, intensity 0.151262\n", -- [1]
 			0, -- [2]
 		}, -- [1046]
 		{
-			"Skill 2478 increased from 11 to 12", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1047]
 		{
-			"Skill 171 increased from 12 to 13", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [1048]
 		{
-			"Skill 2478 increased from 12 to 13", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1049]
 		{
-			"Skill 171 increased from 13 to 14", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1050]
 		{
-			"Skill 2478 increased from 13 to 14", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [1051]
 		{
-			"Skill 171 increased from 14 to 15", -- [1]
+			"Weather changed to 2, intensity 0.600000\n", -- [1]
 			0, -- [2]
 		}, -- [1052]
 		{
-			"Skill 2478 increased from 14 to 15", -- [1]
+			"Weather changed to 3, intensity 0.300874\n", -- [1]
 			0, -- [2]
 		}, -- [1053]
 		{
-			"Skill 171 increased from 15 to 16", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1054]
 		{
-			"Skill 2478 increased from 15 to 16", -- [1]
+			"Weather changed to 2, intensity 0.600000\n", -- [1]
 			0, -- [2]
 		}, -- [1055]
 		{
-			"Skill 171 increased from 16 to 17", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1056]
 		{
-			"Skill 2478 increased from 16 to 17", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [1057]
 		{
-			"Skill 171 increased from 17 to 18", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1058]
 		{
-			"Skill 2478 increased from 17 to 18", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1059]
 		{
-			"Skill 171 increased from 18 to 19", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [1060]
 		{
-			"Skill 2478 increased from 18 to 19", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1061]
 		{
-			"Skill 171 increased from 19 to 20", -- [1]
+			"Dissolve Effect ID 1075 has invalid fade out time. This will result in the record beign ignore and a regular fade out being applied to the creature.", -- [1]
 			0, -- [2]
 		}, -- [1062]
 		{
-			"Skill 2478 increased from 19 to 20", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [1063]
 		{
-			"Skill 171 increased from 20 to 21", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [1064]
 		{
-			"Skill 2478 increased from 20 to 21", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1065]
 		{
-			"Skill 171 increased from 21 to 22", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1066]
 		{
-			"Skill 2478 increased from 21 to 22", -- [1]
+			"Skill 171 increased from 65 to 66", -- [1]
 			0, -- [2]
 		}, -- [1067]
 		{
-			"Skill 171 increased from 22 to 23", -- [1]
+			"Skill 2478 increased from 65 to 66", -- [1]
 			0, -- [2]
 		}, -- [1068]
 		{
-			"Skill 2478 increased from 22 to 23", -- [1]
+			"Skill 171 increased from 66 to 67", -- [1]
 			0, -- [2]
 		}, -- [1069]
 		{
-			"Skill 171 increased from 23 to 24", -- [1]
+			"Skill 2478 increased from 66 to 67", -- [1]
 			0, -- [2]
 		}, -- [1070]
 		{
-			"Skill 2478 increased from 23 to 24", -- [1]
+			"Skill 171 increased from 67 to 68", -- [1]
 			0, -- [2]
 		}, -- [1071]
 		{
-			"Skill 171 increased from 24 to 25", -- [1]
+			"Skill 2478 increased from 67 to 68", -- [1]
 			0, -- [2]
 		}, -- [1072]
 		{
-			"Skill 2478 increased from 24 to 25", -- [1]
+			"Skill 171 increased from 68 to 69", -- [1]
 			0, -- [2]
 		}, -- [1073]
 		{
-			"Skill 171 increased from 25 to 26", -- [1]
+			"Skill 2478 increased from 68 to 69", -- [1]
 			0, -- [2]
 		}, -- [1074]
 		{
-			"Skill 2478 increased from 25 to 26", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [1075]
 		{
-			"Skill 171 increased from 26 to 27", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [1076]
 		{
-			"Skill 2478 increased from 26 to 27", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1077]
 		{
-			"Skill 171 increased from 27 to 28", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [1078]
 		{
-			"Skill 2478 increased from 27 to 28", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [1079]
 		{
-			"Skill 171 increased from 28 to 29", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1080]
 		{
-			"Skill 2478 increased from 28 to 29", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [1081]
 		{
-			"Skill 171 increased from 29 to 30", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [1082]
 		{
-			"Skill 2478 increased from 29 to 30", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1083]
 		{
-			"Skill 171 increased from 30 to 31", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [1084]
 		{
-			"Skill 2478 increased from 30 to 31", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [1085]
 		{
-			"Skill 171 increased from 31 to 32", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1086]
 		{
-			"Skill 2478 increased from 31 to 32", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1087]
 		{
-			"Skill 171 increased from 32 to 33", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [1088]
 		{
-			"Skill 2478 increased from 32 to 33", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [1089]
 		{
-			"Skill 171 increased from 33 to 34", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1090]
 		{
-			"Skill 2478 increased from 33 to 34", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1091]
 		{
-			"Skill 171 increased from 34 to 35", -- [1]
+			"Weather changed to 2, intensity 0.750000\n", -- [1]
 			0, -- [2]
 		}, -- [1092]
 		{
-			"Skill 2478 increased from 34 to 35", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1093]
 		{
-			"Skill 171 increased from 35 to 36", -- [1]
+			"Weather changed to 2, intensity 0.750000\n", -- [1]
 			0, -- [2]
 		}, -- [1094]
 		{
-			"Skill 2478 increased from 35 to 36", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1095]
 		{
-			"Skill 171 increased from 36 to 37", -- [1]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
 			0, -- [2]
 		}, -- [1096]
 		{
-			"Skill 2478 increased from 36 to 37", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1097]
 		{
-			"Skill 171 increased from 37 to 38", -- [1]
+			"GameTimeSync: delta=0, differential=1, HoursAndMinutes=878", -- [1]
 			0, -- [2]
 		}, -- [1098]
 		{
-			"Skill 2478 increased from 37 to 38", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1099]
 		{
@@ -4404,15 +4403,15 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [1100]
 		{
-			"Weather changed to 2, intensity 0.600000\n", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1101]
 		{
-			"World transfer pending...", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1102]
 		{
-			"Got new connection 3", -- [1]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
 			0, -- [2]
 		}, -- [1103]
 		{
@@ -4420,64 +4419,25 @@ Blizzard_Console_SavedVars = {
 			0, -- [2]
 		}, -- [1104]
 		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
+			"Weather changed to 2, intensity 0.800000\n", -- [1]
 			0, -- [2]
 		}, -- [1105]
 		{
-			"Weather changed to 2, intensity 0.800000\n", -- [1]
+			"World transfer pending...", -- [1]
 			0, -- [2]
 		}, -- [1106]
 		{
-			"Skill 171 increased from 38 to 39", -- [1]
+			"Got new connection 3", -- [1]
 			0, -- [2]
 		}, -- [1107]
 		{
-			"Skill 2478 increased from 38 to 39", -- [1]
+			"Weather changed to 1, intensity 0.000000\n", -- [1]
 			0, -- [2]
 		}, -- [1108]
-		{
-			"Skill 171 increased from 39 to 40", -- [1]
-			0, -- [2]
-		}, -- [1109]
-		{
-			"Skill 2478 increased from 39 to 40", -- [1]
-			0, -- [2]
-		}, -- [1110]
-		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
-			0, -- [2]
-		}, -- [1111]
-		{
-			"Weather changed to 2, intensity 0.800000\n", -- [1]
-			0, -- [2]
-		}, -- [1112]
-		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
-			0, -- [2]
-		}, -- [1113]
-		{
-			"Weather changed to 2, intensity 0.800000\n", -- [1]
-			0, -- [2]
-		}, -- [1114]
-		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
-			0, -- [2]
-		}, -- [1115]
-		{
-			"World transfer pending...", -- [1]
-			0, -- [2]
-		}, -- [1116]
-		{
-			"Got new connection 3", -- [1]
-			0, -- [2]
-		}, -- [1117]
-		{
-			"Weather changed to 1, intensity 0.000000\n", -- [1]
-			0, -- [2]
-		}, -- [1118]
 	},
-	["isShown"] = false,
+	["height"] = 300,
 	["fontHeight"] = 14,
+	["isShown"] = false,
 	["commandHistory"] = {
 	},
 }
