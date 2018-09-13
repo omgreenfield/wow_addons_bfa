@@ -1,0 +1,16 @@
+VER 3 0100000000000003 "CC MO" "629534"
+#showtooltip
+/cast [@mouseover, exists] Paralysis;;
+/cast Paralysis;;
+END
+VER 3 0100000000000002 "I MO" "608940"
+#showtooltip
+/cast [@mouseover, exists] Spear Hand Strike;
+/cast Spear Hand Strike;
+END
+VER 3 0100000000000001 "TP/Viv" "1360980"
+#showtooltip
+/cast [@target, exists, help] Vivify;
+/cast [@target,harm] Tiger Palm;
+/cast Vivify;
+END

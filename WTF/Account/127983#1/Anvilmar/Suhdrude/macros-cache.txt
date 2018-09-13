@@ -1,0 +1,96 @@
+VER 3 0100000000000014 "CatThenSkullBash" "INV_BONE_SKULL_04"
+#showtooltip
+/cast [nostance:1/2] Cat Form;
+/cast Skull Bash
+END
+VER 3 010000000000000A "DefensivesOPIE" "ABILITY_DRUID_TIGERSROAR"
+/click ORLOpen fensiveCDs
+END
+VER 3 0100000000000007 "FerBiteOrRegrowt" "ABILITY_DRUID_FEROCIOUSBITE"
+#showtooltip
+/cast [@target, exists, help] Regrowth;
+/cast [@target,harm] Ferocious Bite;
+/cast [harm] Ferocious Bite;
+/cast Regrowth;
+END
+VER 3 010000000000000F "FormsOPIE" "ABILITY_DRUID_TRAVELFORM"
+/click ORLOpen Forms
+END
+VER 3 0100000000000012 "LeaveForm" "132132"
+#showtooltip
+/cast [form:1] !Bear Form; [form:3] !Travel Form; [form:4] Moonkin Form; !Cat Form
+END
+VER 3 010000000000000B "MangleOrRejuv" "ABILITY_DRUID_MANGLE2"
+#showtooltip
+/cast [@target, exists, help] Rejuvenation;
+/cast [help] Rejuvenation;
+/cast [harm] Mangle;
+END
+VER 3 010000000000000E "MarkOrRegrowth" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [form:1] Mark of Ursol;
+/cast [form:2] Regrowth;
+END
+VER 3 010000000000000C "MaulOrRegrowth" "ABILITY_DRUID_MAUL"
+#showtooltip
+/cast [@mouseover, exists,help] Regrowth;
+/cast [@target, exists, help] Regrowth;
+/cast [@mouseover, exists,harm] Maul;
+/cast [@target,harm] Maul;
+/cast [harm] Maul;
+END
+VER 3 0100000000000001 "MoonOrLifebloom" "SPELL_NATURE_STARFALL"
+#showtooltip
+/cast [@target, exists, help] Lifebloom;
+/cast [@target,harm] Moonfire;
+/cast Lifebloom;
+END
+VER 3 0100000000000004 "RakeOrRejuv" "ABILITY_DRUID_DISEMBOWEL"
+#showtooltip
+/cast [@target, exists, help] Rejuvenation;
+/cast [@target,nostance:1,harm] Rake;
+/cast [@target,stance:1,harm] Mangle;
+END
+VER 3 0100000000000013 "Regrowth" "SPELL_NATURE_RESISTNATURE"
+#showtooltip
+/cast [@mouseover, exists, help] Regrowth;
+/cast [@target, exists, help] Regrowth;
+/cast Regrowth;;
+END
+VER 3 0100000000000005 "ShredOrHealTouch" "SPELL_SHADOW_VAMPIRICAURA"
+#showtooltip
+/cast [@target, exists, help] Healing Touch;
+/cast [@target,harm] Shred;
+/cast [harm] Shred;
+END
+VER 3 0100000000000003 "SolarOrHealTouch" "SPELL_NATURE_WRATHV2"
+#showtooltip
+/cast [@target, exists, help] Healing Touch;
+/cast [@target,harm] Solar Wrath;
+/cast Healing Touch;
+END
+VER 3 0100000000000011 "SpecOPIE" "SPELL_NATURE_SPIRITARMOR"
+/click ORLOpen Specs
+END
+VER 3 0100000000000002 "SunOrRegrowth" "ABILITY_MAGE_FIRESTARTER"
+#showtooltip
+/cast [@target, exists, help] Regrowth;
+/cast [@target,harm] Sunfire;
+/cast Regrowth;
+END
+VER 3 010000000000000D "SwipeOrHealTouch" "INV_MISC_MONSTERCLAW_03"
+#showtooltip
+/cast [@mouseover, exists,help] Healing Touch;
+/cast [@target, exists, help] Healing Touch;
+/cast [@mouseover, exists,harm] Swipe;
+/cast [@target,harm] Swipe;
+/cast [harm] Swipe;
+END
+VER 3 0100000000000008 "TFuryOrGrowl" "ABILITY_MOUNT_JUNGLETIGER"
+#showtooltip
+/cast [form:1] Growl;
+/cast [form:2] Tiger's Fury
+END
+VER 3 0100000000000009 "TravelOPIE" "1418288"
+/click ORLOpen Travel
+END

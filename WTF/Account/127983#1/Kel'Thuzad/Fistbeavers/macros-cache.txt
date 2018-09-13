@@ -1,0 +1,46 @@
+VER 3 0100000000000003 "CC MO" "629534"
+#showtooltip
+/cast [@mouseover, exists] Paralysis;;
+/cast Paralysis;
+END
+VER 3 0100000000000004 "CC1" "629534"
+#showtooltip
+/cast [@arena1, exists] Paralysis;
+/cast Paralysis;
+END
+VER 3 0100000000000005 "CC2" "629534"
+#showtooltip
+/cast [@arena2, exists] Paralysis;
+/cast Paralysis;
+END
+VER 3 0100000000000006 "CC3" "629534"
+#showtooltip
+/cast [@arena3, exists] Paralysis;
+/cast Paralysis;
+END
+VER 3 0100000000000008 "EM/RSK" "775461"
+#showtooltip
+/cast [@target, exists, help] Enveloping Mist;
+/cast [@target,harm] Rising Sun Kick;
+/cast Enveloping Mist;
+END
+VER 3 0100000000000002 "I MO" "608940"
+#showtooltip
+/cast [@mouseover, exists] Spear Hand Strike;
+/cast Spear Hand Strike;
+END
+VER 3 0100000000000009 "MonkDmg" "606542"
+/click ORLOpen MonkDmg
+END
+VER 3 0100000000000007 "RM/BOK" "627487"
+#showtooltip
+/cast [@target, exists, help] Renewing Mist;
+/cast [@target,harm] Blackout Kick;
+/cast Renewing Mist;
+END
+VER 3 0100000000000001 "TP/Viv" "1360980"
+#showtooltip
+/cast [@target, exists, help] Vivify;
+/cast [@target,harm] Tiger Palm;
+/cast Vivify;
+END

@@ -1,0 +1,4801 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["No One"] = {
+			["GUID"] = "",
+			["TimeLast"] = {
+				["TimeHeal"] = 2989.698,
+				["Overhealing"] = 2987.695,
+				["ActiveTime"] = 2989.698,
+				["OVERALL"] = 2989.698,
+				["Healing"] = 2989.698,
+			},
+			["LastEventType"] = {
+				"HEAL", -- [1]
+				"HEAL", -- [2]
+				"HEAL", -- [3]
+				"HEAL", -- [4]
+				"HEAL", -- [5]
+				"HEAL", -- [6]
+				"HEAL", -- [7]
+				"HEAL", -- [8]
+				"HEAL", -- [9]
+				"HEAL", -- [10]
+				"HEAL", -- [11]
+				"HEAL", -- [12]
+				"HEAL", -- [13]
+				"HEAL", -- [14]
+				"HEAL", -- [15]
+				"HEAL", -- [16]
+				"HEAL", -- [17]
+				"HEAL", -- [18]
+				"HEAL", -- [19]
+				"HEAL", -- [20]
+				"HEAL", -- [21]
+				"HEAL", -- [22]
+				"HEAL", -- [23]
+				"HEAL", -- [24]
+				"HEAL", -- [25]
+				"HEAL", -- [26]
+				"HEAL", -- [27]
+				"HEAL", -- [28]
+				"HEAL", -- [29]
+				"HEAL", -- [30]
+				"HEAL", -- [31]
+				"HEAL", -- [32]
+				"HEAL", -- [33]
+				"HEAL", -- [34]
+				"HEAL", -- [35]
+				"HEAL", -- [36]
+				"HEAL", -- [37]
+				"HEAL", -- [38]
+				"HEAL", -- [39]
+				"HEAL", -- [40]
+				"HEAL", -- [41]
+				"HEAL", -- [42]
+				"HEAL", -- [43]
+				"HEAL", -- [44]
+			},
+			["TimeWindows"] = {
+				["Healing"] = {
+					19890, -- [1]
+				},
+				["TimeHeal"] = {
+					19.5, -- [1]
+				},
+				["Overhealing"] = {
+					36320, -- [1]
+				},
+				["ActiveTime"] = {
+					19.5, -- [1]
+				},
+			},
+			["LastHealTime"] = 2990.19,
+			["level"] = 0,
+			["LastFightIn"] = 1,
+			["type"] = "Grouped",
+			["FightsSaved"] = 1,
+			["Owner"] = false,
+			["NextEventNum"] = 45,
+			["LastEvents"] = {
+				"No One Azerite Fistbeavers Hit +3429 (3429 Overheal)", -- [1]
+				"No One Azerite Fistbeavers Hit +3430", -- [2]
+				"No One Azerite Fistbeavers Hit +3429", -- [3]
+				"No One Azerite Fistbeavers Hit +3430 (2334 Overheal)", -- [4]
+				"No One Azerite Fistbeavers Hit +3429 (3429 Overheal)", -- [5]
+				"No One Azerite Fistbeavers Hit +3430 (3430 Overheal)", -- [6]
+				"No One Azerite Fistbeavers Hit +3429 (3429 Overheal)", -- [7]
+				"No One Azerite Fistbeavers Hit +3429 (3429 Overheal)", -- [8]
+				"No One Azerite Fistbeavers Hit +3429 (3429 Overheal)", -- [9]
+				"No One Azerite Fistbeavers Hit +3429 (3429 Overheal)", -- [10]
+				"No One Azerite Fistbeavers Hit +3430 (3430 Overheal)", -- [11]
+				"No One Azerite Fistbeavers Hit +3430 (3430 Overheal)", -- [12]
+				"No One Azerite Fistbeavers Hit +3429 (3429 Overheal)", -- [13]
+				"No One Azerite Fistbeavers Hit +3429 (3429 Overheal)", -- [14]
+				"No One Azerite Fistbeavers Hit +3429 (3429 Overheal)", -- [15]
+				"No One Azerite Fistbeavers Hit +3430 (3430 Overheal)", -- [16]
+				"No One Azerite Fistbeavers Hit +3429 (3429 Overheal)", -- [17]
+				"No One Azerite Fistbeavers Hit +3429 (3429 Overheal)", -- [18]
+				"No One Azerite Fistbeavers Hit +3429 (3429 Overheal)", -- [19]
+				"No One Azerite Fistbeavers Hit +3429 (3429 Overheal)", -- [20]
+				"No One Azerite Fistbeavers Hit +3429 (3429 Overheal)", -- [21]
+				"No One Azerite Fistbeavers Hit +3430 (3430 Overheal)", -- [22]
+				"No One Azerite Fistbeavers Hit +3429 (3429 Overheal)", -- [23]
+				"No One Azerite Fistbeavers Hit +3429 (3429 Overheal)", -- [24]
+				"No One Azerite Fistbeavers Hit +3429 (3429 Overheal)", -- [25]
+				"No One Azerite Fistbeavers Hit +3429 (3429 Overheal)", -- [26]
+				"No One Azerite Fistbeavers Hit +3429 (3429 Overheal)", -- [27]
+				"No One Azerite Fistbeavers Hit +3429 (3429 Overheal)", -- [28]
+				"No One Azerite Fistbeavers Hit +3430 (3430 Overheal)", -- [29]
+				"No One Azerite Fistbeavers Hit +4025 (1706 Overheal)", -- [30]
+				"No One Azerite Fistbeavers Hit +4026 (3864 Overheal)", -- [31]
+				"No One Azerite Fistbeavers Hit +4026 (3102 Overheal)", -- [32]
+				"No One Azerite Fistbeavers Hit +4026 (380 Overheal)", -- [33]
+				"No One Azerite Fistbeavers Hit +4025 (3795 Overheal)", -- [34]
+				"No One Azerite Fistbeavers Hit +4025 (3795 Overheal)", -- [35]
+				"No One Azerite Fistbeavers Hit +4026 (3796 Overheal)", -- [36]
+				"No One Azerite Fistbeavers Hit +4026 (3394 Overheal)", -- [37]
+				"No One Azerite Fistbeavers Hit +3429 (2457 Overheal)", -- [38]
+				"No One Azerite Fistbeavers Hit +3430 (3430 Overheal)", -- [39]
+				"No One Azerite Fistbeavers Hit +3430 (3430 Overheal)", -- [40]
+				"No One Azerite Fistbeavers Hit +3429", -- [41]
+				"No One Azerite Fistbeavers Hit +3429 (2007 Overheal)", -- [42]
+				"No One Azerite Fistbeavers Hit +3429 (1164 Overheal)", -- [43]
+				"No One Azerite Fistbeavers Hit +3429", -- [44]
+			},
+			["Name"] = "No One",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				false, -- [5]
+				false, -- [6]
+				false, -- [7]
+				false, -- [8]
+				false, -- [9]
+				false, -- [10]
+				false, -- [11]
+				false, -- [12]
+				false, -- [13]
+				false, -- [14]
+				false, -- [15]
+				false, -- [16]
+				false, -- [17]
+				false, -- [18]
+				false, -- [19]
+				false, -- [20]
+				false, -- [21]
+				false, -- [22]
+				false, -- [23]
+				false, -- [24]
+				false, -- [25]
+				false, -- [26]
+				false, -- [27]
+				false, -- [28]
+				false, -- [29]
+				false, -- [30]
+				false, -- [31]
+				false, -- [32]
+				false, -- [33]
+				false, -- [34]
+				false, -- [35]
+				false, -- [36]
+				false, -- [37]
+				false, -- [38]
+				false, -- [39]
+				false, -- [40]
+				false, -- [41]
+				false, -- [42]
+				false, -- [43]
+				false, -- [44]
+			},
+			["LastEventTimes"] = {
+				2908.195, -- [1]
+				2910.292, -- [2]
+				2912.252, -- [3]
+				2914.375, -- [4]
+				2916.39, -- [5]
+				2918.239, -- [6]
+				2920.4, -- [7]
+				2921.647, -- [8]
+				2922.315, -- [9]
+				2924.401, -- [10]
+				2926.241, -- [11]
+				2928.146, -- [12]
+				2929.581, -- [13]
+				2930.241, -- [14]
+				2932.24, -- [15]
+				2934.26, -- [16]
+				2936.366, -- [17]
+				2938.372, -- [18]
+				2940.245, -- [19]
+				2942.235, -- [20]
+				2944.26, -- [21]
+				2946.246, -- [22]
+				2948.246, -- [23]
+				2950.241, -- [24]
+				2952.275, -- [25]
+				2954.231, -- [26]
+				2956.309, -- [27]
+				2958.386, -- [28]
+				2960.352, -- [29]
+				2962.264, -- [30]
+				2964.19, -- [31]
+				2966.227, -- [32]
+				2968.294, -- [33]
+				2970.157, -- [34]
+				2972.277, -- [35]
+				2974.361, -- [36]
+				2976.244, -- [37]
+				2978.173, -- [38]
+				2980.24, -- [39]
+				2982.253, -- [40]
+				2984.262, -- [41]
+				2986.433, -- [42]
+				2988.144, -- [43]
+				2990.19, -- [44]
+			},
+			["Fights"] = {
+				["Fight1"] = {
+					["TimeHealing"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Azerite"] = {
+									["count"] = 19.5,
+								},
+							},
+							["amount"] = 19.5,
+						},
+					},
+					["OverHeals"] = {
+						["Azerite"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3864,
+									["min"] = 380,
+									["count"] = 13,
+									["amount"] = 36320,
+								},
+							},
+							["count"] = 13,
+							["amount"] = 36320,
+						},
+					},
+					["TimeSpent"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Azerite"] = {
+									["count"] = 19.5,
+								},
+							},
+							["amount"] = 19.5,
+						},
+					},
+					["HealedWho"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Azerite"] = {
+									["count"] = 19890,
+								},
+							},
+							["amount"] = 19890,
+						},
+					},
+					["Overhealing"] = 36320,
+					["ActiveTime"] = 19.5,
+					["Healing"] = 19890,
+					["TimeHeal"] = 19.5,
+					["Heals"] = {
+						["Azerite"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3646,
+									["min"] = 162,
+									["count"] = 13,
+									["amount"] = 19890,
+								},
+							},
+							["count"] = 13,
+							["amount"] = 19890,
+						},
+					},
+				},
+				["LastFightData"] = {
+					["TimeHealing"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Azerite"] = {
+									["count"] = 19.5,
+								},
+							},
+							["amount"] = 19.5,
+						},
+					},
+					["OverHeals"] = {
+						["Azerite"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3864,
+									["min"] = 380,
+									["count"] = 13,
+									["amount"] = 36320,
+								},
+							},
+							["count"] = 13,
+							["amount"] = 36320,
+						},
+					},
+					["TimeSpent"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Azerite"] = {
+									["count"] = 19.5,
+								},
+							},
+							["amount"] = 19.5,
+						},
+					},
+					["HealedWho"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Azerite"] = {
+									["count"] = 19890,
+								},
+							},
+							["amount"] = 19890,
+						},
+					},
+					["Overhealing"] = 36320,
+					["ActiveTime"] = 19.5,
+					["Healing"] = 19890,
+					["TimeHeal"] = 19.5,
+					["Heals"] = {
+						["Azerite"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3646,
+									["min"] = 162,
+									["count"] = 13,
+									["amount"] = 19890,
+								},
+							},
+							["count"] = 13,
+							["amount"] = 19890,
+						},
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["TimeHealing"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Azerite"] = {
+									["count"] = 19.5,
+								},
+							},
+							["amount"] = 19.5,
+						},
+					},
+					["OverHeals"] = {
+						["Azerite"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3864,
+									["min"] = 380,
+									["count"] = 13,
+									["amount"] = 36320,
+								},
+							},
+							["count"] = 13,
+							["amount"] = 36320,
+						},
+					},
+					["TimeSpent"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Azerite"] = {
+									["count"] = 19.5,
+								},
+							},
+							["amount"] = 19.5,
+						},
+					},
+					["HealedWho"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Azerite"] = {
+									["count"] = 19890,
+								},
+							},
+							["amount"] = 19890,
+						},
+					},
+					["Overhealing"] = 36320,
+					["ActiveTime"] = 19.5,
+					["Healing"] = 19890,
+					["TimeHeal"] = 19.5,
+					["Heals"] = {
+						["Azerite"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3646,
+									["min"] = 162,
+									["count"] = 13,
+									["amount"] = 19890,
+								},
+							},
+							["count"] = 13,
+							["amount"] = 19890,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 2989.698,
+			["LastActive"] = 2989.698,
+		},
+		["Fistbeavers"] = {
+			["GUID"] = "Player-3693-09F8C446",
+			["LastEventHealth"] = {
+				81670, -- [1]
+				81670, -- [2]
+				81509, -- [3]
+				81824, -- [4]
+				81663, -- [5]
+				88505, -- [6]
+				88344, -- [7]
+				88344, -- [8]
+				88344, -- [9]
+				88183, -- [10]
+				88022, -- [11]
+				88337, -- [12]
+				88176, -- [13]
+				88015, -- [14]
+				88913, -- [15]
+				89118, -- [16]
+				89433, -- [17]
+				90802, -- [18]
+				71820, -- [19]
+				71820, -- [20]
+				71820, -- [21]
+				71820, -- [22]
+				71629, -- [23]
+				71629, -- [24]
+				71629, -- [25]
+				71629, -- [26]
+				70586, -- [27]
+				68701, -- [28]
+				68701, -- [29]
+				68701, -- [30]
+				68413, -- [31]
+				68413, -- [32]
+				68728, -- [33]
+				68440, -- [34]
+				68440, -- [35]
+				68152, -- [36]
+				68152, -- [37]
+				67864, -- [38]
+				67864, -- [39]
+				67864, -- [40]
+				67864, -- [41]
+				67864, -- [42]
+				67576, -- [43]
+				66736, -- [44]
+				66736, -- [45]
+				66736, -- [46]
+				67051, -- [47]
+				66728, -- [48]
+				66405, -- [49]
+				66082, -- [50]
+			},
+			["LastAttackedBy"] = "Fistbeavers",
+			["LastEventType"] = {
+				"HEAL", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"HEAL", -- [4]
+				"DAMAGE", -- [5]
+				"HEAL", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"HEAL", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"HEAL", -- [16]
+				"HEAL", -- [17]
+				"HEAL", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"HEAL", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"HEAL", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["TimeHeal"] = {
+					58.62, -- [1]
+				},
+				["ActiveTime"] = {
+					136.4, -- [1]
+				},
+				["Healing"] = {
+					83219, -- [1]
+				},
+				["DamageTaken"] = {
+					222873, -- [1]
+				},
+				["Interrupts"] = {
+					3, -- [1]
+				},
+				["Absorbs"] = {
+					13282, -- [1]
+				},
+				["HealingTaken"] = {
+					116391, -- [1]
+				},
+				["FDamage"] = {
+					7683, -- [1]
+				},
+				["TimeDamage"] = {
+					77.78, -- [1]
+				},
+				["Overhealing"] = {
+					11887, -- [1]
+				},
+				["HOT_Time"] = {
+					111, -- [1]
+				},
+				["DOT_Time"] = {
+					177, -- [1]
+				},
+				["Damage"] = {
+					337630, -- [1]
+				},
+			},
+			["enClass"] = "MONK",
+			["unit"] = "Fistbeavers",
+			["level"] = 120,
+			["LastDamageAbility"] = "Stagger (DoT)",
+			["LastFightIn"] = 2,
+			["LastHealTime"] = 3037.691,
+			["type"] = "Self",
+			["FightsSaved"] = 2,
+			["LastEventHealthMax"] = {
+				103920, -- [1]
+				103920, -- [2]
+				103920, -- [3]
+				103920, -- [4]
+				103920, -- [5]
+				103920, -- [6]
+				103920, -- [7]
+				103920, -- [8]
+				103920, -- [9]
+				103920, -- [10]
+				103920, -- [11]
+				103920, -- [12]
+				103920, -- [13]
+				103920, -- [14]
+				103920, -- [15]
+				103920, -- [16]
+				103920, -- [17]
+				103920, -- [18]
+				103920, -- [19]
+				103920, -- [20]
+				103920, -- [21]
+				103920, -- [22]
+				103920, -- [23]
+				103920, -- [24]
+				103920, -- [25]
+				103920, -- [26]
+				103920, -- [27]
+				103920, -- [28]
+				103920, -- [29]
+				103920, -- [30]
+				103920, -- [31]
+				103920, -- [32]
+				103920, -- [33]
+				103920, -- [34]
+				103920, -- [35]
+				103920, -- [36]
+				103920, -- [37]
+				103920, -- [38]
+				103920, -- [39]
+				103920, -- [40]
+				103920, -- [41]
+				103920, -- [42]
+				103920, -- [43]
+				103920, -- [44]
+				103920, -- [45]
+				103920, -- [46]
+				103920, -- [47]
+				103920, -- [48]
+				103920, -- [49]
+				103920, -- [50]
+			},
+			["LastDamageTaken"] = 161,
+			["Owner"] = false,
+			["TimeLast"] = {
+				["TimeHeal"] = 3036.695,
+				["Overhealing"] = 3010.7,
+				["Interrupts"] = 3021.696,
+				["OVERALL"] = 3036.695,
+				["DamageTaken"] = 3036.695,
+				["ActiveTime"] = 3036.695,
+				["Absorbs"] = 3002.691,
+				["HealingTaken"] = 3036.695,
+				["FDamage"] = 2427.689,
+				["TimeDamage"] = 3034.693,
+				["Healing"] = 3036.695,
+				["HOT_Time"] = 3036.695,
+				["DOT_Time"] = 3032.694,
+				["Damage"] = 3034.693,
+			},
+			["NextEventNum"] = 19,
+			["LastDamageTime"] = 3034.89,
+			["LastEvents"] = {
+				"Fistbeavers Healing Elixir Fistbeavers Hit +15588", -- [1]
+				"Fistbeavers Eye of the Tiger (DoT) Surly Seal Tick -315 (Nature)", -- [2]
+				"Fistbeavers Stagger (DoT) Fistbeavers Tick -161 (Physical)", -- [3]
+				"Fistbeavers Eye of the Tiger Fistbeavers Tick +315", -- [4]
+				"Fistbeavers Stagger (DoT) Fistbeavers Tick -161 (Physical)", -- [5]
+				"Fistbeavers Gift of the Ox Fistbeavers Hit +6842", -- [6]
+				"Fistbeavers Stagger (DoT) Fistbeavers Tick -161 (Physical)", -- [7]
+				"Fistbeavers Rushing Jade Wind Surly Seal Crit -409 (Physical)", -- [8]
+				"Fistbeavers Melee Surly Seal Hit -1945 (Physical)", -- [9]
+				"Fistbeavers Stagger (DoT) Fistbeavers Tick -161 (Physical)", -- [10]
+				"Fistbeavers Stagger (DoT) Fistbeavers Tick -161 (Physical)", -- [11]
+				"Fistbeavers Eye of the Tiger Fistbeavers Tick +315", -- [12]
+				"Fistbeavers Stagger (DoT) Fistbeavers Tick -161 (Physical)", -- [13]
+				"Fistbeavers Stagger (DoT) Fistbeavers Tick -161 (Physical)", -- [14]
+				"Fistbeavers Stagger (DoT) Fistbeavers Tick -161 (Physical)", -- [15]
+				"Fistbeavers Celestial Fortune Fistbeavers Hit +205", -- [16]
+				"Fistbeavers Eye of the Tiger Fistbeavers Tick +315", -- [17]
+				"Fistbeavers Eye of the Tiger Fistbeavers Tick +302", -- [18]
+				"Fistbeavers Breath of Fire (DoT) Surly Seal Tick -150 (Fire)", -- [19]
+				"Fistbeavers Blackout Strike Tidesage Bankson Crit -4757 (Physical)", -- [20]
+				"Fistbeavers Rushing Jade Wind Tidesage Bankson Hit -218 (Physical)", -- [21]
+				"Fistbeavers Rushing Jade Wind Surly Seal Hit -205 (Physical)", -- [22]
+				"Fistbeavers Stagger (DoT) Fistbeavers Tick -191 (Physical)", -- [23]
+				"Surly Seal Melee Fistbeavers Absorb -1957 (1)", -- [24]
+				"Surly Seal Melee Fistbeavers Hit -773 (1957 Absorbed) (Physical)", -- [25]
+				"Fistbeavers Rushing Jade Wind Surly Seal Hit -205 (Physical)", -- [26]
+				"Fistbeavers Stagger (DoT) Fistbeavers Tick -270 (Physical)", -- [27]
+				"Surly Seal Staggering Roar Fistbeavers Absorb -631 (Physical)", -- [28]
+				"Surly Seal Staggering Roar Fistbeavers Hit -1885 (631 Absorbed) (Physical)", -- [29]
+				"Fistbeavers Tiger Palm Surly Seal Hit -1778 (Physical)", -- [30]
+				"Fistbeavers Stagger (DoT) Fistbeavers Tick -288 (Physical)", -- [31]
+				"Fistbeavers Rushing Jade Wind Surly Seal Hit -204 (Physical)", -- [32]
+				"Fistbeavers Eye of the Tiger Fistbeavers Tick +315", -- [33]
+				"Fistbeavers Stagger (DoT) Fistbeavers Tick -288 (Physical)", -- [34]
+				"Fistbeavers Rushing Jade Wind Surly Seal Hit -205 (Physical)", -- [35]
+				"Fistbeavers Stagger (DoT) Fistbeavers Tick -288 (Physical)", -- [36]
+				"Fistbeavers Melee Surly Seal Hit -1994 (Physical)", -- [37]
+				"Fistbeavers Stagger (DoT) Fistbeavers Tick -288 (Physical)", -- [38]
+				"Fistbeavers Rushing Jade Wind Surly Seal Hit -204 (Physical)", -- [39]
+				"Fistbeavers Blackout Strike Surly Seal Hit -2236 (Physical)", -- [40]
+				"Surly Seal Melee Fistbeavers Dodge (1)", -- [41]
+				"Fistbeavers Eye of the Tiger (DoT) Surly Seal Tick -315 (Nature)", -- [42]
+				"Fistbeavers Stagger (DoT) Fistbeavers Tick -288 (Physical)", -- [43]
+				"Surly Seal Momentum Fistbeavers Absorb -2126 (Physical)", -- [44]
+				"Surly Seal Momentum Fistbeavers Hit -840 (2126 Absorbed) (Physical)", -- [45]
+				"Fistbeavers Rushing Jade Wind Surly Seal Hit -204 (Physical)", -- [46]
+				"Fistbeavers Eye of the Tiger Fistbeavers Tick +315", -- [47]
+				"Fistbeavers Stagger (DoT) Fistbeavers Tick -323 (Physical)", -- [48]
+				"Fistbeavers Stagger (DoT) Fistbeavers Tick -323 (Physical)", -- [49]
+				"Fistbeavers Stagger (DoT) Fistbeavers Tick -323 (Physical)", -- [50]
+			},
+			["Name"] = "Fistbeavers",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				false, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				false, -- [8]
+				false, -- [9]
+				true, -- [10]
+				true, -- [11]
+				true, -- [12]
+				true, -- [13]
+				true, -- [14]
+				true, -- [15]
+				true, -- [16]
+				true, -- [17]
+				true, -- [18]
+				false, -- [19]
+				false, -- [20]
+				false, -- [21]
+				false, -- [22]
+				true, -- [23]
+				true, -- [24]
+				true, -- [25]
+				false, -- [26]
+				true, -- [27]
+				true, -- [28]
+				true, -- [29]
+				false, -- [30]
+				true, -- [31]
+				false, -- [32]
+				true, -- [33]
+				true, -- [34]
+				false, -- [35]
+				true, -- [36]
+				false, -- [37]
+				true, -- [38]
+				false, -- [39]
+				false, -- [40]
+				true, -- [41]
+				false, -- [42]
+				true, -- [43]
+				true, -- [44]
+				true, -- [45]
+				false, -- [46]
+				true, -- [47]
+				true, -- [48]
+				true, -- [49]
+				true, -- [50]
+			},
+			["LastEventTimes"] = {
+				3032.99, -- [1]
+				3033.336, -- [2]
+				3033.336, -- [3]
+				3033.708, -- [4]
+				3033.848, -- [5]
+				3034.018, -- [6]
+				3034.483, -- [7]
+				3034.576, -- [8]
+				3034.89, -- [9]
+				3034.89, -- [10]
+				3035.359, -- [11]
+				3035.8, -- [12]
+				3035.8, -- [13]
+				3036.352, -- [14]
+				3036.936, -- [15]
+				3037.691, -- [16]
+				3037.691, -- [17]
+				3039.82, -- [18]
+				3027.848, -- [19]
+				3027.941, -- [20]
+				3027.991, -- [21]
+				3027.991, -- [22]
+				3028.304, -- [23]
+				3028.715, -- [24]
+				3028.715, -- [25]
+				3028.715, -- [26]
+				3028.872, -- [27]
+				3029.187, -- [28]
+				3029.187, -- [29]
+				3029.187, -- [30]
+				3029.364, -- [31]
+				3029.621, -- [32]
+				3029.754, -- [33]
+				3029.988, -- [34]
+				3030.188, -- [35]
+				3030.388, -- [36]
+				3030.764, -- [37]
+				3030.855, -- [38]
+				3030.855, -- [39]
+				3030.855, -- [40]
+				3031.093, -- [41]
+				3031.366, -- [42]
+				3031.366, -- [43]
+				3031.607, -- [44]
+				3031.607, -- [45]
+				3031.607, -- [46]
+				3031.828, -- [47]
+				3032.185, -- [48]
+				3032.46, -- [49]
+				3032.874, -- [50]
+			},
+			["Fights"] = {
+				["Fight2"] = {
+					["PartialResist"] = {
+						["Jagged Fangs"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Stagger (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 25,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 25,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Jagged Fangs"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 801,
+									["min"] = 801,
+									["count"] = 1,
+									["amount"] = 801,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 801,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 983,
+									["min"] = 932,
+									["count"] = 2,
+									["amount"] = 1915,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 1915,
+						},
+						["Stagger (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 25,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 25,
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+						["Melee"] = 1915,
+						["Physical"] = 801,
+					},
+					["WhoDamaged"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Stagger (DoT)"] = {
+									["count"] = 2715,
+								},
+							},
+							["amount"] = 2715,
+						},
+						["Curseformed Familiar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 4563,
+								},
+								["Jagged Fangs"] = {
+									["count"] = 1909,
+								},
+							},
+							["amount"] = 6472,
+						},
+					},
+					["ElementTaken"] = {
+						["Melee"] = 4563,
+						["Physical"] = 4624,
+					},
+					["DamageTaken"] = 9187,
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+								["Absorb"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 4,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 1,
+								},
+								["Tick"] = {
+									["count"] = 25,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 27,
+						},
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 483,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 3,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Physical"] = 483,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 1.5,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+						["Stagger (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Stagger (DoT)"] = {
+									["count"] = 483,
+								},
+							},
+							["amount"] = 483,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Stagger (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Celestial Fortune"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Eye of the Tiger"] = {
+									["count"] = 315,
+								},
+								["Celestial Fortune"] = {
+									["count"] = 205,
+								},
+							},
+							["amount"] = 520,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Celestial Fortune"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Eye of the Tiger"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 315,
+									["min"] = 315,
+									["count"] = 1,
+									["amount"] = 315,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 315,
+						},
+						["Celestial Fortune"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 205,
+									["min"] = 205,
+									["count"] = 1,
+									["amount"] = 205,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 205,
+						},
+					},
+					["WhoHealed"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Eye of the Tiger"] = {
+									["count"] = 315,
+								},
+								["Celestial Fortune"] = {
+									["count"] = 205,
+								},
+							},
+							["amount"] = 520,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 1.5,
+					["Healing"] = 520,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 520,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+						["Eye of the Tiger"] = {
+							["Details"] = {
+								["Fistbeavers"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["Absorbed"] = {
+						["Bulwark of the Masses"] = {
+							["Details"] = {
+								["Fistbeavers"] = {
+									["max"] = 2093,
+									["min"] = 72,
+									["count"] = 21,
+									["amount"] = 13282,
+								},
+							},
+							["count"] = 21,
+							["amount"] = 13282,
+						},
+					},
+					["DOTs"] = {
+						["Eye of the Tiger (DoT)"] = {
+							["Details"] = {
+								["Tidesage Bankson"] = {
+									["count"] = 99,
+								},
+								["Surly Seal"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 105,
+						},
+						["Breath of Fire (DoT)"] = {
+							["Details"] = {
+								["Tidesage Bankson"] = {
+									["count"] = 54,
+								},
+								["Surly Seal"] = {
+									["count"] = 18,
+								},
+							},
+							["amount"] = 72,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 18,
+								},
+								["Hit"] = {
+									["count"] = 6,
+								},
+								["Tick"] = {
+									["count"] = 125,
+								},
+							},
+							["amount"] = 149,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 43,
+								},
+								["Hit"] = {
+									["count"] = 35,
+								},
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Dodge"] = {
+									["count"] = 30,
+								},
+								["Parry"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 111,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+								["Absorb"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 183745,
+					["RageGainedFrom"] = {
+					},
+					["Absorbs"] = 13282,
+					["DeathCount"] = 0,
+					["HOT_Time"] = 108,
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Block"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 19,
+								},
+							},
+							["amount"] = 23,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 22,
+								},
+								["Crit"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 32,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Block"] = {
+									["count"] = 6,
+								},
+								["Crit"] = {
+									["count"] = 54,
+								},
+								["Hit"] = {
+									["count"] = 322,
+								},
+							},
+							["amount"] = 382,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Tick"] = {
+									["count"] = 32,
+								},
+							},
+							["amount"] = 35,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+						["Physical"] = 9926,
+						["Melee"] = 42939,
+						["Shadow"] = 4066,
+					},
+					["ElementTaken"] = {
+						["Physical"] = 44583,
+						["Melee"] = 86077,
+						["Shadow"] = 27661,
+					},
+					["DOT_Time"] = 177,
+					["Damage"] = 337630,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 57.12,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+						["Winter's Kiss Freeze"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Frost"] = 12047,
+						["Melee"] = 52628,
+						["Fire"] = 16585,
+						["Physical"] = 243908,
+						["Nature"] = 12462,
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Void Orb"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 2173,
+									["min"] = 1893,
+									["count"] = 2,
+									["amount"] = 4066,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 4066,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 68,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 3488,
+									["min"] = 133,
+									["count"] = 43,
+									["amount"] = 42939,
+								},
+							},
+							["count"] = 111,
+							["amount"] = 42939,
+						},
+						["Momentum"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 2126,
+									["min"] = 1159,
+									["count"] = 3,
+									["amount"] = 4516,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 4516,
+						},
+						["Stagger (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 125,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 201,
+									["min"] = 72,
+									["count"] = 11,
+									["amount"] = 1688,
+								},
+							},
+							["count"] = 136,
+							["amount"] = 1688,
+						},
+						["Staggering Roar"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 2362,
+									["min"] = 359,
+									["count"] = 4,
+									["amount"] = 3722,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 3722,
+						},
+						["Mind Flay (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 10,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 2794,
+									["min"] = 300,
+									["count"] = 11,
+									["amount"] = 8414,
+								},
+							},
+							["count"] = 21,
+							["amount"] = 8414,
+						},
+					},
+					["DamagedWho"] = {
+						["Abyssal Spawn"] = {
+							["Details"] = {
+								["Breath of Fire"] = {
+									["count"] = 3898,
+								},
+								["Rushing Jade Wind"] = {
+									["count"] = 33759,
+								},
+								["Tidal Surge"] = {
+									["count"] = 3193,
+								},
+								["Keg Smash"] = {
+									["count"] = 44940,
+								},
+							},
+							["amount"] = 85790,
+						},
+						["Unknown"] = {
+							["Details"] = {
+								["Rushing Jade Wind"] = {
+									["count"] = 215,
+								},
+							},
+							["amount"] = 215,
+						},
+						["Tidesage Bankson"] = {
+							["Details"] = {
+								["Rushing Jade Wind"] = {
+									["count"] = 27114,
+								},
+								["Eye of the Tiger (DoT)"] = {
+									["count"] = 11832,
+								},
+								["Blackout Strike"] = {
+									["count"] = 44714,
+								},
+								["Breath of Fire"] = {
+									["count"] = 4960,
+								},
+								["Tiger Palm"] = {
+									["count"] = 30497,
+								},
+								["Tidal Surge"] = {
+									["count"] = 8854,
+								},
+								["Keg Smash"] = {
+									["count"] = 28083,
+								},
+								["Melee"] = {
+									["count"] = 48689,
+								},
+								["Breath of Fire (DoT)"] = {
+									["count"] = 2900,
+								},
+							},
+							["amount"] = 207643,
+						},
+						["Surly Seal"] = {
+							["Details"] = {
+								["Eye of the Tiger (DoT)"] = {
+									["count"] = 630,
+								},
+								["Rushing Jade Wind"] = {
+									["count"] = 17373,
+								},
+								["Melee"] = {
+									["count"] = 3939,
+								},
+								["Keg Smash"] = {
+									["count"] = 13199,
+								},
+								["Breath of Fire"] = {
+									["count"] = 3780,
+								},
+								["Blackout Strike"] = {
+									["count"] = 2236,
+								},
+								["Tiger Palm"] = {
+									["count"] = 1778,
+								},
+								["Breath of Fire (DoT)"] = {
+									["count"] = 1047,
+								},
+							},
+							["amount"] = 43982,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Stagger (DoT)"] = {
+									["count"] = 26083,
+								},
+							},
+							["amount"] = 26083,
+						},
+						["Abyssal Spawn"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 25549,
+								},
+							},
+							["amount"] = 25549,
+						},
+						["Unknown"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 861,
+								},
+							},
+							["amount"] = 861,
+						},
+						["Tidesage Bankson"] = {
+							["Details"] = {
+								["Void Orb"] = {
+									["count"] = 27661,
+								},
+								["Melee"] = {
+									["count"] = 21775,
+								},
+								["Mind Flay (DoT)"] = {
+									["count"] = 25424,
+								},
+							},
+							["amount"] = 74860,
+						},
+						["Surly Seal"] = {
+							["Details"] = {
+								["Staggering Roar"] = {
+									["count"] = 9841,
+								},
+								["Melee"] = {
+									["count"] = 37892,
+								},
+								["Momentum"] = {
+									["count"] = 8659,
+								},
+							},
+							["amount"] = 56392,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Void Orb"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 111,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 111,
+						},
+						["Momentum"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Stagger (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 136,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 136,
+						},
+						["Staggering Roar"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 7,
+						},
+						["Mind Flay (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 21,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 21,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+						["Melee"] = 1247,
+						["Physical"] = 443,
+					},
+					["TimeHealing"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Gift of the Ox"] = {
+									["count"] = 0.31,
+								},
+								["Eye of the Tiger"] = {
+									["count"] = 38.31,
+								},
+								["Healing Elixir"] = {
+									["count"] = 1.16,
+								},
+								["Bulwark of the Masses"] = {
+									["count"] = 8.6,
+								},
+								["Celestial Fortune"] = {
+									["count"] = 8.74,
+								},
+							},
+							["amount"] = 57.12,
+						},
+					},
+					["OverHeals"] = {
+						["Eye of the Tiger"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 630,
+									["min"] = 245,
+									["count"] = 4,
+									["amount"] = 1810,
+								},
+								["Tick"] = {
+									["max"] = 315,
+									["min"] = 21,
+									["count"] = 6,
+									["amount"] = 744,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 2554,
+						},
+						["Celestial Fortune"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 6512,
+									["min"] = 205,
+									["count"] = 3,
+									["amount"] = 9333,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 9333,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Gift of the Ox"] = {
+									["count"] = 13685,
+								},
+								["Eye of the Tiger"] = {
+									["count"] = 12556,
+								},
+								["Healing Elixir"] = {
+									["count"] = 46764,
+								},
+								["Bulwark of the Masses"] = {
+									["count"] = 13282,
+								},
+								["Celestial Fortune"] = {
+									["count"] = 9694,
+								},
+							},
+							["amount"] = 95981,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 3,
+					["Overhealing"] = 11887,
+					["TimeSpent"] = {
+						["Surly Seal"] = {
+							["Details"] = {
+								["Rushing Jade Wind"] = {
+									["count"] = 3.29,
+								},
+								["Melee"] = {
+									["count"] = 0.89,
+								},
+								["Keg Smash"] = {
+									["count"] = 0.41,
+								},
+								["Eye of the Tiger (DoT)"] = {
+									["count"] = 2.01,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0.47,
+								},
+								["Breath of Fire (DoT)"] = {
+									["count"] = 0.11,
+								},
+							},
+							["amount"] = 7.18,
+						},
+						["Abyssal Spawn"] = {
+							["Details"] = {
+								["Breath of Fire"] = {
+									["count"] = 0.25,
+								},
+								["Rushing Jade Wind"] = {
+									["count"] = 19.35,
+								},
+							},
+							["amount"] = 19.6,
+						},
+						["Tidesage Bankson"] = {
+							["Details"] = {
+								["Rushing Jade Wind"] = {
+									["count"] = 14.86,
+								},
+								["Melee"] = {
+									["count"] = 4.89,
+								},
+								["Blackout Strike"] = {
+									["count"] = 4.79,
+								},
+								["Breath of Fire"] = {
+									["count"] = 0.36,
+								},
+								["Tiger Palm"] = {
+									["count"] = 8.52,
+								},
+								["Tidal Surge"] = {
+									["count"] = 2.46,
+								},
+								["Keg Smash"] = {
+									["count"] = 0.51,
+								},
+								["Eye of the Tiger (DoT)"] = {
+									["count"] = 8.39,
+								},
+								["Breath of Fire (DoT)"] = {
+									["count"] = 3.22,
+								},
+							},
+							["amount"] = 48,
+						},
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Gift of the Ox"] = {
+									["count"] = 0.31,
+								},
+								["Eye of the Tiger"] = {
+									["count"] = 38.31,
+								},
+								["Winter's Kiss Freeze"] = {
+									["count"] = 0,
+								},
+								["Healing Elixir"] = {
+									["count"] = 1.16,
+								},
+								["Bulwark of the Masses"] = {
+									["count"] = 8.6,
+								},
+								["Celestial Fortune"] = {
+									["count"] = 8.74,
+								},
+							},
+							["amount"] = 57.12,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+						["Tidesage Bankson"] = {
+							["Details"] = {
+								["Mind Flay (Spear Hand Strike)"] = {
+									["count"] = 2,
+								},
+								["Abyssal Portal (Spear Hand Strike)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Gift of the Ox"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 6843,
+									["min"] = 6842,
+									["count"] = 2,
+									["amount"] = 13685,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 13685,
+						},
+						["Eye of the Tiger"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 631,
+									["min"] = 162,
+									["count"] = 11,
+									["amount"] = 5756,
+								},
+								["Tick"] = {
+									["max"] = 316,
+									["min"] = 162,
+									["count"] = 23,
+									["amount"] = 6800,
+								},
+							},
+							["count"] = 34,
+							["amount"] = 12556,
+						},
+						["Healing Elixir"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 15588,
+									["min"] = 15588,
+									["count"] = 3,
+									["amount"] = 46764,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 46764,
+						},
+						["Bulwark of the Masses"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 2093,
+									["min"] = 72,
+									["count"] = 21,
+									["amount"] = 13282,
+								},
+							},
+							["count"] = 21,
+							["amount"] = 13282,
+						},
+						["Celestial Fortune"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 4448,
+									["min"] = 191,
+									["count"] = 8,
+									["amount"] = 9694,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 9694,
+						},
+					},
+					["WhoHealed"] = {
+						["No One"] = {
+							["Details"] = {
+								["Azerite"] = {
+									["count"] = 19890,
+								},
+							},
+							["amount"] = 19890,
+						},
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Gift of the Ox"] = {
+									["count"] = 13685,
+								},
+								["Eye of the Tiger"] = {
+									["count"] = 12556,
+								},
+								["Healing Elixir"] = {
+									["count"] = 46764,
+								},
+								["Bulwark of the Masses"] = {
+									["count"] = 13282,
+								},
+								["Celestial Fortune"] = {
+									["count"] = 9694,
+								},
+							},
+							["amount"] = 95981,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 131.9,
+					["Healing"] = 82699,
+					["FDamagedWho"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Winter's Kiss Freeze"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Rushing Jade Wind"] = {
+							["Details"] = {
+								["Hit (Blocked)"] = {
+									["max"] = 167,
+									["min"] = 143,
+									["count"] = 5,
+									["amount"] = 748,
+								},
+								["Crit (Blocked)"] = {
+									["max"] = 287,
+									["min"] = 287,
+									["count"] = 1,
+									["amount"] = 287,
+								},
+								["Crit"] = {
+									["max"] = 479,
+									["min"] = 409,
+									["count"] = 44,
+									["amount"] = 19214,
+								},
+								["Hit"] = {
+									["max"] = 240,
+									["min"] = 195,
+									["count"] = 269,
+									["amount"] = 58212,
+								},
+							},
+							["count"] = 319,
+							["amount"] = 78461,
+						},
+						["Eye of the Tiger (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 694,
+									["min"] = 631,
+									["count"] = 3,
+									["amount"] = 2018,
+								},
+								["Tick"] = {
+									["max"] = 347,
+									["min"] = 293,
+									["count"] = 32,
+									["amount"] = 10444,
+								},
+							},
+							["count"] = 35,
+							["amount"] = 12462,
+						},
+						["Blackout Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 4757,
+									["min"] = 4757,
+									["count"] = 1,
+									["amount"] = 4757,
+								},
+								["Hit"] = {
+									["max"] = 2617,
+									["min"] = 2236,
+									["count"] = 17,
+									["amount"] = 42193,
+								},
+							},
+							["count"] = 18,
+							["amount"] = 46950,
+						},
+						["Breath of Fire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2599,
+									["min"] = 2599,
+									["count"] = 2,
+									["amount"] = 5198,
+								},
+								["Hit"] = {
+									["max"] = 1299,
+									["min"] = 1181,
+									["count"] = 6,
+									["amount"] = 7440,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 12638,
+						},
+						["Tiger Palm"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1892,
+									["min"] = 1892,
+									["count"] = 2,
+									["amount"] = 3784,
+								},
+								["Hit"] = {
+									["max"] = 2081,
+									["min"] = 991,
+									["count"] = 17,
+									["amount"] = 28491,
+								},
+							},
+							["count"] = 19,
+							["amount"] = 32275,
+						},
+						["Tidal Surge"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 3193,
+									["min"] = 2903,
+									["count"] = 3,
+									["amount"] = 9000,
+								},
+								["Hit"] = {
+									["max"] = 1596,
+									["min"] = 1451,
+									["count"] = 2,
+									["amount"] = 3047,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 12047,
+						},
+						["Keg Smash"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 7355,
+									["min"] = 6285,
+									["count"] = 6,
+									["amount"] = 39410,
+								},
+								["Hit"] = {
+									["max"] = 3678,
+									["min"] = 3142,
+									["count"] = 14,
+									["amount"] = 46812,
+								},
+							},
+							["count"] = 20,
+							["amount"] = 86222,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit (Blocked)"] = {
+									["max"] = 2909,
+									["min"] = 2909,
+									["count"] = 1,
+									["amount"] = 2909,
+								},
+								["Crit"] = {
+									["max"] = 4261,
+									["min"] = 4193,
+									["count"] = 2,
+									["amount"] = 8454,
+								},
+								["Hit"] = {
+									["max"] = 2346,
+									["min"] = 1945,
+									["count"] = 19,
+									["amount"] = 41265,
+								},
+							},
+							["count"] = 22,
+							["amount"] = 52628,
+						},
+						["Breath of Fire (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 299,
+									["min"] = 299,
+									["count"] = 2,
+									["amount"] = 598,
+								},
+								["Tick"] = {
+									["max"] = 165,
+									["min"] = 149,
+									["count"] = 22,
+									["amount"] = 3349,
+								},
+							},
+							["count"] = 24,
+							["amount"] = 3947,
+						},
+					},
+					["HealingTaken"] = 115871,
+					["RageGain"] = 0,
+					["TimeDamage"] = 74.78,
+					["TimeDamaging"] = {
+						["Surly Seal"] = {
+							["Details"] = {
+								["Rushing Jade Wind"] = {
+									["count"] = 3.29,
+								},
+								["Melee"] = {
+									["count"] = 0.89,
+								},
+								["Keg Smash"] = {
+									["count"] = 0.41,
+								},
+								["Eye of the Tiger (DoT)"] = {
+									["count"] = 2.01,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0.47,
+								},
+								["Breath of Fire (DoT)"] = {
+									["count"] = 0.11,
+								},
+							},
+							["amount"] = 7.18,
+						},
+						["Abyssal Spawn"] = {
+							["Details"] = {
+								["Breath of Fire"] = {
+									["count"] = 0.25,
+								},
+								["Rushing Jade Wind"] = {
+									["count"] = 19.35,
+								},
+							},
+							["amount"] = 19.6,
+						},
+						["Tidesage Bankson"] = {
+							["Details"] = {
+								["Rushing Jade Wind"] = {
+									["count"] = 14.86,
+								},
+								["Melee"] = {
+									["count"] = 4.89,
+								},
+								["Blackout Strike"] = {
+									["count"] = 4.79,
+								},
+								["Breath of Fire"] = {
+									["count"] = 0.36,
+								},
+								["Tiger Palm"] = {
+									["count"] = 8.52,
+								},
+								["Tidal Surge"] = {
+									["count"] = 2.46,
+								},
+								["Keg Smash"] = {
+									["count"] = 0.51,
+								},
+								["Eye of the Tiger (DoT)"] = {
+									["count"] = 8.39,
+								},
+								["Breath of Fire (DoT)"] = {
+									["count"] = 3.22,
+								},
+							},
+							["amount"] = 48,
+						},
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Winter's Kiss Freeze"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+						["Eye of the Tiger"] = {
+							["Details"] = {
+								["Fistbeavers"] = {
+									["count"] = 108,
+								},
+							},
+							["amount"] = 108,
+						},
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["Absorbed"] = {
+						["Bulwark of the Masses"] = {
+							["Details"] = {
+								["Fistbeavers"] = {
+									["max"] = 2093,
+									["min"] = 72,
+									["count"] = 21,
+									["amount"] = 13282,
+								},
+							},
+							["count"] = 21,
+							["amount"] = 13282,
+						},
+					},
+					["DOTs"] = {
+						["Eye of the Tiger (DoT)"] = {
+							["Details"] = {
+								["Tidesage Bankson"] = {
+									["count"] = 99,
+								},
+								["Surly Seal"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 105,
+						},
+						["Breath of Fire (DoT)"] = {
+							["Details"] = {
+								["Tidesage Bankson"] = {
+									["count"] = 54,
+								},
+								["Surly Seal"] = {
+									["count"] = 18,
+								},
+							},
+							["amount"] = 72,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 18,
+								},
+								["Hit"] = {
+									["count"] = 6,
+								},
+								["Tick"] = {
+									["count"] = 125,
+								},
+							},
+							["amount"] = 149,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 43,
+								},
+								["Hit"] = {
+									["count"] = 35,
+								},
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Dodge"] = {
+									["count"] = 30,
+								},
+								["Parry"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 111,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+								["Absorb"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 183745,
+					["RageGainedFrom"] = {
+					},
+					["Absorbs"] = 13282,
+					["DeathCount"] = 0,
+					["HOT_Time"] = 108,
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Block"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 19,
+								},
+							},
+							["amount"] = 23,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 22,
+								},
+								["Crit"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 32,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Block"] = {
+									["count"] = 6,
+								},
+								["Crit"] = {
+									["count"] = 54,
+								},
+								["Hit"] = {
+									["count"] = 322,
+								},
+							},
+							["amount"] = 382,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Tick"] = {
+									["count"] = 32,
+								},
+							},
+							["amount"] = 35,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+						["Physical"] = 9926,
+						["Melee"] = 42939,
+						["Shadow"] = 4066,
+					},
+					["ElementTaken"] = {
+						["Physical"] = 44583,
+						["Melee"] = 86077,
+						["Shadow"] = 27661,
+					},
+					["DOT_Time"] = 177,
+					["Damage"] = 337630,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 57.12,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+						["Winter's Kiss Freeze"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Frost"] = 12047,
+						["Melee"] = 52628,
+						["Fire"] = 16585,
+						["Physical"] = 243908,
+						["Nature"] = 12462,
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Void Orb"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 2173,
+									["min"] = 1893,
+									["count"] = 2,
+									["amount"] = 4066,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 4066,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 68,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 3488,
+									["min"] = 133,
+									["count"] = 43,
+									["amount"] = 42939,
+								},
+							},
+							["count"] = 111,
+							["amount"] = 42939,
+						},
+						["Momentum"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 2126,
+									["min"] = 1159,
+									["count"] = 3,
+									["amount"] = 4516,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 4516,
+						},
+						["Stagger (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 125,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 201,
+									["min"] = 72,
+									["count"] = 11,
+									["amount"] = 1688,
+								},
+							},
+							["count"] = 136,
+							["amount"] = 1688,
+						},
+						["Staggering Roar"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 2362,
+									["min"] = 359,
+									["count"] = 4,
+									["amount"] = 3722,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 3722,
+						},
+						["Mind Flay (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 10,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 2794,
+									["min"] = 300,
+									["count"] = 11,
+									["amount"] = 8414,
+								},
+							},
+							["count"] = 21,
+							["amount"] = 8414,
+						},
+					},
+					["DamagedWho"] = {
+						["Abyssal Spawn"] = {
+							["Details"] = {
+								["Breath of Fire"] = {
+									["count"] = 3898,
+								},
+								["Rushing Jade Wind"] = {
+									["count"] = 33759,
+								},
+								["Tidal Surge"] = {
+									["count"] = 3193,
+								},
+								["Keg Smash"] = {
+									["count"] = 44940,
+								},
+							},
+							["amount"] = 85790,
+						},
+						["Unknown"] = {
+							["Details"] = {
+								["Rushing Jade Wind"] = {
+									["count"] = 215,
+								},
+							},
+							["amount"] = 215,
+						},
+						["Tidesage Bankson"] = {
+							["Details"] = {
+								["Rushing Jade Wind"] = {
+									["count"] = 27114,
+								},
+								["Eye of the Tiger (DoT)"] = {
+									["count"] = 11832,
+								},
+								["Blackout Strike"] = {
+									["count"] = 44714,
+								},
+								["Breath of Fire"] = {
+									["count"] = 4960,
+								},
+								["Tiger Palm"] = {
+									["count"] = 30497,
+								},
+								["Tidal Surge"] = {
+									["count"] = 8854,
+								},
+								["Keg Smash"] = {
+									["count"] = 28083,
+								},
+								["Melee"] = {
+									["count"] = 48689,
+								},
+								["Breath of Fire (DoT)"] = {
+									["count"] = 2900,
+								},
+							},
+							["amount"] = 207643,
+						},
+						["Surly Seal"] = {
+							["Details"] = {
+								["Eye of the Tiger (DoT)"] = {
+									["count"] = 630,
+								},
+								["Rushing Jade Wind"] = {
+									["count"] = 17373,
+								},
+								["Melee"] = {
+									["count"] = 3939,
+								},
+								["Keg Smash"] = {
+									["count"] = 13199,
+								},
+								["Breath of Fire"] = {
+									["count"] = 3780,
+								},
+								["Blackout Strike"] = {
+									["count"] = 2236,
+								},
+								["Tiger Palm"] = {
+									["count"] = 1778,
+								},
+								["Breath of Fire (DoT)"] = {
+									["count"] = 1047,
+								},
+							},
+							["amount"] = 43982,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Stagger (DoT)"] = {
+									["count"] = 26083,
+								},
+							},
+							["amount"] = 26083,
+						},
+						["Abyssal Spawn"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 25549,
+								},
+							},
+							["amount"] = 25549,
+						},
+						["Unknown"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 861,
+								},
+							},
+							["amount"] = 861,
+						},
+						["Tidesage Bankson"] = {
+							["Details"] = {
+								["Void Orb"] = {
+									["count"] = 27661,
+								},
+								["Melee"] = {
+									["count"] = 21775,
+								},
+								["Mind Flay (DoT)"] = {
+									["count"] = 25424,
+								},
+							},
+							["amount"] = 74860,
+						},
+						["Surly Seal"] = {
+							["Details"] = {
+								["Staggering Roar"] = {
+									["count"] = 9841,
+								},
+								["Melee"] = {
+									["count"] = 37892,
+								},
+								["Momentum"] = {
+									["count"] = 8659,
+								},
+							},
+							["amount"] = 56392,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Void Orb"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 111,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 111,
+						},
+						["Momentum"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Stagger (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 136,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 136,
+						},
+						["Staggering Roar"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 7,
+						},
+						["Mind Flay (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 21,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 21,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+						["Melee"] = 1247,
+						["Physical"] = 443,
+					},
+					["TimeHealing"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Gift of the Ox"] = {
+									["count"] = 0.31,
+								},
+								["Eye of the Tiger"] = {
+									["count"] = 38.31,
+								},
+								["Healing Elixir"] = {
+									["count"] = 1.16,
+								},
+								["Bulwark of the Masses"] = {
+									["count"] = 8.6,
+								},
+								["Celestial Fortune"] = {
+									["count"] = 8.74,
+								},
+							},
+							["amount"] = 57.12,
+						},
+					},
+					["OverHeals"] = {
+						["Eye of the Tiger"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 630,
+									["min"] = 245,
+									["count"] = 4,
+									["amount"] = 1810,
+								},
+								["Tick"] = {
+									["max"] = 315,
+									["min"] = 21,
+									["count"] = 6,
+									["amount"] = 744,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 2554,
+						},
+						["Celestial Fortune"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 6512,
+									["min"] = 205,
+									["count"] = 3,
+									["amount"] = 9333,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 9333,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Gift of the Ox"] = {
+									["count"] = 13685,
+								},
+								["Eye of the Tiger"] = {
+									["count"] = 12556,
+								},
+								["Healing Elixir"] = {
+									["count"] = 46764,
+								},
+								["Bulwark of the Masses"] = {
+									["count"] = 13282,
+								},
+								["Celestial Fortune"] = {
+									["count"] = 9694,
+								},
+							},
+							["amount"] = 95981,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 3,
+					["Overhealing"] = 11887,
+					["TimeSpent"] = {
+						["Surly Seal"] = {
+							["Details"] = {
+								["Rushing Jade Wind"] = {
+									["count"] = 3.29,
+								},
+								["Melee"] = {
+									["count"] = 0.89,
+								},
+								["Keg Smash"] = {
+									["count"] = 0.41,
+								},
+								["Eye of the Tiger (DoT)"] = {
+									["count"] = 2.01,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0.47,
+								},
+								["Breath of Fire (DoT)"] = {
+									["count"] = 0.11,
+								},
+							},
+							["amount"] = 7.18,
+						},
+						["Abyssal Spawn"] = {
+							["Details"] = {
+								["Breath of Fire"] = {
+									["count"] = 0.25,
+								},
+								["Rushing Jade Wind"] = {
+									["count"] = 19.35,
+								},
+							},
+							["amount"] = 19.6,
+						},
+						["Tidesage Bankson"] = {
+							["Details"] = {
+								["Rushing Jade Wind"] = {
+									["count"] = 14.86,
+								},
+								["Melee"] = {
+									["count"] = 4.89,
+								},
+								["Blackout Strike"] = {
+									["count"] = 4.79,
+								},
+								["Breath of Fire"] = {
+									["count"] = 0.36,
+								},
+								["Tiger Palm"] = {
+									["count"] = 8.52,
+								},
+								["Tidal Surge"] = {
+									["count"] = 2.46,
+								},
+								["Keg Smash"] = {
+									["count"] = 0.51,
+								},
+								["Eye of the Tiger (DoT)"] = {
+									["count"] = 8.39,
+								},
+								["Breath of Fire (DoT)"] = {
+									["count"] = 3.22,
+								},
+							},
+							["amount"] = 48,
+						},
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Gift of the Ox"] = {
+									["count"] = 0.31,
+								},
+								["Eye of the Tiger"] = {
+									["count"] = 38.31,
+								},
+								["Winter's Kiss Freeze"] = {
+									["count"] = 0,
+								},
+								["Healing Elixir"] = {
+									["count"] = 1.16,
+								},
+								["Bulwark of the Masses"] = {
+									["count"] = 8.6,
+								},
+								["Celestial Fortune"] = {
+									["count"] = 8.74,
+								},
+							},
+							["amount"] = 57.12,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+						["Tidesage Bankson"] = {
+							["Details"] = {
+								["Mind Flay (Spear Hand Strike)"] = {
+									["count"] = 2,
+								},
+								["Abyssal Portal (Spear Hand Strike)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Gift of the Ox"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 6843,
+									["min"] = 6842,
+									["count"] = 2,
+									["amount"] = 13685,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 13685,
+						},
+						["Eye of the Tiger"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 631,
+									["min"] = 162,
+									["count"] = 11,
+									["amount"] = 5756,
+								},
+								["Tick"] = {
+									["max"] = 316,
+									["min"] = 162,
+									["count"] = 23,
+									["amount"] = 6800,
+								},
+							},
+							["count"] = 34,
+							["amount"] = 12556,
+						},
+						["Healing Elixir"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 15588,
+									["min"] = 15588,
+									["count"] = 3,
+									["amount"] = 46764,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 46764,
+						},
+						["Bulwark of the Masses"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 2093,
+									["min"] = 72,
+									["count"] = 21,
+									["amount"] = 13282,
+								},
+							},
+							["count"] = 21,
+							["amount"] = 13282,
+						},
+						["Celestial Fortune"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 4448,
+									["min"] = 191,
+									["count"] = 8,
+									["amount"] = 9694,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 9694,
+						},
+					},
+					["WhoHealed"] = {
+						["No One"] = {
+							["Details"] = {
+								["Azerite"] = {
+									["count"] = 19890,
+								},
+							},
+							["amount"] = 19890,
+						},
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Gift of the Ox"] = {
+									["count"] = 13685,
+								},
+								["Eye of the Tiger"] = {
+									["count"] = 12556,
+								},
+								["Healing Elixir"] = {
+									["count"] = 46764,
+								},
+								["Bulwark of the Masses"] = {
+									["count"] = 13282,
+								},
+								["Celestial Fortune"] = {
+									["count"] = 9694,
+								},
+							},
+							["amount"] = 95981,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 131.9,
+					["Healing"] = 82699,
+					["FDamagedWho"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Winter's Kiss Freeze"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Rushing Jade Wind"] = {
+							["Details"] = {
+								["Hit (Blocked)"] = {
+									["max"] = 167,
+									["min"] = 143,
+									["count"] = 5,
+									["amount"] = 748,
+								},
+								["Crit (Blocked)"] = {
+									["max"] = 287,
+									["min"] = 287,
+									["count"] = 1,
+									["amount"] = 287,
+								},
+								["Crit"] = {
+									["max"] = 479,
+									["min"] = 409,
+									["count"] = 44,
+									["amount"] = 19214,
+								},
+								["Hit"] = {
+									["max"] = 240,
+									["min"] = 195,
+									["count"] = 269,
+									["amount"] = 58212,
+								},
+							},
+							["count"] = 319,
+							["amount"] = 78461,
+						},
+						["Eye of the Tiger (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 694,
+									["min"] = 631,
+									["count"] = 3,
+									["amount"] = 2018,
+								},
+								["Tick"] = {
+									["max"] = 347,
+									["min"] = 293,
+									["count"] = 32,
+									["amount"] = 10444,
+								},
+							},
+							["count"] = 35,
+							["amount"] = 12462,
+						},
+						["Blackout Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 4757,
+									["min"] = 4757,
+									["count"] = 1,
+									["amount"] = 4757,
+								},
+								["Hit"] = {
+									["max"] = 2617,
+									["min"] = 2236,
+									["count"] = 17,
+									["amount"] = 42193,
+								},
+							},
+							["count"] = 18,
+							["amount"] = 46950,
+						},
+						["Breath of Fire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2599,
+									["min"] = 2599,
+									["count"] = 2,
+									["amount"] = 5198,
+								},
+								["Hit"] = {
+									["max"] = 1299,
+									["min"] = 1181,
+									["count"] = 6,
+									["amount"] = 7440,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 12638,
+						},
+						["Tiger Palm"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1892,
+									["min"] = 1892,
+									["count"] = 2,
+									["amount"] = 3784,
+								},
+								["Hit"] = {
+									["max"] = 2081,
+									["min"] = 991,
+									["count"] = 17,
+									["amount"] = 28491,
+								},
+							},
+							["count"] = 19,
+							["amount"] = 32275,
+						},
+						["Tidal Surge"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 3193,
+									["min"] = 2903,
+									["count"] = 3,
+									["amount"] = 9000,
+								},
+								["Hit"] = {
+									["max"] = 1596,
+									["min"] = 1451,
+									["count"] = 2,
+									["amount"] = 3047,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 12047,
+						},
+						["Keg Smash"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 7355,
+									["min"] = 6285,
+									["count"] = 6,
+									["amount"] = 39410,
+								},
+								["Hit"] = {
+									["max"] = 3678,
+									["min"] = 3142,
+									["count"] = 14,
+									["amount"] = 46812,
+								},
+							},
+							["count"] = 20,
+							["amount"] = 86222,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit (Blocked)"] = {
+									["max"] = 2909,
+									["min"] = 2909,
+									["count"] = 1,
+									["amount"] = 2909,
+								},
+								["Crit"] = {
+									["max"] = 4261,
+									["min"] = 4193,
+									["count"] = 2,
+									["amount"] = 8454,
+								},
+								["Hit"] = {
+									["max"] = 2346,
+									["min"] = 1945,
+									["count"] = 19,
+									["amount"] = 41265,
+								},
+							},
+							["count"] = 22,
+							["amount"] = 52628,
+						},
+						["Breath of Fire (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 299,
+									["min"] = 299,
+									["count"] = 2,
+									["amount"] = 598,
+								},
+								["Tick"] = {
+									["max"] = 165,
+									["min"] = 149,
+									["count"] = 22,
+									["amount"] = 3349,
+								},
+							},
+							["count"] = 24,
+							["amount"] = 3947,
+						},
+					},
+					["HealingTaken"] = 115871,
+					["RageGain"] = 0,
+					["TimeDamage"] = 74.78,
+					["TimeDamaging"] = {
+						["Surly Seal"] = {
+							["Details"] = {
+								["Rushing Jade Wind"] = {
+									["count"] = 3.29,
+								},
+								["Melee"] = {
+									["count"] = 0.89,
+								},
+								["Keg Smash"] = {
+									["count"] = 0.41,
+								},
+								["Eye of the Tiger (DoT)"] = {
+									["count"] = 2.01,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0.47,
+								},
+								["Breath of Fire (DoT)"] = {
+									["count"] = 0.11,
+								},
+							},
+							["amount"] = 7.18,
+						},
+						["Abyssal Spawn"] = {
+							["Details"] = {
+								["Breath of Fire"] = {
+									["count"] = 0.25,
+								},
+								["Rushing Jade Wind"] = {
+									["count"] = 19.35,
+								},
+							},
+							["amount"] = 19.6,
+						},
+						["Tidesage Bankson"] = {
+							["Details"] = {
+								["Rushing Jade Wind"] = {
+									["count"] = 14.86,
+								},
+								["Melee"] = {
+									["count"] = 4.89,
+								},
+								["Blackout Strike"] = {
+									["count"] = 4.79,
+								},
+								["Breath of Fire"] = {
+									["count"] = 0.36,
+								},
+								["Tiger Palm"] = {
+									["count"] = 8.52,
+								},
+								["Tidal Surge"] = {
+									["count"] = 2.46,
+								},
+								["Keg Smash"] = {
+									["count"] = 0.51,
+								},
+								["Eye of the Tiger (DoT)"] = {
+									["count"] = 8.39,
+								},
+								["Breath of Fire (DoT)"] = {
+									["count"] = 3.22,
+								},
+							},
+							["amount"] = 48,
+						},
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Winter's Kiss Freeze"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+						["Eye of the Tiger"] = {
+							["Details"] = {
+								["Fistbeavers"] = {
+									["count"] = 108,
+								},
+							},
+							["amount"] = 108,
+						},
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["DOTs"] = {
+						["Eye of the Tiger (DoT)"] = {
+							["Details"] = {
+								["Tidesage Bankson"] = {
+									["count"] = 99,
+								},
+								["Surly Seal"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 105,
+						},
+						["Breath of Fire (DoT)"] = {
+							["Details"] = {
+								["Tidesage Bankson"] = {
+									["count"] = 54,
+								},
+								["Surly Seal"] = {
+									["count"] = 18,
+								},
+							},
+							["amount"] = 72,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 19,
+								},
+								["Tick"] = {
+									["count"] = 165,
+								},
+								["Hit"] = {
+									["count"] = 11,
+								},
+							},
+							["amount"] = 195,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 45,
+								},
+								["Hit"] = {
+									["count"] = 37,
+								},
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Dodge"] = {
+									["count"] = 30,
+								},
+								["Parry"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 115,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+								["Absorb"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["WhoHealed"] = {
+						["No One"] = {
+							["Details"] = {
+								["Azerite"] = {
+									["count"] = 19890,
+								},
+							},
+							["amount"] = 19890,
+						},
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Gift of the Ox"] = {
+									["count"] = 13685,
+								},
+								["Eye of the Tiger"] = {
+									["count"] = 12871,
+								},
+								["Healing Elixir"] = {
+									["count"] = 46764,
+								},
+								["Bulwark of the Masses"] = {
+									["count"] = 13282,
+								},
+								["Celestial Fortune"] = {
+									["count"] = 9899,
+								},
+							},
+							["amount"] = 96501,
+						},
+					},
+					["Absorbs"] = 13282,
+					["HOT_Time"] = 111,
+					["ElementTaken"] = {
+						["Physical"] = 79148,
+						["Melee"] = 90640,
+						["Shadow"] = 27661,
+					},
+					["HOTs"] = {
+						["Eye of the Tiger"] = {
+							["Details"] = {
+								["Fistbeavers"] = {
+									["count"] = 111,
+								},
+							},
+							["amount"] = 111,
+						},
+					},
+					["Damage"] = 337630,
+					["TimeHeal"] = 58.62,
+					["FAttacks"] = {
+						["Winter's Kiss Freeze"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 589,
+									["min"] = 539,
+									["count"] = 2,
+									["amount"] = 1128,
+								},
+								["Crit"] = {
+									["max"] = 3421,
+									["min"] = 3421,
+									["count"] = 1,
+									["amount"] = 3421,
+								},
+								["Hit"] = {
+									["max"] = 3134,
+									["min"] = 3134,
+									["count"] = 1,
+									["amount"] = 3134,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 7683,
+						},
+					},
+					["ElementDone"] = {
+						["Frost"] = 12047,
+						["Melee"] = 52628,
+						["Fire"] = 16585,
+						["Physical"] = 243908,
+						["Nature"] = 12462,
+					},
+					["DamagedWho"] = {
+						["Abyssal Spawn"] = {
+							["Details"] = {
+								["Breath of Fire"] = {
+									["count"] = 3898,
+								},
+								["Rushing Jade Wind"] = {
+									["count"] = 33759,
+								},
+								["Tidal Surge"] = {
+									["count"] = 3193,
+								},
+								["Keg Smash"] = {
+									["count"] = 44940,
+								},
+							},
+							["amount"] = 85790,
+						},
+						["Unknown"] = {
+							["Details"] = {
+								["Rushing Jade Wind"] = {
+									["count"] = 215,
+								},
+							},
+							["amount"] = 215,
+						},
+						["Tidesage Bankson"] = {
+							["Details"] = {
+								["Rushing Jade Wind"] = {
+									["count"] = 27114,
+								},
+								["Eye of the Tiger (DoT)"] = {
+									["count"] = 11832,
+								},
+								["Blackout Strike"] = {
+									["count"] = 44714,
+								},
+								["Breath of Fire"] = {
+									["count"] = 4960,
+								},
+								["Tiger Palm"] = {
+									["count"] = 30497,
+								},
+								["Tidal Surge"] = {
+									["count"] = 8854,
+								},
+								["Keg Smash"] = {
+									["count"] = 28083,
+								},
+								["Melee"] = {
+									["count"] = 48689,
+								},
+								["Breath of Fire (DoT)"] = {
+									["count"] = 2900,
+								},
+							},
+							["amount"] = 207643,
+						},
+						["Surly Seal"] = {
+							["Details"] = {
+								["Eye of the Tiger (DoT)"] = {
+									["count"] = 630,
+								},
+								["Rushing Jade Wind"] = {
+									["count"] = 17373,
+								},
+								["Melee"] = {
+									["count"] = 3939,
+								},
+								["Keg Smash"] = {
+									["count"] = 13199,
+								},
+								["Breath of Fire"] = {
+									["count"] = 3780,
+								},
+								["Blackout Strike"] = {
+									["count"] = 2236,
+								},
+								["Tiger Palm"] = {
+									["count"] = 1778,
+								},
+								["Breath of Fire (DoT)"] = {
+									["count"] = 1047,
+								},
+							},
+							["amount"] = 43982,
+						},
+					},
+					["WhoDamaged"] = {
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 29122,
+								},
+							},
+							["amount"] = 29122,
+						},
+						["Abyssal Spawn"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 25549,
+								},
+							},
+							["amount"] = 25549,
+						},
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Stagger (DoT)"] = {
+									["count"] = 29617,
+								},
+							},
+							["amount"] = 29617,
+						},
+						["Unknown"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 861,
+								},
+							},
+							["amount"] = 861,
+						},
+						["Curseformed Familiar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 4563,
+								},
+								["Jagged Fangs"] = {
+									["count"] = 1909,
+								},
+							},
+							["amount"] = 6472,
+						},
+						["Tidesage Bankson"] = {
+							["Details"] = {
+								["Void Orb"] = {
+									["count"] = 27661,
+								},
+								["Melee"] = {
+									["count"] = 21775,
+								},
+								["Mind Flay (DoT)"] = {
+									["count"] = 25424,
+								},
+							},
+							["amount"] = 74860,
+						},
+						["Surly Seal"] = {
+							["Details"] = {
+								["Staggering Roar"] = {
+									["count"] = 9841,
+								},
+								["Melee"] = {
+									["count"] = 37892,
+								},
+								["Momentum"] = {
+									["count"] = 8659,
+								},
+							},
+							["amount"] = 56392,
+						},
+					},
+					["Absorbed"] = {
+						["Bulwark of the Masses"] = {
+							["Details"] = {
+								["Fistbeavers"] = {
+									["max"] = 2093,
+									["min"] = 72,
+									["count"] = 21,
+									["amount"] = 13282,
+								},
+							},
+							["count"] = 21,
+							["amount"] = 13282,
+						},
+					},
+					["ElementDoneBlock"] = {
+						["Melee"] = 1247,
+						["Physical"] = 443,
+					},
+					["TimeHealing"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Gift of the Ox"] = {
+									["count"] = 0.31,
+								},
+								["Eye of the Tiger"] = {
+									["count"] = 38.31,
+								},
+								["Healing Elixir"] = {
+									["count"] = 1.16,
+								},
+								["Bulwark of the Masses"] = {
+									["count"] = 8.6,
+								},
+								["Celestial Fortune"] = {
+									["count"] = 10.24,
+								},
+							},
+							["amount"] = 58.62,
+						},
+					},
+					["OverHeals"] = {
+						["Eye of the Tiger"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 630,
+									["min"] = 245,
+									["count"] = 4,
+									["amount"] = 1810,
+								},
+								["Tick"] = {
+									["max"] = 315,
+									["min"] = 21,
+									["count"] = 6,
+									["amount"] = 744,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 2554,
+						},
+						["Celestial Fortune"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 6512,
+									["min"] = 205,
+									["count"] = 3,
+									["amount"] = 9333,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 9333,
+						},
+					},
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Void Orb"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 115,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 115,
+						},
+						["Momentum"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Staggering Roar"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 7,
+						},
+						["Stagger (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 176,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 176,
+						},
+						["Jagged Fangs"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Mind Flay (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 21,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 21,
+						},
+					},
+					["FDamage"] = 7683,
+					["ActiveTime"] = 136.4,
+					["InterruptData"] = {
+						["Tidesage Bankson"] = {
+							["Details"] = {
+								["Mind Flay (Spear Hand Strike)"] = {
+									["count"] = 2,
+								},
+								["Abyssal Portal (Spear Hand Strike)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["Interrupts"] = 3,
+					["Heals"] = {
+						["Gift of the Ox"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 6843,
+									["min"] = 6842,
+									["count"] = 2,
+									["amount"] = 13685,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 13685,
+						},
+						["Eye of the Tiger"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 631,
+									["min"] = 162,
+									["count"] = 11,
+									["amount"] = 5756,
+								},
+								["Tick"] = {
+									["max"] = 316,
+									["min"] = 162,
+									["count"] = 24,
+									["amount"] = 7115,
+								},
+							},
+							["count"] = 35,
+							["amount"] = 12871,
+						},
+						["Healing Elixir"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 15588,
+									["min"] = 15588,
+									["count"] = 3,
+									["amount"] = 46764,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 46764,
+						},
+						["Bulwark of the Masses"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 2093,
+									["min"] = 72,
+									["count"] = 21,
+									["amount"] = 13282,
+								},
+							},
+							["count"] = 21,
+							["amount"] = 13282,
+						},
+						["Celestial Fortune"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 4448,
+									["min"] = 191,
+									["count"] = 9,
+									["amount"] = 9899,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 9899,
+						},
+					},
+					["DOT_Time"] = 177,
+					["Overhealing"] = 11887,
+					["TimeSpent"] = {
+						["Surly Seal"] = {
+							["Details"] = {
+								["Rushing Jade Wind"] = {
+									["count"] = 3.29,
+								},
+								["Melee"] = {
+									["count"] = 0.89,
+								},
+								["Keg Smash"] = {
+									["count"] = 0.41,
+								},
+								["Eye of the Tiger (DoT)"] = {
+									["count"] = 2.01,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0.47,
+								},
+								["Breath of Fire (DoT)"] = {
+									["count"] = 0.11,
+								},
+							},
+							["amount"] = 7.18,
+						},
+						["Abyssal Spawn"] = {
+							["Details"] = {
+								["Breath of Fire"] = {
+									["count"] = 0.25,
+								},
+								["Rushing Jade Wind"] = {
+									["count"] = 19.35,
+								},
+							},
+							["amount"] = 19.6,
+						},
+						["Tidesage Bankson"] = {
+							["Details"] = {
+								["Rushing Jade Wind"] = {
+									["count"] = 14.86,
+								},
+								["Melee"] = {
+									["count"] = 4.89,
+								},
+								["Blackout Strike"] = {
+									["count"] = 4.79,
+								},
+								["Breath of Fire"] = {
+									["count"] = 0.36,
+								},
+								["Tiger Palm"] = {
+									["count"] = 8.52,
+								},
+								["Tidal Surge"] = {
+									["count"] = 2.46,
+								},
+								["Keg Smash"] = {
+									["count"] = 0.51,
+								},
+								["Eye of the Tiger (DoT)"] = {
+									["count"] = 8.39,
+								},
+								["Breath of Fire (DoT)"] = {
+									["count"] = 3.22,
+								},
+							},
+							["amount"] = 48,
+						},
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Gift of the Ox"] = {
+									["count"] = 0.31,
+								},
+								["Eye of the Tiger"] = {
+									["count"] = 38.31,
+								},
+								["Winter's Kiss Freeze"] = {
+									["count"] = 3,
+								},
+								["Healing Elixir"] = {
+									["count"] = 1.16,
+								},
+								["Bulwark of the Masses"] = {
+									["count"] = 8.6,
+								},
+								["Celestial Fortune"] = {
+									["count"] = 10.24,
+								},
+							},
+							["amount"] = 61.62,
+						},
+					},
+					["Healing"] = 83219,
+					["DamageTaken"] = 222873,
+					["HealedWho"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Gift of the Ox"] = {
+									["count"] = 13685,
+								},
+								["Eye of the Tiger"] = {
+									["count"] = 12871,
+								},
+								["Healing Elixir"] = {
+									["count"] = 46764,
+								},
+								["Bulwark of the Masses"] = {
+									["count"] = 13282,
+								},
+								["Celestial Fortune"] = {
+									["count"] = 9899,
+								},
+							},
+							["amount"] = 96501,
+						},
+					},
+					["Attacks"] = {
+						["Rushing Jade Wind"] = {
+							["Details"] = {
+								["Hit (Blocked)"] = {
+									["max"] = 167,
+									["min"] = 143,
+									["count"] = 5,
+									["amount"] = 748,
+								},
+								["Crit (Blocked)"] = {
+									["max"] = 287,
+									["min"] = 287,
+									["count"] = 1,
+									["amount"] = 287,
+								},
+								["Crit"] = {
+									["max"] = 479,
+									["min"] = 409,
+									["count"] = 44,
+									["amount"] = 19214,
+								},
+								["Hit"] = {
+									["max"] = 240,
+									["min"] = 195,
+									["count"] = 269,
+									["amount"] = 58212,
+								},
+							},
+							["count"] = 319,
+							["amount"] = 78461,
+						},
+						["Eye of the Tiger (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 694,
+									["min"] = 631,
+									["count"] = 3,
+									["amount"] = 2018,
+								},
+								["Tick"] = {
+									["max"] = 347,
+									["min"] = 293,
+									["count"] = 32,
+									["amount"] = 10444,
+								},
+							},
+							["count"] = 35,
+							["amount"] = 12462,
+						},
+						["Blackout Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 4757,
+									["min"] = 4757,
+									["count"] = 1,
+									["amount"] = 4757,
+								},
+								["Hit"] = {
+									["max"] = 2617,
+									["min"] = 2236,
+									["count"] = 17,
+									["amount"] = 42193,
+								},
+							},
+							["count"] = 18,
+							["amount"] = 46950,
+						},
+						["Breath of Fire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2599,
+									["min"] = 2599,
+									["count"] = 2,
+									["amount"] = 5198,
+								},
+								["Hit"] = {
+									["max"] = 1299,
+									["min"] = 1181,
+									["count"] = 6,
+									["amount"] = 7440,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 12638,
+						},
+						["Tiger Palm"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1892,
+									["min"] = 1892,
+									["count"] = 2,
+									["amount"] = 3784,
+								},
+								["Hit"] = {
+									["max"] = 2081,
+									["min"] = 991,
+									["count"] = 17,
+									["amount"] = 28491,
+								},
+							},
+							["count"] = 19,
+							["amount"] = 32275,
+						},
+						["Tidal Surge"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 3193,
+									["min"] = 2903,
+									["count"] = 3,
+									["amount"] = 9000,
+								},
+								["Hit"] = {
+									["max"] = 1596,
+									["min"] = 1451,
+									["count"] = 2,
+									["amount"] = 3047,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 12047,
+						},
+						["Keg Smash"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 7355,
+									["min"] = 6285,
+									["count"] = 6,
+									["amount"] = 39410,
+								},
+								["Hit"] = {
+									["max"] = 3678,
+									["min"] = 3142,
+									["count"] = 14,
+									["amount"] = 46812,
+								},
+							},
+							["count"] = 20,
+							["amount"] = 86222,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit (Blocked)"] = {
+									["max"] = 2909,
+									["min"] = 2909,
+									["count"] = 1,
+									["amount"] = 2909,
+								},
+								["Crit"] = {
+									["max"] = 4261,
+									["min"] = 4193,
+									["count"] = 2,
+									["amount"] = 8454,
+								},
+								["Hit"] = {
+									["max"] = 2346,
+									["min"] = 1945,
+									["count"] = 19,
+									["amount"] = 41265,
+								},
+							},
+							["count"] = 22,
+							["amount"] = 52628,
+						},
+						["Breath of Fire (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 299,
+									["min"] = 299,
+									["count"] = 2,
+									["amount"] = 598,
+								},
+								["Tick"] = {
+									["max"] = 165,
+									["min"] = 149,
+									["count"] = 22,
+									["amount"] = 3349,
+								},
+							},
+							["count"] = 24,
+							["amount"] = 3947,
+						},
+					},
+					["HealingTaken"] = 116391,
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Void Orb"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 2173,
+									["min"] = 1893,
+									["count"] = 2,
+									["amount"] = 4066,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 4066,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 70,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 3488,
+									["min"] = 133,
+									["count"] = 45,
+									["amount"] = 44854,
+								},
+							},
+							["count"] = 115,
+							["amount"] = 44854,
+						},
+						["Momentum"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 2126,
+									["min"] = 1159,
+									["count"] = 3,
+									["amount"] = 4516,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 4516,
+						},
+						["Staggering Roar"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 2362,
+									["min"] = 359,
+									["count"] = 4,
+									["amount"] = 3722,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 3722,
+						},
+						["Stagger (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 165,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 201,
+									["min"] = 72,
+									["count"] = 11,
+									["amount"] = 1688,
+								},
+							},
+							["count"] = 176,
+							["amount"] = 1688,
+						},
+						["Jagged Fangs"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 801,
+									["min"] = 801,
+									["count"] = 1,
+									["amount"] = 801,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 801,
+						},
+						["Mind Flay (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 10,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 2794,
+									["min"] = 300,
+									["count"] = 11,
+									["amount"] = 8414,
+								},
+							},
+							["count"] = 21,
+							["amount"] = 8414,
+						},
+					},
+					["TimeDamage"] = 77.78,
+					["TimeDamaging"] = {
+						["Surly Seal"] = {
+							["Details"] = {
+								["Rushing Jade Wind"] = {
+									["count"] = 3.29,
+								},
+								["Melee"] = {
+									["count"] = 0.89,
+								},
+								["Keg Smash"] = {
+									["count"] = 0.41,
+								},
+								["Eye of the Tiger (DoT)"] = {
+									["count"] = 2.01,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0.47,
+								},
+								["Breath of Fire (DoT)"] = {
+									["count"] = 0.11,
+								},
+							},
+							["amount"] = 7.18,
+						},
+						["Abyssal Spawn"] = {
+							["Details"] = {
+								["Breath of Fire"] = {
+									["count"] = 0.25,
+								},
+								["Rushing Jade Wind"] = {
+									["count"] = 19.35,
+								},
+							},
+							["amount"] = 19.6,
+						},
+						["Tidesage Bankson"] = {
+							["Details"] = {
+								["Rushing Jade Wind"] = {
+									["count"] = 14.86,
+								},
+								["Melee"] = {
+									["count"] = 4.89,
+								},
+								["Blackout Strike"] = {
+									["count"] = 4.79,
+								},
+								["Breath of Fire"] = {
+									["count"] = 0.36,
+								},
+								["Tiger Palm"] = {
+									["count"] = 8.52,
+								},
+								["Tidal Surge"] = {
+									["count"] = 2.46,
+								},
+								["Keg Smash"] = {
+									["count"] = 0.51,
+								},
+								["Eye of the Tiger (DoT)"] = {
+									["count"] = 8.39,
+								},
+								["Breath of Fire (DoT)"] = {
+									["count"] = 3.22,
+								},
+							},
+							["amount"] = 48,
+						},
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Winter's Kiss Freeze"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["FDamagedWho"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Winter's Kiss Freeze"] = {
+									["count"] = 7683,
+								},
+							},
+							["amount"] = 7683,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+						["Physical"] = 10727,
+						["Melee"] = 44854,
+						["Shadow"] = 4066,
+					},
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Block"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 19,
+								},
+							},
+							["amount"] = 23,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 22,
+								},
+								["Crit"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 32,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Block"] = {
+									["count"] = 6,
+								},
+								["Crit"] = {
+									["count"] = 54,
+								},
+								["Hit"] = {
+									["count"] = 322,
+								},
+							},
+							["amount"] = 382,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Tick"] = {
+									["count"] = 32,
+								},
+							},
+							["amount"] = 35,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 2367.689,
+			["LastActive"] = 3039.687,
+		},
+	},
+	["FightNum"] = 2,
+	["CombatTimes"] = {
+		{
+			2367.689, -- [1]
+			2391.697, -- [2]
+			"21:26:57", -- [3]
+			"21:27:20", -- [4]
+			"Curseformed Familiar", -- [5]
+		}, -- [1]
+		{
+			2960.69, -- [1]
+			3035.687, -- [2]
+			"21:36:50", -- [3]
+			"21:38:04", -- [4]
+			"Tidesage Bankson", -- [5]
+		}, -- [2]
+	},
+	["FoughtWho"] = {
+		"Tidesage Bankson 21:36:50-21:38:04", -- [1]
+		"Curseformed Familiar 21:26:57-21:27:20", -- [2]
+	},
+}
