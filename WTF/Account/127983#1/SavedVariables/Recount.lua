@@ -10,7 +10,7 @@ RecountDB = {
 		["Twiddlederr - Kel'Thuzad"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -85.9999389648438,
+					["y"] = -85.9999084472656,
 					["x"] = 601.000122070313,
 					["w"] = 201.999923706055,
 					["h"] = 209.999984741211,
@@ -44,10 +44,6 @@ RecountDB = {
 				},
 			},
 			["MainWindowMode"] = 2,
-			["MainWindowHeight"] = 209.999984741211,
-			["LastInstanceName"] = "Silvershard Mines",
-			["CurDataSet"] = "LastFightData",
-			["MainWindowWidth"] = 201.999923706055,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -58,6 +54,10 @@ RecountDB = {
 					},
 				},
 			},
+			["MainWindowHeight"] = 209.999984741211,
+			["CurDataSet"] = "LastFightData",
+			["MainWindowWidth"] = 201.999923706055,
+			["LastInstanceName"] = "Silvershard Mines",
 		},
 		["Suhdrude - Anvilmar"] = {
 			["MainWindow"] = {
@@ -82,8 +82,8 @@ RecountDB = {
 		["Fistbeavers - Kel'Thuzad"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -255,
-					["x"] = 515.000122070313,
+					["y"] = -267.499755859375,
+					["x"] = 512.499877929688,
 					["w"] = 211,
 					["h"] = 207,
 				},
@@ -99,7 +99,7 @@ RecountDB = {
 					},
 				},
 			},
-			["LastInstanceName"] = "Atal'Dazar",
+			["LastInstanceName"] = "Arathi Basin",
 			["CurDataSet"] = "LastFightData",
 			["MainWindowWidth"] = 211,
 			["MainWindowHeight"] = 207.000076293945,

@@ -13,6 +13,13 @@ X: 21
 Y: 0
 W: 858
 H: 660
+Frame: ItemRefTooltip
+FrameLevel: 1
+Anchor: CENTER
+X: -381
+Y: -154
+W: 128
+H: 64
 Frame: MAOptions
 FrameLevel: 1
 Anchor: LEFT
@@ -34,10 +41,3 @@ X: 313
 Y: -95
 W: 600
 H: 318
-Frame: ItemRefTooltip
-FrameLevel: 1
-Anchor: CENTER
-X: -381
-Y: -154
-W: 353
-H: 202

@@ -19,16 +19,16 @@ OneRing_Config = {
 			["XTScaleSpeed"] = 4,
 			["MISpinOnHide"] = false,
 			["XTRotationPeriod"] = 10,
+			["XTZoomTime"] = 0,
 			["XTPointerSpeed"] = 4,
-			["ShowRecharge"] = true,
-			["IndicationOffsetY"] = -150,
+			["IndicationOffsetX"] = 150,
 			["ShowCooldowns"] = true,
 			["CenterAction"] = true,
 			["RingOptions"] = {
 				["RaidSymbols#SliceBinding"] = true,
 			},
-			["IndicationOffsetX"] = 150,
-			["XTZoomTime"] = 0,
+			["IndicationOffsetY"] = -150,
+			["ShowRecharge"] = true,
 		},
 	},
 	["PersistentStorage"] = {
@@ -144,96 +144,102 @@ OneRing_Config = {
 					["sliceToken"] = "ABuedivYhUr",
 					["id"] = 101546,
 				}, -- [2]
-				["limit"] = "Fistbeavers-Kel'Thuzad",
-				["save"] = true,
 				["name"] = "MonkDmg",
+				["save"] = true,
+				["limit"] = "Fistbeavers-Kel'Thuzad",
+			},
+			["OPieFlagStore"] = {
+				["FlushedDefaultColors"] = true,
 			},
 			["BGs"] = {
+				{
+					["sliceToken"] = "ABuediQ29St",
+					["id"] = 195710,
+				}, -- [1]
+				{
+					["sliceToken"] = "ABuediQ29S1",
+					["id"] = 59752,
+				}, -- [2]
 				{
 					"item", -- [1]
 					109076, -- [2]
 					["sliceToken"] = "ABuede6=dW1",
-				}, -- [1]
+				}, -- [3]
 				{
 					"item", -- [1]
 					153490, -- [2]
 					["sliceToken"] = "ABue3/fRvWf",
-				}, -- [2]
+				}, -- [4]
 				{
 					"item", -- [1]
 					138486, -- [2]
 					["sliceToken"] = "ABue3/fRvWd",
-				}, -- [3]
+				}, -- [5]
 				{
 					"item", -- [1]
 					138727, -- [2]
 					["sliceToken"] = "ABue3/fRvW3",
-				}, -- [4]
+				}, -- [6]
 				{
 					"item", -- [1]
 					138478, -- [2]
 					["sliceToken"] = "ABue3/fRvWs",
-				}, -- [5]
+				}, -- [7]
 				{
 					"item", -- [1]
 					138488, -- [2]
 					["sliceToken"] = "ABue3/fRvWa",
-				}, -- [6]
-				["name"] = "BGs",
+				}, -- [8]
+				["name"] = "PVP",
 				["save"] = true,
 			},
-			["RaidSymbols"] = {
+			["nsumeMagic"] = {
 				{
-					"raidmark", -- [1]
-					8, -- [2]
-					["sliceToken"] = "OPCRSw",
+					"macro", -- [1]
+					"ConsumeMagic1", -- [2]
+					["sliceToken"] = "ABue3VjFJrZ",
 				}, -- [1]
 				{
-					"raidmark", -- [1]
-					7, -- [2]
-					["sliceToken"] = "OPCRSr",
+					"macro", -- [1]
+					"ConsumeMagic2", -- [2]
+					["sliceToken"] = "ABue3VjFJr=",
 				}, -- [2]
 				{
-					"raidmark", -- [1]
-					2, -- [2]
-					["sliceToken"] = "OPCRSo",
+					"macro", -- [1]
+					"ConsumeMagic3e", -- [2]
+					["sliceToken"] = "ABue3VjFJrL",
 				}, -- [3]
 				{
-					"raidmark", -- [1]
-					6, -- [2]
-					["sliceToken"] = "OPCRSb",
+					["id"] = 278326,
+					["sliceToken"] = "ABue3VjFJrK",
 				}, -- [4]
 				{
-					"raidmark", -- [1]
-					1, -- [2]
-					["sliceToken"] = "OPCRSy",
+					"macro", -- [1]
+					"P MO", -- [2]
+					["sliceToken"] = "ABue3VjFJrJ",
 				}, -- [5]
-				{
-					"raidmark", -- [1]
-					3, -- [2]
-					["sliceToken"] = "OPCRSp",
-				}, -- [6]
-				{
-					"raidmark", -- [1]
-					4, -- [2]
-					["sliceToken"] = "OPCRSg",
-				}, -- [7]
-				{
-					"raidmark", -- [1]
-					5, -- [2]
-					["sliceToken"] = "OPCRSs",
-				}, -- [8]
-				{
-					"raidmark", -- [1]
-					0, -- [2]
-					["sliceToken"] = "OPCRSc",
-				}, -- [9]
-				["name"] = "Target Markers",
+				["name"] = "ConsumeMagic",
 				["save"] = true,
-				["hotkey"] = "ALT-R",
 			},
-			["OPieFlagStore"] = {
-				["FlushedDefaultColors"] = true,
+			["Mounts"] = {
+				{
+					["sliceToken"] = "ABue3Nac4Qu",
+					["id"] = 223578,
+				}, -- [1]
+				{
+					["sliceToken"] = "ABue3Nac4Qy",
+					["id"] = 274610,
+				}, -- [2]
+				{
+					["sliceToken"] = "ABue3Nac4Qt",
+					["id"] = 61425,
+				}, -- [3]
+				{
+					["sliceToken"] = "ABuedwH3D2e",
+					["id"] = 278803,
+				}, -- [4]
+				["name"] = "Mounts",
+				["save"] = true,
 			},
 			["IslandExp"] = {
 				{
@@ -282,26 +288,6 @@ OneRing_Config = {
 					["sliceToken"] = "ABued1KdNAt",
 				}, -- [9]
 				["name"] = "IslandExp",
-				["save"] = true,
-			},
-			["Mounts"] = {
-				{
-					["sliceToken"] = "ABue3Nac4Qu",
-					["id"] = 223578,
-				}, -- [1]
-				{
-					["sliceToken"] = "ABue3Nac4Qy",
-					["id"] = 274610,
-				}, -- [2]
-				{
-					["sliceToken"] = "ABue3Nac4Qt",
-					["id"] = 61425,
-				}, -- [3]
-				{
-					["sliceToken"] = "ABuedwH3D2e",
-					["id"] = 278803,
-				}, -- [4]
-				["name"] = "Mounts",
 				["save"] = true,
 			},
 			["Fishing"] = {
@@ -366,33 +352,68 @@ OneRing_Config = {
 				["name"] = "Buffs",
 				["save"] = true,
 			},
-			["nsumeMagic"] = {
+			["Res"] = {
 				{
-					"macro", -- [1]
-					"ConsumeMagic1", -- [2]
-					["sliceToken"] = "ABue3VjFJrZ",
+					["sliceToken"] = "ABuediQ29Si",
+					["id"] = 115178,
 				}, -- [1]
 				{
-					"macro", -- [1]
-					"ConsumeMagic2", -- [2]
-					["sliceToken"] = "ABue3VjFJr=",
+					["sliceToken"] = "ABuediQ29Su",
+					["id"] = 212051,
+				}, -- [2]
+				["limit"] = "Fistbeavers-Kel'Thuzad",
+				["save"] = true,
+				["name"] = "Res",
+			},
+			["RaidSymbols"] = {
+				{
+					"raidmark", -- [1]
+					8, -- [2]
+					["sliceToken"] = "OPCRSw",
+				}, -- [1]
+				{
+					"raidmark", -- [1]
+					7, -- [2]
+					["sliceToken"] = "OPCRSr",
 				}, -- [2]
 				{
-					"macro", -- [1]
-					"ConsumeMagic3e", -- [2]
-					["sliceToken"] = "ABue3VjFJrL",
+					"raidmark", -- [1]
+					2, -- [2]
+					["sliceToken"] = "OPCRSo",
 				}, -- [3]
 				{
-					["id"] = 278326,
-					["sliceToken"] = "ABue3VjFJrK",
+					"raidmark", -- [1]
+					6, -- [2]
+					["sliceToken"] = "OPCRSb",
 				}, -- [4]
 				{
-					"macro", -- [1]
-					"P MO", -- [2]
-					["sliceToken"] = "ABue3VjFJrJ",
+					"raidmark", -- [1]
+					1, -- [2]
+					["sliceToken"] = "OPCRSy",
 				}, -- [5]
-				["name"] = "ConsumeMagic",
+				{
+					"raidmark", -- [1]
+					3, -- [2]
+					["sliceToken"] = "OPCRSp",
+				}, -- [6]
+				{
+					"raidmark", -- [1]
+					4, -- [2]
+					["sliceToken"] = "OPCRSg",
+				}, -- [7]
+				{
+					"raidmark", -- [1]
+					5, -- [2]
+					["sliceToken"] = "OPCRSs",
+				}, -- [8]
+				{
+					"raidmark", -- [1]
+					0, -- [2]
+					["sliceToken"] = "OPCRSc",
+				}, -- [9]
+				["name"] = "Target Markers",
 				["save"] = true,
+				["hotkey"] = "ALT-R",
 			},
 			["Imprison"] = {
 				{
@@ -420,8 +441,8 @@ OneRing_Config = {
 					["sliceToken"] = "ABue3VjFJrT",
 				}, -- [5]
 				["save"] = true,
-				["name"] = "Imprison",
 				["limit"] = "Twiddlederr-Kel'Thuzad",
+				["name"] = "Imprison",
 			},
 		},
 	},

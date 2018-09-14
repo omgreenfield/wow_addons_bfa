@@ -35,24 +35,24 @@ Gladius2DB = {
 			},
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
+			["announcements"] = {
+				["dispell"] = true,
+				["trinket"] = true,
+			},
 			["tagsTexts"] = {
 				["HealthBar Left Text"] = {
 					["text"] = "[name:status] [maxhealth]",
 				},
 			},
-			["announcements"] = {
-				["dispell"] = true,
-				["trinket"] = true,
-			},
 		},
 		["Suhdrude - Anvilmar"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 985.600110671257,
-			},
 			["y"] = {
 				["arena1"] = 580.266724120247,
+			},
+			["x"] = {
+				["arena1"] = 985.600110671257,
 			},
 		},
 		["Fistbeavers - Kel'Thuzad"] = {
