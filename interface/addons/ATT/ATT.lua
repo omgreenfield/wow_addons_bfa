@@ -12,20 +12,20 @@ local GetNumSubgroupMembers = GetNumSubgroupMembers
 local CooldownFrame_Set = CooldownFrame_Set
 local CombatLogGetCurrentEventInfo = CombatLogGetCurrentEventInfo -- new fix
 
-local CommPrefix  = "PABop31ms337x" -- Receive ability and cooldown
-local CommPrefix2 = "PABm4d4f4k4l0" -- Send GUID for syncing
-local CommPrefix3 = "PABl0lz3r1n4h" -- Receive GUID for syncing
+local CommPrefix  = "ATTop31ms337x" -- Receive ability and cooldown
+local CommPrefix2 = "ATTm4d4f4k4l0" -- Send GUID for syncing
+local CommPrefix3 = "ATTl0lz3r1n4h" -- Receive GUID for syncing
 
 local db
 local pGUID
 local pName
 
-local PAB = CreateFrame("Frame","PAB",UIParent)
-local PABIcons = CreateFrame("Frame",nil,UIParent)
-local PABAnchor = CreateFrame("Frame",nil,UIParent)
-local PABTooltip = CreateFrame("GameTooltip", "PABGameTooltip", nil, "GameTooltipTemplate")
-PABTooltip:SetMinimumWidth(200)
-PABTooltip:SetHeight(200)
+local ATT = CreateFrame("Frame","ATT",UIParent)
+local ATTIcons = CreateFrame("Frame",nil,UIParent)
+local ATTAnchor = CreateFrame("Frame",nil,UIParent)
+local ATTTooltip = CreateFrame("GameTooltip", "ATTGameTooltip", nil, "GameTooltipTemplate")
+ATTTooltip:SetMinimumWidth(200)
+ATTTooltip:SetHeight(200)
 
 local iconlist = {}
 local anchors = {}
@@ -70,7 +70,7 @@ local defaultAbilities = {
 		},
 		[105] = {	-- Restoration
 			{22812, 60},    -- Barkskin
-			{102342, 90}, -- Ironbark
+			{102342, 60}, -- Ironbark
 			{203651, 45}, -- Overgrowth
 		},
 	},
@@ -85,21 +85,20 @@ local defaultAbilities = {
 			{187650, 30}, -- Freezing Trap
 		},
 		[255] = {	-- Survival
-			{187650, 24}, -- Freezing Trap
+			{187650, 30}, -- Freezing Trap
 		},
 	},
 	["MAGE"] = 	{
 		["ALL"] = {	-- All specs
-			{198111, 45, false, talent="honor"}, -- Temporal Shield
+			{198111, 45}, -- Temporal Shield
 			{2139, 24}, 	-- Counterspell
 			{45438, 240},   -- Ice Block
-			{113724, 45, false, talent="spec"}, -- Ring of Frost
+			{113724, 45}, -- Ring of Frost
 		},
 		[62] = {	-- Arcane
 		},
 		[63] = {	-- Fire
 			{31661, 20}, -- Dragon's Breath
-			{86949, 300}, -- Cauterize
 		},
 		[64] = {	-- Frost
 
@@ -107,18 +106,17 @@ local defaultAbilities = {
 	},
 	["PALADIN"] = {
 		["ALL"] = {	-- All specs
-			{853, 30}, 	-- Hammer of Justice
+			{853, 60}, 	-- Hammer of Justice
 			{66115, 15}, 	-- Hand of Freedom
 		},
 		[65] = {	-- Holy
 			{150630, 300, 2}, -- Hand of Protection
-			{6940, 150, 2}, -- Blessing of Sacrifice
+			{6940, 120, 2}, -- Blessing of Sacrifice
 			{642, 300}, -- Divine Shield
-			{216331, 60, false, talent="spec"}, -- Avenging Crusader
-			{31842, 120, false, talent="spec"}, -- Avenging Wrath, is replaced by crusader and should be implicitly hidden
+			{216331, 120}, -- Avenging Crusader
 		},
 		[70] = {	-- Retribution
-			{642, 240}, -- Divine Shield
+			{642, 300}, -- Divine Shield
 			{96231, 15},  -- Rebuke
 			{150630, 300}, -- Hand of Protection
 		},
@@ -128,18 +126,18 @@ local defaultAbilities = {
 			
 		},
 		[256] = {	-- Discipline		
-			{8122, 30}, 	-- Psychic Scream
-			{33206, 210},	-- Pain Suppression
+			{8122, 60}, 	-- Psychic Scream
+			{33206, 180},	-- Pain Suppression
 			{62618, 180}, -- Power Word: Barrier
 		},
 		[257] = {	-- Holy
-			{213602, 30}, -- Greater Fade
-			{197268, 45}, -- Ray of Hope
-			{47788, 240}, -- Guardian Spirit
+			{213602, 45}, -- Greater Fade
+			{197268, 60}, -- Ray of Hope
+			{47788, 180}, -- Guardian Spirit
 		},
 		[258] = {	-- Shadow
 			{47585, 120},  	-- Dispersion
-			{8122, 30}, 	-- Psychic Scream
+			{8122, 60}, 	-- Psychic Scream
 			{15487, 45},   	-- Silence
 		},
 	},
@@ -147,7 +145,7 @@ local defaultAbilities = {
 		["ALL"] = {	-- All specs
 			{1766, 15}, 	-- Kick
 			{2094, 120}, 	-- Blind
-			{31224, 90},   	-- Cloak of Shadows
+			{31224, 120},   	-- Cloak of Shadows
 		},
 		[259] = {	-- Assassination
 			{5277, 120}, -- Evasion
@@ -156,7 +154,7 @@ local defaultAbilities = {
 		},
 		[261] = {	-- Subtlety
 			{5277, 120}, -- Evasion
-			{76577, 180, false, talent="honor"},  -- Smoke Bomb
+			{76577, 180},  -- Smoke Bomb
 		},
 	},
 	["SHAMAN"] = {
@@ -176,9 +174,9 @@ local defaultAbilities = {
 		["ALL"] = {	-- All specs
 			{19647, 24}, 	-- Spell Lock
 			{104773, 180}, -- Unending Resolve
-			{6789, 45, false, talent="spec"}, -- Mortal Coil
-			{108416, 60, false, talent="spec"}, -- Dark Pact
-			{212295, 45, false, talent="honor"}, -- Nether Ward
+			{6789, 45}, -- Mortal Coil
+			{108416, 60}, -- Dark Pact
+			{212295, 45}, -- Nether Ward
 		},
 		[265] = {	-- Affliction
 		},
@@ -190,8 +188,8 @@ local defaultAbilities = {
 	["WARRIOR"] = {
 		["ALL"] = {	-- All specs
 			{6552, 15}, 	-- Pummel
-			{236077, 30, false, talent="honor"}, -- Disarm
-			{107570, 30, false, talent="spec"}, -- Storm Bolt
+			{236077, 45}, -- Disarm
+			{107570, 30}, -- Storm Bolt
 		},
 		[71] = {	-- Arms
 			{5246, 90}, 	-- Intimidating Shout
@@ -212,7 +210,7 @@ local defaultAbilities = {
 		[250] = {	-- Blood
 		},
 		[251] = {	-- Frost
-			{212552, 45}, -- Wraith Walk
+			{212552, 60}, -- Wraith Walk
 		},
 		[252] = {	-- Unholy
 			{108194, 45}, -- Asphyxiate
@@ -221,8 +219,8 @@ local defaultAbilities = {
 	},
 	["MONK"] = {
 		["ALL"] = {	-- All specs
-			{119996, 25}, -- Transcendence:Transfer (Monk port)
-			{119381, 45, false, talent="spec"}, -- Leg Sweep
+			{119996, 45}, -- Transcendence:Transfer (Monk port)
+			{119381, 60}, -- Leg Sweep
 		},
 		[268] = {	-- Brewmaster
 		},
@@ -231,14 +229,14 @@ local defaultAbilities = {
 			{122470, 90}, -- Touch of Karma
 		},
 		[270] = {	-- Mistweaver
-			{116849, 180}, 	-- Life Cocoon
+			{116849, 120}, 	-- Life Cocoon
 		},
 	},
 	["DEMONHUNTER"] = {
 		["ALL"] = {
 			{198589, 60}, -- Blur
 			{183752, 15}, -- Consume Magic
-			{217832, 15}, -- Imprison
+			{217832, 45}, -- Imprison
 		},
 		[577] = { -- Havoc
 
@@ -309,13 +307,13 @@ convertspellids = nil
 
 
 
--- Inspection stuff (Based on PABR):
+-- Inspection stuff (Based on ATTR):
 local inspected = {}
 local inspect_queue = {}
 local nextInspectTick = 0
 
 local supportedUnits = { "party1", "party2", "party3", "party4", "player" }
-local function PABFindUnitByGUID(guid)
+local function ATTFindUnitByGUID(guid)
 	if guid then
 		for i, unit in pairs(supportedUnits) do
 			if UnitGUID(unit) == guid then
@@ -325,16 +323,16 @@ local function PABFindUnitByGUID(guid)
 	end
 end
 
-function PAB:GetSpecByGUID(guid)
+function ATT:GetSpecByGUID(guid)
 	return inspected[guid]
 end
 
-function PAB:GetSpecByUnit(unit)
+function ATT:GetSpecByUnit(unit)
 	local guid = UnitGUID(unit)
 	if guid then return inspected[guid] end
 end
 
-function PAB:QueueInspect(unit)
+function ATT:QueueInspect(unit)
 	local guid = UnitGUID(unit)
 	if guid then
 		self:DequeueInspectByGUID(guid)
@@ -342,7 +340,7 @@ function PAB:QueueInspect(unit)
 	end
 end
 
-function PAB:DequeueInspectByGUID(guid)
+function ATT:DequeueInspectByGUID(guid)
 	for i=#inspect_queue, 1, -1 do
 		if inspect_queue[i] == guid then
 			table.remove(inspect_queue, i)
@@ -350,12 +348,12 @@ function PAB:DequeueInspectByGUID(guid)
 	end
 end
 
-function PAB:InspectPlayer()
+function ATT:InspectPlayer()
 	self:InspectIsReady(UnitGUID("player"))
 end
 
-function PAB:InspectIsReady(guid)
-	local inspectedUnit = PABFindUnitByGUID(guid)
+function ATT:InspectIsReady(guid)
+	local inspectedUnit = ATTFindUnitByGUID(guid)
 	if not inspectedUnit then return end
 	local isInspect = inspectedUnit ~= "player"
 
@@ -372,21 +370,21 @@ function PAB:InspectIsReady(guid)
 	end
 end
 
-function PAB:EnqueueInspect()
+function ATT:EnqueueInspect()
 	table.wipe(inspect_queue)
 	for i=1, GetNumGroupMembers() do
 		self:QueueInspect("party"..i)
 	end
 end
 
-function PAB:ProcessInspectQueue()
+function ATT:ProcessInspectQueue()
 	if GetTime() > nextInspectTick then
 		nextInspectTick = GetTime() + 1
 
 		self:InspectPlayer()
 
 		for i, guid in pairs(inspect_queue) do
-			local unit = PABFindUnitByGUID(guid)
+			local unit = ATTFindUnitByGUID(guid)
 			if unit and CanInspect(unit) and not (InspectFrame and InspectFrame:IsShown()) then
 				NotifyInspect(unit)
 				break
@@ -395,7 +393,7 @@ function PAB:ProcessInspectQueue()
 	end
 end
 
-function PAB:INSPECT_READY(guid)
+function ATT:INSPECT_READY(guid)
 	self:InspectIsReady(guid)
 end
 
@@ -404,7 +402,7 @@ hooksecurefunc("NotifyInspect", function(unit) nextInspectTick = GetTime() + 3 e
 
 
 
-function PAB:SavePositions()
+function ATT:SavePositions()
 	for k,anchor in ipairs(anchors) do
 		local scale = anchor:GetEffectiveScale()
 		local worldscale = UIParent:GetEffectiveScale()
@@ -420,7 +418,7 @@ function PAB:SavePositions()
 	end
 end
 
-function PAB:FindCompactRaidFrameByUnit(unit)
+function ATT:FindCompactRaidFrameByUnit(unit)
 	if not unit or not UnitGUID(unit) then return end
 	for i=1, 5 do
 		local frame = _G["CompactRaidFrame"..i]
@@ -430,7 +428,7 @@ function PAB:FindCompactRaidFrameByUnit(unit)
 	end
 end
 
-function PAB:LoadPositions()
+function ATT:LoadPositions()
 	db.positions = db.positions or {}
 	for k,anchor in ipairs(anchors) do
 		anchors[k]:ClearAllPoints()
@@ -452,9 +450,9 @@ function PAB:LoadPositions()
 end
 
 local backdrop = {bgFile="Interface\\Tooltips\\UI-Tooltip-Background", edgeFile="", tile=false,}
-function PAB:CreateAnchors()
+function ATT:CreateAnchors()
 	for i=1,5 do
-		local anchor = CreateFrame("Frame","PABAnchor"..i ,PABAnchor)
+		local anchor = CreateFrame("Frame","ATTAnchor"..i ,ATTAnchor)
 		anchor:SetBackdrop(backdrop)
 		anchor:SetHeight(15)
 		anchor:SetWidth(15)
@@ -465,7 +463,7 @@ function PAB:CreateAnchors()
 		anchor.icons = {}
 		anchor.HideIcons = function() for k,icon in ipairs(anchor.icons) do icon:Hide(); icon.inUse = nil end end
 		anchor:SetScript("OnMouseDown",function(self,button) if button == "LeftButton" and not db.attach then self:StartMoving() end end)
-		anchor:SetScript("OnMouseUp",function(self,button) if button == "LeftButton" and not db.attach then self:StopMovingOrSizing(); PAB:SavePositions() end end)
+		anchor:SetScript("OnMouseUp",function(self,button) if button == "LeftButton" and not db.attach then self:StopMovingOrSizing(); ATT:SavePositions() end end)
 		anchors[i] = anchor
 		
 		local index = anchor:CreateFontString(nil,"ARTWORK","GameFontNormal")
@@ -476,9 +474,9 @@ end
 
 -- creates a new raw frame icon that can be used/reused to show cooldowns
 local function CreateIcon(anchor)
-	local icon = CreateFrame("Frame",anchor:GetName().."Icon".. (#anchor.icons+1),PABIcons)
-	icon:SetHeight(30)
-	icon:SetWidth(30)
+	local icon = CreateFrame("Frame",anchor:GetName().."Icon".. (#anchor.icons+1),ATTIcons)
+	icon:SetHeight(38)
+	icon:SetWidth(38)
 
 	local cd = CreateFrame("Cooldown",icon:GetName().."Cooldown",icon,"CooldownFrameTemplate")
 	icon.cd = cd
@@ -549,7 +547,7 @@ local function CreateIcon(anchor)
 	
 	icon.texture = texture
 
-	PAB:ApplyIconTextureBorder(icon)
+	ATT:ApplyIconTextureBorder(icon)
 
 	icon.chargesText = icon:CreateFontString(nil, "string", "GameFontNormal")
 	icon.chargesText:SetTextColor(1, 1, 1)
@@ -560,15 +558,15 @@ local function CreateIcon(anchor)
 	icon:EnableMouse()
 	icon:SetScript('OnEnter', function()
 		if db.showTooltip and icon.abilityID then
-			PABTooltip:ClearLines()
-			PABTooltip:SetOwner(WorldFrame, "ANCHOR_CURSOR")
-			PABTooltip:SetSpellByID(icon.abilityID)
+			ATTTooltip:ClearLines()
+			ATTTooltip:SetOwner(WorldFrame, "ANCHOR_CURSOR")
+			ATTTooltip:SetSpellByID(icon.abilityID)
 		end
 	end)
 	icon:SetScript('OnLeave', function()
 		if db.showTooltip and icon.abilityID then
-			PABTooltip:ClearLines()
-			PABTooltip:Hide()
+			ATTTooltip:ClearLines()
+			ATTTooltip:Hide()
 		end
 	end)
 
@@ -576,7 +574,7 @@ local function CreateIcon(anchor)
 end
 
 -- adds a new icon to icon list of anchor
-function PAB:AddIcon(icons,anchor)
+function ATT:AddIcon(icons,anchor)
 	local newicon = CreateIcon(anchor)
 	iconlist[#iconlist+1] = newicon
 	icons[#icons+1] = newicon
@@ -584,7 +582,7 @@ function PAB:AddIcon(icons,anchor)
 end
 
 -- applies texture border to an icon
-function PAB:ApplyIconTextureBorder(icon)
+function ATT:ApplyIconTextureBorder(icon)
     if db.showIconBorders then
 		icon.texture:SetTexCoord(0,1,0,1)
 	else
@@ -593,7 +591,7 @@ function PAB:ApplyIconTextureBorder(icon)
 end
 
 -- hides anchors currently not in use due to too few party members
-function PAB:ToggleAnchorDisplay()
+function ATT:ToggleAnchorDisplay()
 	-- Player (Test):
 	if db.showSelf and anchors[5] then anchors[5]:Show() end
 	-- Party members:
@@ -611,7 +609,7 @@ end
 
 -- shuffles raw icon frames around on group update, changed settings, etc
 -- also sets attributes for each icon frame
-function PAB:UpdateAnchor(unit, i)
+function ATT:UpdateAnchor(unit, i)
 		local _,class = UnitClass(unit)
         local guid = UnitGUID(unit)
 		if not class or not guid then return end
@@ -634,7 +632,7 @@ function PAB:UpdateAnchor(unit, i)
 			icon.inUse = true
             icon.spec = nil
 
-			PAB:ApplyIconTextureBorder(icon)
+			ATT:ApplyIconTextureBorder(icon)
 
 			activeGUIDS[icon.GUID] = activeGUIDS[icon.GUID] or {}
 			if activeGUIDS[icon.GUID][icon.ability] then
@@ -664,7 +662,7 @@ function PAB:UpdateAnchor(unit, i)
 			icon.inUse = true
             icon.spec = talent
 
-			PAB:ApplyIconTextureBorder(icon)
+			ATT:ApplyIconTextureBorder(icon)
 
 			activeGUIDS[icon.GUID] = activeGUIDS[icon.GUID] or {}
 			if activeGUIDS[icon.GUID][icon.ability] then
@@ -690,7 +688,7 @@ function PAB:UpdateAnchor(unit, i)
 				icon.inUse = true
 				icon.spec = talent
 
-				PAB:ApplyIconTextureBorder(icon)
+				ATT:ApplyIconTextureBorder(icon)
 
 				activeGUIDS[icon.GUID] = activeGUIDS[icon.GUID] or {}
 				if activeGUIDS[icon.GUID][icon.ability] then
@@ -715,7 +713,7 @@ function PAB:UpdateAnchor(unit, i)
 end
 
 -- responsible for actual anchoring of icons
-function PAB:ToggleIconDisplay(i)
+function ATT:ToggleIconDisplay(i)
 	local anchor = anchors[i]
 	local icons = anchor.icons
 	local count = 1
@@ -751,7 +749,7 @@ function PAB:ToggleIconDisplay(i)
 	--self:ToggleAnchorDisplay()
 end
 
-function PAB:UpdateAnchors()
+function ATT:UpdateAnchors()
 	-- Player (Test):
 	if db.showSelf and anchors[5] then self:UpdateAnchor("player", 5) end
 	-- Party members:
@@ -764,7 +762,7 @@ function PAB:UpdateAnchors()
 	self:ApplyAnchorSettings()
 end
 
-function PAB:UpdateIcons()
+function ATT:UpdateIcons()
 	-- Player (Test):
 	if db.showSelf and anchors[5] then self:ToggleIconDisplay(5) end
 	-- Party members:
@@ -773,25 +771,25 @@ function PAB:UpdateIcons()
 	end
 end
 
-function PAB:ApplyAnchorSettings()
-	PABIcons:SetScale(db.scale or 1)
+function ATT:ApplyAnchorSettings()
+	ATTIcons:SetScale(db.scale or 1)
 	
 	if db.arena then
 		if InArena() then
-			PABIcons:Show()
+			ATTIcons:Show()
 		else
-			PABIcons:Hide()
+			ATTIcons:Hide()
 		end
 	else
-		PABIcons:Show()
+		ATTIcons:Show()
 	end
 
 	self:UpdateIcons()
 
-	if db.lock then PABAnchor:Hide() else PABAnchor:Show() end
+	if db.lock then ATTAnchor:Hide() else ATTAnchor:Show() end
 end
 
-function PAB:GroupUpdate()
+function ATT:GroupUpdate()
 	self:InspectPlayer()
 	self:EnqueueInspect()
 	if not pGUID then pGUID = UnitGUID("player") end
@@ -801,19 +799,19 @@ function PAB:GroupUpdate()
 	self:UpdateAnchors()
 end
 
-function PAB:GROUP_JOINED()
+function ATT:GROUP_JOINED()
 	self:GroupUpdate()
 end
 
-function PAB:GROUP_ROSTER_UPDATE()
+function ATT:GROUP_ROSTER_UPDATE()
 	self:GroupUpdate()
 end
 
-function PAB:UNIT_OTHER_PARTY_CHANGED()
+function ATT:UNIT_OTHER_PARTY_CHANGED()
 	self:GroupUpdate()
 end
 
-function PAB:PLAYER_ENTERING_WORLD()
+function ATT:PLAYER_ENTERING_WORLD()
 	self:InspectPlayer()
 	self:EnqueueInspect()
 	if InArena() then self:StopAllIcons() end -- Cooldowns reset when joining arena
@@ -826,7 +824,7 @@ end
 
 
 
-function PAB:COMBAT_LOG_EVENT_UNFILTERED()
+function ATT:COMBAT_LOG_EVENT_UNFILTERED()
     local timestamp, event, hideCaster, sourceGUID, sourceName, sourceFlags, sourceRaidFlags, destGUID, destName, destFlags, destRaidFlags, spellId, spellName, spellSchool, auraType = CombatLogGetCurrentEventInfo()
 
 		if(event == "SPELL_CAST_SUCCESS" ) then
@@ -837,7 +835,7 @@ function PAB:COMBAT_LOG_EVENT_UNFILTERED()
 	end
 end
 
-function PAB:FindAbilityByName(abilities, name)
+function ATT:FindAbilityByName(abilities, name)
 	if abilities then
 		for i, v in pairs(abilities) do
 			if v and v.ability and v.ability == name then return v, i end
@@ -845,7 +843,7 @@ function PAB:FindAbilityByName(abilities, name)
 	end
 end
 
-function PAB:GetUnitByGUID(guid)
+function ATT:GetUnitByGUID(guid)
 	for k,v in pairs(validUnits) do
 		if UnitGUID(k) == guid then
 			return k
@@ -853,7 +851,7 @@ function PAB:GetUnitByGUID(guid)
 	end
 end
 
-function PAB:StartCooldown(spellName, unit, cooldown)
+function ATT:StartCooldown(spellName, unit, cooldown)
 	if not unit then return end -- in case unit is bugged
 	local index = match(unit, "party[pet]*([1-4])")
 
@@ -915,7 +913,7 @@ end
 	self:TrackCooldown(anchor, spellName, cAbility and cAbility.cooldown or nil)
 end
 
-function PAB:TrackCooldown(anchor, ability, cooldown)
+function ATT:TrackCooldown(anchor, ability, cooldown)
 	for k,icon in ipairs(anchor.icons) do
 		if cooldown then
 			-- Direct cooldown
@@ -938,7 +936,7 @@ end
 
 
 
-function PAB:UNIT_SPELLCAST_SUCCEEDED(unit, ability)
+function ATT:UNIT_SPELLCAST_SUCCEEDED(unit, ability)
 	if (unit == "player" or unit == "pet") and ability then self:SendCooldown(ability) end
 
 	if ability then
@@ -947,18 +945,18 @@ function PAB:UNIT_SPELLCAST_SUCCEEDED(unit, ability)
 end
 
 local timers, timerfuncs, timerargs = {}, {}, {}
-function PAB:Schedule(duration,func,...)
+function ATT:Schedule(duration,func,...)
 	timers[#timers+1] = duration
 	timerfuncs[#timerfuncs+1] = func
 	timerargs[#timerargs+1] = {...}
 end
 
 local time = 0
-local function PAB_OnUpdate(self,elapsed)
+local function ATT_OnUpdate(self,elapsed)
 	time = time + elapsed
 	if time > 0.05 then
 		-- Inspection stuff:
-		PAB:ProcessInspectQueue()
+		ATT:ProcessInspectQueue()
 		--  Update icon activity
 		for k,icon in ipairs(iconlist) do
 			if icon.active then
@@ -978,7 +976,7 @@ local function PAB_OnUpdate(self,elapsed)
 				end
 			end
 		end
-		PAB:UpdateIcons()
+		ATT:UpdateIcons()
 		
 		-- Update Timers
 		if #timers > 0 then
@@ -986,7 +984,7 @@ local function PAB_OnUpdate(self,elapsed)
 				timers[i] = timers[i] - 0.05
 				if timers[i] <= 0 then
 					remove(timers,i)
-					remove(timerfuncs,i)(PAB,unpack(remove(timerargs,i)))
+					remove(timerfuncs,i)(ATT,unpack(remove(timerargs,i)))
 				end
 			end
 		end
@@ -996,7 +994,7 @@ local function PAB_OnUpdate(self,elapsed)
 end
 
 -- resets all icons on zone change
-function PAB:StopAllIcons()
+function ATT:StopAllIcons()
 	for k,v in ipairs(iconlist) do
 		v.Stop()
 		v.seen = nil
@@ -1004,12 +1002,12 @@ function PAB:StopAllIcons()
 	wipe(activeGUIDS)
 end
 
-function PAB:RequestSync()
+function ATT:RequestSync()
 	wipe(syncGUIDS)
 	if self.useCrossAddonCommunication then self:SendAddonMessage(CommPrefix2, pGUID .. "|" .. GetTime(), "PARTY") end
 end
 
-function PAB:CHAT_MSG_ADDON(prefix, message, dist, sender)
+function ATT:CHAT_MSG_ADDON(prefix, message, dist, sender)
 	if dist == "PARTY" and sender ~= pName then
 		--if dist == "PARTY" then -- debug only
 		if prefix == CommPrefix then
@@ -1027,7 +1025,7 @@ function PAB:CHAT_MSG_ADDON(prefix, message, dist, sender)
 	end
 end
 
-function PAB:SendAddonMessage(prefix, message, dest, target)
+function ATT:SendAddonMessage(prefix, message, dest, target)
 	--thanks Jax!
 	local chl = strlower(dest)
 	if (chl == "raid" and GetNumGroupMembers(LE_PARTY_CATEGORY_HOME) == 0) or (chl == "party" and GetNumGroupMembers(LE_PARTY_CATEGORY_HOME) == 0) or (chl == "guild" and not IsInGuild()) then
@@ -1037,7 +1035,7 @@ function PAB:SendAddonMessage(prefix, message, dest, target)
 end
 
 -- sends message to your party via addon communication
-function PAB:SendCooldown(ability)
+function ATT:SendCooldown(ability)
 	if not self.useCrossAddonCommunication then return end
 	local start, duration, enabled = GetSpellCooldown(ability)
 	--print("Sending: " .. ability .. " | " .. start + duration - GetTime())
@@ -1052,7 +1050,7 @@ function PAB:SendCooldown(ability)
 	end
 end
 
-local function PAB_OnLoad(self)
+local function ATT_OnLoad(self)
 
 	if C_ChatInfo.RegisterAddonMessagePrefix(CommPrefix) and C_ChatInfo.RegisterAddonMessagePrefix(CommPrefix2) and C_ChatInfo.RegisterAddonMessagePrefix(CommPrefix3) then
 		self.useCrossAddonCommunication = true
@@ -1068,25 +1066,27 @@ local function PAB_OnLoad(self)
 	self:RegisterEvent("INSPECT_READY")
 	self:SetScript("OnEvent",function(self,event,...) if self[event] then self[event](self,...) end end)
 	
-	PABDB = PABDB or { abilities = defaultAbilities, scale = 1  }
-	db = PABDB
+	ATTDB = ATTDB or { abilities = defaultAbilities, scale = 1  }
+	db = ATTDB
 
 	self:CreateAnchors()
 	self:UpdateAnchors()
 	self:LoadPositions()
-	self:CreateOptions()
+	--self:CreateOptions()
 
 	if not db.classSelected then db.classSelected = "WARRIOR" end
+	db.classSelected = "WARRIOR"
+    self:CreateOptions()
 	self:UpdateScrollBar()
 	
-	self:SetScript("OnUpdate",PAB_OnUpdate)
+	self:SetScript("OnUpdate",ATT_OnUpdate)
 
 	-- thanks BigDebuffs
 	hooksecurefunc("CompactUnitFrame_UpdateAll", function(frame)
 		local name = frame:GetName()
 		if not name or not name:match("^Compact") or not db.attach then return end
 		for k,anchor in ipairs(anchors) do
-			local raidFrame = PAB:FindCompactRaidFrameByUnit(k==5 and "player" or "party"..k)
+			local raidFrame = ATT:FindCompactRaidFrameByUnit(k==5 and "player" or "party"..k)
 			if name == raidFrame then
 				anchors[k]:ClearAllPoints()
 				anchors[k]:SetPoint(db.growLeft and "BOTTOMLEFT" or "BOTTOMRIGHT", raidFrame, db.growLeft and "TOPLEFT" or "TOPRIGHT", db.offsetX, db.offsetY)
@@ -1098,7 +1098,7 @@ local function PAB_OnLoad(self)
 	print("Arena Team Tracker updated by Izy. Type /att to open options")
 end
 
-function PAB:FindAbilityIcon(ability, id)
+function ATT:FindAbilityIcon(ability, id)
 	local icon;
 	if id then
 		icon = GetSpellTexture(id)
@@ -1108,7 +1108,7 @@ function PAB:FindAbilityIcon(ability, id)
 	return icon
 end
 
-function PAB:FindAbilityID(ability)
+function ATT:FindAbilityID(ability)
 	for _,S in pairs(SPELLDB) do
 		for _,v in pairs(S) do
 			for _,sp in pairs(v) do
@@ -1123,7 +1123,7 @@ function PAB:FindAbilityID(ability)
 	end
 end
 
-function PAB:FormatAbility(s)
+function ATT:FormatAbility(s)
 	s = s:gsub("(%a)(%a*)('*)(%a*)", function (a,b,c,d) return a:upper()..b:lower()..c..d:lower() end)
 	s = s:gsub("(The)", string.lower)
 	s = s:gsub("(Of)", string.lower)
@@ -1141,12 +1141,12 @@ local function CreateListButton(parent,index)
 	
 	button:SetWidth(130)
 	button:SetHeight(16)
-	local font = CreateFont("PABListFont")
+	local font = CreateFont("ATTListFont")
 	font:SetFont(GameFontNormal:GetFont(),12)
 	font:SetJustifyH("LEFT")
 	button:SetNormalFontObject(font)
 	button:SetHighlightTexture("Interface\\QuestFrame\\UI-QuestTitleHighlight","ADD")
-	button:SetScript("OnClick",function(self) parent.currentButton = self:GetText(); PAB:UpdateScrollBar() end)
+	button:SetScript("OnClick",function(self) parent.currentButton = self:GetText(); ATT:UpdateScrollBar() end)
 	return button
 end
 
@@ -1162,7 +1162,7 @@ local function CreateEditBox(name,parent,width,height)
 	return editbox
 end
 
-function PAB:CreateOptions()
+function ATT:CreateOptions()
 	local panel = SO.AddOptionsPanel("ATT", function() end)
 	self.panel = panel
 	SO.AddSlashCommand("ATT","/att")
@@ -1177,7 +1177,7 @@ function PAB:CreateOptions()
 	     'step', 0.05,
 	     'default', 1,
 	     'current', db.scale,
-	     'setFunc', function(value) db.scale = value; PAB:ApplyAnchorSettings() end,
+	     'setFunc', function(value) db.scale = value; ATT:ApplyAnchorSettings() end,
 	     'currentTextFunc', function(value) return string.format("%.2f",value) end)
 	scale:SetPoint("TOPLEFT",subText,"TOPLEFT",16,-32)
 
@@ -1186,7 +1186,7 @@ function PAB:CreateOptions()
 	     'description', 'Attach to Blizzard raid frames',
 	     'default', false,
 	     'getFunc', function() return db.attach end,
-	     'setFunc', function(value) db.attach = value; PAB:LoadPositions(); PAB:ApplyAnchorSettings() end)
+	     'setFunc', function(value) db.attach = value; ATT:LoadPositions(); ATT:ApplyAnchorSettings() end)
 	attach:SetPoint("TOPLEFT",scale,"TOPLEFT", 0, -32)
 
 	local offsetX = CreateEditBox("Offset X", panel, 50, 25)
@@ -1199,7 +1199,7 @@ function PAB:CreateOptions()
 		if num then
 			print("Offset X changed and saved: " .. tostring(num))
 			db.offsetX = num
-			PAB:LoadPositions(); PAB:ApplyAnchorSettings();
+			ATT:LoadPositions(); ATT:ApplyAnchorSettings();
 		else
 			print("Wrong value for Offset X/Y")
 			self:SetText(db.offsetX)
@@ -1217,7 +1217,7 @@ function PAB:CreateOptions()
 		if num then
 			print("Offset Y changed and saved: " .. tostring(num))
 			db.offsetY = num
-			PAB:LoadPositions(); PAB:ApplyAnchorSettings();
+			ATT:LoadPositions(); ATT:ApplyAnchorSettings();
 		else
 			print("Wrong value for Offset X/Y")
 			self:SetText(db.offsetY)
@@ -1235,7 +1235,7 @@ function PAB:CreateOptions()
 		if num then
 			print("Icon Offset X changed and saved: " .. tostring(num))
 			db.iconOffsetX = num
-			PAB:LoadPositions(); PAB:ApplyAnchorSettings();
+			ATT:LoadPositions(); ATT:ApplyAnchorSettings();
 		else
 			print("Wrong value for Icon Offset X")
 			self:SetText(db.iconOffsetX)
@@ -1248,7 +1248,7 @@ function PAB:CreateOptions()
 	     'description', 'Show/hide anchors',
 	     'default', false,
 	     'getFunc', function() return db.lock end,
-	     'setFunc', function(value) db.lock = value; PAB:ApplyAnchorSettings() end)
+	     'setFunc', function(value) db.lock = value; ATT:ApplyAnchorSettings() end)
 	lock:SetPoint("TOP",panel,"TOP",10,-36)
 	
 	local arena = panel:MakeToggle(
@@ -1256,7 +1256,7 @@ function PAB:CreateOptions()
 	     'description', 'Show in arena only',
 	     'default', false,
 	     'getFunc', function() return db.arena end,
-	     'setFunc', function(value) db.arena = value; PAB:ApplyAnchorSettings() end)
+	     'setFunc', function(value) db.arena = value; ATT:ApplyAnchorSettings() end)
 	arena:SetPoint("TOP",lock,"BOTTOM",0,-5)
 
 	local hidden = panel:MakeToggle(
@@ -1264,7 +1264,7 @@ function PAB:CreateOptions()
 	     'description', 'Show icon only when on cooldown',
 	     'default', false,
 	     'getFunc', function() return db.hidden end,
-	     'setFunc', function(value) db.hidden = value; PAB:ApplyAnchorSettings() end)
+	     'setFunc', function(value) db.hidden = value; ATT:ApplyAnchorSettings() end)
 	hidden:SetPoint("TOP",arena,"BOTTOM",0,-5)
 
 	local growLeft = panel:MakeToggle(
@@ -1272,7 +1272,7 @@ function PAB:CreateOptions()
 	     'description', 'Grow ability bars to the left',
 	     'default', false,
 	     'getFunc', function() return db.growLeft end,
-	     'setFunc', function(value) db.growLeft = value; PAB:LoadPositions(); PAB:ApplyAnchorSettings(); end)
+	     'setFunc', function(value) db.growLeft = value; ATT:LoadPositions(); ATT:ApplyAnchorSettings(); end)
 	growLeft:SetPoint("LEFT",lock,"RIGHT",50,0)
 
 	local showTrinket = panel:MakeToggle(
@@ -1280,7 +1280,7 @@ function PAB:CreateOptions()
 	     'description', 'Show PvP Trinket cooldown',
 	     'default', false,
 	     'getFunc', function() return db.showTrinket end,
-	     'setFunc', function(value) db.showTrinket = value; PAB:ApplyAnchorSettings() PAB:UpdateAnchors() end)
+	     'setFunc', function(value) db.showTrinket = value; ATT:ApplyAnchorSettings() ATT:UpdateAnchors() end)
 	showTrinket:SetPoint("TOP",growLeft,"BOTTOM",0,-5)
 
 	local showSelf = panel:MakeToggle(
@@ -1288,7 +1288,7 @@ function PAB:CreateOptions()
 	     'description', 'Show self cooldowns',
 	     'default', false,
 	     'getFunc', function() return db.showSelf end,
-	     'setFunc', function(value) db.showSelf = value; PAB:ApplyAnchorSettings() PAB:UpdateAnchors() end)
+	     'setFunc', function(value) db.showSelf = value; ATT:ApplyAnchorSettings() ATT:UpdateAnchors() end)
 	showSelf:SetPoint("TOP",showTrinket,"BOTTOM",0,-5)
 
 	local showTooltip = panel:MakeToggle(
@@ -1304,7 +1304,7 @@ function PAB:CreateOptions()
 	     'description', 'Draw borders for cooldown icons',
 	     'default', false,
 	     'getFunc', function() return db.showIconBorders end,
-	     'setFunc', function(value) db.showIconBorders = value; PAB:UpdateAnchors() end)
+	     'setFunc', function(value) db.showIconBorders = value; ATT:UpdateAnchors() end)
 	showIconBorders:SetPoint("TOP",showTooltip,"BOTTOM",0,-5)
 	
 	local title2, subText2 = panel:MakeTitleTextAndSubText("Ability editor","Change what party member abilities are tracked")
@@ -1320,7 +1320,7 @@ local function count(t) local i = 0 for k,v in pairs(t) do i = i + 1  end return
 
 
 
-function PAB:UpdateScrollBar()
+function ATT:UpdateScrollBar()
 	local btns = self.btns
 	local scrollframe = self.scrollframe
 	local classSelectedSpecs = db.abilities[db.classSelected] 
@@ -1357,21 +1357,14 @@ function PAB:UpdateScrollBar()
 
 	 for i=line,25 do btns[i]:Hide() end
 end
---[
-function PAB:OnVerticalScroll(offset,itemHeight)
-	local scrollbar = _G[self.scrollframe:GetName().. "ScrollBar"]
-	scrollbar:SetValue(offset);
-	self.scrollframe.offset = floor((offset / itemHeight) + 0.5);
-	self:UpdateScrollBar()
-end
---]
-function PAB:CreateAbilityEditor()
+
+function ATT:CreateAbilityEditor()
 	local panel = self.panel
 	local btns = {}
 	self.btns = btns
-	local scrollframe = CreateFrame("ScrollFrame", "PABScrollFrame",panel,"UIPanelScrollFrameTemplate")
-	local child = CreateFrame("ScrollFrame" ,"PABScrollFrame" , scrollframe )
-	child:SetSize(150, 180)
+	local scrollframe = CreateFrame("ScrollFrame", "ATTScrollFrame",panel,"UIPanelScrollFrameTemplate")
+	local child = CreateFrame("ScrollFrame" ,"ATTScrollFrame" , scrollframe )
+	child:SetSize(1, 1)
 	scrollframe:SetScrollChild(child)
 	local button1 = CreateListButton(child,"20")
 	button1:SetPoint("TOPLEFT",child,"TOPLEFT",11,0)
@@ -1385,12 +1378,11 @@ function PAB:CreateAbilityEditor()
 	end
 
 	scrollframe:SetWidth(150); 
-	scrollframe:SetHeight(180)
+	scrollframe:SetHeight(175)
 	scrollframe:SetPoint('LEFT',16,-45)
---	scrollframe:SetBackdrop(backdrop)
-	scrollframe:SetBackdropColor(.6,.6,.6,0.25)
---  scrollframe:SetScript("OnVerticalScroll", function(self,offset) PAB:OnVerticalScroll(offset,16) end)
-	scrollframe:SetScript("OnLoad",function(self) if not db.classSelected then db.classSelected = "WARRIOR" end; PAB:UpdateScrollBar(); end)
+	scrollframe:SetBackdrop(backdrop)
+	scrollframe:SetBackdropColor(0,0,0,0.50)
+	--scrollframe:SetScript("OnLoad",function(self) if not db.classSelected then db.classSelected = "WARRIOR" end; ATT:UpdateScrollBar(); end)
 	
 	
 	self.scrollframe = child
@@ -1416,7 +1408,7 @@ function PAB:CreateAbilityEditor()
 	     'default', 'WARRIOR',
 	     'getFunc', function() return db.classSelected end ,
 	     'setFunc', function(value)
-	     	db.classSelected = value; PAB:UpdateScrollBar();
+	     	db.classSelected = value; ATT:UpdateScrollBar();
 	     	child.dropdown2.values = { "ALL", "All Specs" }
 	     	for i=1, GetNumClasses() do
 	     		local className, classTag, classID = GetClassInfo(i)
@@ -1472,8 +1464,8 @@ function PAB:CreateAbilityEditor()
 	     'func', function() 
 	     		local id = ideditbox:GetText():match("^[0-9]+$")
 	     		local spec = dropdown2.value
-	     		local ability = PAB:FormatAbility(addeditbox:GetText())
-	     		local iconfound = PAB:FindAbilityIcon(ability, id)
+	     		local ability = ATT:FormatAbility(addeditbox:GetText())
+	     		local iconfound = ATT:FindAbilityIcon(ability, id)
 	     		local cdtext = cdeditbox:GetText():match("^[0-9]+$")
 	     		local maxcharges = maxchargeseditbox:GetText():match("^[0-9]+$")
 	     		if iconfound and cdtext and (not spec or db.abilities[db.classSelected] and db.abilities[db.classSelected][spec]) then
@@ -1488,8 +1480,8 @@ function PAB:CreateAbilityEditor()
 	     				table.insert(abilities, {ability = ability, cooldown = tonumber(cdtext), id = tonumber(id), maxcharges = maxcharges and maxcharges ~= "" and tonumber(maxcharges) or nil})
 	     			end
 	     			child.currentButton = ability
-	     			PAB:UpdateScrollBar()
-	     			PAB:UpdateAnchors()
+	     			ATT:UpdateScrollBar()
+	     			ATT:UpdateAnchors()
 	     		else
 	     			print("Invalid spell spec/name/cooldown")
 	     		end
@@ -1511,14 +1503,14 @@ function PAB:CreateAbilityEditor()
 	     		 cdeditbox:SetText(""); 
 	     		 maxchargeseditbox:SetText("");
 	     		 child.currentButton = nil; 
-	     		 PAB:UpdateScrollBar(); 
-	     		 PAB:UpdateAnchors() 
+	     		 ATT:UpdateScrollBar(); 
+	     		 ATT:UpdateAnchors() 
 	     end
 	)
 	removebutton:SetPoint("TOPLEFT",addbutton,"BOTTOMLEFT",0,-5)
 	
 	local description =  panel:CreateFontString(nil,"ARTWORK","GameFontNormal")
-	description:SetText(" Add (or remove) extra abilities that you want to track. \r\n The addon is still in BETA but most of the things are working. \r\n \r\n For future improvements and bug fixes please support me at  <>  http://twitch.tv/imedia <> \r\n Enjoy!");
+	description:SetText(" Add(remove) abilities that you want to track - input correct Ability name + SpellID + CD - all required! \r\n The addon is still in BETA but most things are working. Report bugs on <curseforge> addon page. \r\n \r\n For future improvements and bug fixes please support me at  <>  http://twitch.tv/imedia <> \r\n Enjoy!");
 	description:SetNonSpaceWrap(true)
 	description:SetJustifyH("LEFT")
 	description:SetWidth(100)
@@ -1527,5 +1519,5 @@ function PAB:CreateAbilityEditor()
 	description:SetPoint("RIGHT", -32, 0)
 end
 
-PAB:RegisterEvent("VARIABLES_LOADED")
-PAB:SetScript("OnEvent",PAB_OnLoad)
+ATT:RegisterEvent("VARIABLES_LOADED")
+ATT:SetScript("OnEvent",ATT_OnLoad)

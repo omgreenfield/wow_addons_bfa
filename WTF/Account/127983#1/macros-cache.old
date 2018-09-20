@@ -111,6 +111,11 @@ END
 VER 3 0000000000000036 "TravelPie" "413582"
 /click ORLOpen SpecMenu
 END
+VER 3 000000000000003F "TrinkRacial" "1322720"
+#showtooltip
+/cast Every Man for Himself;
+/cast Gladiator's Medalion
+END
 VER 3 0000000000000024 "WorldMarkRing" "656166"
 /click ORLOpen WorldMarkers
 END

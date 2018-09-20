@@ -1,9 +1,9 @@
 
 OmniCC4Config = {
-	["version"] = "8.0.1",
+	["version"] = "8.0.5",
 	["groupSettings"] = {
 		["base"] = {
-			["minDuration"] = 2.00000002980232,
+			["minDuration"] = 2,
 			["styles"] = {
 				["seconds"] = {
 				},
@@ -20,7 +20,7 @@ OmniCC4Config = {
 			},
 			["tenthsDuration"] = 0,
 			["minSize"] = 0.5,
-			["minEffectDuration"] = 30.0000004470348,
+			["minEffectDuration"] = 30,
 			["mmSSDuration"] = 0,
 			["spiralOpacity"] = 1.00999997742474,
 		},

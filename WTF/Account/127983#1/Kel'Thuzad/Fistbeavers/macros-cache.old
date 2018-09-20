@@ -1,12 +1,70 @@
 VER 3 0100000000000003 "CC MO" "629534"
 #showtooltip
 /cast [@mouseover, exists] Paralysis;;
-/cast Paralysis;;
+/cast Paralysis;
+END
+VER 3 0100000000000004 "CC1" "629534"
+#showtooltip
+/cast [@arena1, exists] Paralysis;
+/cast Paralysis;
+END
+VER 3 0100000000000005 "CC2" "629534"
+#showtooltip
+/cast [@arena2, exists] Paralysis;
+/cast Paralysis;
+END
+VER 3 0100000000000006 "CC3" "629534"
+#showtooltip
+/cast [@arena3, exists] Paralysis;
+/cast Paralysis;
+END
+VER 3 010000000000000C "Disarm1" "132343"
+#showtooltip Grapple
+/cast [@arena1, exists] Grapple;
+/cast Grapple;
+END
+VER 3 010000000000000D "Disarm2" "132343"
+#showtooltip Grapple
+/cast [@arena2, exists] Grapple;
+/cast Grapple;
+END
+VER 3 010000000000000E "Disarm3" "132343"
+#showtooltip Grapple
+/cast [@arena3, exists] Grapple;
+/cast Grapple;
+END
+VER 3 010000000000000F "DisarmMO" "132343"
+#showtooltip Grapple
+/cast [mouseover, exists] Grapple;
+/cast Grapple;
+END
+VER 3 010000000000000B "DisarmPi" "132343"
+#showtooltip
+/click ORLOpen Disarm
+END
+VER 3 0100000000000008 "EM/RSK" "775461"
+#showtooltip
+/cast [@target, exists, help] Enveloping Mist;
+/cast [@target,harm] Rising Sun Kick;
+/cast Enveloping Mist;
 END
 VER 3 0100000000000002 "I MO" "608940"
 #showtooltip
 /cast [@mouseover, exists] Spear Hand Strike;
 /cast Spear Hand Strike;
+END
+VER 3 010000000000000A "IncapPi" "629534"
+#showtooltip Incapacitate
+/click ORLOpen Incap
+END
+VER 3 0100000000000009 "MonkDmg" "606542"
+/click ORLOpen MonkDmg
+END
+VER 3 0100000000000007 "RM/BOK" "627487"
+#showtooltip
+/cast [@target, exists, help] Renewing Mist;
+/cast [@target,harm] Blackout Kick;
+/cast Renewing Mist;
 END
 VER 3 0100000000000001 "TP/Viv" "1360980"
 #showtooltip

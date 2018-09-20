@@ -77,6 +77,7 @@ end
 
 do
 	local function update(control, ...)
+
 		if (...) ~= control.value then
 			control:SetValue(...)
 		end
@@ -96,13 +97,17 @@ do
 			self:refreshFunc()
 		end
 	end
+		--[[
 	local function panel_OnShow(self)
 		self:SetScript("OnShow", self.Refresh)
 		self:controlCreationFunc()
 		self.controlCreationFunc = nil
+		
 		self:Refresh()
 	end
+	--]]
 	local function panel_okay(self)
+	
 		for control in pairs(self.controls) do
 			control.oldValue = control.value
 			if control.okayFunc then
@@ -110,6 +115,7 @@ do
 			end
 		end
 	end
+	--[[
 	local function panel_cancel(self)
 		for control in pairs(self.controls) do
 			control:SetValue(control.oldValue)
@@ -118,6 +124,7 @@ do
 			end
 		end
 	end
+		--]]
 	local function panel_default(self)
 		for control in pairs(self.controls) do
 			control:SetValue(control.default)
@@ -126,6 +133,7 @@ do
 			end
 		end
 	end
+	--]]
 	local function makePanel(name, parentName, controlCreationFunc)
 		local panel
 		if not parentName then

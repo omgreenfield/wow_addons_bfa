@@ -10,8 +10,8 @@ RecountDB = {
 		["Twiddlederr - Kel'Thuzad"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -85.9999084472656,
-					["x"] = 601.000122070313,
+					["y"] = -162,
+					["x"] = 467.000122070313,
 					["w"] = 201.999923706055,
 					["h"] = 209.999984741211,
 				},
@@ -82,13 +82,14 @@ RecountDB = {
 		["Fistbeavers - Kel'Thuzad"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -267.499755859375,
-					["x"] = 512.499877929688,
+					["y"] = -263.499450683594,
+					["x"] = 537.5009765625,
 					["w"] = 211,
-					["h"] = 207,
+					["h"] = 206.999984741211,
 				},
 			},
 			["MainWindowMode"] = 2,
+			["MainWindowHeight"] = 207.000076293945,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -99,10 +100,9 @@ RecountDB = {
 					},
 				},
 			},
-			["LastInstanceName"] = "Arathi Basin",
-			["CurDataSet"] = "LastFightData",
+			["LastInstanceName"] = "The Tiger's Peak",
+			["CurDataSet"] = "OverallData",
 			["MainWindowWidth"] = 211,
-			["MainWindowHeight"] = 207.000076293945,
 		},
 	},
 }

@@ -56,15 +56,14 @@ Gladius2DB = {
 			},
 		},
 		["Fistbeavers - Kel'Thuzad"] = {
+			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["locked"] = true,
 			["y"] = {
-				["arena1"] = 648.533392439949,
+				["arena1"] = 486.399968375099,
 			},
 			["x"] = {
-				["arena1"] = 974.933270135189,
+				["arena1"] = 991.288739281226,
 			},
-			["auraVersion"] = 1,
 		},
 	},
 }
