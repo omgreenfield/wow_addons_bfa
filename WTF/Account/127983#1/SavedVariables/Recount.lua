@@ -30,9 +30,9 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = -305.000061035156,
-			["MainWindowHeight"] = 225.999984741211,
-			["MainWindowWidth"] = 247,
 			["DetailWindowX"] = 565.000061035156,
+			["MainWindowWidth"] = 247,
+			["MainWindowHeight"] = 225.999984741211,
 		},
 		["Twiddlederr - Anvilmar"] = {
 			["MainWindow"] = {
@@ -44,6 +44,10 @@ RecountDB = {
 				},
 			},
 			["MainWindowMode"] = 2,
+			["LastInstanceName"] = "Silvershard Mines",
+			["MainWindowHeight"] = 209.999984741211,
+			["CurDataSet"] = "LastFightData",
+			["MainWindowWidth"] = 201.999923706055,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -54,10 +58,6 @@ RecountDB = {
 					},
 				},
 			},
-			["MainWindowHeight"] = 209.999984741211,
-			["CurDataSet"] = "LastFightData",
-			["MainWindowWidth"] = 201.999923706055,
-			["LastInstanceName"] = "Silvershard Mines",
 		},
 		["Suhdrude - Anvilmar"] = {
 			["MainWindow"] = {
@@ -82,7 +82,7 @@ RecountDB = {
 		["Fistbeavers - Kel'Thuzad"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -263.499450683594,
+					["y"] = -263.499389648438,
 					["x"] = 537.5009765625,
 					["w"] = 211,
 					["h"] = 206.999984741211,

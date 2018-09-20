@@ -11,8 +11,8 @@ FrameLevel: 1
 Anchor: CENTER
 X: 409
 Y: 117
-W: 128
-H: 64
+W: 267
+H: 74
 Frame: InterfaceOptionsFrame
 FrameLevel: 1
 Anchor: LEFT

@@ -19,27 +19,27 @@ VER 3 0100000000000006 "CC3" "629534"
 /cast Paralysis;
 END
 VER 3 010000000000000C "Disarm1" "132343"
-#showtooltip Grapple
-/cast [@arena1, exists] Grapple;
-/cast Grapple;
+#showtooltip Grapple Weapon
+/cast [@arena1, exists] Grapple Weapon;
+/cast Grapple Weapon;
 END
 VER 3 010000000000000D "Disarm2" "132343"
-#showtooltip Grapple
-/cast [@arena2, exists] Grapple;
-/cast Grapple;
+#showtooltip Grapple Weapon
+/cast [@arena2, exists] Grapple Weapon;
+/cast Grapple Weapon;
 END
 VER 3 010000000000000E "Disarm3" "132343"
-#showtooltip Grapple
-/cast [@arena3, exists] Grapple;
-/cast Grapple;
+#showtooltip Grapple Weapon
+/cast [@arena3, exists] Grapple Weapon;
+/cast Grapple Weapon;
 END
 VER 3 010000000000000F "DisarmMO" "132343"
-#showtooltip Grapple
-/cast [mouseover, exists] Grapple;
-/cast Grapple;
+#showtooltip Grapple Weapon
+/cast [@mouseover, exists] Grapple Weapon;
+/cast Grapple Weapon;
 END
 VER 3 010000000000000B "DisarmPi" "132343"
-#showtooltip
+#showtooltip Grapple Weapon
 /click ORLOpen Disarm
 END
 VER 3 0100000000000008 "EM/RSK" "775461"

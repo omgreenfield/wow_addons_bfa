@@ -140,15 +140,3630 @@ RecountPerCharDB = {
 			},
 			["enClass"] = "MONK",
 			["unit"] = "Fistbeavers",
-			["LastAbility"] = 418.145,
+			["LastActive"] = 469.641,
 			["level"] = 120,
 			["LastDamageAbility"] = "Falling",
 			["LastFightIn"] = 16,
-			["LastHealTime"] = 30418.573,
+			["LastEventHealthMax"] = {
+				114300, -- [1]
+				114300, -- [2]
+				114300, -- [3]
+				114300, -- [4]
+				114300, -- [5]
+				114300, -- [6]
+				114300, -- [7]
+				114300, -- [8]
+				114300, -- [9]
+				114300, -- [10]
+				114300, -- [11]
+				114300, -- [12]
+				114300, -- [13]
+				114300, -- [14]
+				114300, -- [15]
+				114300, -- [16]
+				114300, -- [17]
+				114300, -- [18]
+				114300, -- [19]
+				114300, -- [20]
+				114300, -- [21]
+				114300, -- [22]
+				114300, -- [23]
+				114300, -- [24]
+				114300, -- [25]
+				114300, -- [26]
+				114300, -- [27]
+				114300, -- [28]
+				114300, -- [29]
+				114300, -- [30]
+				114300, -- [31]
+				114300, -- [32]
+				114300, -- [33]
+				114300, -- [34]
+				114300, -- [35]
+				114300, -- [36]
+				114300, -- [37]
+				114300, -- [38]
+				114300, -- [39]
+				114300, -- [40]
+				114300, -- [41]
+				114300, -- [42]
+				114300, -- [43]
+				114300, -- [44]
+				114300, -- [45]
+				114300, -- [46]
+				114300, -- [47]
+				114300, -- [48]
+				114300, -- [49]
+				114300, -- [50]
+			},
 			["type"] = "Self",
 			["FightsSaved"] = 5,
-			["UnitLockout"] = 28800.283,
+			["LastDamageTaken"] = 75,
+			["TimeLast"] = {
+				["TimeHeal"] = 30418.289,
+				["OVERALL"] = 469.641,
+				["DamageTaken"] = 469.641,
+				["HealingTaken"] = 30418.289,
+				["HOT_Time"] = 30418.289,
+				["TimeDamage"] = 30412.269,
+				["Overhealing"] = 30401.281,
+				["Healing"] = 30418.289,
+				["ActiveTime"] = 30418.289,
+				["Damage"] = 30194.279,
+			},
+			["Owner"] = false,
+			["LastEventIncoming"] = {
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				false, -- [4]
+				false, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+				true, -- [9]
+				true, -- [10]
+				true, -- [11]
+				true, -- [12]
+				true, -- [13]
+				true, -- [14]
+				true, -- [15]
+				true, -- [16]
+				true, -- [17]
+				true, -- [18]
+				true, -- [19]
+				true, -- [20]
+				true, -- [21]
+				true, -- [22]
+				true, -- [23]
+				true, -- [24]
+				true, -- [25]
+				true, -- [26]
+				true, -- [27]
+				true, -- [28]
+				true, -- [29]
+				true, -- [30]
+				true, -- [31]
+				true, -- [32]
+				true, -- [33]
+				true, -- [34]
+				true, -- [35]
+				true, -- [36]
+				true, -- [37]
+				true, -- [38]
+				true, -- [39]
+				true, -- [40]
+				true, -- [41]
+				true, -- [42]
+				true, -- [43]
+				true, -- [44]
+				true, -- [45]
+				true, -- [46]
+				true, -- [47]
+				true, -- [48]
+				true, -- [49]
+				true, -- [50]
+			},
+			["NextEventNum"] = 24,
+			["LastDamageTime"] = 30412.327,
+			["LastEvents"] = {
+				"Hungry Dewscale Vicious Chomp Fistbeavers Hit -3001 (Physical)", -- [1]
+				"Fistbeavers Renewing Mist Fistbeavers Tick +1128", -- [2]
+				"Hungry Dewscale Melee Fistbeavers Hit -2796 (Physical)", -- [3]
+				"Fistbeavers Leg Sweep Hungry Dewscale Evade (Physical)", -- [4]
+				"Fistbeavers Leg Sweep Hungry Dewscale Evade (Physical)", -- [5]
+				"Fistbeavers Renewing Mist Fistbeavers Tick +1185", -- [6]
+				"Fistbeavers Gust of Mists Fistbeavers Hit +5182", -- [7]
+				"Fistbeavers Renewing Mist Fistbeavers Crit +2258", -- [8]
+				"Fistbeavers Renewing Mist Fistbeavers Tick +1128", -- [9]
+				"Fistbeavers Renewing Mist Fistbeavers Tick +1129", -- [10]
+				"Fistbeavers Renewing Mist Fistbeavers Tick +1128", -- [11]
+				"Fistbeavers Renewing Mist Fistbeavers Tick +1129", -- [12]
+				"Fistbeavers Renewing Mist Fistbeavers Tick +1129", -- [13]
+				"Fistbeavers Renewing Mist Fistbeavers Tick +1128", -- [14]
+				"Fistbeavers Renewing Mist Fistbeavers Tick +1128 (163 Overheal)", -- [15]
+				"Fistbeavers Renewing Mist Fistbeavers Tick +1129 (1129 Overheal)", -- [16]
+				"Fistbeavers Renewing Mist Fistbeavers Crit +2257 (2257 Overheal)", -- [17]
+				"Fistbeavers Renewing Mist Fistbeavers Tick +1129 (1129 Overheal)", -- [18]
+				"Fistbeavers Renewing Mist Fistbeavers Tick +1128 (1128 Overheal)", -- [19]
+				"Fistbeavers Renewing Mist Fistbeavers Crit +2258 (2258 Overheal)", -- [20]
+				"Fistbeavers Renewing Mist Fistbeavers Tick +1128 (1128 Overheal)", -- [21]
+				"Fistbeavers Renewing Mist Fistbeavers Tick +933 (933 Overheal)", -- [22]
+				"Environment Falling Fistbeavers Hit -75 (Physical)", -- [23]
+				"Fistbeavers Enveloping Mist Fistbeavers Tick +3325", -- [24]
+				"Fistbeavers Renewing Mist Fistbeavers Tick +1467", -- [25]
+				"Fistbeavers Enveloping Mist Fistbeavers Tick +3492 (2984 Overheal)", -- [26]
+				"Hungry Dewscale Melee Fistbeavers Hit -2808 (Physical)", -- [27]
+				"Hungry Dewscale Melee Fistbeavers Hit -2239 (Physical)", -- [28]
+				"Fistbeavers Enveloping Mist Fistbeavers Tick +3492", -- [29]
+				"Fistbeavers Renewing Mist Fistbeavers Tick +1540", -- [30]
+				"Fistbeavers Enveloping Mist Fistbeavers Tick +3491 (3476 Overheal)", -- [31]
+				"Fistbeavers Enveloping Mist Fistbeavers Tick +3491 (3491 Overheal)", -- [32]
+				"Hungry Dewscale Vicious Chomp Fistbeavers Hit -3001 (Physical)", -- [33]
+				"Fistbeavers Renewing Mist Fistbeavers Tick +1540", -- [34]
+				"Hungry Dewscale Melee Fistbeavers Hit -2177 (Physical)", -- [35]
+				"Fistbeavers Enveloping Mist Fistbeavers Tick +1256", -- [36]
+				"Hungry Dewscale Vicious Chomp Fistbeavers Hit -3001 (Physical)", -- [37]
+				"Fistbeavers Renewing Mist Fistbeavers Crit +2370", -- [38]
+				"Hungry Dewscale Melee Fistbeavers Hit -3193 (Physical)", -- [39]
+				"Fistbeavers Renewing Mist Fistbeavers Tick +1185", -- [40]
+				"Hungry Dewscale Melee Fistbeavers Hit -2173 (Physical)", -- [41]
+				"Hungry Dewscale Melee Fistbeavers Crit -4988 (Physical)", -- [42]
+				"Fistbeavers Renewing Mist Fistbeavers Tick +1185", -- [43]
+				"Hungry Dewscale Melee Fistbeavers Hit -2278 (Physical)", -- [44]
+				"Hungry Dewscale Melee Fistbeavers Hit -2450 (Physical)", -- [45]
+				"Fistbeavers Renewing Mist Fistbeavers Tick +1129", -- [46]
+				"Fistbeavers Gust of Mists Fistbeavers Hit +4936", -- [47]
+				"Hungry Dewscale Vicious Chomp Fistbeavers Hit -3001 (Physical)", -- [48]
+				"Hungry Dewscale Melee Fistbeavers Crit -6025 (Physical)", -- [49]
+				"Fistbeavers Renewing Mist Fistbeavers Tick +1129", -- [50]
+			},
+			["Name"] = "Fistbeavers",
+			["LastEventTimes"] = {
+				30410.84, -- [1]
+				30411.356, -- [2]
+				30411.65, -- [3]
+				30412.327, -- [4]
+				30412.327, -- [5]
+				30413.058, -- [6]
+				30414.327, -- [7]
+				30414.892, -- [8]
+				30416.738, -- [9]
+				30418.573, -- [10]
+				30420.403, -- [11]
+				30422.246, -- [12]
+				30423.994, -- [13]
+				30425.94, -- [14]
+				30427.758, -- [15]
+				30429.606, -- [16]
+				30431.436, -- [17]
+				30433.29, -- [18]
+				30435.125, -- [19]
+				30436.979, -- [20]
+				30438.81, -- [21]
+				30440.34, -- [22]
+				470.182, -- [23]
+				30398.955, -- [24]
+				30399.046, -- [25]
+				30399.763, -- [26]
+				30400.312, -- [27]
+				30400.312, -- [28]
+				30400.591, -- [29]
+				30400.726, -- [30]
+				30401.401, -- [31]
+				30402.21, -- [32]
+				30402.325, -- [33]
+				30402.325, -- [34]
+				30402.325, -- [35]
+				30402.472, -- [36]
+				30403.537, -- [37]
+				30403.812, -- [38]
+				30404.293, -- [39]
+				30405.348, -- [40]
+				30405.561, -- [41]
+				30406.308, -- [42]
+				30406.857, -- [43]
+				30407.555, -- [44]
+				30408.318, -- [45]
+				30408.318, -- [46]
+				30408.427, -- [47]
+				30409.626, -- [48]
+				30409.626, -- [49]
+				30409.865, -- [50]
+			},
 			["Fights"] = {
+				["Fight3"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 54317,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 14,
+								},
+							},
+							["amount"] = 15,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Tick"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 8,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Physical"] = 0,
+						["Melee"] = 43781,
+						["Nature"] = 10536,
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementHitsDone"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["WhoDamaged"] = {
+						["Lichenjaw Saurolisk"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Chomp"] = {
+									["count"] = 0,
+								},
+								["Chomp (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Venomscale Slitherer"] = {
+							["Details"] = {
+								["Deathstrike Venom (DoT)"] = {
+									["count"] = 656,
+								},
+								["Melee"] = {
+									["count"] = 34091,
+								},
+								["Bite"] = {
+									["count"] = 9880,
+								},
+							},
+							["amount"] = 44627,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Coppertooth Prowler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 9690,
+								},
+							},
+							["amount"] = 9690,
+						},
+						["Venomous Coilscale"] = {
+							["Details"] = {
+								["Bite"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Deathstrike Venom (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 15,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 0,
+						},
+						["Chomp (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Deathstrike Venom (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Chomp"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bite"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 15,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 15,
+						},
+						["Chomp (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Deathstrike Venom (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Chomp"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bite"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+					},
+					["Healing"] = 0,
+					["RageGained"] = {
+					},
+					["OverHeals"] = {
+					},
+					["Attacks"] = {
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+				["Fight5"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 25383,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 8,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 22160,
+						["Physical"] = 3223,
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 56966,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["DamagedWho"] = {
+						["Riverbottom Hunter"] = {
+							["Details"] = {
+								["Rising Sun Kick"] = {
+									["count"] = 34010,
+								},
+								["Blackout Kick"] = {
+									["count"] = 13556,
+								},
+								["Tiger Palm"] = {
+									["count"] = 9400,
+								},
+							},
+							["amount"] = 56966,
+						},
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+						["Physical"] = 56966,
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 14,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["WhoDamaged"] = {
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverbottom Hunter"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 22160,
+								},
+								["Peck"] = {
+									["count"] = 3223,
+								},
+							},
+							["amount"] = 25383,
+						},
+						["Pollen-Coated Drone"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+						["Peck"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 15.54,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Riverbottom Hunter"] = {
+							["Details"] = {
+								["Rising Sun Kick"] = {
+									["count"] = 5.14,
+								},
+								["Blackout Kick"] = {
+									["count"] = 1.99,
+								},
+								["Tiger Palm"] = {
+									["count"] = 8.41,
+								},
+							},
+							["amount"] = 15.54,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 8,
+						},
+						["Peck"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["Healing"] = 0,
+					["RageGained"] = {
+					},
+					["OverHeals"] = {
+					},
+					["Attacks"] = {
+						["Rising Sun Kick"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 8605,
+									["min"] = 8195,
+									["count"] = 4,
+									["amount"] = 34010,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 34010,
+						},
+						["Blackout Kick"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3389,
+									["min"] = 3389,
+									["count"] = 4,
+									["amount"] = 13556,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 13556,
+						},
+						["Tiger Palm"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2378,
+									["min"] = 2266,
+									["count"] = 2,
+									["amount"] = 4644,
+								},
+								["Hit"] = {
+									["max"] = 1189,
+									["min"] = 1189,
+									["count"] = 4,
+									["amount"] = 4756,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 9400,
+						},
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 15.54,
+					["TimeDamaging"] = {
+						["Riverbottom Hunter"] = {
+							["Details"] = {
+								["Rising Sun Kick"] = {
+									["count"] = 5.14,
+								},
+								["Blackout Kick"] = {
+									["count"] = 1.99,
+								},
+								["Tiger Palm"] = {
+									["count"] = 8.41,
+								},
+							},
+							["amount"] = 15.54,
+						},
+					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Physical"] = 0,
+						["Melee"] = 0,
+						["Nature"] = 0,
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementHitsDone"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["WhoDamaged"] = {
+						["Alluring Siren"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Lichenjaw Saurolisk"] = {
+							["Details"] = {
+								["Chomp"] = {
+									["count"] = 0,
+								},
+								["Chomp (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Venomscale Slitherer"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Bite"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+						["Bite"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Chomp (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Chomp"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+						["Bite"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Chomp (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Chomp"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 0,
+					["RageGained"] = {
+					},
+					["OverHeals"] = {
+					},
+					["Attacks"] = {
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+				["Fight2"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 119458,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 27,
+								},
+							},
+							["amount"] = 31,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 138,
+					["ElementTakenBlock"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 92449,
+						["Physical"] = 27009,
+					},
+					["HOTs"] = {
+						["Enveloping Mist"] = {
+							["Details"] = {
+								["Fistbeavers"] = {
+									["count"] = 45,
+								},
+							},
+							["amount"] = 45,
+						},
+						["Soothing Mist"] = {
+							["Details"] = {
+								["Fistbeavers"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 12,
+						},
+						["Renewing Mist"] = {
+							["Details"] = {
+								["Fistbeavers"] = {
+									["count"] = 81,
+								},
+							},
+							["amount"] = 81,
+						},
+					},
+					["Damage"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 42.65,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["DamagedWho"] = {
+						["Lichenjaw Saurolisk"] = {
+							["Details"] = {
+								["Rising Sun Kick"] = {
+									["count"] = 0,
+								},
+								["Blackout Kick"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Enthralled Sailor"] = {
+							["Details"] = {
+								["Rising Sun Kick"] = {
+									["count"] = 0,
+								},
+								["Blackout Kick"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 132797,
+					["ElementDone"] = {
+						["Physical"] = 0,
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Block"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["WhoDamaged"] = {
+						["Lichenjaw Saurolisk"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Chomp"] = {
+									["count"] = 0,
+								},
+								["Chomp (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Hungry Dewscale"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 92449,
+								},
+								["Vicious Chomp"] = {
+									["count"] = 27009,
+								},
+							},
+							["amount"] = 119458,
+						},
+						["Alluring Siren"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Screech"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Enthralled Sailor"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Cutlass Slash"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+						["Physical"] = 0,
+					},
+					["TimeHealing"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Enveloping Mist"] = {
+									["count"] = 6.97,
+								},
+								["Surging Mist"] = {
+									["count"] = 0.43,
+								},
+								["Gust of Mists"] = {
+									["count"] = 4.32,
+								},
+								["Soothing Mist"] = {
+									["count"] = 1.47,
+								},
+								["Renewing Mist"] = {
+									["count"] = 29.46,
+								},
+							},
+							["amount"] = 42.65,
+						},
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Enveloping Mist"] = {
+									["count"] = 50892,
+								},
+								["Surging Mist"] = {
+									["count"] = 16790,
+								},
+								["Gust of Mists"] = {
+									["count"] = 23218,
+								},
+								["Soothing Mist"] = {
+									["count"] = 10642,
+								},
+								["Renewing Mist"] = {
+									["count"] = 31255,
+								},
+							},
+							["amount"] = 132797,
+						},
+					},
+					["HealedWho"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Enveloping Mist"] = {
+									["count"] = 50892,
+								},
+								["Surging Mist"] = {
+									["count"] = 16790,
+								},
+								["Gust of Mists"] = {
+									["count"] = 23218,
+								},
+								["Soothing Mist"] = {
+									["count"] = 10642,
+								},
+								["Renewing Mist"] = {
+									["count"] = 31255,
+								},
+							},
+							["amount"] = 132797,
+						},
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Vicious Chomp"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 31,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 31,
+							["amount"] = 0,
+						},
+						["Chomp (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Screech"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Chomp"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Cutlass Slash"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 42.65,
+					["Overhealing"] = 57114,
+					["TimeSpent"] = {
+						["Lichenjaw Saurolisk"] = {
+							["Details"] = {
+								["Rising Sun Kick"] = {
+									["count"] = 0,
+								},
+								["Blackout Kick"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Enthralled Sailor"] = {
+							["Details"] = {
+								["Rising Sun Kick"] = {
+									["count"] = 0,
+								},
+								["Blackout Kick"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Enveloping Mist"] = {
+									["count"] = 6.97,
+								},
+								["Surging Mist"] = {
+									["count"] = 0.43,
+								},
+								["Gust of Mists"] = {
+									["count"] = 4.32,
+								},
+								["Soothing Mist"] = {
+									["count"] = 1.47,
+								},
+								["Renewing Mist"] = {
+									["count"] = 29.46,
+								},
+							},
+							["amount"] = 42.65,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+						["Enveloping Mist"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 3492,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 14297,
+								},
+								["Crit"] = {
+									["max"] = 29945,
+									["min"] = 6650,
+									["count"] = 2,
+									["amount"] = 36595,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 50892,
+						},
+						["Surging Mist"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 16790,
+									["min"] = 16790,
+									["count"] = 1,
+									["amount"] = 16790,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 16790,
+						},
+						["Gust of Mists"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 6417,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 23218,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 23218,
+						},
+						["Soothing Mist"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 4192,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 10642,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 10642,
+						},
+						["Renewing Mist"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2370,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 2370,
+								},
+								["Tick"] = {
+									["max"] = 1540,
+									["min"] = 0,
+									["count"] = 24,
+									["amount"] = 28885,
+								},
+							},
+							["count"] = 25,
+							["amount"] = 31255,
+						},
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Vicious Chomp"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 9,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 31,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 31,
+						},
+						["Chomp (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Screech"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Chomp"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Cutlass Slash"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 132797,
+					["RageGained"] = {
+					},
+					["OverHeals"] = {
+						["Enveloping Mist"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2300,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 2300,
+								},
+								["Tick"] = {
+									["max"] = 3491,
+									["min"] = 0,
+									["count"] = 10,
+									["amount"] = 29590,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 31890,
+						},
+						["Surging Mist"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 649,
+									["min"] = 649,
+									["count"] = 1,
+									["amount"] = 649,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 649,
+						},
+						["Gust of Mists"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 6417,
+									["min"] = 2941,
+									["count"] = 3,
+									["amount"] = 15774,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 15774,
+						},
+						["Soothing Mist"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 4192,
+									["min"] = 4192,
+									["count"] = 1,
+									["amount"] = 4192,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 4192,
+						},
+						["Renewing Mist"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2934,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 2934,
+								},
+								["Tick"] = {
+									["max"] = 1467,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 1675,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 4609,
+						},
+					},
+					["Attacks"] = {
+						["Rising Sun Kick"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Blackout Kick"] = {
+							["Details"] = {
+								["Hit (Blocked)"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Tiger Palm"] = {
+							["Details"] = {
+								["Hit (Blocked)"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Lichenjaw Saurolisk"] = {
+							["Details"] = {
+								["Rising Sun Kick"] = {
+									["count"] = 0,
+								},
+								["Blackout Kick"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Enthralled Sailor"] = {
+							["Details"] = {
+								["Rising Sun Kick"] = {
+									["count"] = 0,
+								},
+								["Blackout Kick"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+				["Fight4"] = {
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Attacks"] = {
+						["Rising Sun Kick"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Blackout Kick"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Tiger Palm"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Peck"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["TimeDamaging"] = {
+						["Riverbottom Hunter"] = {
+							["Details"] = {
+								["Rising Sun Kick"] = {
+									["count"] = 0,
+								},
+								["Blackout Kick"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeSpent"] = {
+						["Riverbottom Hunter"] = {
+							["Details"] = {
+								["Rising Sun Kick"] = {
+									["count"] = 0,
+								},
+								["Blackout Kick"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamageTaken"] = 2395,
+					["ActiveTime"] = 0,
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Peck"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Riverbottom Hunter"] = {
+							["Details"] = {
+								["Rising Sun Kick"] = {
+									["count"] = 0,
+								},
+								["Blackout Kick"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 0,
+					["WhoDamaged"] = {
+						["Riverbottom Hunter"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2395,
+								},
+								["Peck"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 2395,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTaken"] = {
+						["Melee"] = 2395,
+						["Physical"] = 0,
+					},
+					["ElementDone"] = {
+						["Physical"] = 0,
+					},
+					["Damage"] = 0,
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Immune"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 12,
+					["ElementTakenBlock"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["HOTs"] = {
+						["Enveloping Mist"] = {
+							["Details"] = {
+								["Fistbeavers"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Soothing Mist"] = {
+							["Details"] = {
+								["Fistbeavers"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Renewing Mist"] = {
+							["Details"] = {
+								["Fistbeavers"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 12,
+						},
+					},
+					["Damage"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 6.33,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["DamagedWho"] = {
+						["Alluring Siren"] = {
+							["Details"] = {
+								["Blackout Kick"] = {
+									["count"] = 0,
+								},
+								["Rising Sun Kick"] = {
+									["count"] = 0,
+								},
+								["Spinning Crane Kick"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Coppertooth Prowler"] = {
+							["Details"] = {
+								["Rising Sun Kick"] = {
+									["count"] = 0,
+								},
+								["Blackout Kick"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 10882,
+					["ElementDone"] = {
+						["Physical"] = 0,
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Evade"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["WhoDamaged"] = {
+						["Coppertooth Prowler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Wounding Bite"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Alluring Siren"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Screech"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Enthralled Sailor"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Soothing Mist"] = {
+									["count"] = 0,
+								},
+								["Enveloping Mist"] = {
+									["count"] = 0,
+								},
+								["Surging Mist"] = {
+									["count"] = 0,
+								},
+								["Gust of Mists"] = {
+									["count"] = 1.27,
+								},
+								["Way of the Crane"] = {
+									["count"] = 0,
+								},
+								["Renewing Mist"] = {
+									["count"] = 5.06,
+								},
+							},
+							["amount"] = 6.33,
+						},
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Way of the Crane"] = {
+									["count"] = 0,
+								},
+								["Enveloping Mist"] = {
+									["count"] = 0,
+								},
+								["Surging Mist"] = {
+									["count"] = 0,
+								},
+								["Gust of Mists"] = {
+									["count"] = 5182,
+								},
+								["Soothing Mist"] = {
+									["count"] = 0,
+								},
+								["Renewing Mist"] = {
+									["count"] = 5700,
+								},
+							},
+							["amount"] = 10882,
+						},
+					},
+					["HealedWho"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Way of the Crane"] = {
+									["count"] = 0,
+								},
+								["Enveloping Mist"] = {
+									["count"] = 0,
+								},
+								["Surging Mist"] = {
+									["count"] = 0,
+								},
+								["Gust of Mists"] = {
+									["count"] = 5182,
+								},
+								["Soothing Mist"] = {
+									["count"] = 0,
+								},
+								["Renewing Mist"] = {
+									["count"] = 5700,
+								},
+							},
+							["amount"] = 10882,
+						},
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+						["Wounding Bite"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Screech"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 7.83,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Hungry Dewscale"] = {
+							["Details"] = {
+								["Leg Sweep"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Coppertooth Prowler"] = {
+							["Details"] = {
+								["Rising Sun Kick"] = {
+									["count"] = 0,
+								},
+								["Blackout Kick"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Alluring Siren"] = {
+							["Details"] = {
+								["Blackout Kick"] = {
+									["count"] = 0,
+								},
+								["Rising Sun Kick"] = {
+									["count"] = 0,
+								},
+								["Spinning Crane Kick"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Soothing Mist"] = {
+									["count"] = 0,
+								},
+								["Enveloping Mist"] = {
+									["count"] = 0,
+								},
+								["Surging Mist"] = {
+									["count"] = 0,
+								},
+								["Gust of Mists"] = {
+									["count"] = 1.27,
+								},
+								["Way of the Crane"] = {
+									["count"] = 0,
+								},
+								["Renewing Mist"] = {
+									["count"] = 5.06,
+								},
+							},
+							["amount"] = 6.33,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+						["Way of the Crane"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Enveloping Mist"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Surging Mist"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Gust of Mists"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 5182,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 5182,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 5182,
+						},
+						["Soothing Mist"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Renewing Mist"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2258,
+									["min"] = 2258,
+									["count"] = 1,
+									["amount"] = 2258,
+								},
+								["Tick"] = {
+									["max"] = 1185,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 3442,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 5700,
+						},
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+						["Wounding Bite"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Screech"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 10882,
+					["RageGained"] = {
+					},
+					["OverHeals"] = {
+						["Enveloping Mist"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Way of the Crane"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Renewing Mist"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Attacks"] = {
+						["Leg Sweep"] = {
+							["Details"] = {
+								["Evade"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Blackout Kick"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Tiger Palm"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Rising Sun Kick"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Spinning Crane Kick"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 1.5,
+					["TimeDamaging"] = {
+						["Coppertooth Prowler"] = {
+							["Details"] = {
+								["Rising Sun Kick"] = {
+									["count"] = 0,
+								},
+								["Blackout Kick"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Alluring Siren"] = {
+							["Details"] = {
+								["Blackout Kick"] = {
+									["count"] = 0,
+								},
+								["Rising Sun Kick"] = {
+									["count"] = 0,
+								},
+								["Spinning Crane Kick"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Hungry Dewscale"] = {
+							["Details"] = {
+								["Leg Sweep"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Immune"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 12,
+					["ElementTakenBlock"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["HOTs"] = {
+						["Enveloping Mist"] = {
+							["Details"] = {
+								["Fistbeavers"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Soothing Mist"] = {
+							["Details"] = {
+								["Fistbeavers"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Renewing Mist"] = {
+							["Details"] = {
+								["Fistbeavers"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 12,
+						},
+					},
+					["Damage"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 6.33,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["DamagedWho"] = {
+						["Alluring Siren"] = {
+							["Details"] = {
+								["Blackout Kick"] = {
+									["count"] = 0,
+								},
+								["Rising Sun Kick"] = {
+									["count"] = 0,
+								},
+								["Spinning Crane Kick"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Coppertooth Prowler"] = {
+							["Details"] = {
+								["Rising Sun Kick"] = {
+									["count"] = 0,
+								},
+								["Blackout Kick"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 10882,
+					["ElementDone"] = {
+						["Physical"] = 0,
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Evade"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["WhoDamaged"] = {
+						["Coppertooth Prowler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Wounding Bite"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Alluring Siren"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Screech"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Enthralled Sailor"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Soothing Mist"] = {
+									["count"] = 0,
+								},
+								["Enveloping Mist"] = {
+									["count"] = 0,
+								},
+								["Surging Mist"] = {
+									["count"] = 0,
+								},
+								["Gust of Mists"] = {
+									["count"] = 1.27,
+								},
+								["Way of the Crane"] = {
+									["count"] = 0,
+								},
+								["Renewing Mist"] = {
+									["count"] = 5.06,
+								},
+							},
+							["amount"] = 6.33,
+						},
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Way of the Crane"] = {
+									["count"] = 0,
+								},
+								["Enveloping Mist"] = {
+									["count"] = 0,
+								},
+								["Surging Mist"] = {
+									["count"] = 0,
+								},
+								["Gust of Mists"] = {
+									["count"] = 5182,
+								},
+								["Soothing Mist"] = {
+									["count"] = 0,
+								},
+								["Renewing Mist"] = {
+									["count"] = 5700,
+								},
+							},
+							["amount"] = 10882,
+						},
+					},
+					["HealedWho"] = {
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Way of the Crane"] = {
+									["count"] = 0,
+								},
+								["Enveloping Mist"] = {
+									["count"] = 0,
+								},
+								["Surging Mist"] = {
+									["count"] = 0,
+								},
+								["Gust of Mists"] = {
+									["count"] = 5182,
+								},
+								["Soothing Mist"] = {
+									["count"] = 0,
+								},
+								["Renewing Mist"] = {
+									["count"] = 5700,
+								},
+							},
+							["amount"] = 10882,
+						},
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+						["Wounding Bite"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Screech"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 7.83,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Hungry Dewscale"] = {
+							["Details"] = {
+								["Leg Sweep"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Coppertooth Prowler"] = {
+							["Details"] = {
+								["Rising Sun Kick"] = {
+									["count"] = 0,
+								},
+								["Blackout Kick"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Alluring Siren"] = {
+							["Details"] = {
+								["Blackout Kick"] = {
+									["count"] = 0,
+								},
+								["Rising Sun Kick"] = {
+									["count"] = 0,
+								},
+								["Spinning Crane Kick"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fistbeavers"] = {
+							["Details"] = {
+								["Soothing Mist"] = {
+									["count"] = 0,
+								},
+								["Enveloping Mist"] = {
+									["count"] = 0,
+								},
+								["Surging Mist"] = {
+									["count"] = 0,
+								},
+								["Gust of Mists"] = {
+									["count"] = 1.27,
+								},
+								["Way of the Crane"] = {
+									["count"] = 0,
+								},
+								["Renewing Mist"] = {
+									["count"] = 5.06,
+								},
+							},
+							["amount"] = 6.33,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+						["Way of the Crane"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Enveloping Mist"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Surging Mist"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Gust of Mists"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 5182,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 5182,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 5182,
+						},
+						["Soothing Mist"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Renewing Mist"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2258,
+									["min"] = 2258,
+									["count"] = 1,
+									["amount"] = 2258,
+								},
+								["Tick"] = {
+									["max"] = 1185,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 3442,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 5700,
+						},
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+						["Wounding Bite"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Screech"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 10882,
+					["RageGained"] = {
+					},
+					["OverHeals"] = {
+						["Enveloping Mist"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Way of the Crane"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Renewing Mist"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Attacks"] = {
+						["Leg Sweep"] = {
+							["Details"] = {
+								["Evade"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Blackout Kick"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Tiger Palm"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Rising Sun Kick"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Spinning Crane Kick"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 1.5,
+					["TimeDamaging"] = {
+						["Coppertooth Prowler"] = {
+							["Details"] = {
+								["Rising Sun Kick"] = {
+									["count"] = 0,
+								},
+								["Blackout Kick"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Alluring Siren"] = {
+							["Details"] = {
+								["Blackout Kick"] = {
+									["count"] = 0,
+								},
+								["Rising Sun Kick"] = {
+									["count"] = 0,
+								},
+								["Spinning Crane Kick"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Hungry Dewscale"] = {
+							["Details"] = {
+								["Leg Sweep"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
+					["DispelledWho"] = {
+					},
+				},
 				["OverallData"] = {
 					["ElementDoneBlock"] = {
 						["Physical"] = 1390,
@@ -156,8 +3771,8 @@ RecountPerCharDB = {
 					["TimeHealing"] = {
 						["Fistbeavers"] = {
 							["Details"] = {
-								["Soothing Mist"] = {
-									["count"] = 6.32,
+								["Way of the Crane"] = {
+									["count"] = 17.03,
 								},
 								["Enveloping Mist"] = {
 									["count"] = 19.73,
@@ -168,8 +3783,8 @@ RecountPerCharDB = {
 								["Gust of Mists"] = {
 									["count"] = 13.01,
 								},
-								["Way of the Crane"] = {
-									["count"] = 17.03,
+								["Soothing Mist"] = {
+									["count"] = 6.32,
 								},
 								["Renewing Mist"] = {
 									["count"] = 65.99,
@@ -179,23 +3794,17 @@ RecountPerCharDB = {
 						},
 					},
 					["OverHeals"] = {
-						["Way of the Crane"] = {
+						["Soothing Mist"] = {
 							["Details"] = {
-								["Crit"] = {
-									["max"] = 32654,
-									["min"] = 8839,
-									["count"] = 3,
-									["amount"] = 61122,
-								},
-								["Hit"] = {
-									["max"] = 18474,
-									["min"] = 86,
-									["count"] = 8,
-									["amount"] = 49763,
+								["Tick"] = {
+									["max"] = 4192,
+									["min"] = 4192,
+									["count"] = 1,
+									["amount"] = 4192,
 								},
 							},
-							["count"] = 11,
-							["amount"] = 110885,
+							["count"] = 1,
+							["amount"] = 4192,
 						},
 						["Enveloping Mist"] = {
 							["Details"] = {
@@ -239,17 +3848,23 @@ RecountPerCharDB = {
 							["count"] = 3,
 							["amount"] = 15774,
 						},
-						["Soothing Mist"] = {
+						["Way of the Crane"] = {
 							["Details"] = {
-								["Tick"] = {
-									["max"] = 4192,
-									["min"] = 4192,
-									["count"] = 1,
-									["amount"] = 4192,
+								["Crit"] = {
+									["max"] = 32654,
+									["min"] = 8839,
+									["count"] = 3,
+									["amount"] = 61122,
+								},
+								["Hit"] = {
+									["max"] = 18474,
+									["min"] = 86,
+									["count"] = 8,
+									["amount"] = 49763,
 								},
 							},
-							["count"] = 1,
-							["amount"] = 4192,
+							["count"] = 11,
+							["amount"] = 110885,
 						},
 						["Renewing Mist"] = {
 							["Details"] = {
@@ -295,8 +3910,8 @@ RecountPerCharDB = {
 						},
 						["Fistbeavers"] = {
 							["Details"] = {
-								["Soothing Mist"] = {
-									["count"] = 6.32,
+								["Way of the Crane"] = {
+									["count"] = 17.03,
 								},
 								["Enveloping Mist"] = {
 									["count"] = 19.73,
@@ -307,8 +3922,8 @@ RecountPerCharDB = {
 								["Gust of Mists"] = {
 									["count"] = 13.01,
 								},
-								["Way of the Crane"] = {
-									["count"] = 17.03,
+								["Soothing Mist"] = {
+									["count"] = 6.32,
 								},
 								["Renewing Mist"] = {
 									["count"] = 65.99,
@@ -316,19 +3931,22 @@ RecountPerCharDB = {
 							},
 							["amount"] = 123,
 						},
-						["Riverbottom Hunter"] = {
+						["Alluring Siren"] = {
 							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 7.49,
-								},
 								["Blackout Kick"] = {
-									["count"] = 6.77,
+									["count"] = 3.88,
+								},
+								["Rising Sun Kick"] = {
+									["count"] = 3.76,
+								},
+								["Spinning Crane Kick"] = {
+									["count"] = 2.89,
 								},
 								["Tiger Palm"] = {
-									["count"] = 14.16,
+									["count"] = 6.98,
 								},
 							},
-							["amount"] = 28.42,
+							["amount"] = 17.51,
 						},
 						["Coppertooth Prowler"] = {
 							["Details"] = {
@@ -344,22 +3962,19 @@ RecountPerCharDB = {
 							},
 							["amount"] = 23.6,
 						},
-						["Alluring Siren"] = {
+						["Riverbottom Hunter"] = {
 							["Details"] = {
-								["Spinning Crane Kick"] = {
-									["count"] = 2.89,
-								},
 								["Rising Sun Kick"] = {
-									["count"] = 3.76,
+									["count"] = 7.49,
 								},
 								["Blackout Kick"] = {
-									["count"] = 3.88,
+									["count"] = 6.77,
 								},
 								["Tiger Palm"] = {
-									["count"] = 6.98,
+									["count"] = 14.16,
 								},
 							},
-							["amount"] = 17.51,
+							["amount"] = 28.42,
 						},
 						["Enthralled Sailor"] = {
 							["Details"] = {
@@ -462,29 +4077,17 @@ RecountPerCharDB = {
 							["count"] = 0,
 							["amount"] = 36,
 						},
-						["Peck"] = {
+						["Wounding Bite"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 2,
+									["count"] = 8,
 									["amount"] = 0,
 								},
 							},
 							["count"] = 0,
-							["amount"] = 2,
-						},
-						["Cutlass Slash"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 9,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 9,
+							["amount"] = 8,
 						},
 						["Falling"] = {
 							["Details"] = {
@@ -498,17 +4101,29 @@ RecountPerCharDB = {
 							["count"] = 0,
 							["amount"] = 6,
 						},
-						["Wounding Bite"] = {
+						["Cutlass Slash"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 8,
+									["count"] = 9,
 									["amount"] = 0,
 								},
 							},
 							["count"] = 0,
-							["amount"] = 8,
+							["amount"] = 9,
+						},
+						["Peck"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
 						},
 					},
 					["PartialAbsorb"] = {
@@ -596,28 +4211,16 @@ RecountPerCharDB = {
 							["count"] = 36,
 							["amount"] = 0,
 						},
-						["Peck"] = {
+						["Wounding Bite"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 2,
+									["count"] = 8,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Cutlass Slash"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 9,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 9,
+							["count"] = 8,
 							["amount"] = 0,
 						},
 						["Falling"] = {
@@ -632,16 +4235,28 @@ RecountPerCharDB = {
 							["count"] = 6,
 							["amount"] = 0,
 						},
-						["Wounding Bite"] = {
+						["Cutlass Slash"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 8,
+									["count"] = 9,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 8,
+							["count"] = 9,
+							["amount"] = 0,
+						},
+						["Peck"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
 							["amount"] = 0,
 						},
 					},
@@ -652,13 +4267,13 @@ RecountPerCharDB = {
 						["Nature"] = 29625,
 					},
 					["HOTs"] = {
-						["Renewing Mist"] = {
+						["Enveloping Mist"] = {
 							["Details"] = {
 								["Fistbeavers"] = {
-									["count"] = 228,
+									["count"] = 120,
 								},
 							},
-							["amount"] = 228,
+							["amount"] = 120,
 						},
 						["Soothing Mist"] = {
 							["Details"] = {
@@ -668,161 +4283,24 @@ RecountPerCharDB = {
 							},
 							["amount"] = 39,
 						},
-						["Enveloping Mist"] = {
+						["Renewing Mist"] = {
 							["Details"] = {
 								["Fistbeavers"] = {
-									["count"] = 120,
+									["count"] = 228,
 								},
 							},
-							["amount"] = 120,
+							["amount"] = 228,
 						},
 					},
 					["Damage"] = 471458,
-					["TimeDamaging"] = {
-						["Lichenjaw Saurolisk"] = {
-							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 1.33,
-								},
-								["Blackout Kick"] = {
-									["count"] = 3.78,
-								},
-								["Tiger Palm"] = {
-									["count"] = 7.54,
-								},
-							},
-							["amount"] = 12.65,
-						},
-						["Hungry Dewscale"] = {
-							["Details"] = {
-								["Leg Sweep"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 1.5,
-						},
-						["Riverbottom Hunter"] = {
-							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 7.49,
-								},
-								["Blackout Kick"] = {
-									["count"] = 6.77,
-								},
-								["Tiger Palm"] = {
-									["count"] = 14.16,
-								},
-							},
-							["amount"] = 28.42,
-						},
-						["Coppertooth Prowler"] = {
-							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 6.6,
-								},
-								["Blackout Kick"] = {
-									["count"] = 6.13,
-								},
-								["Tiger Palm"] = {
-									["count"] = 10.87,
-								},
-							},
-							["amount"] = 23.6,
-						},
-						["Alluring Siren"] = {
-							["Details"] = {
-								["Spinning Crane Kick"] = {
-									["count"] = 2.89,
-								},
-								["Rising Sun Kick"] = {
-									["count"] = 3.76,
-								},
-								["Blackout Kick"] = {
-									["count"] = 3.88,
-								},
-								["Tiger Palm"] = {
-									["count"] = 6.98,
-								},
-							},
-							["amount"] = 17.51,
-						},
-						["Enthralled Sailor"] = {
-							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 6.59,
-								},
-								["Blackout Kick"] = {
-									["count"] = 8.57,
-								},
-								["Tiger Palm"] = {
-									["count"] = 15.55,
-								},
-							},
-							["amount"] = 30.71,
-						},
-					},
+					["Overhealing"] = 210794,
 					["TimeHeal"] = 123,
-					["ElementHitsTaken"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 48,
-								},
-								["Immune"] = {
-									["count"] = 4,
-								},
-								["Tick"] = {
-									["count"] = 36,
-								},
-								["Dodge"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 90,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 184,
-								},
-								["Miss"] = {
-									["count"] = 8,
-								},
-								["Dodge"] = {
-									["count"] = 4,
-								},
-								["Crit"] = {
-									["count"] = 15,
-								},
-								["Parry"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 212,
-						},
-						["Nature"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 8,
-								},
-								["Tick"] = {
-									["count"] = 15,
-								},
-								["Miss"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 24,
-						},
-					},
-					["ElementDone"] = {
-						["Physical"] = 471458,
-					},
-					["HealedWho"] = {
+					["HOT_Time"] = 387,
+					["WhoHealed"] = {
 						["Fistbeavers"] = {
 							["Details"] = {
-								["Soothing Mist"] = {
-									["count"] = 45449,
+								["Way of the Crane"] = {
+									["count"] = 102325,
 								},
 								["Enveloping Mist"] = {
 									["count"] = 181629,
@@ -833,8 +4311,8 @@ RecountPerCharDB = {
 								["Gust of Mists"] = {
 									["count"] = 97721,
 								},
-								["Way of the Crane"] = {
-									["count"] = 102325,
+								["Soothing Mist"] = {
+									["count"] = 45449,
 								},
 								["Renewing Mist"] = {
 									["count"] = 76419,
@@ -843,186 +4321,122 @@ RecountPerCharDB = {
 							["amount"] = 537772,
 						},
 					},
-					["Healing"] = 537772,
-					["Heals"] = {
-						["Soothing Mist"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 4401,
-									["min"] = 3224,
-									["count"] = 12,
-									["amount"] = 45449,
-								},
-							},
-							["count"] = 12,
-							["amount"] = 45449,
-						},
-						["Enveloping Mist"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 16929,
-									["min"] = 16123,
-									["count"] = 4,
-									["amount"] = 66104,
-								},
-								["Crit"] = {
-									["max"] = 29945,
-									["min"] = 2417,
-									["count"] = 4,
-									["amount"] = 45663,
-								},
-								["Tick"] = {
-									["max"] = 3492,
-									["min"] = 15,
-									["count"] = 28,
-									["amount"] = 69862,
-								},
-							},
-							["count"] = 36,
-							["amount"] = 181629,
-						},
-						["Surging Mist"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 17439,
-									["min"] = 16790,
-									["count"] = 2,
-									["amount"] = 34229,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 34229,
-						},
-						["Gust of Mists"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 9871,
-									["min"] = 9871,
-									["count"] = 1,
-									["amount"] = 9871,
-								},
-								["Hit"] = {
-									["max"] = 6738,
-									["min"] = 1994,
-									["count"] = 16,
-									["amount"] = 87850,
-								},
-							},
-							["count"] = 17,
-							["amount"] = 97721,
-						},
-						["Way of the Crane"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 44078,
-									["min"] = 2379,
-									["count"] = 3,
-									["amount"] = 57048,
-								},
-								["Hit"] = {
-									["max"] = 9830,
-									["min"] = 2122,
-									["count"] = 11,
-									["amount"] = 45277,
-								},
-							},
-							["count"] = 14,
-							["amount"] = 102325,
-						},
-						["Renewing Mist"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 2370,
-									["min"] = 2033,
-									["count"] = 3,
-									["amount"] = 6661,
-								},
-								["Tick"] = {
-									["max"] = 1541,
-									["min"] = 42,
-									["count"] = 59,
-									["amount"] = 69758,
-								},
-							},
-							["count"] = 62,
-							["amount"] = 76419,
-						},
-					},
-					["DamagedWho"] = {
+					["WhoDamaged"] = {
 						["Lichenjaw Saurolisk"] = {
 							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 8605,
+								["Melee"] = {
+									["count"] = 52830,
 								},
-								["Blackout Kick"] = {
-									["count"] = 34398,
+								["Chomp"] = {
+									["count"] = 18069,
 								},
-								["Tiger Palm"] = {
-									["count"] = 9456,
+								["Chomp (DoT)"] = {
+									["count"] = 16720,
 								},
 							},
-							["amount"] = 52459,
+							["amount"] = 87619,
 						},
 						["Riverbottom Hunter"] = {
 							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 59415,
+								["Melee"] = {
+									["count"] = 68790,
 								},
-								["Blackout Kick"] = {
-									["count"] = 37127,
-								},
-								["Tiger Palm"] = {
-									["count"] = 14215,
+								["Peck"] = {
+									["count"] = 6233,
 								},
 							},
-							["amount"] = 110757,
-						},
-						["Coppertooth Prowler"] = {
-							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 63125,
-								},
-								["Blackout Kick"] = {
-									["count"] = 34061,
-								},
-								["Tiger Palm"] = {
-									["count"] = 11520,
-								},
-							},
-							["amount"] = 108706,
-						},
-						["Alluring Siren"] = {
-							["Details"] = {
-								["Spinning Crane Kick"] = {
-									["count"] = 6255,
-								},
-								["Rising Sun Kick"] = {
-									["count"] = 34671,
-								},
-								["Blackout Kick"] = {
-									["count"] = 40402,
-								},
-								["Tiger Palm"] = {
-									["count"] = 10001,
-								},
-							},
-							["amount"] = 91329,
+							["amount"] = 75023,
 						},
 						["Enthralled Sailor"] = {
 							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 42616,
+								["Melee"] = {
+									["count"] = 53649,
 								},
-								["Blackout Kick"] = {
-									["count"] = 50332,
-								},
-								["Tiger Palm"] = {
-									["count"] = 15259,
+								["Cutlass Slash"] = {
+									["count"] = 15436,
 								},
 							},
-							["amount"] = 108207,
+							["amount"] = 69085,
+						},
+						["Hungry Dewscale"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 92449,
+								},
+								["Vicious Chomp"] = {
+									["count"] = 27009,
+								},
+							},
+							["amount"] = 119458,
+						},
+						["Venomscale Slitherer"] = {
+							["Details"] = {
+								["Bite"] = {
+									["count"] = 19760,
+								},
+								["Melee"] = {
+									["count"] = 51508,
+								},
+								["Deathstrike Venom (DoT)"] = {
+									["count"] = 656,
+								},
+							},
+							["amount"] = 71924,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 34216,
+								},
+							},
+							["amount"] = 34216,
+						},
+						["Pollen-Coated Drone"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3136,
+								},
+							},
+							["amount"] = 3136,
+						},
+						["Coppertooth Prowler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 111315,
+								},
+								["Wounding Bite"] = {
+									["count"] = 8000,
+								},
+							},
+							["amount"] = 119315,
+						},
+						["Venomous Coilscale"] = {
+							["Details"] = {
+								["Bite"] = {
+									["count"] = 6588,
+								},
+								["Melee"] = {
+									["count"] = 47306,
+								},
+								["Deathstrike Venom (DoT)"] = {
+									["count"] = 2621,
+								},
+							},
+							["amount"] = 56515,
+						},
+						["Alluring Siren"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 55760,
+								},
+								["Screech"] = {
+									["count"] = 55530,
+								},
+							},
+							["amount"] = 111290,
 						},
 					},
+					["Healing"] = 537772,
 					["Attacks"] = {
 						["Leg Sweep"] = {
 							["Details"] = {
@@ -1113,12 +4527,11 @@ RecountPerCharDB = {
 							["amount"] = 6255,
 						},
 					},
-					["HealingTaken"] = 537772,
 					["ElementHitsDone"] = {
 						["Physical"] = {
 							["Details"] = {
-								["Hit"] = {
-									["count"] = 98,
+								["Evade"] = {
+									["count"] = 2,
 								},
 								["Block"] = {
 									["count"] = 2,
@@ -1126,134 +4539,285 @@ RecountPerCharDB = {
 								["Crit"] = {
 									["count"] = 16,
 								},
-								["Evade"] = {
-									["count"] = 2,
+								["Hit"] = {
+									["count"] = 98,
 								},
 							},
 							["amount"] = 118,
 						},
 					},
-					["TimeDamage"] = 114.39,
-					["WhoDamaged"] = {
+					["ElementDone"] = {
+						["Physical"] = 471458,
+					},
+					["HealingTaken"] = 537772,
+					["DamagedWho"] = {
 						["Lichenjaw Saurolisk"] = {
 							["Details"] = {
-								["Chomp"] = {
-									["count"] = 18069,
+								["Rising Sun Kick"] = {
+									["count"] = 8605,
 								},
-								["Melee"] = {
-									["count"] = 52830,
+								["Blackout Kick"] = {
+									["count"] = 34398,
 								},
-								["Chomp (DoT)"] = {
-									["count"] = 16720,
-								},
-							},
-							["amount"] = 87619,
-						},
-						["Riverbottom Hunter"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 68790,
-								},
-								["Peck"] = {
-									["count"] = 6233,
+								["Tiger Palm"] = {
+									["count"] = 9456,
 								},
 							},
-							["amount"] = 75023,
-						},
-						["Enthralled Sailor"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 53649,
-								},
-								["Cutlass Slash"] = {
-									["count"] = 15436,
-								},
-							},
-							["amount"] = 69085,
+							["amount"] = 52459,
 						},
 						["Alluring Siren"] = {
 							["Details"] = {
-								["Melee"] = {
-									["count"] = 55760,
+								["Blackout Kick"] = {
+									["count"] = 40402,
 								},
-								["Screech"] = {
-									["count"] = 55530,
+								["Rising Sun Kick"] = {
+									["count"] = 34671,
 								},
-							},
-							["amount"] = 111290,
-						},
-						["Venomscale Slitherer"] = {
-							["Details"] = {
-								["Bite"] = {
-									["count"] = 19760,
+								["Spinning Crane Kick"] = {
+									["count"] = 6255,
 								},
-								["Melee"] = {
-									["count"] = 51508,
-								},
-								["Deathstrike Venom (DoT)"] = {
-									["count"] = 656,
+								["Tiger Palm"] = {
+									["count"] = 10001,
 								},
 							},
-							["amount"] = 71924,
-						},
-						["Environment"] = {
-							["Details"] = {
-								["Falling"] = {
-									["count"] = 34216,
-								},
-							},
-							["amount"] = 34216,
-						},
-						["Venomous Coilscale"] = {
-							["Details"] = {
-								["Bite"] = {
-									["count"] = 6588,
-								},
-								["Melee"] = {
-									["count"] = 47306,
-								},
-								["Deathstrike Venom (DoT)"] = {
-									["count"] = 2621,
-								},
-							},
-							["amount"] = 56515,
+							["amount"] = 91329,
 						},
 						["Coppertooth Prowler"] = {
 							["Details"] = {
-								["Melee"] = {
-									["count"] = 111315,
+								["Rising Sun Kick"] = {
+									["count"] = 63125,
 								},
-								["Wounding Bite"] = {
-									["count"] = 8000,
+								["Blackout Kick"] = {
+									["count"] = 34061,
+								},
+								["Tiger Palm"] = {
+									["count"] = 11520,
 								},
 							},
-							["amount"] = 119315,
+							["amount"] = 108706,
 						},
-						["Pollen-Coated Drone"] = {
+						["Riverbottom Hunter"] = {
 							["Details"] = {
-								["Melee"] = {
-									["count"] = 3136,
+								["Rising Sun Kick"] = {
+									["count"] = 59415,
+								},
+								["Blackout Kick"] = {
+									["count"] = 37127,
+								},
+								["Tiger Palm"] = {
+									["count"] = 14215,
 								},
 							},
-							["amount"] = 3136,
+							["amount"] = 110757,
+						},
+						["Enthralled Sailor"] = {
+							["Details"] = {
+								["Rising Sun Kick"] = {
+									["count"] = 42616,
+								},
+								["Blackout Kick"] = {
+									["count"] = 50332,
+								},
+								["Tiger Palm"] = {
+									["count"] = 15259,
+								},
+							},
+							["amount"] = 108207,
+						},
+					},
+					["TimeDamage"] = 114.39,
+					["TimeDamaging"] = {
+						["Lichenjaw Saurolisk"] = {
+							["Details"] = {
+								["Rising Sun Kick"] = {
+									["count"] = 1.33,
+								},
+								["Blackout Kick"] = {
+									["count"] = 3.78,
+								},
+								["Tiger Palm"] = {
+									["count"] = 7.54,
+								},
+							},
+							["amount"] = 12.65,
 						},
 						["Hungry Dewscale"] = {
 							["Details"] = {
-								["Melee"] = {
-									["count"] = 92449,
-								},
-								["Vicious Chomp"] = {
-									["count"] = 27009,
+								["Leg Sweep"] = {
+									["count"] = 1.5,
 								},
 							},
-							["amount"] = 119458,
+							["amount"] = 1.5,
+						},
+						["Alluring Siren"] = {
+							["Details"] = {
+								["Blackout Kick"] = {
+									["count"] = 3.88,
+								},
+								["Rising Sun Kick"] = {
+									["count"] = 3.76,
+								},
+								["Spinning Crane Kick"] = {
+									["count"] = 2.89,
+								},
+								["Tiger Palm"] = {
+									["count"] = 6.98,
+								},
+							},
+							["amount"] = 17.51,
+						},
+						["Coppertooth Prowler"] = {
+							["Details"] = {
+								["Rising Sun Kick"] = {
+									["count"] = 6.6,
+								},
+								["Blackout Kick"] = {
+									["count"] = 6.13,
+								},
+								["Tiger Palm"] = {
+									["count"] = 10.87,
+								},
+							},
+							["amount"] = 23.6,
+						},
+						["Riverbottom Hunter"] = {
+							["Details"] = {
+								["Rising Sun Kick"] = {
+									["count"] = 7.49,
+								},
+								["Blackout Kick"] = {
+									["count"] = 6.77,
+								},
+								["Tiger Palm"] = {
+									["count"] = 14.16,
+								},
+							},
+							["amount"] = 28.42,
+						},
+						["Enthralled Sailor"] = {
+							["Details"] = {
+								["Rising Sun Kick"] = {
+									["count"] = 6.59,
+								},
+								["Blackout Kick"] = {
+									["count"] = 8.57,
+								},
+								["Tiger Palm"] = {
+									["count"] = 15.55,
+								},
+							},
+							["amount"] = 30.71,
 						},
 					},
-					["WhoHealed"] = {
+					["Heals"] = {
+						["Way of the Crane"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 44078,
+									["min"] = 2379,
+									["count"] = 3,
+									["amount"] = 57048,
+								},
+								["Hit"] = {
+									["max"] = 9830,
+									["min"] = 2122,
+									["count"] = 11,
+									["amount"] = 45277,
+								},
+							},
+							["count"] = 14,
+							["amount"] = 102325,
+						},
+						["Enveloping Mist"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 3492,
+									["min"] = 15,
+									["count"] = 28,
+									["amount"] = 69862,
+								},
+								["Crit"] = {
+									["max"] = 29945,
+									["min"] = 2417,
+									["count"] = 4,
+									["amount"] = 45663,
+								},
+								["Hit"] = {
+									["max"] = 16929,
+									["min"] = 16123,
+									["count"] = 4,
+									["amount"] = 66104,
+								},
+							},
+							["count"] = 36,
+							["amount"] = 181629,
+						},
+						["Surging Mist"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 17439,
+									["min"] = 16790,
+									["count"] = 2,
+									["amount"] = 34229,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 34229,
+						},
+						["Gust of Mists"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 9871,
+									["min"] = 9871,
+									["count"] = 1,
+									["amount"] = 9871,
+								},
+								["Hit"] = {
+									["max"] = 6738,
+									["min"] = 1994,
+									["count"] = 16,
+									["amount"] = 87850,
+								},
+							},
+							["count"] = 17,
+							["amount"] = 97721,
+						},
+						["Soothing Mist"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 4401,
+									["min"] = 3224,
+									["count"] = 12,
+									["amount"] = 45449,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 45449,
+						},
+						["Renewing Mist"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2370,
+									["min"] = 2033,
+									["count"] = 3,
+									["amount"] = 6661,
+								},
+								["Tick"] = {
+									["max"] = 1541,
+									["min"] = 42,
+									["count"] = 59,
+									["amount"] = 69758,
+								},
+							},
+							["count"] = 62,
+							["amount"] = 76419,
+						},
+					},
+					["HealedWho"] = {
 						["Fistbeavers"] = {
 							["Details"] = {
-								["Soothing Mist"] = {
-									["count"] = 45449,
+								["Way of the Crane"] = {
+									["count"] = 102325,
 								},
 								["Enveloping Mist"] = {
 									["count"] = 181629,
@@ -1264,8 +4828,8 @@ RecountPerCharDB = {
 								["Gust of Mists"] = {
 									["count"] = 97721,
 								},
-								["Way of the Crane"] = {
-									["count"] = 102325,
+								["Soothing Mist"] = {
+									["count"] = 45449,
 								},
 								["Renewing Mist"] = {
 									["count"] = 76419,
@@ -1274,3628 +4838,64 @@ RecountPerCharDB = {
 							["amount"] = 537772,
 						},
 					},
-					["HOT_Time"] = 387,
-					["Overhealing"] = 210794,
-				},
-				["Fight5"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 25383,
-					["RageGainedFrom"] = {
-					},
 					["ElementHitsTaken"] = {
-						["Melee"] = {
+						["Physical"] = {
 							["Details"] = {
-								["Hit"] = {
-									["count"] = 6,
-								},
-								["Crit"] = {
-									["count"] = 1,
-								},
 								["Dodge"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 8,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
-					["ManaGain"] = 0,
-					["ElementTaken"] = {
-						["Melee"] = 22160,
-						["Physical"] = 3223,
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 56966,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialAbsorb"] = {
-						["Falling"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 8,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 8,
-							["amount"] = 0,
-						},
-						["Peck"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-					},
-					["RageGain"] = 0,
-					["FAttacks"] = {
-					},
-					["PartialBlock"] = {
-					},
-					["ElementDone"] = {
-						["Physical"] = 56966,
-					},
-					["CCBroken"] = {
-					},
-					["ElementHitsDone"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Crit"] = {
 									["count"] = 2,
 								},
-								["Hit"] = {
-									["count"] = 12,
-								},
-							},
-							["amount"] = 14,
-						},
-					},
-					["Dispelled"] = 0,
-					["WhoDamaged"] = {
-						["Pollen-Coated Drone"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Riverbottom Hunter"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 22160,
-								},
-								["Peck"] = {
-									["count"] = 3223,
-								},
-							},
-							["amount"] = 25383,
-						},
-						["Environment"] = {
-							["Details"] = {
-								["Falling"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["FDamagedWho"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
-					["RageGained"] = {
-					},
-					["ActiveTime"] = 15.54,
-					["CCBreak"] = 0,
-					["EnergyGain"] = 0,
-					["WhoHealed"] = {
-					},
-					["PartialResist"] = {
-						["Falling"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 8,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 8,
-						},
-						["Peck"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-						["Riverbottom Hunter"] = {
-							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 5.14,
-								},
-								["Blackout Kick"] = {
-									["count"] = 1.99,
-								},
-								["Tiger Palm"] = {
-									["count"] = 8.41,
-								},
-							},
-							["amount"] = 15.54,
-						},
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
-					},
-					["HealedWho"] = {
-					},
-					["Healing"] = 0,
-					["RunicPowerGained"] = {
-					},
-					["ManaGainedFrom"] = {
-					},
-					["Attacks"] = {
-						["Rising Sun Kick"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 8605,
-									["min"] = 8195,
+								["Immune"] = {
 									["count"] = 4,
-									["amount"] = 34010,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 34010,
-						},
-						["Blackout Kick"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 3389,
-									["min"] = 3389,
-									["count"] = 4,
-									["amount"] = 13556,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 13556,
-						},
-						["Tiger Palm"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 2378,
-									["min"] = 2266,
-									["count"] = 2,
-									["amount"] = 4644,
-								},
-								["Hit"] = {
-									["max"] = 1189,
-									["min"] = 1189,
-									["count"] = 4,
-									["amount"] = 4756,
-								},
-							},
-							["count"] = 6,
-							["amount"] = 9400,
-						},
-					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
-						["Riverbottom Hunter"] = {
-							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 34010,
-								},
-								["Blackout Kick"] = {
-									["count"] = 13556,
-								},
-								["Tiger Palm"] = {
-									["count"] = 9400,
-								},
-							},
-							["amount"] = 56966,
-						},
-					},
-					["TimeDamage"] = 15.54,
-					["TimeDamaging"] = {
-						["Riverbottom Hunter"] = {
-							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 5.14,
-								},
-								["Blackout Kick"] = {
-									["count"] = 1.99,
-								},
-								["Tiger Palm"] = {
-									["count"] = 8.41,
-								},
-							},
-							["amount"] = 15.54,
-						},
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["CurrentFightData"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
 								},
 								["Tick"] = {
-									["count"] = 0,
+									["count"] = 36,
+								},
+								["Hit"] = {
+									["count"] = 48,
 								},
 							},
-							["amount"] = 0,
+							["amount"] = 90,
 						},
 						["Melee"] = {
 							["Details"] = {
 								["Hit"] = {
-									["count"] = 0,
-								},
-								["Dodge"] = {
-									["count"] = 0,
+									["count"] = 184,
 								},
 								["Miss"] = {
-									["count"] = 0,
+									["count"] = 8,
+								},
+								["Dodge"] = {
+									["count"] = 4,
+								},
+								["Crit"] = {
+									["count"] = 15,
 								},
 								["Parry"] = {
-									["count"] = 0,
+									["count"] = 1,
 								},
 							},
-							["amount"] = 0,
+							["amount"] = 212,
 						},
 						["Nature"] = {
 							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
-					["ManaGain"] = 0,
-					["ElementTaken"] = {
-						["Physical"] = 0,
-						["Melee"] = 0,
-						["Nature"] = 0,
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialAbsorb"] = {
-						["Bite"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Chomp (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Chomp"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Falling"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["RageGain"] = 0,
-					["FAttacks"] = {
-					},
-					["PartialBlock"] = {
-					},
-					["ElementDone"] = {
-					},
-					["CCBroken"] = {
-					},
-					["ElementHitsDone"] = {
-					},
-					["Dispelled"] = 0,
-					["WhoDamaged"] = {
-						["Venomscale Slitherer"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Bite"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Lichenjaw Saurolisk"] = {
-							["Details"] = {
-								["Chomp"] = {
-									["count"] = 0,
-								},
-								["Chomp (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Alluring Siren"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Environment"] = {
-							["Details"] = {
-								["Falling"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["FDamagedWho"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
-					["RageGained"] = {
-					},
-					["ActiveTime"] = 0,
-					["CCBreak"] = 0,
-					["EnergyGain"] = 0,
-					["WhoHealed"] = {
-					},
-					["PartialResist"] = {
-						["Bite"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Chomp (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Chomp"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Falling"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
-					},
-					["HealedWho"] = {
-					},
-					["Healing"] = 0,
-					["RunicPowerGained"] = {
-					},
-					["ManaGainedFrom"] = {
-					},
-					["Attacks"] = {
-					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
-					},
-					["TimeDamage"] = 0,
-					["TimeDamaging"] = {
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["Fight1"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Dodge"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
 								["Miss"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Immune"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 12,
-					["HOTs"] = {
-						["Renewing Mist"] = {
-							["Details"] = {
-								["Fistbeavers"] = {
-									["count"] = 12,
-								},
-							},
-							["amount"] = 12,
-						},
-						["Soothing Mist"] = {
-							["Details"] = {
-								["Fistbeavers"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Enveloping Mist"] = {
-							["Details"] = {
-								["Fistbeavers"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGain"] = 0,
-					["ElementTaken"] = {
-						["Melee"] = 0,
-						["Physical"] = 0,
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 6.33,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialAbsorb"] = {
-						["Wounding Bite"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Screech"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["RageGain"] = 0,
-					["FAttacks"] = {
-					},
-					["PartialBlock"] = {
-					},
-					["ElementDone"] = {
-						["Physical"] = 0,
-					},
-					["CCBroken"] = {
-					},
-					["ElementHitsDone"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Evade"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 2,
-						},
-					},
-					["Dispelled"] = 0,
-					["WhoDamaged"] = {
-						["Coppertooth Prowler"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Wounding Bite"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Alluring Siren"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Screech"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Enthralled Sailor"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["FDamagedWho"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-						["Fistbeavers"] = {
-							["Details"] = {
-								["Way of the Crane"] = {
-									["count"] = 0,
-								},
-								["Enveloping Mist"] = {
-									["count"] = 0,
-								},
-								["Surging Mist"] = {
-									["count"] = 0,
-								},
-								["Gust of Mists"] = {
-									["count"] = 1.27,
-								},
-								["Soothing Mist"] = {
-									["count"] = 0,
-								},
-								["Renewing Mist"] = {
-									["count"] = 5.06,
-								},
-							},
-							["amount"] = 6.33,
-						},
-					},
-					["OverHeals"] = {
-						["Renewing Mist"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Tick"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Way of the Crane"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Enveloping Mist"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Tick"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["RageGained"] = {
-					},
-					["ActiveTime"] = 7.83,
-					["CCBreak"] = 0,
-					["EnergyGain"] = 0,
-					["WhoHealed"] = {
-						["Fistbeavers"] = {
-							["Details"] = {
-								["Soothing Mist"] = {
-									["count"] = 0,
-								},
-								["Enveloping Mist"] = {
-									["count"] = 0,
-								},
-								["Surging Mist"] = {
-									["count"] = 0,
-								},
-								["Gust of Mists"] = {
-									["count"] = 5182,
-								},
-								["Way of the Crane"] = {
-									["count"] = 0,
-								},
-								["Renewing Mist"] = {
-									["count"] = 5700,
-								},
-							},
-							["amount"] = 10882,
-						},
-					},
-					["PartialResist"] = {
-						["Wounding Bite"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Screech"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-						["Coppertooth Prowler"] = {
-							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 0,
-								},
-								["Blackout Kick"] = {
-									["count"] = 0,
-								},
-								["Tiger Palm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Hungry Dewscale"] = {
-							["Details"] = {
-								["Leg Sweep"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 1.5,
-						},
-						["Alluring Siren"] = {
-							["Details"] = {
-								["Spinning Crane Kick"] = {
-									["count"] = 0,
-								},
-								["Rising Sun Kick"] = {
-									["count"] = 0,
-								},
-								["Blackout Kick"] = {
-									["count"] = 0,
-								},
-								["Tiger Palm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Fistbeavers"] = {
-							["Details"] = {
-								["Way of the Crane"] = {
-									["count"] = 0,
-								},
-								["Enveloping Mist"] = {
-									["count"] = 0,
-								},
-								["Surging Mist"] = {
-									["count"] = 0,
-								},
-								["Gust of Mists"] = {
-									["count"] = 1.27,
-								},
-								["Soothing Mist"] = {
-									["count"] = 0,
-								},
-								["Renewing Mist"] = {
-									["count"] = 5.06,
-								},
-							},
-							["amount"] = 6.33,
-						},
-					},
-					["Heals"] = {
-						["Soothing Mist"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Enveloping Mist"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Tick"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Surging Mist"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Gust of Mists"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 5182,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 5182,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 5182,
-						},
-						["Way of the Crane"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Renewing Mist"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 2258,
-									["min"] = 2258,
-									["count"] = 1,
-									["amount"] = 2258,
-								},
-								["Tick"] = {
-									["max"] = 1185,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 3442,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 5700,
-						},
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
-					},
-					["HealedWho"] = {
-						["Fistbeavers"] = {
-							["Details"] = {
-								["Soothing Mist"] = {
-									["count"] = 0,
-								},
-								["Enveloping Mist"] = {
-									["count"] = 0,
-								},
-								["Surging Mist"] = {
-									["count"] = 0,
-								},
-								["Gust of Mists"] = {
-									["count"] = 5182,
-								},
-								["Way of the Crane"] = {
-									["count"] = 0,
-								},
-								["Renewing Mist"] = {
-									["count"] = 5700,
-								},
-							},
-							["amount"] = 10882,
-						},
-					},
-					["Healing"] = 10882,
-					["RunicPowerGained"] = {
-					},
-					["ManaGainedFrom"] = {
-					},
-					["Attacks"] = {
-						["Leg Sweep"] = {
-							["Details"] = {
-								["Evade"] = {
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Blackout Kick"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Tiger Palm"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Rising Sun Kick"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Spinning Crane Kick"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["HealingTaken"] = 10882,
-					["DamagedWho"] = {
-						["Alluring Siren"] = {
-							["Details"] = {
-								["Spinning Crane Kick"] = {
-									["count"] = 0,
-								},
-								["Rising Sun Kick"] = {
-									["count"] = 0,
-								},
-								["Blackout Kick"] = {
-									["count"] = 0,
-								},
-								["Tiger Palm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Coppertooth Prowler"] = {
-							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 0,
-								},
-								["Blackout Kick"] = {
-									["count"] = 0,
-								},
-								["Tiger Palm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["TimeDamage"] = 1.5,
-					["TimeDamaging"] = {
-						["Coppertooth Prowler"] = {
-							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 0,
-								},
-								["Blackout Kick"] = {
-									["count"] = 0,
-								},
-								["Tiger Palm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Alluring Siren"] = {
-							["Details"] = {
-								["Spinning Crane Kick"] = {
-									["count"] = 0,
-								},
-								["Rising Sun Kick"] = {
-									["count"] = 0,
-								},
-								["Blackout Kick"] = {
-									["count"] = 0,
-								},
-								["Tiger Palm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Hungry Dewscale"] = {
-							["Details"] = {
-								["Leg Sweep"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 1.5,
-						},
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["Fight4"] = {
-					["DamagedWho"] = {
-						["Riverbottom Hunter"] = {
-							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 0,
-								},
-								["Blackout Kick"] = {
-									["count"] = 0,
-								},
-								["Tiger Palm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["TimeDamage"] = 0,
-					["TimeSpent"] = {
-						["Riverbottom Hunter"] = {
-							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 0,
-								},
-								["Blackout Kick"] = {
-									["count"] = 0,
-								},
-								["Tiger Palm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["WhoDamaged"] = {
-						["Riverbottom Hunter"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 2395,
-								},
-								["Peck"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 2395,
-						},
-						["Environment"] = {
-							["Details"] = {
-								["Falling"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementHitsTaken"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
 									["count"] = 1,
 								},
-							},
-							["amount"] = 1,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DamageTaken"] = 2395,
-					["PartialResist"] = {
-						["Falling"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Peck"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ElementDone"] = {
-						["Physical"] = 0,
-					},
-					["PartialAbsorb"] = {
-						["Falling"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Peck"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ElementHitsDone"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 0,
-					["TimeDamaging"] = {
-						["Riverbottom Hunter"] = {
-							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 0,
-								},
-								["Blackout Kick"] = {
-									["count"] = 0,
-								},
-								["Tiger Palm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementTaken"] = {
-						["Melee"] = 2395,
-						["Physical"] = 0,
-					},
-					["Attacks"] = {
-						["Rising Sun Kick"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Blackout Kick"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Tiger Palm"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["Damage"] = 0,
-				},
-				["LastFightData"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Dodge"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Miss"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Immune"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 12,
-					["HOTs"] = {
-						["Renewing Mist"] = {
-							["Details"] = {
-								["Fistbeavers"] = {
-									["count"] = 12,
-								},
-							},
-							["amount"] = 12,
-						},
-						["Soothing Mist"] = {
-							["Details"] = {
-								["Fistbeavers"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Enveloping Mist"] = {
-							["Details"] = {
-								["Fistbeavers"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGain"] = 0,
-					["ElementTaken"] = {
-						["Melee"] = 0,
-						["Physical"] = 0,
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 6.33,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialAbsorb"] = {
-						["Wounding Bite"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Screech"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["RageGain"] = 0,
-					["FAttacks"] = {
-					},
-					["PartialBlock"] = {
-					},
-					["ElementDone"] = {
-						["Physical"] = 0,
-					},
-					["CCBroken"] = {
-					},
-					["ElementHitsDone"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Evade"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 2,
-						},
-					},
-					["Dispelled"] = 0,
-					["WhoDamaged"] = {
-						["Coppertooth Prowler"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Wounding Bite"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Alluring Siren"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Screech"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Enthralled Sailor"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["FDamagedWho"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-						["Fistbeavers"] = {
-							["Details"] = {
-								["Way of the Crane"] = {
-									["count"] = 0,
-								},
-								["Enveloping Mist"] = {
-									["count"] = 0,
-								},
-								["Surging Mist"] = {
-									["count"] = 0,
-								},
-								["Gust of Mists"] = {
-									["count"] = 1.27,
-								},
-								["Soothing Mist"] = {
-									["count"] = 0,
-								},
-								["Renewing Mist"] = {
-									["count"] = 5.06,
-								},
-							},
-							["amount"] = 6.33,
-						},
-					},
-					["OverHeals"] = {
-						["Renewing Mist"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
 								["Tick"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Way of the Crane"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
+									["count"] = 15,
 								},
 								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Enveloping Mist"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Tick"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["RageGained"] = {
-					},
-					["ActiveTime"] = 7.83,
-					["CCBreak"] = 0,
-					["EnergyGain"] = 0,
-					["WhoHealed"] = {
-						["Fistbeavers"] = {
-							["Details"] = {
-								["Soothing Mist"] = {
-									["count"] = 0,
-								},
-								["Enveloping Mist"] = {
-									["count"] = 0,
-								},
-								["Surging Mist"] = {
-									["count"] = 0,
-								},
-								["Gust of Mists"] = {
-									["count"] = 5182,
-								},
-								["Way of the Crane"] = {
-									["count"] = 0,
-								},
-								["Renewing Mist"] = {
-									["count"] = 5700,
-								},
-							},
-							["amount"] = 10882,
-						},
-					},
-					["PartialResist"] = {
-						["Wounding Bite"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Screech"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-						["Coppertooth Prowler"] = {
-							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 0,
-								},
-								["Blackout Kick"] = {
-									["count"] = 0,
-								},
-								["Tiger Palm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Hungry Dewscale"] = {
-							["Details"] = {
-								["Leg Sweep"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 1.5,
-						},
-						["Alluring Siren"] = {
-							["Details"] = {
-								["Spinning Crane Kick"] = {
-									["count"] = 0,
-								},
-								["Rising Sun Kick"] = {
-									["count"] = 0,
-								},
-								["Blackout Kick"] = {
-									["count"] = 0,
-								},
-								["Tiger Palm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Fistbeavers"] = {
-							["Details"] = {
-								["Way of the Crane"] = {
-									["count"] = 0,
-								},
-								["Enveloping Mist"] = {
-									["count"] = 0,
-								},
-								["Surging Mist"] = {
-									["count"] = 0,
-								},
-								["Gust of Mists"] = {
-									["count"] = 1.27,
-								},
-								["Soothing Mist"] = {
-									["count"] = 0,
-								},
-								["Renewing Mist"] = {
-									["count"] = 5.06,
-								},
-							},
-							["amount"] = 6.33,
-						},
-					},
-					["Heals"] = {
-						["Soothing Mist"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Enveloping Mist"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Tick"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Surging Mist"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Gust of Mists"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 5182,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 5182,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 5182,
-						},
-						["Way of the Crane"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Renewing Mist"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 2258,
-									["min"] = 2258,
-									["count"] = 1,
-									["amount"] = 2258,
-								},
-								["Tick"] = {
-									["max"] = 1185,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 3442,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 5700,
-						},
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
-					},
-					["HealedWho"] = {
-						["Fistbeavers"] = {
-							["Details"] = {
-								["Soothing Mist"] = {
-									["count"] = 0,
-								},
-								["Enveloping Mist"] = {
-									["count"] = 0,
-								},
-								["Surging Mist"] = {
-									["count"] = 0,
-								},
-								["Gust of Mists"] = {
-									["count"] = 5182,
-								},
-								["Way of the Crane"] = {
-									["count"] = 0,
-								},
-								["Renewing Mist"] = {
-									["count"] = 5700,
-								},
-							},
-							["amount"] = 10882,
-						},
-					},
-					["Healing"] = 10882,
-					["RunicPowerGained"] = {
-					},
-					["ManaGainedFrom"] = {
-					},
-					["Attacks"] = {
-						["Leg Sweep"] = {
-							["Details"] = {
-								["Evade"] = {
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Blackout Kick"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Tiger Palm"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Rising Sun Kick"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Spinning Crane Kick"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["HealingTaken"] = 10882,
-					["DamagedWho"] = {
-						["Alluring Siren"] = {
-							["Details"] = {
-								["Spinning Crane Kick"] = {
-									["count"] = 0,
-								},
-								["Rising Sun Kick"] = {
-									["count"] = 0,
-								},
-								["Blackout Kick"] = {
-									["count"] = 0,
-								},
-								["Tiger Palm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Coppertooth Prowler"] = {
-							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 0,
-								},
-								["Blackout Kick"] = {
-									["count"] = 0,
-								},
-								["Tiger Palm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["TimeDamage"] = 1.5,
-					["TimeDamaging"] = {
-						["Coppertooth Prowler"] = {
-							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 0,
-								},
-								["Blackout Kick"] = {
-									["count"] = 0,
-								},
-								["Tiger Palm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Alluring Siren"] = {
-							["Details"] = {
-								["Spinning Crane Kick"] = {
-									["count"] = 0,
-								},
-								["Rising Sun Kick"] = {
-									["count"] = 0,
-								},
-								["Blackout Kick"] = {
-									["count"] = 0,
-								},
-								["Tiger Palm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Hungry Dewscale"] = {
-							["Details"] = {
-								["Leg Sweep"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 1.5,
-						},
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["Fight2"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 119458,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 27,
-								},
-								["Miss"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 4,
-								},
-								["Dodge"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 31,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 9,
-								},
-								["Tick"] = {
-									["count"] = 0,
-								},
-								["Dodge"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 9,
-						},
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 138,
-					["HOTs"] = {
-						["Renewing Mist"] = {
-							["Details"] = {
-								["Fistbeavers"] = {
-									["count"] = 81,
-								},
-							},
-							["amount"] = 81,
-						},
-						["Soothing Mist"] = {
-							["Details"] = {
-								["Fistbeavers"] = {
-									["count"] = 12,
-								},
-							},
-							["amount"] = 12,
-						},
-						["Enveloping Mist"] = {
-							["Details"] = {
-								["Fistbeavers"] = {
-									["count"] = 45,
-								},
-							},
-							["amount"] = 45,
-						},
-					},
-					["ManaGain"] = 0,
-					["ElementTaken"] = {
-						["Melee"] = 92449,
-						["Physical"] = 27009,
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 42.65,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialAbsorb"] = {
-						["Falling"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Vicious Chomp"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 9,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 9,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 31,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 31,
-							["amount"] = 0,
-						},
-						["Chomp (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Screech"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Chomp"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Cutlass Slash"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["RageGain"] = 0,
-					["FAttacks"] = {
-					},
-					["PartialBlock"] = {
-					},
-					["ElementDone"] = {
-						["Physical"] = 0,
-					},
-					["CCBroken"] = {
-					},
-					["ElementHitsDone"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Block"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Dispelled"] = 0,
-					["WhoDamaged"] = {
-						["Lichenjaw Saurolisk"] = {
-							["Details"] = {
-								["Chomp"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Chomp (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Environment"] = {
-							["Details"] = {
-								["Falling"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Hungry Dewscale"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 92449,
-								},
-								["Vicious Chomp"] = {
-									["count"] = 27009,
-								},
-							},
-							["amount"] = 119458,
-						},
-						["Alluring Siren"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Screech"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Enthralled Sailor"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Cutlass Slash"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["FDamagedWho"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["ElementDoneBlock"] = {
-						["Physical"] = 0,
-					},
-					["TimeHealing"] = {
-						["Fistbeavers"] = {
-							["Details"] = {
-								["Enveloping Mist"] = {
-									["count"] = 6.97,
-								},
-								["Surging Mist"] = {
-									["count"] = 0.43,
-								},
-								["Gust of Mists"] = {
-									["count"] = 4.32,
-								},
-								["Soothing Mist"] = {
-									["count"] = 1.47,
-								},
-								["Renewing Mist"] = {
-									["count"] = 29.46,
-								},
-							},
-							["amount"] = 42.65,
-						},
-					},
-					["OverHeals"] = {
-						["Enveloping Mist"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 2300,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 2300,
-								},
-								["Tick"] = {
-									["max"] = 3491,
-									["min"] = 0,
-									["count"] = 10,
-									["amount"] = 29590,
-								},
-							},
-							["count"] = 11,
-							["amount"] = 31890,
-						},
-						["Surging Mist"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 649,
-									["min"] = 649,
-									["count"] = 1,
-									["amount"] = 649,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 649,
-						},
-						["Gust of Mists"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 6417,
-									["min"] = 2941,
-									["count"] = 3,
-									["amount"] = 15774,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 15774,
-						},
-						["Soothing Mist"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 4192,
-									["min"] = 4192,
-									["count"] = 1,
-									["amount"] = 4192,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 4192,
-						},
-						["Renewing Mist"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 2934,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 2934,
-								},
-								["Tick"] = {
-									["max"] = 1467,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 1675,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 4609,
-						},
-					},
-					["RageGained"] = {
-					},
-					["ActiveTime"] = 42.65,
-					["CCBreak"] = 0,
-					["EnergyGain"] = 0,
-					["WhoHealed"] = {
-						["Fistbeavers"] = {
-							["Details"] = {
-								["Enveloping Mist"] = {
-									["count"] = 50892,
-								},
-								["Surging Mist"] = {
-									["count"] = 16790,
-								},
-								["Gust of Mists"] = {
-									["count"] = 23218,
-								},
-								["Soothing Mist"] = {
-									["count"] = 10642,
-								},
-								["Renewing Mist"] = {
-									["count"] = 31255,
-								},
-							},
-							["amount"] = 132797,
-						},
-					},
-					["PartialResist"] = {
-						["Falling"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Vicious Chomp"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 9,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 9,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 31,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 31,
-						},
-						["Chomp (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Screech"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Chomp"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Cutlass Slash"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 57114,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-						["Lichenjaw Saurolisk"] = {
-							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 0,
-								},
-								["Blackout Kick"] = {
-									["count"] = 0,
-								},
-								["Tiger Palm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Fistbeavers"] = {
-							["Details"] = {
-								["Enveloping Mist"] = {
-									["count"] = 6.97,
-								},
-								["Surging Mist"] = {
-									["count"] = 0.43,
-								},
-								["Gust of Mists"] = {
-									["count"] = 4.32,
-								},
-								["Soothing Mist"] = {
-									["count"] = 1.47,
-								},
-								["Renewing Mist"] = {
-									["count"] = 29.46,
-								},
-							},
-							["amount"] = 42.65,
-						},
-						["Enthralled Sailor"] = {
-							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 0,
-								},
-								["Blackout Kick"] = {
-									["count"] = 0,
-								},
-								["Tiger Palm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Heals"] = {
-						["Enveloping Mist"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 29945,
-									["min"] = 6650,
-									["count"] = 2,
-									["amount"] = 36595,
-								},
-								["Tick"] = {
-									["max"] = 3492,
-									["min"] = 0,
 									["count"] = 8,
-									["amount"] = 14297,
 								},
 							},
-							["count"] = 10,
-							["amount"] = 50892,
+							["amount"] = 24,
 						},
-						["Surging Mist"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 16790,
-									["min"] = 16790,
-									["count"] = 1,
-									["amount"] = 16790,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 16790,
-						},
-						["Gust of Mists"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 6417,
-									["min"] = 0,
-									["count"] = 5,
-									["amount"] = 23218,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 23218,
-						},
-						["Soothing Mist"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 4192,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 10642,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 10642,
-						},
-						["Renewing Mist"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 2370,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 2370,
-								},
-								["Tick"] = {
-									["max"] = 1540,
-									["min"] = 0,
-									["count"] = 24,
-									["amount"] = 28885,
-								},
-							},
-							["count"] = 25,
-							["amount"] = 31255,
-						},
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
-					},
-					["HealedWho"] = {
-						["Fistbeavers"] = {
-							["Details"] = {
-								["Enveloping Mist"] = {
-									["count"] = 50892,
-								},
-								["Surging Mist"] = {
-									["count"] = 16790,
-								},
-								["Gust of Mists"] = {
-									["count"] = 23218,
-								},
-								["Soothing Mist"] = {
-									["count"] = 10642,
-								},
-								["Renewing Mist"] = {
-									["count"] = 31255,
-								},
-							},
-							["amount"] = 132797,
-						},
-					},
-					["Healing"] = 132797,
-					["RunicPowerGained"] = {
-					},
-					["ManaGainedFrom"] = {
-					},
-					["Attacks"] = {
-						["Rising Sun Kick"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Blackout Kick"] = {
-							["Details"] = {
-								["Hit (Blocked)"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Tiger Palm"] = {
-							["Details"] = {
-								["Hit (Blocked)"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["HealingTaken"] = 132797,
-					["DamagedWho"] = {
-						["Enthralled Sailor"] = {
-							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 0,
-								},
-								["Blackout Kick"] = {
-									["count"] = 0,
-								},
-								["Tiger Palm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Lichenjaw Saurolisk"] = {
-							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 0,
-								},
-								["Blackout Kick"] = {
-									["count"] = 0,
-								},
-								["Tiger Palm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["TimeDamage"] = 0,
-					["TimeDamaging"] = {
-						["Enthralled Sailor"] = {
-							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 0,
-								},
-								["Blackout Kick"] = {
-									["count"] = 0,
-								},
-								["Tiger Palm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Lichenjaw Saurolisk"] = {
-							["Details"] = {
-								["Rising Sun Kick"] = {
-									["count"] = 0,
-								},
-								["Blackout Kick"] = {
-									["count"] = 0,
-								},
-								["Tiger Palm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["Fight3"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 54317,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Tick"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 1,
-								},
-								["Hit"] = {
-									["count"] = 14,
-								},
-							},
-							["amount"] = 15,
-						},
-						["Nature"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 3,
-								},
-								["Tick"] = {
-									["count"] = 4,
-								},
-								["Miss"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 8,
-						},
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
-					["ManaGain"] = 0,
-					["ElementTaken"] = {
-						["Physical"] = 0,
-						["Melee"] = 43781,
-						["Nature"] = 10536,
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialAbsorb"] = {
-						["Falling"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 15,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 15,
-							["amount"] = 0,
-						},
-						["Chomp (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Deathstrike Venom (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-						["Chomp"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Bite"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-					},
-					["RageGain"] = 0,
-					["FAttacks"] = {
-					},
-					["PartialBlock"] = {
-					},
-					["ElementDone"] = {
-					},
-					["CCBroken"] = {
-					},
-					["ElementHitsDone"] = {
-					},
-					["Dispelled"] = 0,
-					["WhoDamaged"] = {
-						["Lichenjaw Saurolisk"] = {
-							["Details"] = {
-								["Chomp"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Chomp (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Venomscale Slitherer"] = {
-							["Details"] = {
-								["Deathstrike Venom (DoT)"] = {
-									["count"] = 656,
-								},
-								["Melee"] = {
-									["count"] = 34091,
-								},
-								["Bite"] = {
-									["count"] = 9880,
-								},
-							},
-							["amount"] = 44627,
-						},
-						["Environment"] = {
-							["Details"] = {
-								["Falling"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Coppertooth Prowler"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 9690,
-								},
-							},
-							["amount"] = 9690,
-						},
-						["Venomous Coilscale"] = {
-							["Details"] = {
-								["Bite"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Deathstrike Venom (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["FDamagedWho"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
-					["RageGained"] = {
-					},
-					["ActiveTime"] = 0,
-					["CCBreak"] = 0,
-					["EnergyGain"] = 0,
-					["WhoHealed"] = {
-					},
-					["PartialResist"] = {
-						["Falling"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 15,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 15,
-						},
-						["Chomp (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Deathstrike Venom (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 4,
-						},
-						["Chomp"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Bite"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 4,
-						},
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
-					},
-					["HealedWho"] = {
-					},
-					["Healing"] = 0,
-					["RunicPowerGained"] = {
-					},
-					["ManaGainedFrom"] = {
-					},
-					["Attacks"] = {
-					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
-					},
-					["TimeDamage"] = 0,
-					["TimeDamaging"] = {
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["DispelledWho"] = {
 					},
 				},
 			},
-			["Owner"] = false,
-			["LastEventTimes"] = {
-				30410.84, -- [1]
-				30411.356, -- [2]
-				30411.65, -- [3]
-				30412.327, -- [4]
-				30412.327, -- [5]
-				30413.058, -- [6]
-				30414.327, -- [7]
-				30414.892, -- [8]
-				30416.738, -- [9]
-				30418.573, -- [10]
-				30420.403, -- [11]
-				30422.246, -- [12]
-				30423.994, -- [13]
-				30425.94, -- [14]
-				30427.758, -- [15]
-				30429.606, -- [16]
-				30431.436, -- [17]
-				30433.29, -- [18]
-				30435.125, -- [19]
-				30436.979, -- [20]
-				30438.81, -- [21]
-				30440.34, -- [22]
-				470.182, -- [23]
-				30398.955, -- [24]
-				30399.046, -- [25]
-				30399.763, -- [26]
-				30400.312, -- [27]
-				30400.312, -- [28]
-				30400.591, -- [29]
-				30400.726, -- [30]
-				30401.401, -- [31]
-				30402.21, -- [32]
-				30402.325, -- [33]
-				30402.325, -- [34]
-				30402.325, -- [35]
-				30402.472, -- [36]
-				30403.537, -- [37]
-				30403.812, -- [38]
-				30404.293, -- [39]
-				30405.348, -- [40]
-				30405.561, -- [41]
-				30406.308, -- [42]
-				30406.857, -- [43]
-				30407.555, -- [44]
-				30408.318, -- [45]
-				30408.318, -- [46]
-				30408.427, -- [47]
-				30409.626, -- [48]
-				30409.626, -- [49]
-				30409.865, -- [50]
-			},
-			["NextEventNum"] = 24,
-			["LastDamageTime"] = 30412.327,
-			["LastEvents"] = {
-				"Hungry Dewscale Vicious Chomp Fistbeavers Hit -3001 (Physical)", -- [1]
-				"Fistbeavers Renewing Mist Fistbeavers Tick +1128", -- [2]
-				"Hungry Dewscale Melee Fistbeavers Hit -2796 (Physical)", -- [3]
-				"Fistbeavers Leg Sweep Hungry Dewscale Evade (Physical)", -- [4]
-				"Fistbeavers Leg Sweep Hungry Dewscale Evade (Physical)", -- [5]
-				"Fistbeavers Renewing Mist Fistbeavers Tick +1185", -- [6]
-				"Fistbeavers Gust of Mists Fistbeavers Hit +5182", -- [7]
-				"Fistbeavers Renewing Mist Fistbeavers Crit +2258", -- [8]
-				"Fistbeavers Renewing Mist Fistbeavers Tick +1128", -- [9]
-				"Fistbeavers Renewing Mist Fistbeavers Tick +1129", -- [10]
-				"Fistbeavers Renewing Mist Fistbeavers Tick +1128", -- [11]
-				"Fistbeavers Renewing Mist Fistbeavers Tick +1129", -- [12]
-				"Fistbeavers Renewing Mist Fistbeavers Tick +1129", -- [13]
-				"Fistbeavers Renewing Mist Fistbeavers Tick +1128", -- [14]
-				"Fistbeavers Renewing Mist Fistbeavers Tick +1128 (163 Overheal)", -- [15]
-				"Fistbeavers Renewing Mist Fistbeavers Tick +1129 (1129 Overheal)", -- [16]
-				"Fistbeavers Renewing Mist Fistbeavers Crit +2257 (2257 Overheal)", -- [17]
-				"Fistbeavers Renewing Mist Fistbeavers Tick +1129 (1129 Overheal)", -- [18]
-				"Fistbeavers Renewing Mist Fistbeavers Tick +1128 (1128 Overheal)", -- [19]
-				"Fistbeavers Renewing Mist Fistbeavers Crit +2258 (2258 Overheal)", -- [20]
-				"Fistbeavers Renewing Mist Fistbeavers Tick +1128 (1128 Overheal)", -- [21]
-				"Fistbeavers Renewing Mist Fistbeavers Tick +933 (933 Overheal)", -- [22]
-				"Environment Falling Fistbeavers Hit -75 (Physical)", -- [23]
-				"Fistbeavers Enveloping Mist Fistbeavers Tick +3325", -- [24]
-				"Fistbeavers Renewing Mist Fistbeavers Tick +1467", -- [25]
-				"Fistbeavers Enveloping Mist Fistbeavers Tick +3492 (2984 Overheal)", -- [26]
-				"Hungry Dewscale Melee Fistbeavers Hit -2808 (Physical)", -- [27]
-				"Hungry Dewscale Melee Fistbeavers Hit -2239 (Physical)", -- [28]
-				"Fistbeavers Enveloping Mist Fistbeavers Tick +3492", -- [29]
-				"Fistbeavers Renewing Mist Fistbeavers Tick +1540", -- [30]
-				"Fistbeavers Enveloping Mist Fistbeavers Tick +3491 (3476 Overheal)", -- [31]
-				"Fistbeavers Enveloping Mist Fistbeavers Tick +3491 (3491 Overheal)", -- [32]
-				"Hungry Dewscale Vicious Chomp Fistbeavers Hit -3001 (Physical)", -- [33]
-				"Fistbeavers Renewing Mist Fistbeavers Tick +1540", -- [34]
-				"Hungry Dewscale Melee Fistbeavers Hit -2177 (Physical)", -- [35]
-				"Fistbeavers Enveloping Mist Fistbeavers Tick +1256", -- [36]
-				"Hungry Dewscale Vicious Chomp Fistbeavers Hit -3001 (Physical)", -- [37]
-				"Fistbeavers Renewing Mist Fistbeavers Crit +2370", -- [38]
-				"Hungry Dewscale Melee Fistbeavers Hit -3193 (Physical)", -- [39]
-				"Fistbeavers Renewing Mist Fistbeavers Tick +1185", -- [40]
-				"Hungry Dewscale Melee Fistbeavers Hit -2173 (Physical)", -- [41]
-				"Hungry Dewscale Melee Fistbeavers Crit -4988 (Physical)", -- [42]
-				"Fistbeavers Renewing Mist Fistbeavers Tick +1185", -- [43]
-				"Hungry Dewscale Melee Fistbeavers Hit -2278 (Physical)", -- [44]
-				"Hungry Dewscale Melee Fistbeavers Hit -2450 (Physical)", -- [45]
-				"Fistbeavers Renewing Mist Fistbeavers Tick +1129", -- [46]
-				"Fistbeavers Gust of Mists Fistbeavers Hit +4936", -- [47]
-				"Hungry Dewscale Vicious Chomp Fistbeavers Hit -3001 (Physical)", -- [48]
-				"Hungry Dewscale Melee Fistbeavers Crit -6025 (Physical)", -- [49]
-				"Fistbeavers Renewing Mist Fistbeavers Tick +1129", -- [50]
-			},
-			["Name"] = "Fistbeavers",
-			["LastEventIncoming"] = {
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				false, -- [4]
-				false, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-				true, -- [9]
-				true, -- [10]
-				true, -- [11]
-				true, -- [12]
-				true, -- [13]
-				true, -- [14]
-				true, -- [15]
-				true, -- [16]
-				true, -- [17]
-				true, -- [18]
-				true, -- [19]
-				true, -- [20]
-				true, -- [21]
-				true, -- [22]
-				true, -- [23]
-				true, -- [24]
-				true, -- [25]
-				true, -- [26]
-				true, -- [27]
-				true, -- [28]
-				true, -- [29]
-				true, -- [30]
-				true, -- [31]
-				true, -- [32]
-				true, -- [33]
-				true, -- [34]
-				true, -- [35]
-				true, -- [36]
-				true, -- [37]
-				true, -- [38]
-				true, -- [39]
-				true, -- [40]
-				true, -- [41]
-				true, -- [42]
-				true, -- [43]
-				true, -- [44]
-				true, -- [45]
-				true, -- [46]
-				true, -- [47]
-				true, -- [48]
-				true, -- [49]
-				true, -- [50]
-			},
-			["TimeLast"] = {
-				["TimeHeal"] = 30418.289,
-				["OVERALL"] = 469.641,
-				["DamageTaken"] = 469.641,
-				["HealingTaken"] = 30418.289,
-				["HOT_Time"] = 30418.289,
-				["TimeDamage"] = 30412.269,
-				["Overhealing"] = 30401.281,
-				["ActiveTime"] = 30418.289,
-				["Healing"] = 30418.289,
-				["Damage"] = 30194.279,
-			},
-			["LastDamageTaken"] = 75,
-			["LastEventHealthMax"] = {
-				114300, -- [1]
-				114300, -- [2]
-				114300, -- [3]
-				114300, -- [4]
-				114300, -- [5]
-				114300, -- [6]
-				114300, -- [7]
-				114300, -- [8]
-				114300, -- [9]
-				114300, -- [10]
-				114300, -- [11]
-				114300, -- [12]
-				114300, -- [13]
-				114300, -- [14]
-				114300, -- [15]
-				114300, -- [16]
-				114300, -- [17]
-				114300, -- [18]
-				114300, -- [19]
-				114300, -- [20]
-				114300, -- [21]
-				114300, -- [22]
-				114300, -- [23]
-				114300, -- [24]
-				114300, -- [25]
-				114300, -- [26]
-				114300, -- [27]
-				114300, -- [28]
-				114300, -- [29]
-				114300, -- [30]
-				114300, -- [31]
-				114300, -- [32]
-				114300, -- [33]
-				114300, -- [34]
-				114300, -- [35]
-				114300, -- [36]
-				114300, -- [37]
-				114300, -- [38]
-				114300, -- [39]
-				114300, -- [40]
-				114300, -- [41]
-				114300, -- [42]
-				114300, -- [43]
-				114300, -- [44]
-				114300, -- [45]
-				114300, -- [46]
-				114300, -- [47]
-				114300, -- [48]
-				114300, -- [49]
-				114300, -- [50]
-			},
-			["LastActive"] = 469.641,
+			["LastHealTime"] = 30418.573,
+			["UnitLockout"] = 28800.283,
+			["LastAbility"] = 1301.078,
 		},
 	},
 	["FightNum"] = 16,

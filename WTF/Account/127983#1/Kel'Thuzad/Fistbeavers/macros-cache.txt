@@ -1,6 +1,6 @@
 VER 3 0100000000000003 "CC MO" "629534"
-#showtooltip
-/cast [@mouseover, exists] Paralysis;;
+#showtooltip Paralysis
+/cast [@mouseover, exists] Paralysis;
 /cast Paralysis;
 END
 VER 3 0100000000000004 "CC1" "629534"
@@ -54,7 +54,7 @@ VER 3 0100000000000002 "I MO" "608940"
 /cast Spear Hand Strike;
 END
 VER 3 010000000000000A "IncapPi" "629534"
-#showtooltip Incapacitate
+#showtooltip Paralysis
 /click ORLOpen Incap
 END
 VER 3 0100000000000009 "MonkDmg" "606542"
