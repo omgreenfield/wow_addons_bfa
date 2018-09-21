@@ -6,9 +6,10 @@ BigDebuffsDB = {
 	},
 	["profileKeys"] = {
 		["Twiddlederr - Kel'Thuzad"] = "Twiddlederr - Kel'Thuzad",
-		["Twiddlederr - Anvilmar"] = "Default",
 		["Suhdrude - Anvilmar"] = "Default",
 		["Fistbeavers - Kel'Thuzad"] = "Default",
+		["Twiddlederr - Anvilmar"] = "Default",
+		["Eyebrowse - Kel'Thuzad"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

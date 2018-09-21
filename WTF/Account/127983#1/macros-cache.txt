@@ -118,7 +118,7 @@ VER 3 0000000000000043 "targetP3" "INV_MISC_QUESTIONMARK"
 /target [target=party3]
 END
 VER 3 0000000000000042 "targetP4" "INV_MISC_QUESTIONMARK"
-/target [target=self]
+/target [target=party4]
 END
 VER 3 0000000000000044 "targetSelf" "INV_MISC_QUESTIONMARK"
 /target [target=player]

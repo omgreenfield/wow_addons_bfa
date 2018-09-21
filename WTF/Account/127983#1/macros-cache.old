@@ -108,6 +108,21 @@ VER 3 0000000000000003 "SwitchFnT" "1405818"
 /focus
 /targetlasttarget
 END
+VER 3 0000000000000040 "targetP1" "INV_MISC_QUESTIONMARK"
+/target [target=party1]
+END
+VER 3 0000000000000041 "targetP2" "INV_MISC_QUESTIONMARK"
+/target [target=party2]
+END
+VER 3 0000000000000043 "targetP3" "INV_MISC_QUESTIONMARK"
+/target [target=party3]
+END
+VER 3 0000000000000042 "targetP4" "INV_MISC_QUESTIONMARK"
+/target [target=self]
+END
+VER 3 0000000000000044 "targetSelf" "INV_MISC_QUESTIONMARK"
+/target [target=player]
+END
 VER 3 0000000000000036 "TravelPie" "413582"
 /click ORLOpen SpecMenu
 END

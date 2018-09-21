@@ -1,7 +1,7 @@
 Gladius: enabled
 IceHUD: disabled
 IceHUD_Options: disabled
-ATT: enabled
+ATT: disabled
 AdvancedInterfaceOptions: enabled
 AnnounceInterrupts: enabled
 AskMrRobot: enabled

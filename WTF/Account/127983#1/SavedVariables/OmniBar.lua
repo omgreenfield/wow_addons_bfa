@@ -2,9 +2,10 @@
 OmniBarDB = {
 	["profileKeys"] = {
 		["Twiddlederr - Kel'Thuzad"] = "Default",
-		["Twiddlederr - Anvilmar"] = "Default",
 		["Suhdrude - Anvilmar"] = "Default",
 		["Fistbeavers - Kel'Thuzad"] = "Default",
+		["Twiddlederr - Anvilmar"] = "Default",
+		["Eyebrowse - Kel'Thuzad"] = "Default",
 	},
 	["cooldowns"] = {
 	},
@@ -41,10 +42,10 @@ OmniBarDB = {
 					["name"] = "OmniBar",
 					["position"] = {
 						["relativeTo"] = "UIParent",
-						["point"] = "BOTTOM",
-						["relativePoint"] = "BOTTOM",
-						["yOfs"] = 214.500473022461,
-						["xOfs"] = 371.999816894531,
+						["point"] = "BOTTOMRIGHT",
+						["relativePoint"] = "BOTTOMRIGHT",
+						["yOfs"] = 205.50016784668,
+						["xOfs"] = -449.499969482422,
 						["frameStrata"] = "MEDIUM",
 					},
 					["highlightTarget"] = true,
