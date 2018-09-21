@@ -5172,8 +5172,10 @@ TellMeWhenDB = {
 							},
 						}, -- [5]
 						{
+							["ShowTimer"] = true,
 							["Type"] = "buff",
 							["Name"] = "Way of the Crane",
+							["ShowTimerText"] = true,
 							["Conditions"] = {
 								{
 									["Type"] = "PVPTALENTLEARNED",

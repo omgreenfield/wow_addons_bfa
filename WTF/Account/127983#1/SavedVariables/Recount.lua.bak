@@ -54,10 +54,10 @@ RecountDB = {
 					},
 				},
 			},
-			["MainWindowHeight"] = 209.999984741211,
+			["LastInstanceName"] = "Silvershard Mines",
 			["CurDataSet"] = "LastFightData",
 			["MainWindowWidth"] = 201.999923706055,
-			["LastInstanceName"] = "Silvershard Mines",
+			["MainWindowHeight"] = 209.999984741211,
 		},
 		["Suhdrude - Anvilmar"] = {
 			["MainWindow"] = {
@@ -82,7 +82,7 @@ RecountDB = {
 		["Fistbeavers - Kel'Thuzad"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -263.499450683594,
+					["y"] = -263.499389648438,
 					["x"] = 537.5009765625,
 					["w"] = 211,
 					["h"] = 206.999984741211,
@@ -100,7 +100,7 @@ RecountDB = {
 					},
 				},
 			},
-			["LastInstanceName"] = "The Tiger's Peak",
+			["LastInstanceName"] = "Nagrand Arena",
 			["CurDataSet"] = "OverallData",
 			["MainWindowWidth"] = 211,
 		},

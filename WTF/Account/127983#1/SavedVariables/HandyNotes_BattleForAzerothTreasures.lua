@@ -4,6 +4,7 @@ HandyNotes_BattleForAzerothTreasuresDB = {
 		["Twiddlederr - Kel'Thuzad"] = "Twiddlederr - Kel'Thuzad",
 		["Twiddlederr - Anvilmar"] = "Twiddlederr - Anvilmar",
 		["Suhdrude - Anvilmar"] = "Suhdrude - Anvilmar",
+		["Fistbeavers - Kel'Thuzad"] = "Fistbeavers - Kel'Thuzad",
 	},
 	["profiles"] = {
 		["Twiddlederr - Kel'Thuzad"] = {
@@ -11,6 +12,8 @@ HandyNotes_BattleForAzerothTreasuresDB = {
 		["Twiddlederr - Anvilmar"] = {
 		},
 		["Suhdrude - Anvilmar"] = {
+		},
+		["Fistbeavers - Kel'Thuzad"] = {
 		},
 	},
 }

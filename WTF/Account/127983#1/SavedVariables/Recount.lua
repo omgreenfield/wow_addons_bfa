@@ -44,8 +44,8 @@ RecountDB = {
 				},
 			},
 			["MainWindowMode"] = 2,
-			["LastInstanceName"] = "Silvershard Mines",
 			["MainWindowHeight"] = 209.999984741211,
+			["LastInstanceName"] = "Silvershard Mines",
 			["CurDataSet"] = "LastFightData",
 			["MainWindowWidth"] = 201.999923706055,
 			["Colors"] = {
@@ -100,7 +100,7 @@ RecountDB = {
 					},
 				},
 			},
-			["LastInstanceName"] = "The Tiger's Peak",
+			["LastInstanceName"] = "Nagrand Arena",
 			["CurDataSet"] = "OverallData",
 			["MainWindowWidth"] = 211,
 		},

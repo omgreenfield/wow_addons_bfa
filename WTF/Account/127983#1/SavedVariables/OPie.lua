@@ -103,8 +103,8 @@ OneRing_Config = {
 				{
 					"macro", -- [1]
 					"Disarm3", -- [2]
-					["show"] = "[@arena3,exists]",
 					["sliceToken"] = "ABuedpFdSb2",
+					["show"] = "[@arena3,exists]",
 				}, -- [3]
 				{
 					"macro", -- [1]

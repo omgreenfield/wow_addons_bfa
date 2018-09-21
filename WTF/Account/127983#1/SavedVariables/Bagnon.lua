@@ -42,9 +42,9 @@ Bagnon_Sets = {
 			},
 			["y"] = -1.99609375,
 			["x"] = -707.998779296875,
-			["showBags"] = true,
 			["borderColor"] = {
 			},
+			["showBags"] = true,
 			["brokerObject"] = "BagnonLauncher",
 			["itemScale"] = 1,
 			["scale"] = 1,

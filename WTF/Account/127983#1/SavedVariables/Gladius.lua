@@ -56,7 +56,6 @@ Gladius2DB = {
 			},
 		},
 		["Fistbeavers - Kel'Thuzad"] = {
-			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
 			["y"] = {
 				["arena1"] = 486.399968375099,
@@ -68,6 +67,7 @@ Gladius2DB = {
 				["dispell"] = true,
 				["trinket"] = true,
 			},
+			["auraVersion"] = 1,
 		},
 	},
 }

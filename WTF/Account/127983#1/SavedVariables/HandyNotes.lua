@@ -4,6 +4,7 @@ HandyNotesDB = {
 		["Twiddlederr - Kel'Thuzad"] = "Twiddlederr - Kel'Thuzad",
 		["Twiddlederr - Anvilmar"] = "Twiddlederr - Anvilmar",
 		["Suhdrude - Anvilmar"] = "Suhdrude - Anvilmar",
+		["Fistbeavers - Kel'Thuzad"] = "Fistbeavers - Kel'Thuzad",
 	},
 	["profiles"] = {
 		["Twiddlederr - Kel'Thuzad"] = {
@@ -11,6 +12,8 @@ HandyNotesDB = {
 		["Twiddlederr - Anvilmar"] = {
 		},
 		["Suhdrude - Anvilmar"] = {
+		},
+		["Fistbeavers - Kel'Thuzad"] = {
 		},
 	},
 }
@@ -19,6 +22,7 @@ HandyNotes_HandyNotesDB = {
 		["Twiddlederr - Kel'Thuzad"] = "Twiddlederr - Kel'Thuzad",
 		["Twiddlederr - Anvilmar"] = "Twiddlederr - Anvilmar",
 		["Suhdrude - Anvilmar"] = "Suhdrude - Anvilmar",
+		["Fistbeavers - Kel'Thuzad"] = "Fistbeavers - Kel'Thuzad",
 	},
 	["profiles"] = {
 		["Twiddlederr - Kel'Thuzad"] = {
@@ -26,6 +30,8 @@ HandyNotes_HandyNotesDB = {
 		["Twiddlederr - Anvilmar"] = {
 		},
 		["Suhdrude - Anvilmar"] = {
+		},
+		["Fistbeavers - Kel'Thuzad"] = {
 		},
 	},
 }

@@ -139,7 +139,7 @@ bind CTRL-X CLICK BT4Button67:LeftButton
 bind ALT-1 NONE
 bind ALT-2 NONE
 bind ALT-G CLICK BT4Button89:LeftButton
-bind CTRL-Z NONE
+bind CTRL-Z TOGGLEUI
 bind SHIFT-F6 NONE
 bind SHIFT-F7 NONE
 bind SHIFT-F8 NONE
