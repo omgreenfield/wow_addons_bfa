@@ -31,9 +31,9 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = -305.000061035156,
-			["DetailWindowX"] = 565.000061035156,
-			["MainWindowWidth"] = 247,
 			["MainWindowHeight"] = 225.999984741211,
+			["MainWindowWidth"] = 247,
+			["DetailWindowX"] = 565.000061035156,
 		},
 		["Suhdrude - Anvilmar"] = {
 			["MainWindow"] = {
@@ -65,6 +65,10 @@ RecountDB = {
 				},
 			},
 			["MainWindowMode"] = 2,
+			["MainWindowHeight"] = 207.000076293945,
+			["LastInstanceName"] = "Dalaran Sewers",
+			["CurDataSet"] = "OverallData",
+			["MainWindowWidth"] = 211,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -75,10 +79,6 @@ RecountDB = {
 					},
 				},
 			},
-			["LastInstanceName"] = "Dalaran Sewers",
-			["CurDataSet"] = "OverallData",
-			["MainWindowWidth"] = 211,
-			["MainWindowHeight"] = 207.000076293945,
 		},
 		["Twiddlederr - Anvilmar"] = {
 			["MainWindow"] = {
@@ -90,10 +90,6 @@ RecountDB = {
 				},
 			},
 			["MainWindowMode"] = 2,
-			["MainWindowHeight"] = 209.999984741211,
-			["LastInstanceName"] = "Silvershard Mines",
-			["CurDataSet"] = "LastFightData",
-			["MainWindowWidth"] = 201.999923706055,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -104,6 +100,10 @@ RecountDB = {
 					},
 				},
 			},
+			["MainWindowHeight"] = 209.999984741211,
+			["CurDataSet"] = "LastFightData",
+			["MainWindowWidth"] = 201.999923706055,
+			["LastInstanceName"] = "Silvershard Mines",
 		},
 		["Eyebrowse - Kel'Thuzad"] = {
 			["MainWindow"] = {
@@ -114,9 +114,7 @@ RecountDB = {
 					["h"] = 255.999984741211,
 				},
 			},
-			["DetailWindowX"] = 684.000915527344,
 			["MainWindowHeight"] = 256.000061035156,
-			["Font"] = "2002 Bold",
 			["SegmentBosses"] = true,
 			["Colors"] = {
 				["Bar"] = {
@@ -129,10 +127,12 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = -306.999847412109,
-			["MainWindowMode"] = 2,
-			["CurDataSet"] = "OverallData",
+			["DetailWindowX"] = 684.000915527344,
+			["LastInstanceName"] = "Uldir",
+			["CurDataSet"] = "LastFightData",
+			["MainWindowMode"] = 5,
+			["Font"] = "2002 Bold",
 			["MainWindowWidth"] = 221.999954223633,
-			["LastInstanceName"] = "Twin Peaks",
 		},
 	},
 }

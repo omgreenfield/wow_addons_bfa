@@ -12,63 +12,48 @@ TMWOptDB = {
 					[159641] = "g3t-00t",
 				},
 				[1538681711] = {
-					[163698] = "thundering essence",
+					[163761] = "ratwhisker luckydo",
 					[152508] = "winter's kiss",
-					[158186] = "distilled water",
+					[163730] = "dread gladiator's greatcloak",
 					[158320] = "revitalizing voodoo totem",
-					[161352] = "chestguard of dire winds",
-					[163691] = "burning essence",
+					[159336] = "mercenary miner's boots",
 					[163384] = "7th legionnaire's buckle",
-					[52078] = "chaos orb",
-					[39354] = "light parchment",
+					[163266] = "7th legionnaire's britches",
+					[153635] = "ultramarine pigment",
 					[152509] = "siren's pollen",
-					[159825] = "scroll of unlocking",
-					[160298] = "durable flux",
-					[158371] = "seabreeze",
+					[158187] = "ultramarine ink",
 					[152510] = "anchor weed",
 					[158188] = "crimson ink",
-					[163730] = "dread gladiator's greatcloak",
-					[153635] = "ultramarine pigment",
-					[152668] = "expulsom",
-					[163701] = "rumbling essence",
-					[160647] = "ring of the infinite void",
-					[159460] = "overseer's lost seal",
+					[143785] = "tome of the tranquil mind",
+					[154881] = "kul tiramisu",
 					[152511] = "sea stalk",
 					[158189] = "viridescent ink",
-					[138478] = "feast of ribs",
-					[158205] = "acacia powder",
-					[159336] = "mercenary miner's boots",
-					[141652] = "mana divining stone",
-					[162931] = "dread aspirant's leather bindings",
-					[141605] = "flight master's whistle",
-					[160324] = "grumbling sac",
-					[161718] = "dread gladiator's leather handguards",
-					[138479] = "potato stew feast",
-					[52325] = "volatile fire",
-					[163266] = "7th legionnaire's britches",
-					[3371] = "crystal vial",
 					[159331] = "pistoleer's spaulders",
-					[152505] = "riverbud",
-					[158075] = "heart of azeroth",
+					[158205] = "acacia powder",
+					[141652] = "mana divining stone",
+					[158371] = "seabreeze",
+					[160647] = "ring of the infinite void",
+					[162931] = "dread aspirant's leather bindings",
+					[3371] = "crystal vial",
 					[158364] = "high altitude turban",
-					[158187] = "ultramarine ink",
-					[137642] = "mark of honor",
+					[159825] = "scroll of unlocking",
+					[158186] = "distilled water",
+					[161352] = "chestguard of dire winds",
 					[163759] = "rabbit's charm",
-					[154881] = "kul tiramisu",
-					[6948] = "hearthstone",
+					[52078] = "chaos orb",
+					[39354] = "light parchment",
 					[152506] = "star moss",
-					[163761] = "ratwhisker luckydo",
+					[152505] = "riverbud",
 					[163827] = "quartermaster's coin",
-					[6256] = "fishing pole",
+					[159460] = "overseer's lost seal",
 					[39505] = "virtuoso inking set",
 					[163760] = "unluckydo",
 					[154885] = "mon'dazi",
-					[140192] = "dalaran hearthstone",
-					[162461] = "sanguicell",
+					[160324] = "grumbling sac",
 					[161902] = "dread gladiator's badge",
-					[143785] = "tome of the tranquil mind",
+					[52325] = "volatile fire",
 					[154169] = "shimmerscale diving helmet",
-					[162460] = "hydrocore",
+					[6256] = "fishing pole",
 				},
 				[1538625552] = {
 					[162865] = "dread aspirant's ring",
@@ -76,13 +61,13 @@ TMWOptDB = {
 				},
 				[1537585271] = {
 					[161199] = "silver-plated tankard",
-					[158806] = "hooked talon",
-					[158857] = "untainted wicker",
 					[155635] = "sinewy wing",
+					[158857] = "untainted wicker",
+					[158806] = "hooked talon",
 				},
 				[1538024442] = {
-					[154129] = "masterful tidal amethyst",
 					[152638] = "flask of the currents",
+					[154129] = "masterful tidal amethyst",
 					[152641] = "flask of the undertow",
 				},
 				[1538081629] = {
@@ -92,7 +77,7 @@ TMWOptDB = {
 				},
 				[1537570645] = {
 					[142571] = "fearless gladiator's dragonhide legguards",
-					[142575] = "fearless gladiator's dragonhide wristguards",
+					[159222] = "sagehold mantle",
 					[160935] = "backfiring blunderbuss",
 					[155173] = "darkwater gloves",
 					[141444] = "hel-cursed belt",
@@ -107,7 +92,7 @@ TMWOptDB = {
 					[142659] = "fearless gladiator's signet",
 					[142570] = "fearless gladiator's dragonhide helm",
 					[161984] = "tidespray linen bracers",
-					[159222] = "sagehold mantle",
+					[142575] = "fearless gladiator's dragonhide wristguards",
 					[161938] = "coarse leather vest",
 					[158870] = "wooly hair",
 				},
@@ -154,18 +139,31 @@ TMWOptDB = {
 					[153619] = "seven of squalls",
 					[153620] = "eight of squalls",
 				},
-				[1538465968] = {
-					[5512] = "healthstone",
+				[1538696652] = {
+					[153667] = "contract: tortollan seekers",
+					[152561] = "potion of replenishment",
+					[158923] = "mythic keystone",
+					[163082] = "coastal rejuvenation potion",
+					[152497] = "lightfoot potion",
+					[161736] = "dread gladiator's leather waistband",
+					[163691] = "burning essence",
+					[161740] = "dread gladiator's leather armwraps",
+					[152503] = "potion of concealment",
+					[152639] = "flask of endless fathoms",
+					[159127] = "darkmoon deck: tides",
+					[163698] = "thundering essence",
+					[141605] = "flight master's whistle",
+					[152495] = "coastal mana potion",
 				},
 				[1537842509] = {
 					[153714] = "insightful rubellite",
-					[161951] = "honorable combatant's leather waistguard",
+					[153611] = "six of the tides",
 					[154127] = "quick owlseye",
 					[159306] = "singe-blotched britches",
-					[153611] = "six of the tides",
 					[154126] = "deadly amberblaze",
-					[163863] = "bartered vrykul cowl",
 					[154128] = "versatile royal quartz",
+					[161951] = "honorable combatant's leather waistguard",
+					[163863] = "bartered vrykul cowl",
 				},
 				[1538681144] = {
 					[153636] = "crimson pigment",
@@ -186,15 +184,21 @@ TMWOptDB = {
 					[158228] = "gryphon rider's ring",
 					[155216] = "tideguard harpoon",
 				},
-				[1538441520] = {
-					[162114] = "crimson ink well",
+				[1537734947] = {
+					[45191] = "empty clam",
+					[45188] = "withered kelp",
+					[45190] = "driftwood",
+					[161944] = "coarse leather waistguard",
+					[45194] = "tangled fishing line",
+					[45189] = "torn sail",
+					[45195] = "empty rum bottle",
 				},
-				[1538448974] = {
-					[153647] = "tome of the quiet mind",
+				[1538678763] = {
+					[163251] = "7th legionnaire's vest",
 				},
-				[1538431858] = {
-					[154888] = "sailor's pie",
-					[161133] = "unsanctified storm silver ingots",
+				[1538084361] = {
+					[153709] = "kraken's eye of intellect",
+					[153708] = "kraken's eye of agility",
 				},
 				[1537926168] = {
 					[158201] = "war-scroll of intellect",
@@ -208,6 +212,41 @@ TMWOptDB = {
 				[1538108694] = {
 					[159616] = "gore-crusted butcher's block",
 				},
+				[1537758624] = {
+					[152632] = "surging alchemist stone",
+					[163224] = "battle potion of strength",
+					[118007] = "mecha-blast rocket",
+					[152812] = "monel-hardened hoofplates",
+					[152813] = "monel-hardened stirrups",
+					[163225] = "battle potion of stamina",
+					[164622] = "grayson's note",
+					[163223] = "battle potion of agility",
+					[160735] = "ashvane garb",
+					[155838] = "briarback quills",
+					[152637] = "siren's alchemist stone",
+					[161247] = "marshal's regalia",
+				},
+				[1538438229] = {
+					[154820] = "festerroot jerkin",
+					[160931] = "rough cooking spit",
+					[158866] = "oily blubber",
+					[158808] = "thick tendon",
+					[154817] = "festerroot breeches",
+					[158859] = "jagged fang",
+					[155601] = "pointy leg segment",
+					[158751] = "matted pelt",
+					[155593] = "keeled breastbone",
+					[158759] = "bloodgorged sac",
+					[159507] = "zem'lan warglaive",
+					[158788] = "sleek quill",
+					[158740] = "pearly incisor",
+					[154780] = "ruptured plate pauldrons",
+					[159186] = "foxhollow leggings",
+					[158861] = "tensile eye stalk",
+					[155609] = "springy eyeball",
+					[113509] = "conjured mana bun",
+					[158794] = "ivory tusk",
+				},
 				[1538440824] = {
 					[154122] = "tidal amethyst",
 					[154123] = "amberblaze",
@@ -215,117 +254,12 @@ TMWOptDB = {
 					[153706] = "kraken's eye",
 					[154120] = "owlseye",
 				},
-				[1537728545] = {
-					[153639] = "laribole staff of alacrity",
+				[1538025949] = {
+					[158928] = "bilgewater patented flamethrower",
 				},
-				[1538681469] = {
-					[154121] = "scarlet diamond",
-					[154899] = "thick paleo steak",
-					[74866] = "golden carp",
-					[133738] = "seerspine puffer",
-					[161694] = "dread gladiator's warglaive",
-					[159297] = "silver-trimmed breeches",
-					[72120] = "exotic leather",
-					[3827] = "mana potion",
-					[76097] = "master healing potion",
-					[160711] = "aromatic fish oil",
-					[152577] = "deep sea satin",
-					[152631] = "briny flesh",
-					[158378] = "embroidered deep sea satin",
-					[163347] = "7th legionnaire's long cloak",
-					[160712] = "powdered sugar",
-					[159300] = "kula's butchering wristwraps",
-					[161729] = "dread gladiator's leather mantle",
-					[159459] = "ritual binder's ring",
-					[136377] = "oversized bobber",
-					[115524] = "taladite crystal",
-					[85506] = "viseclaw meat",
-					[158714] = "swarm's edge",
-					[152576] = "tidespray linen",
-					[159628] = "kul tiran cannonball runner",
-					[127840] = "skaggldrynk",
-					[109153] = "greater draenic agility flask",
-					[78883] = "darkmoon firewater",
-					[74859] = "emperor salmon",
-					[163755] = "forge hammer",
-					[72988] = "windwool cloth",
-					[127834] = "ancient healing potion",
-					[114015] = "lavastone pale",
-					[154124] = "laribole",
-					[161713] = "dread gladiator's leather vest",
-					[160399] = "wild flour",
-					[152541] = "coarse leather",
-					[153700] = "golden beryl",
-					[163380] = "7th legionnaire's visage",
-					[74838] = "raw crab meat",
-					[154891] = "seasoned loins",
-					[153490] = "f.r.i.e.d.",
-					[139175] = "arcane lure",
-					[20815] = "jeweler's kit",
-					[153050] = "shimmerscale",
-					[144430] = "siege engine controller",
-					[109184] = "stealthman 54",
-					[153705] = "kyanite",
-					[141409] = "candrael's charm",
-					[162584] = "singed treasure map",
-					[71083] = "darkmoon game token",
-					[152543] = "sand shifter",
-					[153702] = "kubiline",
-					[130250] = "jeweled lockpick",
-					[160400] = "foosaka",
-					[152542] = "hardened tempest hide",
-					[152512] = "monelite ore",
-					[153701] = "rubellite",
-					[152544] = "slimy mackerel",
-					[72093] = "kyparite",
-					[154989] = "zandalari idol",
-					[153437] = "enchant gloves - kul tiran crafting",
-					[152579] = "storm silver ore",
-					[153051] = "mistscale",
-					[152513] = "platinum ore",
-					[152545] = "frenzied fangtooth",
-					[153704] = "viridium",
-					[163753] = "deepforged plating",
-					[86143] = "battle pet bandage",
-					[162515] = "midnight salmon",
-					[153703] = "solstone",
-					[154165] = "calcified bone",
-					[161468] = "gilded-wing shoulderguards",
-					[152546] = "lane snapper",
-					[118576] = "savage feast",
-					[163754] = "burstforce explosive",
-					[89112] = "mote of harmony",
-					[162897] = "dread aspirant's medallion",
-					[158910] = "charged ranishu antennae",
-					[158007] = "gravethorn striders",
-					[154990] = "etched drust bone",
-					[152547] = "great sea catfish",
-					[74864] = "reef octopus",
-					[45991] = "bone fishing pole",
-					[154897] = "stringy loins",
-					[74857] = "giant mantis shrimp",
-					[74865] = "krasarang paddlefish",
-					[154164] = "blood-stained bone",
-					[152548] = "tiragarde perch",
-					[160705] = "major's frothy coffee",
-					[87216] = "thermal anvil",
-					[6532] = "bright baubles",
-					[154898] = "meaty haunch",
-					[159959] = "nylon thread",
-					[156835] = "delicious honey",
-					[80403] = "angler's fishing spear",
-					[152549] = "redtail loach",
-					[118006] = "shieldtronic shield",
-					[160709] = "fresh potato",
-				},
-				[1538536504] = {
-					[159339] = "gorak tul's mantle",
-				},
-				[1538017760] = {
-					[114002] = "encoded message",
-					[161949] = "honorable combatant's leather gauntlets",
-					[153684] = "tidal amethyst loop",
-					[114016] = "lavastone jack",
+				[1538440549] = {
+					[161952] = "honorable combatant's leather armguards",
+					[152507] = "akunda's bite",
 				},
 				[1538259540] = {
 					[159126] = "darkmoon deck: squalls",
@@ -336,26 +270,27 @@ TMWOptDB = {
 					[164252] = "champion's strongbox",
 				},
 				[1538114531] = {
+					[161700] = "dread gladiator's pike",
 					[163482] = "broken compass",
 					[163488] = "weathered pamphlet",
-					[161700] = "dread gladiator's pike",
 				},
-				[1538422000] = {
-					[160440] = "unsanctified storm silver ore",
+				[1537488937] = {
+					[152640] = "flask of the vast horizon",
+					[162896] = "dread aspirant's band",
 				},
 				[1537736710] = {
 					[157942] = "deathsnap jerkin",
 					[158229] = "lucktail riding cloak",
-					[163655] = "7th legionnaire's shoulderpads",
 					[159902] = "vest of the champion",
+					[158254] = "freebooter grips",
 					[160084] = "freebooter shoes",
 					[158287] = "freebooter buckle",
-					[158219] = "petula's locket",
-					[158254] = "freebooter grips",
 					[158249] = "freebooter pants",
-					[160878] = "darkwater shoulderguards",
-					[155180] = "darkwater hood",
+					[158219] = "petula's locket",
 					[160098] = "freebooter bands",
+					[160878] = "darkwater shoulderguards",
+					[163655] = "7th legionnaire's shoulderpads",
+					[155180] = "darkwater hood",
 				},
 				[1537546553] = {
 					[124437] = "shal'dorei silk",
@@ -371,57 +306,126 @@ TMWOptDB = {
 				[1537760871] = {
 					[158773] = "wriggling goop",
 				},
-				[1537488937] = {
-					[152640] = "flask of the vast horizon",
-					[162896] = "dread aspirant's band",
+				[1538422000] = {
+					[160440] = "unsanctified storm silver ore",
 				},
 				[1537758398] = {
 					[153625] = "six of fathoms",
-					[153606] = "ace of blockades",
-					[153629] = "three of blockades",
 					[153613] = "eight of the tides",
+					[153629] = "three of blockades",
+					[153606] = "ace of blockades",
 				},
-				[1538440549] = {
-					[161952] = "honorable combatant's leather armguards",
-					[152507] = "akunda's bite",
+				[1538017760] = {
+					[114002] = "encoded message",
+					[161949] = "honorable combatant's leather gauntlets",
+					[153684] = "tidal amethyst loop",
+					[114016] = "lavastone jack",
 				},
-				[1538025949] = {
-					[158928] = "bilgewater patented flamethrower",
+				[1538536504] = {
+					[159339] = "gorak tul's mantle",
 				},
-				[1538438229] = {
-					[158788] = "sleek quill",
-					[160931] = "rough cooking spit",
-					[158866] = "oily blubber",
-					[158808] = "thick tendon",
-					[154817] = "festerroot breeches",
-					[158859] = "jagged fang",
-					[158751] = "matted pelt",
-					[155593] = "keeled breastbone",
-					[158759] = "bloodgorged sac",
-					[158794] = "ivory tusk",
-					[158740] = "pearly incisor",
-					[154780] = "ruptured plate pauldrons",
-					[159186] = "foxhollow leggings",
-					[154820] = "festerroot jerkin",
-					[113509] = "conjured mana bun",
-					[158861] = "tensile eye stalk",
-					[159507] = "zem'lan warglaive",
-					[155609] = "springy eyeball",
-					[155601] = "pointy leg segment",
+				[1538681469] = {
+					[154121] = "scarlet diamond",
+					[154899] = "thick paleo steak",
+					[74866] = "golden carp",
+					[133738] = "seerspine puffer",
+					[161694] = "dread gladiator's warglaive",
+					[159297] = "silver-trimmed breeches",
+					[72120] = "exotic leather",
+					[74859] = "emperor salmon",
+					[78883] = "darkmoon firewater",
+					[76097] = "master healing potion",
+					[160711] = "aromatic fish oil",
+					[162584] = "singed treasure map",
+					[45991] = "bone fishing pole",
+					[152631] = "briny flesh",
+					[154164] = "blood-stained bone",
+					[127834] = "ancient healing potion",
+					[163347] = "7th legionnaire's long cloak",
+					[159459] = "ritual binder's ring",
+					[114015] = "lavastone pale",
+					[154124] = "laribole",
+					[130250] = "jeweled lockpick",
+					[153050] = "shimmerscale",
+					[161713] = "dread gladiator's leather vest",
+					[163380] = "7th legionnaire's visage",
+					[153490] = "f.r.i.e.d.",
+					[136377] = "oversized bobber",
+					[115524] = "taladite crystal",
+					[159300] = "kula's butchering wristwraps",
+					[158714] = "swarm's edge",
+					[163754] = "burstforce explosive",
+					[74865] = "krasarang paddlefish",
+					[3827] = "mana potion",
+					[71083] = "darkmoon game token",
+					[158378] = "embroidered deep sea satin",
+					[160400] = "foosaka",
+					[160712] = "powdered sugar",
+					[160399] = "wild flour",
+					[152541] = "coarse leather",
+					[153700] = "golden beryl",
+					[85506] = "viseclaw meat",
+					[154891] = "seasoned loins",
+					[74838] = "raw crab meat",
+					[139175] = "arcane lure",
+					[20815] = "jeweler's kit",
+					[152542] = "hardened tempest hide",
+					[153701] = "rubellite",
+					[109184] = "stealthman 54",
+					[152579] = "storm silver ore",
+					[141409] = "candrael's charm",
+					[161729] = "dread gladiator's leather mantle",
+					[153051] = "mistscale",
+					[153702] = "kubiline",
+					[163753] = "deepforged plating",
+					[72988] = "windwool cloth",
+					[80403] = "angler's fishing spear",
+					[152512] = "monelite ore",
+					[159959] = "nylon thread",
+					[152544] = "slimy mackerel",
+					[153703] = "solstone",
+					[152576] = "tidespray linen",
+					[144430] = "siege engine controller",
+					[160705] = "major's frothy coffee",
+					[152513] = "platinum ore",
+					[152548] = "tiragarde perch",
+					[152545] = "frenzied fangtooth",
+					[153704] = "viridium",
+					[152577] = "deep sea satin",
+					[86143] = "battle pet bandage",
+					[162515] = "midnight salmon",
+					[152543] = "sand shifter",
+					[154165] = "calcified bone",
+					[152546] = "lane snapper",
+					[153705] = "kyanite",
+					[161468] = "gilded-wing shoulderguards",
+					[74864] = "reef octopus",
+					[162897] = "dread aspirant's medallion",
+					[154989] = "zandalari idol",
+					[109153] = "greater draenic agility flask",
+					[154990] = "etched drust bone",
+					[152547] = "great sea catfish",
+					[72093] = "kyparite",
+					[163755] = "forge hammer",
+					[158007] = "gravethorn striders",
+					[154897] = "stringy loins",
+					[74857] = "giant mantis shrimp",
+					[159628] = "kul tiran cannonball runner",
+					[158910] = "charged ranishu antennae",
+					[127840] = "skaggldrynk",
+					[89112] = "mote of harmony",
+					[87216] = "thermal anvil",
+					[6532] = "bright baubles",
+					[154898] = "meaty haunch",
+					[156835] = "delicious honey",
+					[118576] = "savage feast",
+					[152549] = "redtail loach",
+					[118006] = "shieldtronic shield",
+					[160709] = "fresh potato",
+					[153437] = "enchant gloves - kul tiran crafting",
 				},
-				[1537758624] = {
-					[152812] = "monel-hardened hoofplates",
-					[163224] = "battle potion of strength",
-					[118007] = "mecha-blast rocket",
-					[163223] = "battle potion of agility",
-					[152632] = "surging alchemist stone",
-					[152813] = "monel-hardened stirrups",
-					[163225] = "battle potion of stamina",
-					[152637] = "siren's alchemist stone",
-					[160735] = "ashvane garb",
-					[155838] = "briarback quills",
-					[164622] = "grayson's note",
-					[161247] = "marshal's regalia",
+				[1537728545] = {
+					[153639] = "laribole staff of alacrity",
 				},
 				[1538092513] = {
 					[140587] = "defiled augment rune",
@@ -430,78 +434,27 @@ TMWOptDB = {
 					[161619] = "dread gladiator's leather legguards",
 					[153711] = "quick golden beryl",
 				},
-				[1538084361] = {
-					[153709] = "kraken's eye of intellect",
-					[153708] = "kraken's eye of agility",
+				[1538431858] = {
+					[154888] = "sailor's pie",
+					[161133] = "unsanctified storm silver ingots",
 				},
-				[1538678763] = {
-					[163251] = "7th legionnaire's vest",
+				[1538448974] = {
+					[153647] = "tome of the quiet mind",
 				},
-				[1537734947] = {
-					[45191] = "empty clam",
-					[45188] = "withered kelp",
-					[45190] = "driftwood",
-					[161944] = "coarse leather waistguard",
-					[45194] = "tangled fishing line",
-					[45189] = "torn sail",
-					[45195] = "empty rum bottle",
+				[1538441520] = {
+					[162114] = "crimson ink well",
 				},
 				[1537582683] = {
 					[159877] = "dead pollen-covered bee",
 					[152590] = "wicker charm",
 				},
-				[1538681669] = {
-					[160106] = "hidden cannon",
-					[2459] = "swiftness potion",
-					[153661] = "contract: proudmoore admiralty",
-					[152550] = "sea mist potion",
-					[160059] = "amber tanning oil",
-					[152503] = "potion of concealment",
-					[138486] = "\"third wind\" potion",
-					[161728] = "dread gladiator's leather pants",
-					[154886] = "spiced snapper",
-					[158204] = "war-scroll of fortitude",
-					[138488] = "saltwater potion",
-					[58256] = "sparkling oasis water",
-					[138727] = "potion of defiance",
-					[159127] = "darkmoon deck: tides",
-					[152698] = "grimestone stew",
-					[161604] = "dread gladiator's leather tunic",
-					[153667] = "contract: tortollan seekers",
-					[159287] = "cloak of questionable intent",
-					[138729] = "potion of heightened senses",
-					[163383] = "7th legionnaire's boots",
-					[158161] = "spearfisher's band",
-					[152494] = "coastal healing potion",
-					[163036] = "polished pet charm",
-					[161671] = "dread gladiator's ring",
-					[142406] = "drums of the mountain",
-					[152639] = "flask of endless fathoms",
-					[158923] = "mythic keystone",
-					[160053] = "battle-scarred augment rune",
-					[161736] = "dread gladiator's leather waistband",
-					[152497] = "lightfoot potion",
-					[152561] = "potion of replenishment",
-					[156530] = "grapeshot grenade",
-					[161674] = "dread gladiator's medallion",
-					[160690] = "heptavium, staff of torturous knowledge",
-					[120257] = "drums of fury",
-					[141446] = "tome of the tranquil mind",
-					[158202] = "war-scroll of battle shout",
-					[138728] = "potion of trivial invisibility",
-					[154167] = "drums of the maelstrom",
-					[110560] = "garrison hearthstone",
-					[158009] = "gravethorn hood",
-					[161740] = "dread gladiator's leather armwraps",
-					[152495] = "coastal mana potion",
-					[154882] = "honey-glazed haunches",
-					[109076] = "goblin glider kit",
-					[159867] = "rockskip mineral water",
-					[159323] = "shoulders of the sanguine monstrosity",
-					[160105] = "trick vest",
-					[163082] = "coastal rejuvenation potion",
+				[1538465968] = {
+					[5512] = "healthstone",
 				},
 			},
+			["SpellCacheLength"] = 291872,
+			["XPac_ItemCache"] = 8,
+			["SpellCacheWoWVersion"] = "27980",
 			["SpellCacheInvalidRanges"] = {
 				3, -- [1]
 				[128992] = 4,
@@ -11754,247 +11707,247 @@ TMWOptDB = {
 				[183487] = 7,
 				[191679] = 3,
 				[10445] = 6,
-				[284308] = 42,
-				[280616] = 4,
-				[283256] = 55,
+				[272230] = 3,
+				[232614] = 3,
+				[284945] = 888,
 				[154817] = 5,
 				[267468] = 3,
-				[88033] = 5,
+				[120800] = 3,
 				[232639] = 3,
-				[59871] = 7,
-				[282826] = 235,
+				[282721] = 3,
+				[51682] = 8,
 				[106082] = 10,
 				[283063] = 24,
-				[282499] = 31,
+				[101305] = 4,
 				[79459] = 6,
 				[282450] = 30,
 				[282531] = 28,
 				[282122] = 9,
 				[175298] = 3,
 				[72634] = 15,
-				[281855] = 4,
-				[12152] = 6,
+				[282249] = 189,
+				[282115] = 6,
 				[281873] = 3,
 				[97891] = 12,
 				[67172] = 3,
 				[276864] = 4,
 				[281740] = 4,
 				[244929] = 6,
-				[93107] = 43,
-				[29422] = 3,
-				[281585] = 4,
+				[281630] = 12,
+				[281848] = 5,
+				[281745] = 35,
 				[114275] = 7,
-				[281548] = 13,
+				[36315] = 11,
 				[118371] = 12,
 				[281466] = 3,
-				[281498] = 3,
-				[8823] = 9,
-				[281461] = 3,
-				[253881] = 3,
+				[127917] = 4,
+				[72624] = 3,
+				[281522] = 6,
+				[77792] = 10,
 				[163013] = 3,
-				[281445] = 4,
+				[21228] = 102,
 				[25498] = 6,
-				[281453] = 3,
-				[281421] = 4,
+				[281312] = 6,
+				[281244] = 3,
 				[121763] = 10,
-				[281378] = 6,
-				[281040] = 3,
+				[281074] = 3,
+				[281045] = 16,
 				[81509] = 4,
 				[281405] = 8,
-				[281259] = 3,
+				[281015] = 10,
 				[120420] = 9,
-				[76704] = 7,
+				[44499] = 4,
 				[150727] = 4,
 				[187590] = 7,
 				[64307] = 12,
 				[261316] = 15,
 				[33588] = 29,
-				[281201] = 3,
+				[281267] = 19,
 				[175303] = 5,
-				[281173] = 5,
+				[47569] = 5,
 				[108133] = 8,
 				[77414] = 10,
-				[281153] = 8,
-				[281118] = 5,
+				[280331] = 12,
+				[45518] = 5,
 				[167112] = 3,
 				[279966] = 11,
 				[279528] = 3,
 				[48586] = 4,
 				[281109] = 5,
-				[279205] = 18,
+				[281099] = 4,
 				[47924] = 11,
-				[279158] = 14,
-				[69599] = 3,
-				[280894] = 32,
-				[280927] = 6,
-				[280793] = 7,
-				[280732] = 3,
-				[280722] = 3,
-				[280680] = 10,
+				[279321] = 11,
+				[102366] = 6,
+				[125831] = 5,
+				[279224] = 11,
+				[279018] = 3,
+				[80777] = 3,
+				[278555] = 4,
+				[278520] = 3,
 				[57140] = 3,
 				[116326] = 11,
-				[280467] = 6,
+				[44483] = 15,
 				[46435] = 4,
-				[83934] = 8,
-				[114653] = 5,
+				[135097] = 4,
+				[229302] = 5,
 				[63284] = 4,
-				[280367] = 5,
-				[126468] = 3,
+				[177910] = 8,
+				[111523] = 5,
 				[99943] = 4,
 				[69224] = 4,
 				[280393] = 5,
-				[279998] = 3,
-				[84860] = 3,
+				[215930] = 6,
+				[61758] = 18,
 				[38709] = 3,
-				[279938] = 3,
-				[279844] = 3,
+				[280103] = 3,
+				[115576] = 6,
 				[167116] = 3,
 				[42805] = 3,
-				[279794] = 3,
+				[76666] = 4,
 				[122471] = 3,
-				[279726] = 3,
+				[65148] = 6,
 				[5863] = 21,
 				[191692] = 4,
-				[279698] = 3,
+				[89300] = 17,
 				[60860] = 3,
-				[279638] = 3,
+				[102550] = 3,
 				[142542] = 4,
 				[26523] = 4,
 				[6759] = 8,
-				[28435] = 3,
+				[279518] = 4,
 				[279686] = 4,
-				[29176] = 6,
-				[80751] = 7,
+				[116700] = 4,
+				[279308] = 5,
 				[138447] = 3,
 				[175310] = 4,
 				[244940] = 4,
 				[150735] = 6,
-				[32793] = 9,
+				[76658] = 6,
 				[279489] = 3,
 				[276847] = 5,
 				[134352] = 7,
-				[212916] = 4,
+				[245683] = 3,
 				[279279] = 22,
 				[212174] = 4,
 				[37686] = 4,
-				[279049] = 3,
+				[276750] = 4,
 				[31965] = 4,
 				[40758] = 3,
-				[11375] = 14,
+				[115563] = 7,
 				[236750] = 5,
 				[43830] = 4,
-				[50614] = 8,
+				[276259] = 3,
 				[183504] = 3,
-				[278761] = 4,
+				[278921] = 5,
 				[115559] = 3,
 				[195792] = 6,
 				[167121] = 8,
 				[12750] = 16,
 				[275691] = 8,
 				[13262] = 16,
-				[275599] = 3,
-				[40371] = 9,
+				[278448] = 6,
+				[278623] = 5,
 				[119652] = 9,
 				[81515] = 3,
-				[119447] = 4,
+				[177440] = 7,
 				[14798] = 18,
-				[145076] = 3,
+				[55728] = 3,
 				[146643] = 6,
-				[3026] = 24,
+				[278436] = 3,
 				[274716] = 3,
-				[274699] = 3,
+				[99797] = 3,
 				[130666] = 11,
-				[208818] = 4,
+				[176051] = 6,
 				[53526] = 8,
-				[91663] = 5,
+				[274683] = 3,
 				[90969] = 5,
 				[31448] = 9,
-				[90963] = 5,
-				[274491] = 3,
+				[84287] = 10,
+				[274542] = 12,
 				[163028] = 7,
-				[102696] = 3,
-				[226651] = 13,
+				[274628] = 3,
+				[274316] = 5,
 				[208083] = 3,
 				[122475] = 4,
 				[45879] = 6,
 				[46903] = 3,
-				[65803] = 3,
+				[58794] = 14,
 				[99180] = 3,
 				[274126] = 13,
-				[37291] = 18,
+				[235158] = 9,
 				[52023] = 3,
-				[97103] = 4,
+				[228379] = 3,
 				[274157] = 5,
-				[53230] = 4,
-				[117578] = 8,
-				[103246] = 5,
+				[212912] = 3,
+				[23253] = 3,
+				[246015] = 4,
 				[88227] = 3,
 				[138455] = 10,
 				[87661] = 4,
-				[273368] = 9,
+				[107584] = 4,
 				[124524] = 4,
 				[220373] = 3,
 				[165516] = 4,
 				[261332] = 13,
-				[89015] = 7,
+				[117855] = 10,
 				[101997] = 5,
-				[140937] = 9,
-				[119788] = 8,
-				[68558] = 6,
-				[264349] = 5,
+				[273120] = 3,
+				[98640] = 6,
+				[273063] = 5,
+				[273020] = 5,
 				[272941] = 3,
 				[276443] = 97,
 				[268714] = 3,
 				[236758] = 3,
-				[198270] = 10,
-				[272690] = 3,
+				[276425] = 6,
+				[145028] = 5,
 				[249046] = 7,
 				[154841] = 5,
 				[128621] = 3,
-				[108505] = 11,
-				[127808] = 3,
+				[151472] = 3,
+				[157311] = 5,
 				[171225] = 6,
 				[272765] = 5,
 				[212184] = 6,
 				[108142] = 15,
-				[278360] = 4,
-				[272521] = 4,
+				[8700] = 12,
+				[42403] = 3,
 				[57144] = 139,
-				[276240] = 5,
-				[275963] = 3,
+				[276062] = 3,
+				[276269] = 7,
 				[175322] = 7,
-				[63469] = 3,
-				[275794] = 3,
-				[275870] = 4,
-				[275728] = 3,
-				[111419] = 26,
-				[110191] = 7,
+				[7934] = 4,
+				[113469] = 4,
+				[132729] = 5,
+				[272316] = 4,
+				[78510] = 5,
+				[276913] = 6,
 				[17309] = 6,
 				[71280] = 4,
 				[36665] = 6,
-				[196525] = 3,
-				[276913] = 6,
+				[7166] = 12,
+				[110191] = 7,
 				[275582] = 3,
-				[88892] = 7,
-				[272022] = 4,
-				[275575] = 6,
-				[275553] = 3,
+				[49567] = 8,
+				[275716] = 4,
+				[42455] = 4,
+				[80804] = 3,
 				[146653] = 9,
 				[22941] = 4,
-				[275399] = 11,
+				[271943] = 3,
 				[95856] = 14,
 				[163037] = 3,
-				[275232] = 9,
-				[275206] = 3,
-				[159661] = 5,
+				[271790] = 3,
+				[70453] = 3,
+				[24055] = 3,
 				[106096] = 12,
-				[274861] = 24,
+				[271576] = 3,
 				[220380] = 3,
-				[274943] = 6,
+				[271621] = 4,
 				[228572] = 3,
-				[274851] = 7,
+				[177749] = 7,
 				[236764] = 5,
-				[44013] = 4,
+				[176044] = 3,
 				[244956] = 3,
 				[274647] = 33,
 				[63289] = 4,
@@ -12004,431 +11957,431 @@ TMWOptDB = {
 				[69234] = 4,
 				[557] = 11,
 				[73330] = 55,
-				[271150] = 13,
-				[271121] = 17,
+				[271234] = 4,
+				[271239] = 3,
 				[191711] = 4,
 				[81522] = 3,
-				[270960] = 4,
-				[73688] = 4,
+				[274634] = 3,
+				[180139] = 3,
 				[240862] = 3,
 				[212191] = 4,
 				[270935] = 3,
 				[276923] = 5,
-				[274620] = 5,
-				[227058] = 3,
+				[18153] = 6,
+				[270723] = 33,
 				[99954] = 5,
 				[274611] = 5,
 				[813] = 9,
-				[274512] = 4,
-				[278351] = 5,
-				[274460] = 7,
+				[49556] = 3,
+				[253864] = 4,
+				[274522] = 5,
 				[257247] = 3,
 				[161346] = 3,
-				[120790] = 9,
-				[36243] = 3,
+				[241576] = 11,
+				[60709] = 33,
 				[62770] = 5,
 				[244960] = 3,
 				[62266] = 3,
 				[15823] = 24,
 				[128626] = 3,
-				[274169] = 6,
-				[274048] = 4,
+				[274183] = 4,
+				[47905] = 6,
 				[102003] = 19,
 				[104051] = 37,
 				[135785] = 5,
 				[93595] = 3,
-				[154303] = 8,
-				[225935] = 3,
-				[273989] = 3,
+				[109402] = 11,
+				[42720] = 3,
+				[274082] = 3,
 				[20894] = 42,
 				[85620] = 4,
-				[50156] = 5,
+				[100310] = 5,
 				[44859] = 3,
-				[273642] = 4,
+				[35362] = 5,
 				[154853] = 15,
 				[158949] = 4,
 				[261346] = 5,
-				[273875] = 12,
+				[40336] = 4,
 				[276932] = 3,
-				[273617] = 5,
+				[51003] = 3,
 				[179429] = 14,
 				[54075] = 11,
 				[77429] = 5,
-				[273578] = 9,
+				[71850] = 4,
 				[114292] = 5,
 				[232676] = 3,
-				[273571] = 3,
-				[273560] = 3,
-				[273528] = 4,
-				[273458] = 3,
+				[118928] = 8,
+				[127765] = 3,
+				[111706] = 9,
+				[273227] = 4,
 				[127835] = 5,
-				[39916] = 3,
-				[242211] = 4,
-				[273302] = 5,
+				[257957] = 4,
+				[58763] = 3,
+				[275954] = 6,
 				[204006] = 5,
 				[208102] = 7,
 				[135331] = 6,
 				[249061] = 5,
-				[273097] = 6,
+				[111377] = 17,
 				[272937] = 3,
-				[273039] = 3,
+				[22782] = 4,
 				[268723] = 18,
 				[42812] = 5,
-				[64491] = 5,
+				[96213] = 6,
 				[268653] = 11,
 				[124533] = 4,
 				[46908] = 9,
-				[268745] = 7,
+				[268696] = 6,
 				[22726] = 3,
 				[199912] = 3,
-				[272701] = 3,
+				[272625] = 6,
 				[47497] = 8,
-				[272638] = 7,
+				[268626] = 8,
 				[150762] = 3,
-				[97036] = 4,
-				[272599] = 10,
+				[12643] = 11,
+				[268376] = 9,
 				[195817] = 6,
-				[272593] = 5,
-				[75733] = 7,
+				[272383] = 3,
+				[151462] = 3,
 				[175338] = 3,
 				[61244] = 3,
-				[177679] = 12,
+				[267703] = 4,
 				[267765] = 3,
-				[272483] = 3,
+				[267606] = 4,
 				[261352] = 4,
-				[233379] = 4,
-				[272371] = 3,
+				[167845] = 5,
+				[272567] = 3,
 				[142572] = 4,
-				[177671] = 7,
-				[272321] = 3,
-				[76551] = 4,
+				[84744] = 6,
+				[272208] = 3,
+				[59780] = 4,
 				[224490] = 5,
 				[267436] = 4,
 				[232682] = 3,
 				[189953] = 5,
 				[87672] = 8,
-				[39300] = 9,
-				[272202] = 5,
-				[272158] = 6,
+				[82692] = 6,
+				[272306] = 4,
+				[267233] = 4,
 				[158957] = 25,
-				[272039] = 7,
+				[90881] = 4,
 				[99960] = 9,
-				[132280] = 6,
+				[148991] = 3,
 				[24258] = 3,
-				[132605] = 3,
+				[266780] = 134,
 				[132765] = 10,
 				[110200] = 7,
 				[28063] = 18,
 				[271993] = 8,
-				[266491] = 4,
+				[266295] = 5,
 				[7400] = 34,
 				[175342] = 3,
 				[271402] = 4,
 				[268759] = 3,
-				[16123] = 5,
+				[225185] = 6,
 				[271228] = 3,
 				[228589] = 3,
 				[8400] = 34,
 				[236781] = 7,
 				[71290] = 6,
 				[146672] = 4,
-				[271520] = 6,
-				[265782] = 8,
+				[271690] = 4,
+				[266301] = 3,
 				[257261] = 4,
 				[271211] = 9,
 				[116345] = 3,
 				[118393] = 4,
 				[142577] = 4,
-				[118738] = 10,
+				[139171] = 4,
 				[268763] = 4,
 				[19660] = 5,
 				[92920] = 9,
 				[130681] = 15,
 				[12496] = 8,
-				[265434] = 4,
+				[265994] = 5,
 				[52030] = 12,
 				[53054] = 4,
-				[265674] = 4,
+				[165351] = 3,
 				[220400] = 3,
 				[24768] = 8,
 				[114298] = 3,
 				[270820] = 3,
-				[11360] = 3,
+				[265242] = 3,
 				[56760] = 3,
 				[270965] = 3,
 				[124538] = 8,
 				[63294] = 7,
-				[136370] = 4,
-				[264995] = 4,
+				[270911] = 9,
+				[270687] = 4,
 				[7856] = 9,
-				[270216] = 3,
-				[270297] = 5,
-				[276961] = 3,
+				[265153] = 4,
+				[136621] = 5,
+				[270712] = 6,
 				[18848] = 25,
-				[38719] = 4,
+				[276961] = 3,
 				[79484] = 3,
 				[195827] = 4,
-				[270265] = 3,
+				[153051] = 3,
 				[264850] = 9,
 				[175348] = 10,
 				[122491] = 5,
-				[270259] = 5,
+				[99127] = 3,
 				[154869] = 4,
-				[264478] = 32,
+				[264716] = 14,
 				[144860] = 3,
 				[167157] = 6,
-				[82780] = 3,
-				[264200] = 4,
+				[51565] = 8,
+				[91728] = 3,
 				[26528] = 12,
 				[136886] = 3,
 				[264190] = 3,
-				[264011] = 8,
-				[32757] = 7,
-				[192414] = 7,
+				[185406] = 3,
+				[98257] = 4,
+				[159647] = 7,
 				[171254] = 4,
-				[278327] = 5,
-				[124880] = 20,
-				[263842] = 3,
+				[94161] = 38,
+				[249756] = 37,
+				[264416] = 4,
 				[220405] = 4,
 				[264391] = 5,
-				[179148] = 6,
+				[209714] = 3,
 				[232693] = 4,
-				[270134] = 3,
-				[21180] = 5,
+				[135071] = 4,
+				[31949] = 6,
 				[106109] = 3,
 				[263470] = 9,
 				[187639] = 6,
 				[165365] = 6,
-				[60787] = 4,
+				[263449] = 6,
 				[263483] = 4,
-				[81230] = 6,
-				[153471] = 6,
-				[93650] = 3,
+				[263722] = 3,
+				[226105] = 35,
+				[263375] = 3,
 				[216311] = 4,
-				[222756] = 4,
+				[68322] = 4,
 				[86768] = 3,
 				[97918] = 3,
 				[49984] = 3,
 				[204024] = 4,
-				[230063] = 3,
-				[105180] = 13,
-				[90064] = 3,
+				[224383] = 3,
+				[263298] = 3,
+				[180124] = 3,
 				[154874] = 7,
-				[226741] = 7,
+				[118050] = 8,
 				[195833] = 4,
 				[141170] = 12,
-				[103583] = 4,
+				[66766] = 3,
 				[251381] = 4,
 				[146683] = 5,
-				[11535] = 3,
+				[81088] = 7,
 				[276975] = 5,
 				[21689] = 18,
 				[126590] = 5,
 				[268784] = 4,
-				[73680] = 5,
+				[212890] = 3,
 				[208122] = 3,
 				[179451] = 19,
 				[37697] = 7,
-				[68516] = 8,
-				[143755] = 4,
+				[263190] = 3,
+				[113365] = 14,
 				[114303] = 24,
 				[116351] = 5,
 				[171260] = 64,
 				[142589] = 4,
-				[135226] = 7,
-				[67597] = 34,
+				[206256] = 3,
+				[113356] = 8,
 				[230829] = 10,
-				[259513] = 3,
+				[262999] = 3,
 				[48961] = 3,
 				[232699] = 3,
 				[25505] = 9,
-				[76493] = 4,
+				[37230] = 4,
 				[153008] = 8,
-				[84949] = 3,
+				[91079] = 3,
 				[276981] = 4,
 				[46454] = 3,
-				[263767] = 4,
-				[268643] = 5,
+				[80837] = 5,
+				[226718] = 12,
 				[268666] = 23,
 				[115411] = 3,
 				[268484] = 6,
-				[268396] = 7,
+				[31415] = 7,
 				[12892] = 4,
-				[141195] = 4,
+				[185865] = 3,
 				[123600] = 4,
-				[268476] = 7,
+				[4271] = 8,
 				[8657] = 15,
 				[208126] = 3,
-				[265297] = 7,
-				[262795] = 4,
+				[268096] = 26,
+				[58730] = 13,
 				[262773] = 3,
-				[268154] = 13,
-				[68302] = 5,
+				[262768] = 4,
+				[95170] = 15,
 				[167168] = 3,
 				[42818] = 4,
-				[267857] = 17,
+				[268246] = 6,
 				[146689] = 7,
-				[267810] = 3,
-				[82891] = 9,
+				[267601] = 3,
+				[267562] = 5,
 				[19648] = 10,
 				[97922] = 8,
 				[80632] = 4,
-				[75726] = 3,
-				[105160] = 11,
+				[249749] = 6,
+				[267673] = 3,
 				[106114] = 45,
 				[13521] = 3,
 				[154882] = 4,
 				[74442] = 3,
-				[267505] = 4,
-				[48485] = 5,
-				[267453] = 3,
-				[37222] = 4,
-				[267424] = 3,
+				[148555] = 5,
+				[264974] = 8,
+				[262688] = 3,
+				[107315] = 9,
+				[133086] = 3,
 				[150787] = 3,
 				[267130] = 3,
-				[30708] = 9,
+				[245652] = 3,
 				[261376] = 6,
-				[247636] = 5,
-				[267370] = 3,
-				[267200] = 3,
+				[262487] = 5,
+				[149046] = 4,
+				[267386] = 10,
 				[212226] = 3,
-				[229268] = 15,
+				[163734] = 4,
 				[77444] = 7,
 				[149320] = 8,
-				[267190] = 4,
-				[149354] = 4,
-				[267092] = 9,
+				[14181] = 8,
+				[262351] = 8,
+				[267182] = 3,
 				[87684] = 9,
-				[267061] = 3,
+				[149491] = 5,
 				[124547] = 3,
 				[23458] = 3,
-				[267016] = 6,
-				[266928] = 3,
+				[262252] = 3,
+				[151448] = 3,
 				[134406] = 8,
-				[149549] = 3,
+				[262271] = 5,
 				[26018] = 5,
-				[44393] = 13,
+				[117709] = 6,
 				[266068] = 4,
 				[55107] = 19,
 				[79493] = 8,
 				[266040] = 4,
-				[267294] = 5,
+				[18117] = 7,
 				[85637] = 6,
-				[120779] = 4,
-				[266262] = 3,
+				[208787] = 3,
+				[266305] = 3,
 				[266461] = 3,
 				[67782] = 9,
 				[158983] = 3,
-				[33543] = 3,
-				[40142] = 4,
-				[15972] = 4,
-				[265959] = 7,
+				[265795] = 4,
+				[182127] = 3,
+				[266226] = 3,
+				[141211] = 11,
 				[244997] = 3,
 				[108165] = 4,
 				[119570] = 3,
-				[265819] = 37,
+				[265483] = 4,
 				[81542] = 7,
 				[116357] = 5,
-				[265343] = 3,
-				[83921] = 5,
+				[70610] = 4,
+				[265899] = 9,
 				[146697] = 4,
-				[265710] = 10,
+				[78636] = 3,
 				[220423] = 3,
 				[47940] = 4,
 				[195848] = 36,
 				[49988] = 10,
 				[54698] = 3,
-				[265577] = 3,
+				[177780] = 4,
 				[212232] = 4,
 				[148843] = 3,
-				[15098] = 16,
-				[152454] = 7,
-				[25264] = 17,
+				[88011] = 12,
+				[50579] = 4,
+				[76474] = 4,
 				[265038] = 4,
-				[265180] = 7,
+				[144742] = 5,
 				[240904] = 3,
-				[55270] = 4,
+				[110538] = 6,
 				[249096] = 5,
 				[59882] = 10,
 				[158987] = 5,
-				[184222] = 4,
+				[264924] = 7,
 				[66229] = 5,
-				[272573] = 3,
-				[264958] = 10,
+				[265123] = 4,
+				[273341] = 3,
 				[71226] = 4,
-				[159633] = 6,
-				[264466] = 10,
+				[192400] = 8,
+				[48474] = 10,
 				[19875] = 3,
 				[261385] = 8,
-				[268819] = 6,
+				[119321] = 16,
 				[138509] = 3,
 				[5481] = 3,
 				[5609] = 19,
-				[124551] = 4,
-				[264911] = 6,
-				[7133] = 3,
+				[268819] = 6,
+				[264932] = 4,
+				[13159] = 7,
 				[144729] = 3,
-				[264787] = 7,
+				[149066] = 4,
 				[51013] = 3,
-				[274763] = 6,
+				[41306] = 4,
 				[264821] = 4,
-				[82901] = 3,
+				[44376] = 5,
 				[253195] = 3,
 				[121517] = 10,
 				[163086] = 3,
 				[58181] = 4,
-				[157604] = 5,
+				[264552] = 4,
 				[175374] = 3,
-				[263964] = 7,
+				[80719] = 3,
 				[182816] = 5,
 				[154895] = 4,
 				[70317] = 3,
-				[263834] = 6,
+				[84652] = 3,
 				[134416] = 18,
 				[102025] = 11,
 				[8914] = 7,
-				[101034] = 14,
-				[221069] = 7,
-				[92105] = 3,
+				[264370] = 7,
+				[155535] = 4,
+				[124872] = 7,
 				[264355] = 5,
 				[107177] = 10,
-				[7094] = 4,
+				[263550] = 6,
 				[138513] = 12,
-				[263505] = 5,
+				[264132] = 8,
 				[264092] = 4,
 				[249102] = 11,
 				[46918] = 6,
 				[158993] = 4,
 				[130697] = 3,
-				[1835] = 15,
-				[144560] = 3,
+				[129702] = 9,
+				[173385] = 5,
 				[71307] = 9,
 				[263883] = 4,
 				[150802] = 4,
-				[125911] = 3,
-				[143246] = 5,
+				[263437] = 3,
+				[6525] = 5,
 				[163090] = 3,
 				[78974] = 4,
-				[263516] = 11,
+				[263402] = 4,
 				[15058] = 3,
-				[64852] = 9,
-				[36180] = 14,
+				[49153] = 8,
+				[17408] = 26,
 				[63302] = 3,
 				[95883] = 17,
-				[17316] = 3,
-				[99979] = 5,
 				[277024] = 8,
+				[99979] = 5,
+				[17316] = 3,
 				[190378] = 15,
 				[212242] = 3,
 				[152944] = 5,
-				[140] = 32,
+				[30891] = 7,
 				[39751] = 7,
 				[228626] = 4,
-				[217789] = 8,
+				[255355] = 5,
 				[42823] = 4,
-				[167820] = 9,
+				[233354] = 10,
 				[155669] = 3,
-				[45420] = 5,
+				[37285] = 4,
 				[93836] = 8,
 				[128651] = 3,
 				[48967] = 5,
@@ -12436,42 +12389,42 @@ TMWOptDB = {
 				[49743] = 4,
 				[208148] = 6,
 				[53063] = 4,
-				[15168] = 60,
+				[72398] = 5,
 				[55656] = 3,
 				[56135] = 3,
-				[71624] = 9,
-				[106458] = 4,
-				[13447] = 12,
+				[208778] = 3,
+				[22248] = 19,
+				[103364] = 50,
 				[30116] = 4,
 				[122508] = 5,
 				[124556] = 8,
 				[31652] = 9,
-				[222612] = 3,
+				[28330] = 3,
 				[163095] = 5,
 				[199958] = 5,
 				[46418] = 6,
-				[63460] = 8,
+				[253832] = 15,
 				[36680] = 3,
 				[47850] = 4,
 				[110221] = 3,
+				[265586] = 7,
 				[261397] = 6,
-				[81550] = 6,
-				[78496] = 3,
-				[194433] = 3,
-				[263237] = 4,
-				[57681] = 4,
+				[18108] = 4,
+				[72671] = 6,
+				[61917] = 3,
+				[86687] = 4,
 				[161144] = 6,
 				[187672] = 5,
-				[27828] = 3,
+				[140896] = 16,
 				[261039] = 4,
 				[50633] = 3,
-				[84936] = 7,
-				[136833] = 4,
+				[157068] = 6,
+				[203309] = 4,
 				[212248] = 7,
-				[125892] = 3,
+				[229389] = 3,
 				[262891] = 3,
 				[41295] = 6,
-				[25833] = 6,
+				[136499] = 6,
 				[167194] = 3,
 				[118414] = 3,
 				[120462] = 6,
@@ -12479,21 +12432,21 @@ TMWOptDB = {
 				[62280] = 3,
 				[253208] = 3,
 				[110078] = 4,
-				[129781] = 4,
-				[74395] = 4,
+				[263015] = 6,
+				[38270] = 9,
 				[157235] = 5,
 				[262821] = 8,
 				[157983] = 14,
 				[20212] = 11,
 				[154908] = 5,
-				[70603] = 5,
-				[262846] = 7,
-				[157696] = 6,
+				[264211] = 4,
+				[282560] = 50,
+				[6591] = 4,
 				[85648] = 16,
 				[208155] = 4,
 				[146717] = 3,
-				[111255] = 5,
-				[43387] = 5,
+				[42995] = 19,
+				[129756] = 14,
 				[128655] = 3,
 				[97936] = 7,
 				[199964] = 3,
@@ -12501,28 +12454,28 @@ TMWOptDB = {
 				[175389] = 6,
 				[169920] = 8,
 				[108176] = 7,
-				[26790] = 7,
+				[72652] = 12,
 				[43341] = 7,
 				[163102] = 5,
 				[12333] = 21,
 				[29605] = 4,
-				[92101] = 3,
+				[216965] = 3,
 				[30629] = 3,
-				[484] = 14,
+				[264311] = 3,
 				[253212] = 4,
-				[29887] = 6,
-				[47592] = 4,
+				[260680] = 3,
+				[476] = 7,
 				[58699] = 30,
 				[69266] = 6,
-				[246484] = 3,
-				[268858] = 7,
+				[2783] = 35,
+				[232734] = 5,
 				[249117] = 4,
 				[77458] = 3,
 				[191775] = 3,
-				[77765] = 3,
-				[232734] = 5,
+				[155526] = 3,
+				[268858] = 7,
 				[23739] = 19,
-				[51700] = 14,
+				[263796] = 7,
 				[89746] = 4,
 				[11475] = 6,
 				[126609] = 3,
@@ -12530,72 +12483,72 @@ TMWOptDB = {
 				[129679] = 9,
 				[266320] = 132,
 				[277052] = 3,
-				[168170] = 8,
-				[149447] = 4,
+				[260542] = 4,
+				[45386] = 9,
 				[260396] = 4,
 				[110226] = 3,
 				[14035] = 18,
 				[261407] = 10,
 				[134435] = 11,
-				[262653] = 3,
+				[243648] = 3,
 				[167187] = 3,
-				[116366] = 5,
+				[32454] = 20,
 				[6731] = 10,
-				[130706] = 7,
+				[63851] = 10,
 				[64330] = 10,
-				[228641] = 4,
+				[130706] = 7,
 				[67220] = 9,
 				[175382] = 6,
 				[240929] = 5,
-				[262525] = 5,
+				[260107] = 4,
 				[160706] = 11,
 				[187683] = 10,
+				[101004] = 7,
 				[163108] = 3,
-				[40779] = 5,
 				[268866] = 6,
-				[160773] = 3,
+				[62840] = 5,
 				[67213] = 6,
-				[212938] = 4,
+				[259788] = 4,
 				[150821] = 3,
 				[161174] = 7,
 				[128659] = 17,
-				[262457] = 6,
-				[161285] = 3,
-				[29834] = 3,
+				[47945] = 13,
+				[28324] = 5,
+				[159687] = 7,
 				[52043] = 8,
-				[5681] = 16,
+				[78473] = 18,
 				[216356] = 3,
 				[111236] = 3,
-				[129832] = 4,
+				[161393] = 4,
 				[81557] = 4,
 				[271595] = 4,
-				[89041] = 8,
+				[262108] = 3,
 				[165402] = 3,
 				[61259] = 4,
-				[76754] = 3,
+				[93845] = 7,
 				[63307] = 5,
 				[92959] = 5,
-				[98375] = 3,
-				[118407] = 4,
+				[259905] = 4,
+				[125775] = 9,
 				[102037] = 6,
-				[262198] = 6,
+				[259883] = 3,
 				[36684] = 6,
+				[216130] = 4,
 				[77462] = 6,
-				[220454] = 9,
 				[2485] = 66,
 				[180174] = 3,
 				[56131] = 3,
 				[2677] = 14,
-				[12281] = 11,
+				[49122] = 3,
 				[122517] = 6,
 				[183592] = 4,
 				[75398] = 6,
 				[191784] = 4,
-				[88044] = 4,
+				[44876] = 5,
 				[259528] = 3,
 				[69621] = 3,
 				[3253] = 3,
-				[60825] = 4,
+				[121475] = 4,
 				[161454] = 3,
 				[161496] = 4,
 				[159018] = 3,
@@ -12603,134 +12556,134 @@ TMWOptDB = {
 				[58188] = 6,
 				[117386] = 7,
 				[138496] = 11,
-				[249725] = 15,
+				[9465] = 16,
 				[17058] = 6,
 				[67201] = 11,
 				[4021] = 21,
-				[204670] = 7,
+				[102337] = 5,
 				[167211] = 6,
-				[167807] = 3,
+				[200574] = 6,
 				[134392] = 4,
 				[11090] = 40,
-				[77439] = 3,
+				[259463] = 8,
 				[171903] = 3,
-				[69250] = 12,
-				[11132] = 64,
+				[121808] = 4,
+				[77242] = 20,
 				[116375] = 16,
-				[190046] = 3,
-				[132662] = 4,
-				[259183] = 4,
-				[62270] = 3,
+				[36154] = 13,
+				[46074] = 4,
+				[36672] = 5,
+				[259206] = 7,
 				[23463] = 3,
 				[23975] = 3,
 				[163117] = 4,
 				[127608] = 5,
 				[228585] = 3,
-				[11265] = 54,
-				[253227] = 4,
-				[108184] = 10,
+				[279314] = 6,
 				[110232] = 8,
+				[108184] = 10,
+				[253227] = 4,
 				[191789] = 6,
 				[228652] = 6,
 				[7274] = 3,
 				[118424] = 7,
 				[240940] = 5,
 				[7658] = 9,
-				[43839] = 24,
+				[53241] = 9,
 				[126616] = 3,
-				[229243] = 5,
+				[259237] = 4,
 				[97945] = 5,
-				[98240] = 5,
-				[268889] = 4,
+				[131007] = 4,
+				[67543] = 3,
 				[104089] = 41,
-				[37710] = 3,
-				[249133] = 15,
-				[68565] = 3,
-				[122815] = 8,
+				[21921] = 4,
+				[268889] = 4,
+				[75418] = 5,
+				[147325] = 3,
 				[195887] = 6,
+				[19616] = 7,
 				[138545] = 4,
-				[42830] = 5,
 				[121690] = 27,
 				[280831] = 5,
 				[150833] = 12,
-				[262009] = 7,
+				[20465] = 8,
 				[99216] = 5,
-				[113621] = 3,
-				[164160] = 3,
+				[145231] = 5,
+				[271266] = 6,
 				[51022] = 4,
-				[123858] = 4,
-				[272960] = 8,
-				[85626] = 8,
+				[30974] = 3,
+				[212959] = 7,
+				[165125] = 3,
 				[70264] = 10,
-				[54590] = 3,
-				[128958] = 4,
-				[129842] = 16,
+				[164629] = 3,
+				[96191] = 6,
+				[64294] = 12,
 				[205737] = 4,
 				[42301] = 7,
-				[175994] = 3,
+				[120766] = 3,
 				[124570] = 77,
 				[31391] = 3,
-				[69852] = 3,
+				[13904] = 3,
 				[65358] = 3,
 				[167219] = 6,
 				[17320] = 7,
 				[17832] = 11,
 				[245041] = 4,
-				[258719] = 3,
+				[6198] = 3,
 				[258757] = 11,
 				[39759] = 23,
-				[257952] = 4,
-				[37373] = 5,
-				[122876] = 5,
-				[35133] = 6,
+				[135301] = 5,
+				[74744] = 5,
+				[56738] = 7,
+				[56828] = 9,
 				[274995] = 4,
 				[22952] = 13,
 				[48955] = 5,
-				[127] = 3,
-				[46395] = 4,
-				[185307] = 4,
+				[47419] = 4,
+				[7385] = 4,
+				[272446] = 3,
 				[138550] = 4,
-				[249718] = 3,
-				[165251] = 6,
+				[216951] = 6,
+				[87666] = 5,
 				[268901] = 3,
 				[27560] = 4,
-				[82] = 14,
-				[274483] = 7,
+				[165316] = 4,
+				[165596] = 4,
 				[134455] = 11,
-				[6328] = 15,
+				[123865] = 8,
 				[120476] = 11,
 				[147436] = 3,
-				[82905] = 8,
+				[109560] = 3,
 				[93853] = 4,
 				[95901] = 10,
 				[163127] = 3,
-				[89713] = 4,
-				[12180] = 7,
+				[92151] = 3,
+				[15803] = 19,
 				[258343] = 3,
 				[80888] = 7,
-				[204662] = 4,
+				[171895] = 4,
 				[277097] = 8,
-				[82541] = 4,
+				[218293] = 4,
 				[228662] = 6,
-				[119798] = 13,
+				[258334] = 3,
 				[29342] = 6,
-				[221097] = 3,
+				[94200] = 3,
 				[89758] = 8,
 				[268907] = 3,
-				[149428] = 11,
+				[258243] = 11,
 				[191800] = 10,
 				[48976] = 7,
-				[78385] = 4,
-				[276308] = 4,
+				[137134] = 6,
+				[280249] = 14,
 				[175417] = 3,
 				[65334] = 13,
-				[243051] = 3,
+				[49465] = 7,
 				[220472] = 3,
 				[79519] = 8,
 				[114334] = 5,
 				[167226] = 4,
-				[98920] = 8,
-				[63935] = 4,
+				[1610] = 35,
+				[107348] = 3,
 				[61264] = 3,
 				[216377] = 5,
 				[154939] = 8,
@@ -12741,374 +12694,374 @@ TMWOptDB = {
 				[39379] = 3,
 				[65021] = 3,
 				[268913] = 4,
-				[83963] = 7,
+				[165588] = 6,
 				[159036] = 7,
-				[46696] = 6,
+				[3828] = 93,
 				[83616] = 6,
-				[261289] = 11,
+				[232762] = 5,
 				[21929] = 7,
-				[221101] = 4,
-				[32669] = 5,
-				[261190] = 3,
+				[203983] = 10,
+				[137146] = 3,
+				[89707] = 3,
 				[260913] = 5,
 				[97952] = 3,
-				[107487] = 6,
-				[95848] = 5,
+				[22753] = 3,
+				[262129] = 3,
 				[261151] = 6,
 				[48439] = 13,
 				[228549] = 5,
-				[260993] = 4,
+				[76396] = 6,
 				[260901] = 6,
 				[111611] = 5,
-				[21403] = 22,
-				[113713] = 6,
-				[163135] = 3,
+				[280221] = 27,
+				[120115] = 8,
+				[195902] = 42,
 				[122528] = 4,
 				[268919] = 4,
 				[253244] = 4,
 				[257340] = 5,
-				[195902] = 42,
-				[65502] = 8,
+				[163135] = 3,
+				[16376] = 4,
 				[204094] = 6,
 				[240957] = 6,
-				[44512] = 5,
+				[50485] = 8,
 				[183615] = 3,
 				[110241] = 13,
-				[27642] = 4,
+				[279182] = 3,
 				[136056] = 6,
-				[245054] = 4,
+				[35126] = 3,
 				[236862] = 13,
 				[87714] = 5,
-				[44882] = 53,
+				[245054] = 4,
 				[249150] = 5,
 				[93858] = 3,
 				[16129] = 7,
-				[61748] = 7,
-				[54785] = 5,
+				[87342] = 5,
+				[115681] = 35,
 				[102050] = 4,
 				[142658] = 3,
-				[163698] = 4,
+				[81851] = 33,
 				[36149] = 3,
 				[67176] = 16,
-				[54238] = 3,
+				[75707] = 11,
 				[14293] = 4,
 				[134467] = 3,
 				[165060] = 4,
 				[228568] = 3,
-				[40244] = 4,
-				[270044] = 14,
-				[16341] = 4,
+				[70625] = 3,
+				[67515] = 3,
+				[229671] = 6,
 				[16085] = 9,
-				[130722] = 6,
+				[16341] = 4,
 				[16810] = 17,
-				[50142] = 11,
-				[60891] = 6,
+				[86964] = 8,
+				[165104] = 6,
 				[257095] = 3,
 				[108195] = 4,
 				[256554] = 6,
 				[191811] = 9,
 				[228674] = 9,
 				[7809] = 3,
-				[48643] = 5,
+				[153531] = 13,
 				[404] = 4,
-				[460] = 7,
+				[256853] = 6,
 				[150853] = 6,
-				[97253] = 3,
-				[7745] = 5,
+				[86623] = 3,
+				[56114] = 5,
 				[97956] = 3,
 				[100004] = 3,
 				[51027] = 20,
 				[5991] = 9,
 				[212292] = 3,
 				[75429] = 5,
-				[7740] = 3,
+				[59185] = 4,
 				[159046] = 7,
-				[113637] = 4,
+				[83972] = 3,
 				[58195] = 8,
 				[204101] = 13,
 				[60243] = 15,
-				[260729] = 4,
-				[281434] = 5,
-				[6631] = 3,
+				[78756] = 14,
+				[168356] = 3,
+				[200703] = 12,
 				[260112] = 6,
 				[163143] = 4,
 				[67238] = 9,
 				[69286] = 4,
 				[256529] = 3,
-				[51204] = 6,
+				[190463] = 3,
 				[249157] = 9,
-				[168521] = 5,
-				[208749] = 6,
-				[39569] = 5,
+				[6311] = 16,
+				[87993] = 3,
+				[27395] = 23,
 				[260623] = 3,
-				[260026] = 5,
+				[260435] = 5,
 				[4263] = 5,
 				[122533] = 7,
 				[268939] = 3,
-				[6968] = 11,
+				[24059] = 3,
 				[128677] = 4,
-				[167941] = 3,
+				[26009] = 4,
 				[50004] = 5,
 				[138570] = 3,
-				[24269] = 6,
+				[145348] = 3,
 				[179529] = 3,
-				[872] = 11,
+				[16538] = 11,
 				[77479] = 6,
 				[260139] = 4,
 				[169220] = 3,
-				[129625] = 10,
-				[95206] = 3,
-				[88076] = 3,
+				[247751] = 9,
+				[82525] = 3,
+				[86023] = 4,
 				[61231] = 10,
-				[169500] = 3,
-				[16382] = 8,
+				[62454] = 3,
+				[169433] = 7,
 				[257352] = 7,
 				[261448] = 19,
-				[4331] = 5,
 				[171339] = 3,
-				[63790] = 5,
-				[259680] = 4,
+				[4331] = 5,
+				[214185] = 5,
+				[82731] = 4,
 				[37717] = 4,
-				[192363] = 7,
-				[42486] = 4,
-				[218282] = 3,
+				[4988] = 13,
+				[106471] = 5,
+				[130714] = 7,
 				[200011] = 3,
 				[277138] = 3,
 				[42837] = 20,
 				[22443] = 15,
-				[169511] = 4,
+				[170421] = 4,
 				[93864] = 64,
 				[255344] = 5,
+				[26264] = 12,
 				[232779] = 3,
-				[268948] = 3,
-				[73306] = 3,
+				[169669] = 18,
 				[240971] = 5,
-				[125927] = 3,
+				[119383] = 3,
 				[183629] = 4,
-				[116392] = 3,
+				[73741] = 6,
 				[79529] = 7,
 				[81577] = 9,
-				[29099] = 7,
+				[116392] = 3,
 				[138575] = 5,
 				[30123] = 4,
-				[270031] = 6,
-				[74387] = 4,
+				[216937] = 5,
+				[8043] = 20,
 				[277143] = 3,
 				[95913] = 8,
 				[259475] = 3,
-				[70635] = 4,
+				[65015] = 4,
 				[34646] = 4,
 				[142672] = 4,
 				[91734] = 3,
-				[229224] = 3,
+				[114614] = 4,
 				[169726] = 3,
-				[31382] = 4,
-				[109143] = 5,
+				[255719] = 4,
+				[58669] = 3,
 				[83626] = 13,
-				[45356] = 10,
-				[159057] = 4,
+				[27799] = 7,
+				[77398] = 4,
 				[212303] = 4,
 				[150865] = 4,
 				[187728] = 3,
-				[224591] = 5,
+				[159057] = 4,
 				[163153] = 7,
 				[232783] = 15,
 				[206244] = 7,
 				[13014] = 8,
-				[100278] = 31,
+				[67511] = 3,
 				[268957] = 6,
 				[154962] = 4,
 				[176087] = 4,
-				[35832] = 7,
+				[167173] = 5,
 				[255300] = 3,
-				[259605] = 4,
-				[259599] = 3,
+				[70228] = 4,
+				[116305] = 12,
 				[170626] = 7,
-				[128682] = 15,
+				[208027] = 4,
 				[63318] = 4,
-				[257360] = 3,
+				[128682] = 15,
 				[65366] = 4,
 				[140643] = 16,
 				[102059] = 4,
 				[208210] = 3,
 				[18348] = 3,
 				[108203] = 3,
-				[196455] = 3,
+				[261989] = 4,
 				[68179] = 3,
-				[128591] = 3,
-				[270025] = 3,
+				[205904] = 5,
+				[249701] = 10,
 				[118443] = 5,
 				[142677] = 4,
-				[49144] = 8,
-				[191828] = 6,
+				[204115] = 4,
+				[5698] = 5,
 				[23468] = 10,
-				[23980] = 11,
+				[191828] = 6,
 				[121423] = 17,
-				[259418] = 30,
-				[259053] = 7,
+				[24830] = 3,
+				[7234] = 5,
 				[198609] = 4,
 				[254874] = 3,
 				[150870] = 5,
 				[55127] = 15,
-				[210068] = 5,
-				[212837] = 4,
+				[123887] = 3,
+				[61403] = 4,
 				[116396] = 5,
-				[245783] = 3,
-				[82930] = 4,
+				[14207] = 40,
+				[259399] = 7,
 				[85583] = 6,
-				[165016] = 4,
+				[219098] = 4,
 				[187734] = 5,
 				[64343] = 4,
-				[135202] = 4,
+				[4134] = 7,
 				[84975] = 3,
 				[138584] = 3,
-				[20990] = 17,
-				[89108] = 7,
-				[259196] = 6,
+				[145220] = 6,
+				[92750] = 4,
+				[122445] = 3,
 				[38744] = 6,
 				[257365] = 3,
-				[254696] = 4,
-				[63313] = 4,
+				[172589] = 5,
+				[71245] = 3,
 				[172822] = 4,
-				[259110] = 6,
+				[91822] = 6,
 				[212311] = 9,
 				[268971] = 3,
 				[126637] = 3,
 				[173598] = 6,
 				[163161] = 3,
-				[34299] = 3,
+				[259118] = 4,
 				[50471] = 5,
 				[142682] = 8,
-				[183255] = 7,
+				[177294] = 3,
 				[254313] = 3,
-				[172897] = 5,
+				[154935] = 3,
 				[70219] = 5,
 				[114350] = 5,
-				[50683] = 5,
-				[110515] = 6,
-				[88051] = 3,
-				[173429] = 5,
-				[258841] = 3,
-				[75764] = 6,
-				[209159] = 3,
+				[129008] = 5,
+				[19438] = 10,
+				[243190] = 6,
+				[254282] = 3,
+				[254270] = 4,
+				[215076] = 3,
+				[258431] = 8,
 				[228697] = 3,
 				[67248] = 3,
 				[69296] = 3,
-				[258789] = 5,
-				[87031] = 3,
-				[160904] = 8,
+				[64508] = 16,
+				[83526] = 14,
+				[189574] = 18,
 				[154972] = 3,
 				[147501] = 3,
-				[258691] = 6,
-				[173880] = 5,
+				[24072] = 11,
+				[43865] = 4,
 				[138589] = 12,
 				[87728] = 4,
-				[73287] = 3,
+				[171356] = 3,
 				[183644] = 5,
-				[202722] = 4,
+				[49166] = 4,
+				[44325] = 3,
+				[56282] = 21,
 				[25005] = 14,
-				[225120] = 3,
-				[200028] = 3,
 				[25517] = 55,
+				[100933] = 6,
 				[106160] = 5,
-				[26541] = 5,
 				[268981] = 3,
 				[110256] = 3,
 				[159070] = 9,
-				[258468] = 7,
-				[61273] = 7,
+				[254100] = 4,
+				[42788] = 4,
 				[29613] = 5,
 				[120496] = 6,
-				[122544] = 3,
-				[59900] = 6,
+				[61273] = 7,
+				[95810] = 6,
 				[203899] = 9,
 				[257372] = 4,
 				[99318] = 3,
 				[68166] = 6,
 				[277176] = 3,
 				[35674] = 5,
-				[9058] = 19,
+				[258440] = 12,
 				[249181] = 13,
 				[187743] = 6,
 				[66119] = 3,
 				[228702] = 9,
 				[261469] = 5,
 				[118449] = 5,
-				[25609] = 31,
-				[24467] = 31,
-				[23955] = 3,
-				[117785] = 4,
+				[86777] = 3,
+				[36133] = 5,
+				[86594] = 3,
+				[123430] = 4,
 				[95922] = 26,
 				[130737] = 5,
 				[167265] = 3,
 				[204128] = 4,
+				[159727] = 6,
 				[73395] = 22,
-				[53082] = 4,
+				[77852] = 24,
+				[85683] = 3,
 				[56154] = 3,
-				[236896] = 5,
-				[224608] = 3,
 				[81587] = 21,
 				[116402] = 4,
-				[85683] = 3,
-				[230952] = 5,
+				[236896] = 5,
+				[76356] = 3,
 				[212321] = 5,
-				[258238] = 3,
+				[174780] = 5,
 				[85669] = 10,
 				[225260] = 3,
-				[11393] = 3,
+				[23175] = 4,
 				[1051] = 13,
 				[102067] = 41,
 				[69300] = 3,
 				[72698] = 3,
 				[75444] = 4,
-				[155487] = 4,
+				[31725] = 4,
 				[257377] = 6,
 				[46609] = 11,
 				[80925] = 5,
 				[7589] = 32,
 				[6437] = 23,
 				[196594] = 7,
-				[91763] = 3,
-				[134264] = 16,
+				[48930] = 24,
+				[136682] = 3,
 				[47963] = 3,
 				[48987] = 20,
-				[204781] = 9,
+				[188467] = 3,
 				[125853] = 8,
 				[130558] = 5,
 				[70398] = 3,
 				[32839] = 5,
-				[136656] = 11,
-				[99512] = 4,
+				[75777] = 4,
+				[172085] = 4,
 				[114356] = 10,
 				[49334] = 8,
-				[169717] = 3,
-				[115260] = 3,
+				[157691] = 4,
+				[247791] = 4,
 				[89781] = 5,
-				[38689] = 19,
-				[91429] = 34,
-				[278194] = 3,
-				[86940] = 9,
+				[105472] = 7,
+				[116284] = 7,
+				[171868] = 3,
+				[53779] = 8,
 				[100021] = 3,
-				[150888] = 6,
+				[35860] = 5,
 				[142696] = 3,
-				[269001] = 3,
-				[37724] = 3,
-				[110139] = 3,
-				[55583] = 9,
+				[108213] = 3,
+				[150888] = 6,
+				[195696] = 3,
+				[209319] = 4,
 				[9673] = 39,
-				[257208] = 3,
-				[138352] = 6,
-				[167771] = 3,
+				[67843] = 21,
+				[177017] = 15,
+				[67504] = 4,
 				[164400] = 3,
-				[192346] = 3,
+				[159579] = 5,
 				[43295] = 3,
 				[159081] = 4,
-				[174518] = 5,
+				[223220] = 9,
 				[232807] = 5,
-				[224356] = 4,
+				[147451] = 3,
 				[71351] = 8,
 				[146794] = 3,
-				[188406] = 3,
+				[149566] = 3,
 				[222257] = 5,
 				[224616] = 15,
 				[228712] = 12,
@@ -13118,24 +13071,24 @@ TMWOptDB = {
 				[256436] = 4,
 				[58372] = 47,
 				[63324] = 13,
-				[252832] = 6,
+				[257060] = 3,
 				[156780] = 3,
 				[67256] = 23,
 				[85028] = 4,
-				[213487] = 4,
+				[45588] = 4,
 				[256428] = 5,
-				[177431] = 7,
-				[122882] = 8,
-				[216165] = 5,
+				[16899] = 9,
+				[47124] = 5,
+				[177408] = 14,
+				[256149] = 13,
 				[116407] = 6,
-				[5228] = 18,
-				[177612] = 4,
-				[255864] = 3,
+				[76809] = 4,
+				[252586] = 5,
 				[26116] = 5,
 				[183660] = 5,
 				[46941] = 19,
 				[257386] = 4,
-				[34590] = 7,
+				[53254] = 7,
 				[269012] = 3,
 				[44039] = 15,
 				[26031] = 3,
@@ -13144,167 +13097,167 @@ TMWOptDB = {
 				[110264] = 14,
 				[252449] = 3,
 				[42503] = 4,
-				[155480] = 3,
-				[20204] = 7,
+				[38872] = 3,
+				[256303] = 3,
 				[87737] = 3,
 				[122552] = 3,
 				[150895] = 4,
-				[195950] = 9,
+				[227824] = 7,
 				[64349] = 3,
-				[163183] = 3,
-				[29327] = 5,
+				[195950] = 9,
+				[142703] = 5,
 				[69306] = 3,
 				[208238] = 4,
-				[111622] = 5,
+				[47637] = 14,
 				[249197] = 13,
 				[277209] = 6,
 				[9944] = 5,
+				[31527] = 5,
 				[269018] = 3,
-				[10456] = 120,
 				[236910] = 3,
 				[120505] = 4,
 				[231066] = 4,
 				[99892] = 7,
-				[252295] = 4,
+				[177842] = 5,
 				[245046] = 3,
 				[247129] = 6,
 				[50014] = 5,
 				[177987] = 10,
 				[74293] = 6,
-				[178019] = 4,
+				[252114] = 4,
 				[252217] = 3,
-				[239624] = 8,
+				[178003] = 6,
 				[79547] = 7,
-				[1777] = 7,
+				[19718] = 7,
 				[269022] = 7,
-				[105010] = 3,
-				[190478] = 3,
-				[175957] = 3,
-				[77363] = 3,
+				[178029] = 10,
+				[17295] = 12,
+				[71597] = 3,
+				[22285] = 4,
 				[253296] = 3,
 				[255153] = 37,
 				[65374] = 9,
-				[31118] = 91,
-				[110633] = 12,
-				[82957] = 4,
-				[255468] = 3,
+				[99343] = 7,
+				[64793] = 7,
+				[85004] = 7,
+				[251983] = 3,
 				[183667] = 4,
-				[35849] = 4,
+				[16397] = 3,
 				[19888] = 14,
 				[40799] = 11,
 				[200051] = 9,
-				[255461] = 3,
-				[135627] = 4,
+				[45338] = 4,
+				[58649] = 9,
 				[179572] = 4,
-				[117772] = 3,
-				[255390] = 28,
-				[131403] = 3,
-				[129580] = 6,
-				[48649] = 28,
+				[207957] = 3,
+				[251576] = 8,
+				[251963] = 3,
+				[179053] = 3,
+				[251693] = 3,
 				[236915] = 5,
 				[173523] = 4,
-				[254708] = 3,
-				[23437] = 4,
+				[83501] = 3,
+				[20230] = 13,
 				[165910] = 8,
 				[1529] = 6,
 				[39704] = 46,
-				[255054] = 3,
+				[71331] = 4,
 				[118460] = 4,
 				[142711] = 3,
-				[100396] = 3,
-				[255013] = 4,
+				[138322] = 5,
+				[179420] = 7,
 				[154999] = 6,
-				[53770] = 8,
-				[254990] = 4,
-				[6914] = 3,
-				[57302] = 8,
+				[179494] = 6,
+				[106515] = 7,
+				[254586] = 5,
+				[261967] = 5,
 				[35680] = 5,
-				[250809] = 9,
-				[253775] = 9,
-				[44555] = 7,
+				[205321] = 6,
+				[13814] = 5,
+				[231279] = 4,
 				[125481] = 6,
 				[261493] = 3,
 				[83646] = 4,
-				[251467] = 3,
-				[187768] = 3,
+				[104873] = 11,
+				[179566] = 3,
 				[122557] = 6,
-				[50134] = 7,
-				[277227] = 5,
-				[95250] = 24,
+				[12534] = 4,
+				[187768] = 3,
+				[254275] = 4,
 				[130749] = 5,
 				[232823] = 4,
-				[2025] = 25,
-				[115059] = 3,
+				[251616] = 7,
+				[101928] = 16,
 				[172121] = 12,
-				[191865] = 8,
+				[180691] = 4,
 				[220536] = 4,
-				[56160] = 24,
+				[191865] = 8,
 				[175178] = 3,
 				[116414] = 3,
-				[99377] = 7,
+				[17159] = 3,
 				[142715] = 6,
-				[9129] = 4,
+				[57621] = 5,
 				[183674] = 3,
+				[251347] = 3,
 				[224633] = 4,
-				[128702] = 6,
-				[254656] = 8,
-				[251342] = 3,
+				[54549] = 10,
+				[248898] = 7,
 				[72600] = 11,
 				[113683] = 3,
-				[117280] = 3,
+				[180449] = 5,
 				[35343] = 3,
 				[83494] = 3,
-				[84517] = 4,
+				[236653] = 4,
 				[114367] = 3,
-				[64469] = 4,
-				[174666] = 38,
+				[96169] = 4,
+				[43535] = 4,
 				[87744] = 4,
 				[59156] = 4,
-				[84513] = 3,
+				[14088] = 9,
 				[250835] = 5,
-				[125973] = 5,
+				[61454] = 3,
 				[180896] = 3,
 				[236606] = 10,
-				[205883] = 3,
-				[77737] = 4,
+				[110614] = 8,
+				[27627] = 5,
 				[106176] = 6,
 				[108224] = 4,
-				[97303] = 3,
+				[81443] = 9,
 				[34599] = 4,
 				[261499] = 7,
-				[60690] = 9,
+				[278165] = 8,
 				[277238] = 3,
-				[150407] = 3,
-				[97334] = 3,
+				[20744] = 7,
+				[228732] = 3,
 				[216445] = 5,
-				[58643] = 5,
+				[90172] = 34,
 				[32177] = 5,
-				[181474] = 3,
-				[251608] = 3,
+				[181398] = 4,
+				[181415] = 9,
 				[171391] = 3,
 				[208254] = 4,
 				[250570] = 3,
 				[249213] = 11,
-				[82974] = 11,
-				[155692] = 3,
+				[250326] = 3,
+				[71738] = 7,
 				[54798] = 3,
 				[167296] = 3,
-				[76827] = 8,
+				[177208] = 6,
 				[120513] = 4,
 				[85537] = 6,
-				[54545] = 3,
+				[72936] = 4,
 				[5667] = 5,
 				[11993] = 5,
-				[17821] = 10,
-				[107546] = 4,
-				[187437] = 6,
-				[253311] = 9,
+				[140852] = 5,
+				[137080] = 4,
+				[6563] = 9,
+				[30601] = 3,
 				[53090] = 3,
 				[75459] = 3,
-				[220544] = 12,
+				[253311] = 9,
 				[224640] = 6,
+				[232832] = 15,
 				[83651] = 4,
-				[269054] = 3,
 				[118466] = 3,
 				[175490] = 5,
 				[61282] = 7,
@@ -13312,76 +13265,76 @@ TMWOptDB = {
 				[155011] = 3,
 				[69661] = 11,
 				[107036] = 7,
-				[130106] = 9,
-				[249672] = 4,
+				[182593] = 3,
+				[151371] = 4,
 				[104131] = 16,
-				[174224] = 30,
+				[178893] = 7,
 				[37731] = 3,
-				[60431] = 5,
+				[114746] = 43,
 				[72738] = 3,
-				[116646] = 14,
-				[55568] = 12,
+				[200521] = 4,
+				[88440] = 5,
 				[21426] = 118,
 				[21938] = 4,
 				[245122] = 4,
 				[45923] = 4,
-				[79783] = 13,
+				[56276] = 3,
 				[47971] = 4,
-				[27657] = 4,
+				[208259] = 17,
 				[100036] = 4,
-				[269966] = 4,
-				[119507] = 3,
-				[184796] = 3,
-				[77509] = 4,
+				[250269] = 6,
+				[127514] = 10,
+				[27966] = 12,
 				[277253] = 15,
+				[77509] = 4,
 				[147574] = 6,
 				[114372] = 7,
 				[167302] = 5,
-				[196424] = 5,
+				[98214] = 3,
 				[60259] = 25,
 				[122564] = 3,
 				[150919] = 5,
 				[31666] = 5,
 				[191878] = 4,
 				[97989] = 5,
-				[133956] = 8,
+				[155015] = 3,
 				[171399] = 3,
 				[114203] = 5,
-				[50722] = 6,
-				[64782] = 4,
+				[98840] = 7,
+				[107030] = 5,
 				[38756] = 3,
-				[125465] = 4,
-				[92190] = 9,
-				[250177] = 5,
-				[1826] = 7,
-				[159560] = 9,
+				[249985] = 4,
+				[219251] = 3,
+				[85530] = 3,
+				[174892] = 3,
+				[39892] = 5,
 				[146825] = 18,
 				[39183] = 4,
-				[250172] = 3,
-				[80960] = 3,
+				[223293] = 4,
+				[54116] = 3,
 				[261510] = 6,
 				[50020] = 4,
 				[236935] = 10,
 				[52068] = 3,
 				[179593] = 26,
 				[108230] = 3,
-				[125119] = 5,
-				[253270] = 7,
+				[130757] = 6,
+				[183562] = 3,
 				[68673] = 3,
 				[253016] = 4,
-				[62219] = 8,
-				[40467] = 4,
+				[273923] = 4,
+				[218023] = 4,
 				[89799] = 4,
-				[184134] = 28,
+				[124836] = 3,
 				[230507] = 164,
 				[128710] = 4,
-				[75810] = 3,
+				[253190] = 3,
 				[73763] = 9,
 				[69320] = 4,
 				[142732] = 3,
 				[106183] = 3,
 				[26899] = 24,
-				[80931] = 11,
+				[28807] = 3,
 				[224650] = 6,
 				[168068] = 3,
 				[116423] = 8,
@@ -13389,78 +13342,78 @@ TMWOptDB = {
 				[175500] = 6,
 				[115218] = 7,
 				[5741] = 18,
-				[108053] = 23,
-				[44813] = 4,
-				[240898] = 5,
+				[99862] = 3,
+				[239682] = 5,
+				[96817] = 4,
 				[269076] = 7,
 				[204172] = 3,
 				[241035] = 8,
 				[6637] = 8,
-				[200516] = 4,
+				[67493] = 9,
 				[110280] = 6,
 				[7021] = 14,
-				[75101] = 3,
+				[207578] = 3,
 				[22540] = 18,
 				[29619] = 5,
-				[76309] = 3,
+				[6248] = 3,
 				[122568] = 91,
-				[38948] = 4,
+				[28867] = 3,
 				[7917] = 5,
-				[130578] = 5,
+				[118472] = 11,
 				[163215] = 4,
 				[33638] = 3,
-				[252535] = 3,
+				[28684] = 10,
 				[8922] = 14,
-				[82986] = 9,
-				[118820] = 3,
+				[185442] = 6,
+				[58123] = 4,
 				[16909] = 7,
-				[15622] = 14,
+				[83658] = 6,
 				[261517] = 3,
 				[167312] = 7,
 				[171408] = 10,
 				[10970] = 17,
 				[110661] = 7,
 				[11482] = 22,
-				[100042] = 6,
+				[134546] = 4,
 				[191888] = 3,
 				[228751] = 4,
-				[134546] = 4,
+				[100042] = 6,
 				[88103] = 3,
-				[29062] = 4,
+				[153254] = 3,
 				[211996] = 3,
 				[249231] = 4,
-				[167747] = 4,
+				[33747] = 3,
 				[72211] = 3,
 				[14298] = 33,
 				[232848] = 4,
 				[65608] = 3,
-				[253760] = 7,
-				[119893] = 5,
+				[15861] = 6,
+				[185611] = 10,
 				[150931] = 17,
 				[269086] = 3,
-				[242526] = 3,
+				[55410] = 4,
 				[220993] = 34,
 				[73773] = 43,
+				[89160] = 14,
 				[35687] = 20,
-				[17844] = 19,
-				[106536] = 3,
+				[71372] = 4,
 				[37735] = 8,
-				[58634] = 6,
+				[153738] = 3,
+				[20870] = 5,
 				[163220] = 13,
-				[195987] = 4,
-				[106402] = 11,
-				[71587] = 3,
+				[245567] = 13,
+				[52178] = 4,
 				[232471] = 17,
 				[178257] = 5,
-				[149582] = 3,
+				[220563] = 6,
 				[277283] = 3,
-				[96162] = 3,
+				[128929] = 4,
 				[261522] = 3,
-				[79157] = 3,
+				[161940] = 5,
 				[24500] = 31,
 				[142742] = 3,
-				[120168] = 3,
-				[251551] = 8,
+				[187413] = 7,
+				[2051] = 9,
 				[55143] = 20,
 				[159126] = 9,
 				[81613] = 11,
@@ -13468,461 +13421,461 @@ TMWOptDB = {
 				[89615] = 5,
 				[30132] = 6,
 				[89805] = 3,
-				[105514] = 5,
-				[187799] = 6,
+				[132120] = 37,
+				[185545] = 9,
 				[95949] = 5,
 				[130764] = 3,
 				[200086] = 7,
 				[236949] = 3,
-				[192319] = 3,
+				[79778] = 3,
 				[106189] = 9,
+				[15879] = 89,
+				[187799] = 6,
 				[39784] = 10,
-				[253333] = 16,
-				[191895] = 5,
-				[269945] = 9,
+				[151360] = 6,
 				[167320] = 6,
-				[185606] = 3,
+				[102446] = 7,
 				[120525] = 13,
-				[88107] = 3,
+				[85035] = 5,
 				[45928] = 6,
-				[251805] = 4,
+				[17551] = 62,
 				[185652] = 3,
-				[63203] = 6,
-				[158800] = 6,
+				[165975] = 3,
+				[3249] = 3,
 				[51048] = 4,
 				[142746] = 3,
-				[44056] = 22,
+				[52072] = 8,
 				[42010] = 6,
-				[85517] = 4,
+				[248959] = 3,
 				[251653] = 4,
 				[114382] = 4,
 				[3281] = 3,
 				[26382] = 3,
-				[251632] = 4,
-				[185774] = 3,
+				[65049] = 11,
+				[78318] = 4,
 				[216473] = 3,
 				[83469] = 3,
 				[128718] = 7,
 				[228761] = 3,
-				[152593] = 4,
-				[36311] = 3,
-				[108239] = 3,
-				[146844] = 4,
+				[236556] = 3,
+				[52265] = 3,
 				[269105] = 3,
+				[146844] = 4,
+				[108239] = 3,
 				[110287] = 3,
-				[251533] = 4,
+				[153693] = 4,
 				[75276] = 4,
-				[55047] = 5,
-				[33032] = 8,
+				[71727] = 9,
+				[51463] = 4,
 				[192604] = 7,
-				[118280] = 3,
-				[39981] = 4,
+				[72083] = 4,
+				[248585] = 3,
 				[185901] = 7,
-				[250890] = 3,
-				[186064] = 6,
+				[186058] = 5,
+				[28548] = 11,
 				[67281] = 5,
 				[251393] = 6,
 				[241051] = 4,
-				[250860] = 3,
+				[186145] = 3,
 				[269109] = 7,
 				[85075] = 3,
 				[191901] = 3,
-				[249657] = 14,
+				[75680] = 3,
 				[83665] = 4,
 				[236956] = 7,
-				[122374] = 15,
-				[100869] = 3,
-				[109616] = 27,
-				[65587] = 3,
-				[229177] = 9,
-				[43564] = 4,
+				[124422] = 5,
+				[224668] = 3,
+				[95752] = 5,
+				[65592] = 6,
+				[98207] = 3,
+				[248202] = 8,
 				[100049] = 3,
 				[69330] = 6,
 				[248240] = 4,
-				[251207] = 3,
+				[130974] = 3,
 				[251060] = 10,
-				[36614] = 3,
-				[248030] = 3,
-				[145505] = 5,
+				[248305] = 7,
+				[122963] = 7,
+				[200095] = 4,
 				[232862] = 3,
 				[42858] = 4,
-				[251010] = 8,
+				[250561] = 8,
 				[132104] = 13,
 				[82997] = 4,
-				[250841] = 3,
+				[247986] = 3,
 				[57883] = 6,
-				[42527] = 10,
+				[51973] = 5,
 				[58116] = 3,
-				[146850] = 4,
+				[62212] = 3,
 				[208288] = 3,
-				[53098] = 4,
+				[146850] = 4,
 				[269117] = 3,
 				[77523] = 4,
-				[167182] = 3,
+				[250512] = 7,
 				[163234] = 3,
 				[245922] = 8,
 				[171426] = 4,
 				[15067] = 20,
 				[61290] = 4,
 				[183714] = 3,
-				[261536] = 3,
+				[16347] = 3,
 				[159139] = 3,
-				[196002] = 9,
-				[82437] = 13,
+				[261536] = 3,
+				[78342] = 4,
 				[17334] = 16,
-				[84023] = 7,
-				[204182] = 8,
+				[116788] = 4,
+				[91652] = 6,
 				[269121] = 8,
 				[155044] = 5,
-				[165991] = 5,
+				[247650] = 11,
 				[114387] = 4,
 				[134565] = 8,
-				[51947] = 3,
-				[139369] = 6,
-				[185999] = 8,
+				[187022] = 5,
+				[71172] = 7,
+				[48387] = 10,
 				[150949] = 4,
 				[247484] = 8,
-				[85052] = 11,
+				[197181] = 3,
 				[228771] = 3,
-				[166067] = 7,
+				[71381] = 5,
 				[138662] = 3,
 				[104148] = 15,
-				[54302] = 3,
+				[52782] = 8,
 				[108244] = 18,
-				[250534] = 9,
+				[29826] = 6,
 				[79573] = 7,
 				[250495] = 4,
 				[54319] = 3,
-				[83879] = 4,
-				[277319] = 15,
+				[187633] = 5,
+				[63339] = 7,
 				[146855] = 9,
 				[91861] = 10,
-				[63339] = 7,
-				[167335] = 7,
+				[277319] = 15,
+				[51759] = 4,
 				[32694] = 13,
-				[200102] = 3,
-				[38960] = 6,
-				[19473] = 10,
-				[78908] = 3,
+				[167335] = 7,
+				[187809] = 5,
+				[240627] = 4,
+				[154649] = 10,
 				[249253] = 3,
-				[226929] = 3,
-				[57295] = 6,
-				[82431] = 5,
-				[153778] = 6,
+				[100443] = 3,
+				[163638] = 5,
+				[52481] = 3,
+				[247310] = 5,
 				[51968] = 4,
 				[175528] = 7,
 				[89814] = 6,
-				[90209] = 5,
+				[132691] = 9,
 				[250277] = 3,
 				[191912] = 3,
+				[250356] = 3,
 				[50028] = 8,
-				[269132] = 12,
-				[42545] = 9,
+				[151722] = 7,
 				[208296] = 13,
-				[235322] = 43,
+				[183721] = 3,
 				[150954] = 9,
 				[3447] = 30,
+				[124968] = 6,
 				[261543] = 4,
-				[3575] = 3,
-				[135286] = 3,
-				[157878] = 6,
-				[212787] = 4,
-				[250105] = 6,
+				[126044] = 5,
+				[190031] = 6,
+				[45007] = 3,
+				[189456] = 3,
 				[216489] = 5,
-				[139061] = 7,
+				[85916] = 5,
 				[95959] = 5,
 				[94947] = 16,
-				[7109] = 11,
+				[184440] = 5,
 				[204202] = 3,
-				[250061] = 12,
-				[84475] = 5,
-				[77528] = 5,
+				[23066] = 6,
+				[250098] = 3,
 				[220586] = 6,
-				[46933] = 7,
+				[77528] = 5,
+				[249794] = 18,
 				[163244] = 3,
 				[116439] = 9,
 				[118487] = 9,
 				[21943] = 6,
-				[247150] = 7,
+				[135357] = 3,
 				[35874] = 3,
 				[23479] = 6,
 				[159149] = 8,
 				[196012] = 9,
-				[134964] = 10,
+				[16872] = 26,
 				[69337] = 4,
-				[189158] = 3,
+				[205801] = 9,
 				[73433] = 17,
 				[189682] = 7,
-				[77922] = 3,
-				[226278] = 4,
+				[78912] = 3,
+				[71343] = 6,
 				[81625] = 3,
 				[114392] = 9,
 				[2646] = 3,
 				[246780] = 10,
 				[25728] = 5,
-				[189528] = 3,
-				[65389] = 4,
+				[246635] = 6,
+				[169296] = 4,
 				[32183] = 7,
-				[228781] = 3,
+				[65389] = 4,
 				[67290] = 11,
 				[242660] = 3,
-				[183727] = 3,
+				[246579] = 4,
 				[9180] = 12,
-				[269145] = 3,
-				[115465] = 3,
-				[200828] = 3,
+				[183727] = 3,
+				[110068] = 3,
+				[6661] = 3,
 				[60039] = 6,
 				[134577] = 7,
 				[171440] = 4,
 				[175536] = 3,
 				[146865] = 3,
-				[149632] = 12,
-				[128729] = 17,
+				[39166] = 5,
 				[47982] = 27,
-				[128921] = 3,
+				[128729] = 17,
+				[257838] = 8,
 				[200112] = 5,
-				[179633] = 5,
+				[199653] = 3,
 				[241071] = 11,
-				[106202] = 3,
+				[179633] = 5,
+				[83448] = 4,
 				[110298] = 12,
-				[13788] = 20,
 				[191921] = 3,
-				[269150] = 6,
 				[167346] = 5,
+				[269150] = 6,
 				[236976] = 6,
 				[246221] = 3,
-				[149342] = 3,
-				[142493] = 6,
+				[186496] = 3,
+				[188606] = 3,
 				[277343] = 4,
-				[196399] = 3,
+				[10228] = 7,
 				[80969] = 14,
-				[246354] = 8,
+				[65276] = 3,
 				[204210] = 3,
-				[66631] = 3,
+				[100850] = 4,
+				[227454] = 3,
 				[150964] = 3,
-				[75484] = 3,
-				[209088] = 5,
-				[246394] = 13,
-				[134960] = 3,
+				[199647] = 5,
+				[246238] = 3,
+				[8436] = 74,
 				[83676] = 14,
-				[152559] = 12,
+				[20244] = 27,
 				[175540] = 3,
 				[146869] = 3,
 				[86640] = 11,
-				[278103] = 4,
+				[155439] = 6,
 				[23992] = 10,
-				[17180] = 3,
+				[246051] = 3,
 				[67482] = 4,
-				[126449] = 6,
-				[244108] = 3,
-				[149650] = 6,
+				[93254] = 13,
+				[249122] = 4,
+				[233602] = 12,
 				[269157] = 5,
 				[187829] = 8,
 				[159158] = 3,
 				[28600] = 14,
-				[87773] = 4,
-				[225068] = 5,
 				[120540] = 6,
-				[254937] = 4,
+				[79769] = 4,
+				[87773] = 4,
+				[36089] = 4,
 				[134113] = 3,
-				[277352] = 3,
+				[69342] = 3,
 				[191926] = 7,
 				[196022] = 4,
 				[200118] = 9,
-				[69342] = 3,
-				[9792] = 3,
+				[277352] = 3,
+				[89229] = 13,
 				[179639] = 9,
 				[249269] = 5,
-				[134585] = 5,
-				[257461] = 3,
-				[100248] = 14,
 				[232886] = 6,
-				[98200] = 4,
+				[257461] = 3,
+				[167725] = 7,
+				[134585] = 5,
+				[49101] = 5,
 				[43888] = 7,
+				[190302] = 9,
 				[150969] = 7,
-				[269163] = 3,
-				[130967] = 4,
+				[190765] = 6,
 				[117231] = 4,
 				[49008] = 12,
-				[219281] = 5,
-				[249169] = 11,
-				[53104] = 3,
+				[246061] = 12,
+				[246141] = 3,
 				[106206] = 5,
-				[200491] = 4,
+				[53104] = 3,
+				[41933] = 3,
 				[132049] = 44,
-				[15551] = 19,
+				[4080] = 6,
 				[261559] = 4,
-				[278097] = 3,
-				[249072] = 3,
-				[58616] = 3,
+				[188203] = 4,
+				[52775] = 3,
+				[153742] = 6,
 				[3568] = 6,
 				[109036] = 9,
 				[155067] = 3,
-				[191406] = 7,
-				[101868] = 3,
-				[155795] = 3,
-				[82029] = 3,
+				[76648] = 9,
+				[170539] = 11,
+				[44586] = 13,
+				[198218] = 4,
 				[79341] = 4,
-				[48428] = 10,
-				[207822] = 8,
+				[130535] = 3,
+				[248894] = 3,
 				[77536] = 8,
-				[248879] = 4,
+				[61175] = 3,
 				[163260] = 7,
 				[269170] = 13,
 				[164816] = 3,
 				[208315] = 4,
-				[142288] = 5,
+				[22969] = 3,
 				[45937] = 3,
 				[46961] = 6,
 				[159165] = 7,
-				[229523] = 4,
+				[202233] = 8,
 				[167357] = 4,
 				[102112] = 4,
-				[248832] = 4,
+				[248337] = 8,
 				[245179] = 9,
 				[52471] = 7,
-				[245543] = 3,
+				[106390] = 5,
 				[5222] = 3,
-				[112105] = 728,
+				[232686] = 6,
 				[58225] = 5,
 				[87528] = 16,
 				[241084] = 3,
 				[30649] = 3,
+				[191674] = 4,
 				[277367] = 6,
-				[187838] = 19,
 				[191749] = 3,
-				[131289] = 3,
+				[149658] = 3,
 				[100065] = 3,
-				[58922] = 8,
-				[209379] = 6,
+				[113128] = 6,
+				[38955] = 4,
 				[146880] = 5,
 				[37946] = 4,
 				[159010] = 5,
-				[227421] = 3,
-				[10000] = 17,
-				[248313] = 4,
-				[83433] = 12,
+				[25212] = 33,
+				[8332] = 6,
+				[154571] = 4,
+				[57389] = 5,
 				[142785] = 3,
-				[78313] = 4,
+				[247668] = 4,
 				[150977] = 4,
-				[126438] = 3,
-				[248137] = 5,
+				[142257] = 5,
+				[160841] = 4,
 				[118010] = 8,
-				[176297] = 3,
-				[128088] = 4,
-				[28695] = 3,
-				[57900] = 12,
+				[168106] = 3,
+				[231105] = 7,
+				[120965] = 45,
+				[146354] = 3,
 				[34862] = 9,
-				[217251] = 3,
-				[22808] = 4,
-				[132426] = 26,
+				[244981] = 5,
+				[247363] = 4,
+				[92246] = 3,
 				[244777] = 8,
 				[188785] = 7,
-				[192293] = 10,
-				[188197] = 5,
+				[56267] = 5,
+				[155430] = 7,
 				[249280] = 13,
 				[43765] = 3,
 				[64370] = 3,
-				[191938] = 3,
+				[202928] = 5,
 				[134596] = 4,
 				[34675] = 4,
 				[175555] = 4,
 				[200130] = 6,
-				[163268] = 3,
+				[261569] = 3,
 				[277377] = 7,
 				[39795] = 3,
-				[261569] = 3,
+				[163268] = 3,
 				[247476] = 4,
-				[166063] = 3,
-				[260422] = 3,
+				[111325] = 13,
+				[68285] = 5,
 				[756] = 12,
 				[91876] = 3,
-				[34666] = 4,
+				[60658] = 9,
 				[95972] = 15,
 				[196036] = 3,
 				[232899] = 6,
 				[236995] = 9,
 				[104164] = 31,
-				[245538] = 4,
+				[147237] = 30,
 				[269189] = 3,
-				[87781] = 22,
+				[732] = 8,
 				[28090] = 3,
-				[120548] = 4,
-				[31674] = 13,
+				[94692] = 27,
+				[63347] = 6,
 				[171462] = 3,
-				[142791] = 4,
+				[87781] = 22,
 				[61299] = 3,
 				[150983] = 3,
-				[63347] = 6,
+				[31674] = 13,
 				[159175] = 3,
-				[181184] = 4,
+				[246878] = 3,
 				[67302] = 20,
-				[179549] = 11,
-				[166118] = 5,
-				[37835] = 3,
+				[178352] = 6,
+				[87523] = 4,
+				[184099] = 3,
 				[269193] = 9,
 				[244573] = 5,
 				[224710] = 6,
 				[114405] = 5,
 				[134601] = 8,
-				[43250] = 5,
+				[244603] = 4,
 				[175560] = 6,
-				[81016] = 4,
-				[146366] = 7,
+				[148431] = 9,
+				[159923] = 8,
 				[126693] = 4,
-				[98195] = 4,
+				[65482] = 3,
 				[196040] = 12,
-				[257824] = 3,
+				[128914] = 4,
 				[277388] = 3,
-				[126866] = 4,
+				[94099] = 32,
 				[179657] = 5,
 				[183753] = 3,
-				[193290] = 20,
-				[61386] = 5,
+				[43234] = 3,
+				[15347] = 19,
 				[81639] = 3,
 				[200137] = 6,
-				[209703] = 3,
+				[193809] = 8,
 				[235752] = 5,
 				[245192] = 8,
-				[246776] = 3,
+				[254131] = 3,
 				[23584] = 5,
-				[192289] = 3,
-				[42036] = 6,
+				[286269] = 260,
+				[30745] = 6,
 				[167371] = 8,
-				[79592] = 12,
-				[53194] = 12,
+				[4975] = 4,
+				[13299] = 19,
 				[146892] = 3,
 				[18875] = 12,
 				[155084] = 5,
-				[4975] = 4,
+				[79592] = 12,
 				[20411] = 9,
 				[232906] = 4,
-				[187322] = 4,
+				[26144] = 22,
 				[244075] = 9,
 				[89832] = 6,
 				[269203] = 3,
-				[155931] = 30,
-				[246623] = 6,
+				[83041] = 10,
+				[27770] = 5,
 				[262519] = 3,
 				[50037] = 4,
-				[246363] = 3,
+				[41535] = 6,
 				[246508] = 7,
-				[569] = 9,
+				[193629] = 4,
 				[108264] = 3,
 				[93662] = 13,
 				[193688] = 5,
 				[228812] = 6,
-				[116625] = 6,
-				[16061] = 7,
-				[246490] = 4,
-				[150991] = 5,
+				[83858] = 3,
+				[193190] = 5,
+				[229] = 17,
 				[269207] = 7,
+				[150991] = 5,
 				[253388] = 3,
+				[124648] = 3,
 				[130792] = 6,
-				[65397] = 3,
-				[245533] = 4,
-				[26657] = 3,
-				[8691] = 8,
+				[212766] = 6,
+				[155848] = 4,
+				[102289] = 3,
 				[100476] = 3,
 				[75498] = 12,
 				[77546] = 7,
@@ -13931,38 +13884,38 @@ TMWOptDB = {
 				[110313] = 3,
 				[237006] = 6,
 				[51266] = 5,
-				[95358] = 4,
+				[73829] = 12,
 				[91882] = 38,
-				[14269] = 23,
-				[82397] = 6,
+				[69522] = 4,
+				[249294] = 3,
 				[721] = 10,
 				[200144] = 3,
 				[120956] = 7,
 				[208336] = 3,
 				[73451] = 5,
-				[103898] = 6,
+				[243791] = 3,
 				[155090] = 7,
-				[211888] = 3,
-				[246348] = 3,
+				[53814] = 7,
+				[7146] = 8,
 				[151750] = 10,
-				[194370] = 5,
-				[114138] = 3,
-				[253392] = 5,
-				[51145] = 4,
+				[103751] = 3,
+				[111789] = 9,
 				[187858] = 13,
-				[25061] = 24,
+				[25573] = 13,
+				[253392] = 5,
+				[200476] = 3,
 				[261584] = 4,
 				[16828] = 10,
 				[246204] = 4,
-				[37751] = 4,
+				[58607] = 5,
 				[245201] = 7,
-				[216530] = 147,
+				[37751] = 4,
 				[19388] = 3,
-				[63542] = 3,
-				[246187] = 4,
-				[226599] = 3,
-				[150445] = 3,
-				[56386] = 11,
+				[41527] = 7,
+				[70761] = 5,
+				[64053] = 3,
+				[31868] = 8,
+				[194293] = 3,
 				[49207] = 4,
 				[35896] = 12,
 				[93932] = 20,
@@ -13970,113 +13923,113 @@ TMWOptDB = {
 				[194398] = 3,
 				[269220] = 3,
 				[86146] = 32,
-				[117205] = 4,
+				[200148] = 3,
 				[106220] = 4,
 				[249299] = 4,
-				[243436] = 7,
-				[29628] = 4,
+				[110040] = 10,
+				[85741] = 4,
 				[228820] = 5,
 				[167382] = 3,
-				[85741] = 4,
-				[62944] = 3,
+				[29628] = 4,
+				[29444] = 4,
 				[146903] = 3,
-				[233241] = 7,
-				[20509] = 3,
+				[100239] = 8,
+				[44611] = 3,
 				[245999] = 10,
 				[99436] = 14,
 				[269224] = 6,
 				[237013] = 13,
-				[245844] = 4,
+				[130516] = 5,
 				[212438] = 10,
-				[243341] = 7,
-				[25463] = 8,
-				[51256] = 3,
-				[245713] = 5,
+				[27421] = 12,
+				[92267] = 4,
+				[83052] = 14,
+				[46829] = 4,
 				[134617] = 4,
 				[42872] = 8,
 				[195406] = 6,
-				[243108] = 3,
-				[44780] = 15,
-				[26403] = 3,
+				[243376] = 4,
+				[96725] = 3,
+				[55020] = 9,
 				[69077] = 3,
 				[60651] = 6,
-				[24085] = 3,
+				[195778] = 3,
 				[171481] = 4,
-				[247879] = 3,
-				[6151] = 44,
+				[102866] = 42,
+				[87150] = 10,
+				[45113] = 9,
 				[110318] = 5,
-				[220632] = 3,
-				[160728] = 5,
+				[128130] = 3,
+				[238491] = 6,
 				[167386] = 13,
-				[58232] = 36,
-				[243012] = 4,
+				[22358] = 13,
 				[175578] = 3,
-				[74140] = 3,
+				[133389] = 4,
 				[144313] = 3,
-				[160669] = 4,
-				[169711] = 3,
-				[164058] = 3,
-				[6344] = 9,
-				[245209] = 18,
+				[50923] = 3,
+				[243020] = 5,
+				[76913] = 39,
+				[61497] = 10,
+				[84752] = 11,
 				[208346] = 3,
-				[18365] = 3,
+				[245209] = 18,
 				[183771] = 7,
 				[74869] = 11,
 				[159196] = 3,
-				[94344] = 22,
+				[242898] = 3,
 				[54042] = 5,
 				[176230] = 4,
-				[66677] = 3,
+				[195960] = 14,
 				[22461] = 17,
 				[269235] = 3,
 				[46969] = 3,
 				[257498] = 4,
-				[24356] = 4,
+				[82384] = 6,
 				[232923] = 3,
-				[244876] = 4,
-				[244654] = 3,
-				[30692] = 3,
+				[146909] = 6,
+				[248189] = 6,
+				[212757] = 6,
 				[249307] = 16,
-				[111731] = 4,
-				[118668] = 3,
-				[200469] = 3,
+				[244682] = 4,
+				[59335] = 8,
+				[134935] = 3,
 				[116464] = 6,
-				[36074] = 14,
-				[192277] = 10,
-				[253715] = 6,
+				[28452] = 4,
+				[79757] = 8,
+				[110476] = 13,
 				[234386] = 3,
-				[130509] = 6,
-				[131539] = 3,
-				[65678] = 5,
-				[233235] = 4,
-				[231652] = 5,
+				[58428] = 10,
+				[195976] = 7,
+				[244639] = 3,
+				[67469] = 7,
+				[62534] = 3,
 				[208350] = 5,
+				[229746] = 3,
 				[590] = 6,
-				[9439] = 15,
-				[40509] = 4,
+				[127458] = 4,
 				[32126] = 3,
-				[240324] = 3,
+				[244459] = 5,
 				[193616] = 3,
 				[277434] = 4,
 				[241118] = 3,
 				[255127] = 7,
-				[167700] = 3,
-				[74897] = 4,
+				[41927] = 5,
+				[84109] = 9,
+				[244421] = 12,
+				[13023] = 6,
+				[12511] = 9,
 				[12767] = 15,
 				[71411] = 9,
-				[12511] = 9,
-				[69363] = 4,
-				[13023] = 6,
-				[13535] = 5,
 				[108274] = 6,
-				[100008] = 4,
-				[100981] = 12,
-				[139028] = 3,
-				[123349] = 3,
+				[13535] = 5,
+				[846] = 5,
+				[24460] = 6,
+				[171795] = 4,
+				[47337] = 3,
 				[85747] = 5,
 				[99451] = 10,
 				[89843] = 47,
-				[89741] = 3,
+				[73167] = 40,
 				[149746] = 3,
 				[128754] = 12,
 				[16351] = 3,
@@ -14084,19 +14037,19 @@ TMWOptDB = {
 				[159203] = 9,
 				[142820] = 5,
 				[203658] = 8,
-				[243969] = 4,
+				[93328] = 3,
 				[16769] = 3,
-				[15129] = 38,
-				[171492] = 4,
+				[27734] = 3,
+				[49216] = 18,
 				[134629] = 5,
-				[138725] = 3,
+				[171492] = 4,
 				[120563] = 5,
-				[60647] = 3,
+				[239847] = 5,
+				[118515] = 3,
 				[23486] = 6,
-				[277443] = 3,
 				[25717] = 5,
-				[3816] = 6,
-				[70784] = 6,
+				[196466] = 4,
+				[196865] = 5,
 				[237027] = 6,
 				[275603] = 3,
 				[212452] = 5,
@@ -14107,197 +14060,197 @@ TMWOptDB = {
 				[232932] = 19,
 				[40514] = 6,
 				[30142] = 4,
-				[257806] = 4,
+				[96138] = 7,
 				[124660] = 4,
 				[45685] = 7,
 				[95989] = 5,
 				[130804] = 5,
-				[128905] = 5,
-				[76235] = 7,
-				[240824] = 3,
+				[75212] = 3,
+				[98762] = 13,
+				[197009] = 3,
 				[106229] = 5,
 				[37756] = 3,
 				[159505] = 6,
-				[116617] = 7,
+				[167696] = 3,
 				[2552] = 13,
 				[40828] = 4,
-				[33347] = 9,
-				[11924] = 15,
-				[75658] = 6,
+				[124360] = 3,
+				[9236] = 16,
+				[108425] = 17,
 				[2872] = 8,
 				[253414] = 3,
-				[72890] = 4,
+				[243878] = 3,
 				[43884] = 3,
 				[230281] = 4,
 				[277452] = 6,
-				[93312] = 7,
+				[243513] = 4,
 				[5385] = 9,
 				[75511] = 9,
 				[77559] = 6,
-				[243590] = 3,
-				[40679] = 4,
+				[103881] = 4,
+				[240600] = 3,
 				[3640] = 4,
-				[747] = 3,
-				[141605] = 7,
-				[240654] = 10,
+				[240740] = 3,
+				[197265] = 3,
+				[153892] = 3,
 				[269263] = 3,
 				[126710] = 3,
 				[91265] = 12,
 				[197355] = 3,
-				[129479] = 4,
-				[179691] = 3,
-				[224746] = 5,
+				[232327] = 3,
 				[73464] = 13,
+				[39805] = 3,
+				[179691] = 3,
 				[151020] = 18,
 				[155116] = 6,
-				[39805] = 3,
+				[224746] = 5,
 				[81656] = 8,
-				[171500] = 3,
 				[237034] = 6,
+				[171500] = 3,
 				[142829] = 4,
-				[147214] = 12,
-				[124032] = 4,
+				[6649] = 4,
+				[5488] = 20,
 				[253418] = 3,
+				[124168] = 4,
 				[98040] = 3,
-				[163309] = 3,
 				[134638] = 3,
 				[102136] = 13,
 				[52093] = 4,
+				[137512] = 4,
+				[24547] = 24,
 				[220652] = 3,
-				[49093] = 4,
-				[110328] = 3,
-				[6137] = 9,
+				[240612] = 9,
+				[243349] = 20,
 				[167406] = 3,
-				[7280] = 9,
 				[85753] = 3,
-				[243456] = 3,
+				[146920] = 7,
 				[245228] = 3,
-				[138375] = 3,
-				[40526] = 9,
+				[138124] = 6,
+				[99782] = 10,
 				[243213] = 8,
-				[49731] = 4,
-				[172932] = 5,
-				[87171] = 6,
+				[180518] = 8,
+				[63717] = 3,
+				[25379] = 4,
 				[243407] = 3,
 				[179695] = 7,
-				[75908] = 3,
+				[87192] = 4,
 				[187887] = 3,
-				[245513] = 4,
+				[179979] = 7,
 				[45125] = 4,
 				[101843] = 5,
 				[204271] = 4,
 				[120569] = 4,
-				[262727] = 5,
-				[240365] = 3,
+				[78280] = 6,
+				[168233] = 14,
 				[95363] = 22,
 				[191984] = 5,
 				[49022] = 3,
 				[55013] = 5,
 				[171505] = 4,
-				[269839] = 4,
-				[117915] = 3,
+				[92039] = 3,
+				[162098] = 6,
 				[249327] = 3,
 				[55166] = 7,
-				[25384] = 40,
+				[197739] = 5,
 				[210708] = 3,
-				[81032] = 3,
-				[125376] = 3,
-				[197884] = 3,
+				[197789] = 7,
+				[28275] = 5,
+				[244608] = 4,
 				[61310] = 3,
-				[214191] = 4,
-				[65092] = 7,
+				[85126] = 10,
+				[98757] = 4,
 				[95995] = 5,
 				[130810] = 3,
 				[200178] = 3,
 				[240185] = 5,
-				[209769] = 9,
+				[115845] = 3,
 				[39651] = 7,
-				[134922] = 3,
+				[100230] = 3,
 				[155124] = 12,
 				[19904] = 33,
 				[24179] = 4,
 				[116475] = 6,
-				[68745] = 4,
+				[13242] = 16,
 				[235112] = 4,
+				[167689] = 6,
 				[45951] = 3,
-				[269283] = 6,
 				[220659] = 3,
-				[252787] = 3,
+				[71819] = 3,
 				[149809] = 4,
-				[208372] = 5,
-				[204276] = 5,
 				[71421] = 5,
-				[269834] = 3,
+				[204276] = 5,
+				[208372] = 5,
+				[116613] = 3,
 				[249331] = 15,
 				[110332] = 6,
 				[159222] = 4,
 				[196085] = 3,
-				[252166] = 3,
+				[79613] = 3,
 				[85757] = 5,
-				[215493] = 10,
+				[231613] = 5,
+				[198208] = 5,
 				[124668] = 5,
-				[183798] = 4,
 				[16499] = 3,
 				[154494] = 5,
-				[53319] = 3,
+				[44616] = 6,
 				[67326] = 8,
 				[237045] = 10,
 				[260405] = 4,
 				[179703] = 6,
 				[37760] = 4,
-				[33732] = 3,
+				[67462] = 3,
 				[191991] = 4,
-				[22314] = 20,
-				[242030] = 3,
+				[87181] = 3,
+				[95039] = 22,
 				[77983] = 4,
 				[9875] = 4,
-				[233781] = 5,
+				[3397] = 8,
 				[146729] = 6,
 				[46976] = 6,
-				[95679] = 32,
+				[89531] = 6,
 				[98046] = 7,
 				[50048] = 5,
 				[27434] = 65,
-				[199605] = 5,
+				[35552] = 4,
 				[106238] = 5,
 				[108286] = 73,
-				[18290] = 17,
-				[134651] = 3,
-				[108420] = 4,
+				[53120] = 20,
 				[232952] = 15,
-				[87807] = 4,
+				[27106] = 71,
+				[134651] = 3,
 				[120574] = 7,
-				[71825] = 7,
-				[87482] = 4,
+				[87807] = 4,
+				[56544] = 4,
+				[199582] = 3,
 				[187898] = 3,
-				[70081] = 3,
-				[152369] = 3,
-				[5258] = 4,
+				[12601] = 7,
+				[243985] = 3,
+				[178457] = 4,
 				[96417] = 3,
-				[146940] = 8,
 				[18369] = 7,
+				[146940] = 8,
 				[7179] = 5,
-				[152428] = 4,
-				[72850] = 14,
+				[42571] = 3,
+				[126095] = 7,
 				[261625] = 3,
 				[198938] = 3,
 				[42881] = 8,
 				[142845] = 3,
 				[58078] = 7,
 				[51423] = 7,
-				[128767] = 12,
 				[191996] = 3,
-				[146286] = 3,
+				[128767] = 12,
+				[159229] = 4,
 				[100096] = 4,
-				[43595] = 17,
-				[241022] = 5,
-				[237313] = 7,
-				[114432] = 7,
+				[239388] = 3,
+				[34900] = 6,
+				[102275] = 5,
+				[240850] = 10,
 				[27585] = 16,
 				[56193] = 18,
-				[196093] = 5,
-				[254546] = 12,
-				[128898] = 5,
+				[114432] = 7,
+				[199698] = 7,
+				[64450] = 5,
 				[208381] = 3,
 				[212477] = 6,
 				[151039] = 5,
@@ -14305,151 +14258,151 @@ TMWOptDB = {
 				[96001] = 3,
 				[199924] = 24,
 				[167423] = 4,
-				[154528] = 3,
+				[77988] = 3,
 				[199694] = 3,
-				[240807] = 12,
+				[199716] = 3,
 				[75522] = 3,
 				[38786] = 5,
 				[224766] = 6,
 				[81666] = 7,
-				[239167] = 6,
-				[240785] = 5,
-				[51276] = 9,
-				[242530] = 3,
+				[93624] = 5,
+				[91042] = 3,
+				[239249] = 4,
+				[238703] = 281,
 				[199748] = 5,
 				[155137] = 5,
-				[43230] = 3,
-				[33878] = 13,
-				[1091] = 7,
+				[199776] = 6,
+				[175331] = 3,
+				[199904] = 7,
 				[69379] = 3,
 				[71427] = 4,
-				[65687] = 8,
+				[240682] = 7,
 				[24943] = 4,
-				[238547] = 3,
-				[159489] = 10,
-				[220927] = 3,
+				[200016] = 7,
+				[192256] = 4,
+				[126849] = 7,
 				[83715] = 3,
 				[14817] = 4,
-				[249598] = 31,
-				[20008] = 11,
+				[11505] = 6,
+				[91575] = 4,
 				[133651] = 3,
-				[240581] = 9,
-				[144282] = 3,
+				[150167] = 7,
+				[240483] = 7,
 				[200078] = 3,
-				[100781] = 3,
+				[34691] = 3,
 				[237057] = 6,
 				[142852] = 7,
 				[95670] = 5,
-				[110339] = 8,
 				[19394] = 3,
+				[110339] = 8,
 				[79620] = 3,
 				[73143] = 8,
-				[180595] = 4,
-				[61154] = 8,
+				[106930] = 3,
+				[137547] = 3,
 				[87812] = 19,
 				[146949] = 10,
 				[124675] = 3,
-				[240407] = 3,
+				[84403] = 16,
 				[122006] = 3,
 				[39512] = 15,
-				[31016] = 6,
-				[106244] = 19,
-				[208388] = 14,
+				[104196] = 9,
 				[212484] = 5,
+				[208388] = 14,
+				[106244] = 19,
 				[249347] = 3,
 				[151046] = 10,
 				[240289] = 4,
-				[240152] = 4,
-				[176990] = 5,
+				[114856] = 3,
+				[24872] = 11,
 				[132820] = 4,
 				[60291] = 7,
 				[241156] = 12,
-				[278005] = 3,
+				[188157] = 3,
 				[253444] = 4,
-				[83101] = 7,
-				[73601] = 4,
-				[240121] = 5,
+				[85148] = 10,
+				[53185] = 8,
+				[189649] = 3,
 				[277512] = 3,
 				[220268] = 5,
 				[137519] = 3,
 				[137525] = 3,
-				[96128] = 6,
-				[32655] = 4,
+				[48065] = 17,
+				[165231] = 4,
 				[240116] = 3,
 				[134665] = 3,
 				[204295] = 6,
-				[3590] = 3,
+				[238029] = 5,
 				[179720] = 7,
-				[237829] = 4,
-				[128155] = 7,
-				[56912] = 4,
-				[75185] = 4,
-				[39873] = 3,
+				[111025] = 17,
+				[84127] = 9,
+				[237921] = 4,
+				[52312] = 3,
+				[159484] = 4,
 				[168275] = 4,
-				[98735] = 21,
-				[187225] = 10,
+				[519] = 8,
+				[122027] = 7,
 				[249351] = 13,
-				[239837] = 6,
+				[153914] = 6,
 				[192009] = 5,
-				[69504] = 3,
+				[34753] = 4,
 				[269326] = 5,
 				[85767] = 6,
 				[120582] = 6,
-				[62033] = 4,
+				[189272] = 4,
 				[102574] = 5,
 				[126726] = 3,
-				[79278] = 26,
+				[114094] = 13,
 				[98055] = 4,
 				[100103] = 6,
 				[163339] = 19,
 				[4465] = 28,
-				[21550] = 6,
+				[14135] = 10,
 				[37765] = 3,
 				[253449] = 44,
 				[257545] = 3,
-				[23850] = 8,
-				[239516] = 4,
+				[18986] = 3,
+				[4956] = 4,
 				[154810] = 6,
 				[61529] = 17,
 				[28970] = 17,
-				[54488] = 3,
+				[119477] = 10,
 				[93960] = 8,
 				[6001] = 15,
-				[191599] = 3,
-				[100529] = 8,
-				[179961] = 5,
+				[239487] = 5,
+				[48723] = 10,
+				[147194] = 4,
 				[34907] = 7,
-				[30250] = 4,
+				[82451] = 21,
 				[201067] = 3,
 				[77577] = 4,
-				[8854] = 3,
+				[155150] = 8,
 				[114440] = 3,
-				[123041] = 6,
-				[201575] = 4,
+				[202014] = 5,
+				[239313] = 5,
 				[30147] = 4,
-				[63365] = 3,
+				[13731] = 5,
 				[269335] = 3,
-				[220685] = 3,
+				[63365] = 3,
 				[96009] = 8,
 				[8177] = 10,
 				[104940] = 5,
-				[208631] = 3,
+				[175864] = 6,
 				[109995] = 9,
 				[146960] = 12,
 				[74931] = 3,
 				[201442] = 3,
-				[199501] = 5,
+				[12822] = 21,
 				[81674] = 3,
 				[83722] = 3,
 				[237070] = 6,
-				[1767] = 9,
+				[239090] = 11,
 				[179728] = 3,
 				[151057] = 4,
-				[94633] = 7,
+				[212495] = 15,
 				[12002] = 16,
 				[196112] = 3,
-				[46676] = 4,
-				[12694] = 16,
+				[49030] = 4,
+				[19373] = 13,
 				[52102] = 3,
 				[13282] = 16,
 				[54150] = 9,
@@ -14457,175 +14410,175 @@ TMWOptDB = {
 				[211293] = 6,
 				[130472] = 3,
 				[134675] = 5,
-				[13590] = 18,
-				[202252] = 6,
-				[38485] = 3,
-				[136926] = 3,
-				[239038] = 4,
-				[33671] = 5,
-				[130826] = 4,
+				[43735] = 3,
+				[84726] = 11,
+				[202034] = 3,
+				[170859] = 7,
+				[125110] = 3,
 				[269344] = 5,
-				[148977] = 6,
+				[130826] = 4,
+				[33671] = 5,
+				[202100] = 3,
 				[30255] = 6,
 				[32555] = 8,
 				[158021] = 3,
 				[277537] = 3,
-				[79016] = 3,
-				[45782] = 3,
+				[236881] = 5,
+				[33495] = 4,
 				[167444] = 5,
-				[238607] = 9,
-				[47190] = 19,
-				[67754] = 5,
-				[103592] = 5,
-				[196116] = 6,
+				[178011] = 7,
+				[24428] = 7,
+				[250209] = 3,
+				[85175] = 3,
+				[98060] = 4,
 				[192020] = 5,
-				[261650] = 3,
+				[196116] = 6,
 				[67341] = 4,
-				[100772] = 4,
+				[236847] = 11,
 				[71437] = 6,
-				[92346] = 3,
-				[143694] = 4,
-				[1907] = 36,
+				[139626] = 3,
+				[197612] = 7,
+				[55383] = 26,
 				[159254] = 3,
 				[114444] = 4,
-				[90703] = 5,
-				[85884] = 13,
+				[202267] = 5,
+				[118651] = 6,
 				[58580] = 12,
 				[61319] = 3,
 				[7213] = 7,
 				[202349] = 4,
 				[128780] = 3,
-				[21355] = 12,
-				[237977] = 15,
+				[91580] = 14,
+				[68782] = 3,
 				[237077] = 4,
 				[142872] = 4,
-				[36799] = 6,
-				[12439] = 22,
+				[18400] = 31,
+				[10137] = 90,
 				[77582] = 7,
-				[112034] = 5,
-				[60627] = 12,
+				[24113] = 4,
+				[73900] = 3,
 				[83726] = 3,
-				[98171] = 4,
+				[16368] = 4,
 				[116131] = 5,
-				[277983] = 3,
+				[253680] = 3,
 				[249366] = 10,
 				[236552] = 3,
 				[224791] = 3,
-				[64600] = 4,
+				[202793] = 3,
 				[134682] = 4,
-				[203141] = 6,
+				[236503] = 3,
 				[104206] = 8,
-				[110764] = 4,
+				[100110] = 19,
+				[65470] = 9,
 				[155162] = 4,
-				[110350] = 18,
-				[28461] = 6,
-				[136000] = 10,
+				[244539] = 3,
+				[73904] = 7,
 				[167450] = 8,
 				[85775] = 5,
 				[120590] = 3,
 				[78013] = 7,
-				[269789] = 4,
-				[257560] = 7,
+				[151282] = 3,
 				[159259] = 3,
-				[65713] = 6,
+				[257560] = 7,
+				[71855] = 6,
 				[27754] = 4,
 				[102159] = 14,
 				[35721] = 6,
 				[245273] = 3,
 				[151068] = 4,
-				[18734] = 29,
+				[69392] = 3,
+				[193341] = 3,
 				[20421] = 15,
-				[196123] = 3,
 				[269362] = 4,
 				[150333] = 4,
 				[208411] = 3,
 				[203237] = 5,
 				[236000] = 3,
-				[89978] = 5,
-				[143737] = 3,
-				[153978] = 3,
+				[179952] = 5,
+				[56921] = 4,
+				[203158] = 5,
 				[50057] = 5,
 				[237083] = 49,
 				[24170] = 3,
-				[203642] = 4,
-				[134125] = 4,
+				[79267] = 9,
+				[196982] = 3,
 				[33892] = 3,
 				[192029] = 3,
 				[228892] = 3,
-				[86383] = 9,
+				[217913] = 3,
 				[171550] = 4,
-				[181128] = 3,
-				[235194] = 5,
+				[209828] = 3,
+				[159263] = 3,
 				[91921] = 12,
 				[63369] = 12,
 				[128784] = 3,
-				[42271] = 4,
+				[93969] = 16,
 				[98720] = 7,
 				[116930] = 5,
 				[191542] = 3,
 				[38492] = 3,
 				[183839] = 4,
 				[277561] = 3,
-				[186767] = 3,
+				[204047] = 3,
 				[68736] = 8,
 				[269370] = 9,
 				[42890] = 5,
 				[116497] = 3,
 				[44938] = 6,
-				[116915] = 7,
+				[179744] = 3,
 				[88353] = 4,
 				[96018] = 4,
 				[12259] = 19,
-				[19562] = 7,
+				[48010] = 6,
 				[204320] = 10,
-				[63579] = 4,
+				[114865] = 5,
 				[176948] = 20,
-				[140087] = 5,
-				[89269] = 3,
+				[152377] = 10,
+				[236987] = 7,
 				[262841] = 4,
 				[228896] = 6,
-				[131430] = 14,
-				[133943] = 3,
+				[203871] = 3,
+				[221537] = 4,
 				[208417] = 7,
-				[159267] = 9,
-				[192236] = 5,
-				[187938] = 21,
 				[257568] = 7,
+				[48061] = 3,
+				[187938] = 21,
+				[159267] = 9,
 				[16355] = 4,
-				[246112] = 3,
+				[236930] = 4,
 				[192034] = 3,
 				[85189] = 4,
+				[204124] = 3,
 				[37771] = 4,
-				[249377] = 14,
 				[19398] = 10,
-				[234849] = 4,
-				[75165] = 3,
+				[46692] = 3,
+				[100764] = 3,
 				[232994] = 4,
-				[236876] = 3,
-				[81079] = 3,
+				[258861] = 3,
+				[74950] = 7,
 				[212515] = 5,
 				[45963] = 4,
 				[23494] = 4,
-				[66760] = 5,
+				[75974] = 4,
 				[98068] = 10,
 				[67349] = 13,
-				[49610] = 3,
+				[133241] = 3,
 				[142886] = 3,
 				[73493] = 6,
 				[59087] = 3,
-				[241385] = 4,
-				[200229] = 3,
+				[35773] = 3,
+				[236672] = 6,
 				[261667] = 3,
-				[167462] = 3,
+				[200229] = 3,
 				[171558] = 9,
-				[116122] = 6,
+				[103835] = 7,
 				[146983] = 3,
 				[269383] = 14,
 				[234697] = 6,
 				[128788] = 3,
 				[123804] = 4,
-				[176492] = 10,
-				[30568] = 16,
+				[130231] = 18,
+				[250215] = 6,
 				[105330] = 3,
 				[236690] = 4,
 				[25192] = 3,
@@ -14633,94 +14586,94 @@ TMWOptDB = {
 				[192039] = 5,
 				[234737] = 3,
 				[179257] = 4,
-				[63182] = 20,
+				[143725] = 3,
 				[120597] = 32,
 				[234599] = 8,
-				[113849] = 6,
-				[52839] = 3,
-				[197067] = 3,
+				[37438] = 6,
+				[89289] = 3,
+				[105878] = 11,
 				[228903] = 3,
-				[210076] = 3,
-				[50108] = 23,
-				[74941] = 3,
+				[79037] = 3,
+				[134890] = 21,
+				[205129] = 15,
 				[179753] = 3,
-				[194927] = 7,
+				[205150] = 4,
 				[18997] = 30,
 				[224808] = 3,
 				[234333] = 11,
 				[200233] = 4,
-				[236005] = 5,
-				[208615] = 3,
-				[17512] = 16,
-				[72895] = 6,
-				[163560] = 8,
-				[82327] = 7,
+				[235797] = 3,
+				[87926] = 4,
+				[48334] = 8,
+				[44238] = 11,
+				[114549] = 6,
+				[43964] = 5,
+				[103629] = 6,
 				[16839] = 4,
-				[167467] = 3,
-				[99533] = 5,
+				[236046] = 8,
 				[175659] = 3,
 				[178981] = 3,
-				[234026] = 4,
+				[31335] = 5,
 				[235366] = 6,
-				[188793] = 3,
+				[234196] = 3,
 				[196139] = 3,
-				[205679] = 10,
+				[63584] = 18,
 				[5362] = 12,
 				[70039] = 4,
-				[21810] = 21,
-				[159277] = 3,
+				[30823] = 6,
+				[235618] = 3,
 				[46989] = 7,
-				[24007] = 4,
+				[159277] = 3,
 				[130839] = 3,
 				[6258] = 4,
+				[52109] = 8,
 				[6514] = 9,
-				[104216] = 5,
 				[179757] = 11,
 				[26567] = 4,
 				[235203] = 3,
 				[79641] = 14,
-				[134703] = 9,
 				[83737] = 7,
-				[162172] = 3,
+				[134703] = 9,
+				[205786] = 5,
 				[87833] = 7,
 				[30663] = 19,
-				[235103] = 4,
-				[1726] = 26,
+				[247069] = 7,
+				[155366] = 6,
 				[64397] = 4,
-				[269765] = 3,
+				[54203] = 3,
 				[88273] = 3,
-				[79252] = 14,
-				[89282] = 6,
+				[205887] = 5,
+				[112847] = 4,
 				[36750] = 28,
-				[233896] = 4,
+				[253667] = 4,
 				[77594] = 3,
-				[223642] = 3,
+				[235073] = 5,
 				[228910] = 4,
 				[200239] = 4,
 				[10724] = 3,
 				[43918] = 9,
-				[102594] = 4,
+				[214782] = 7,
 				[94611] = 19,
 				[220719] = 3,
-				[68371] = 3,
+				[199068] = 7,
 				[49038] = 19,
 				[205963] = 3,
 				[224027] = 3,
 				[208432] = 4,
-				[191260] = 6,
-				[37209] = 5,
-				[235000] = 4,
-				[234988] = 6,
-				[7770] = 21,
+				[71451] = 4,
+				[136578] = 5,
+				[235086] = 3,
+				[206021] = 4,
+				[206085] = 12,
 				[206052] = 5,
-				[80274] = 5,
+				[144912] = 6,
 				[142899] = 6,
-				[234956] = 3,
+				[52426] = 3,
 				[124698] = 5,
 				[42085] = 5,
-				[178742] = 7,
+				[22374] = 18,
 				[153995] = 3,
-				[92560] = 3,
+				[97680] = 4,
 				[34703] = 6,
 				[17864] = 13,
 				[88763] = 8,
@@ -14729,525 +14682,525 @@ TMWOptDB = {
 				[39823] = 3,
 				[81692] = 3,
 				[40847] = 4,
-				[123076] = 5,
-				[49831] = 3,
-				[234801] = 5,
+				[5338] = 23,
+				[36454] = 3,
+				[154847] = 5,
 				[58476] = 3,
 				[155189] = 3,
 				[257586] = 4,
-				[257759] = 5,
-				[206197] = 3,
+				[14063] = 24,
+				[96655] = 3,
 				[138806] = 4,
-				[122056] = 4,
+				[73501] = 6,
 				[106268] = 4,
 				[249395] = 3,
-				[49766] = 3,
+				[178735] = 5,
 				[153431] = 9,
 				[4045] = 3,
 				[167478] = 11,
-				[89487] = 4,
-				[229087] = 20,
-				[159457] = 3,
+				[17208] = 5,
+				[130929] = 4,
+				[751] = 4,
 				[151974] = 16,
 				[135565] = 3,
 				[105435] = 3,
 				[261684] = 4,
 				[33680] = 4,
-				[47817] = 25,
+				[65423] = 3,
 				[163383] = 7,
-				[113437] = 31,
-				[24885] = 8,
-				[110989] = 15,
+				[130844] = 4,
+				[24629] = 11,
+				[70862] = 3,
 				[106700] = 6,
-				[171576] = 4,
-				[134713] = 5,
 				[42896] = 5,
-				[91934] = 15,
-				[212535] = 4,
+				[134713] = 5,
+				[171576] = 4,
 				[45968] = 3,
+				[212535] = 4,
+				[91934] = 15,
 				[187960] = 6,
-				[89293] = 4,
-				[237277] = 3,
+				[194984] = 4,
+				[171743] = 4,
 				[90510] = 8,
 				[277612] = 3,
 				[104222] = 8,
-				[25144] = 16,
+				[102174] = 4,
 				[269421] = 7,
-				[234214] = 3,
-				[85198] = 11,
-				[124784] = 7,
-				[249400] = 3,
+				[22837] = 5,
+				[44745] = 4,
+				[151263] = 4,
+				[206271] = 6,
 				[204345] = 3,
 				[208441] = 10,
 				[147003] = 7,
-				[151099] = 4,
-				[206449] = 6,
+				[249400] = 3,
+				[68817] = 3,
 				[96031] = 7,
 				[98079] = 6,
-				[234047] = 4,
+				[28773] = 3,
 				[206334] = 4,
 				[71456] = 3,
 				[18377] = 4,
-				[120202] = 3,
-				[233964] = 3,
+				[51400] = 12,
+				[199064] = 3,
 				[26212] = 6,
 				[81696] = 5,
 				[4942] = 4,
 				[277618] = 3,
-				[114897] = 7,
-				[23140] = 13,
+				[206582] = 3,
+				[172446] = 3,
 				[33920] = 3,
-				[124113] = 8,
-				[87261] = 4,
-				[192926] = 6,
+				[80267] = 3,
+				[92554] = 3,
+				[207044] = 4,
 				[200252] = 4,
 				[232618] = 6,
+				[225709] = 6,
+				[89968] = 4,
 				[54161] = 5,
-				[147165] = 3,
-				[183869] = 3,
 				[47212] = 3,
 				[169818] = 5,
 				[28617] = 5,
 				[116512] = 7,
 				[85793] = 6,
-				[18788] = 8,
+				[121504] = 9,
 				[245308] = 8,
 				[269431] = 9,
 				[81472] = 28,
-				[82321] = 5,
-				[232426] = 9,
+				[180639] = 3,
+				[44230] = 3,
 				[33901] = 3,
 				[47724] = 3,
-				[58593] = 7,
-				[55041] = 3,
-				[126163] = 14,
+				[88455] = 8,
+				[174736] = 3,
+				[207782] = 9,
 				[110369] = 24,
 				[9957] = 19,
-				[116141] = 14,
-				[140037] = 5,
-				[64204] = 6,
-				[197389] = 4,
+				[207836] = 5,
+				[207900] = 3,
+				[58564] = 5,
+				[81286] = 7,
 				[44946] = 3,
 				[232409] = 3,
 				[93986] = 10,
-				[409] = 12,
-				[24675] = 5,
+				[232400] = 5,
+				[195042] = 4,
 				[67363] = 3,
-				[5013] = 3,
-				[64620] = 3,
+				[88278] = 4,
+				[250620] = 3,
+				[52420] = 3,
 				[13541] = 22,
-				[183873] = 3,
-				[233023] = 4,
+				[51908] = 4,
 				[232927] = 4,
-				[17507] = 3,
-				[208055] = 5,
-				[165626] = 5,
+				[68825] = 3,
+				[208008] = 6,
+				[63683] = 6,
 				[241216] = 4,
 				[61330] = 6,
-				[134874] = 4,
+				[100206] = 14,
 				[220737] = 9,
 				[232748] = 4,
-				[134724] = 3,
 				[100131] = 5,
+				[134724] = 3,
 				[17354] = 10,
+				[20067] = 86,
 				[106275] = 7,
-				[147012] = 8,
 				[249409] = 9,
-				[65754] = 7,
+				[20938] = 51,
 				[257601] = 7,
 				[196163] = 3,
 				[83748] = 12,
 				[163396] = 8,
 				[21962] = 4,
-				[94874] = 15,
+				[42612] = 6,
 				[124707] = 3,
-				[166317] = 6,
-				[269738] = 9,
+				[208110] = 5,
+				[167640] = 3,
 				[90499] = 5,
-				[107748] = 4,
+				[122072] = 6,
 				[90329] = 3,
 				[208452] = 9,
 				[179781] = 4,
-				[208249] = 4,
+				[208142] = 4,
 				[145863] = 9,
-				[97718] = 3,
+				[7449] = 32,
+				[167494] = 3,
 				[269446] = 8,
-				[29130] = 4,
-				[115929] = 10,
-				[103642] = 4,
-				[32220] = 3,
-				[188118] = 3,
-				[161636] = 4,
+				[94438] = 4,
+				[147886] = 5,
+				[96109] = 7,
+				[277927] = 15,
+				[208324] = 4,
 				[64403] = 8,
-				[231578] = 4,
-				[39106] = 8,
+				[26978] = 50,
+				[31708] = 5,
 				[69414] = 10,
 				[175687] = 3,
-				[11549] = 19,
+				[155351] = 5,
 				[37780] = 4,
-				[25657] = 3,
-				[141773] = 4,
+				[125157] = 3,
+				[235971] = 3,
 				[40852] = 4,
 				[233030] = 9,
-				[122661] = 25,
-				[285834] = 434,
 				[245318] = 9,
+				[285834] = 434,
+				[122661] = 25,
 				[12897] = 49,
-				[27178] = 5,
-				[53175] = 9,
+				[227784] = 4,
+				[179925] = 9,
 				[261702] = 3,
 				[50800] = 4,
 				[171593] = 7,
-				[234757] = 7,
-				[226307] = 3,
+				[98086] = 12,
+				[244659] = 4,
 				[151114] = 3,
 				[277645] = 3,
 				[56212] = 7,
-				[45249] = 3,
+				[245459] = 4,
 				[145845] = 9,
 				[231182] = 4,
 				[87847] = 3,
-				[4807] = 63,
+				[128220] = 5,
 				[147892] = 4,
-				[83711] = 3,
-				[140709] = 4,
-				[72941] = 3,
+				[113026] = 3,
+				[123614] = 4,
+				[177973] = 7,
 				[167499] = 9,
-				[261841] = 4,
+				[196307] = 6,
 				[104231] = 4,
-				[232420] = 5,
+				[119638] = 12,
 				[269457] = 25,
 				[230908] = 3,
 				[79656] = 15,
-				[62577] = 3,
+				[10033] = 19,
 				[41877] = 34,
 				[118567] = 3,
-				[124711] = 4,
-				[147021] = 3,
 				[45973] = 7,
+				[147021] = 3,
+				[124711] = 4,
 				[23499] = 5,
 				[60095] = 4,
-				[151118] = 3,
+				[249419] = 6,
 				[200268] = 3,
 				[102184] = 6,
-				[249419] = 6,
-				[179789] = 3,
 				[6771] = 6,
-				[187118] = 3,
-				[212285] = 5,
+				[179789] = 3,
+				[151118] = 3,
+				[64113] = 4,
+				[232253] = 3,
 				[7155] = 4,
 				[116520] = 4,
-				[232029] = 7,
-				[124778] = 3,
-				[88291] = 4,
+				[232204] = 4,
+				[184018] = 3,
+				[155215] = 3,
 				[7795] = 8,
 				[31691] = 3,
-				[9374] = 59,
-				[222146] = 3,
+				[54463] = 3,
+				[73083] = 4,
 				[100137] = 7,
-				[231953] = 6,
+				[86394] = 11,
 				[241229] = 3,
-				[263028] = 4,
-				[127217] = 3,
-				[22843] = 7,
-				[47220] = 8,
+				[6480] = 7,
+				[201448] = 3,
+				[104689] = 27,
+				[105713] = 7,
 				[158442] = 11,
 				[134737] = 3,
 				[204367] = 4,
-				[195009] = 14,
+				[67828] = 5,
 				[44950] = 6,
-				[141795] = 9,
-				[45173] = 4,
+				[209759] = 5,
+				[25915] = 22,
 				[48022] = 3,
-				[230117] = 3,
+				[128241] = 4,
 				[50070] = 5,
 				[63165] = 4,
-				[231683] = 4,
+				[68853] = 5,
 				[186689] = 3,
 				[231726] = 3,
-				[98548] = 4,
+				[229955] = 3,
 				[14054] = 8,
 				[163410] = 4,
-				[237262] = 14,
+				[171728] = 12,
 				[138835] = 10,
-				[117991] = 8,
-				[114537] = 11,
+				[246212] = 3,
+				[40886] = 3,
 				[89335] = 3,
 				[195713] = 7,
 				[96043] = 3,
 				[130858] = 3,
-				[40638] = 8,
-				[114920] = 3,
-				[30268] = 5,
+				[209922] = 3,
+				[192969] = 13,
+				[21600] = 50,
 				[73516] = 6,
 				[240355] = 6,
-				[167631] = 5,
+				[134864] = 3,
 				[71916] = 7,
-				[100599] = 4,
+				[64118] = 4,
 				[200275] = 9,
-				[29433] = 3,
-				[125161] = 3,
-				[231130] = 12,
+				[92394] = 3,
+				[55933] = 3,
+				[180426] = 6,
 				[249426] = 10,
-				[175822] = 4,
+				[120680] = 6,
 				[24012] = 4,
-				[99563] = 4,
+				[44733] = 11,
 				[15408] = 30,
-				[148197] = 9,
+				[140005] = 4,
 				[26060] = 4,
-				[226298] = 5,
-				[230976] = 4,
-				[70907] = 3,
+				[69292] = 3,
+				[70893] = 5,
+				[113012] = 5,
 				[28108] = 6,
 				[14643] = 101,
-				[230783] = 12,
-				[158389] = 13,
+				[154072] = 9,
+				[152802] = 4,
 				[30156] = 10,
 				[25662] = 6,
 				[124716] = 13,
 				[93997] = 22,
-				[229067] = 7,
+				[98152] = 12,
 				[163415] = 6,
-				[45695] = 4,
+				[90362] = 11,
 				[237141] = 3,
-				[108914] = 4,
+				[38077] = 3,
 				[147032] = 5,
-				[230464] = 11,
-				[31070] = 5,
-				[210490] = 9,
+				[106285] = 5,
+				[62139] = 4,
+				[211677] = 4,
 				[230432] = 4,
 				[142045] = 11,
 				[171608] = 3,
 				[208471] = 12,
-				[197118] = 7,
+				[210459] = 8,
 				[223959] = 4,
 				[135899] = 6,
-				[90480] = 8,
+				[210515] = 4,
 				[3152] = 8,
-				[229909] = 3,
+				[228921] = 7,
 				[5272] = 4,
 				[210778] = 3,
-				[66814] = 4,
+				[210782] = 6,
 				[229771] = 3,
 				[26687] = 6,
 				[70912] = 6,
 				[60885] = 3,
 				[116526] = 3,
 				[131561] = 3,
-				[62360] = 3,
-				[159323] = 4,
-				[269487] = 4,
-				[63384] = 3,
+				[75120] = 5,
 				[128814] = 8,
+				[62360] = 3,
+				[63384] = 3,
+				[159323] = 4,
 				[130862] = 9,
 				[16845] = 11,
+				[71472] = 12,
 				[35737] = 3,
-				[104239] = 22,
-				[62077] = 4,
-				[79097] = 6,
+				[210798] = 3,
+				[38529] = 4,
 				[107773] = 8,
-				[245657] = 14,
+				[227458] = 3,
 				[228954] = 4,
 				[210809] = 8,
 				[85808] = 4,
 				[91392] = 5,
-				[52725] = 9,
+				[229233] = 4,
 				[91952] = 13,
-				[55422] = 4,
-				[76847] = 4,
-				[211340] = 6,
+				[106861] = 3,
+				[79104] = 5,
+				[173393] = 7,
 				[134750] = 5,
 				[204380] = 3,
 				[228451] = 10,
 				[245339] = 10,
-				[44671] = 15,
-				[72964] = 3,
-				[228106] = 10,
-				[32205] = 9,
+				[211693] = 3,
+				[5969] = 21,
+				[206686] = 11,
+				[49848] = 9,
 				[83761] = 10,
 				[59289] = 4,
 				[241244] = 8,
 				[147039] = 3,
-				[229062] = 4,
+				[261829] = 3,
 				[253532] = 3,
-				[96049] = 38,
+				[32205] = 9,
 				[196190] = 4,
 				[67378] = 4,
 				[139759] = 6,
 				[164562] = 17,
-				[147967] = 10,
+				[261725] = 4,
 				[249437] = 3,
 				[220766] = 3,
-				[81714] = 30,
 				[163424] = 5,
-				[237150] = 22,
+				[81714] = 30,
 				[277690] = 5,
-				[82171] = 7,
-				[37532] = 4,
-				[123129] = 8,
-				[78076] = 14,
+				[237150] = 22,
+				[229131] = 6,
+				[89436] = 4,
+				[19549] = 12,
+				[205166] = 9,
 				[192096] = 6,
 				[228959] = 6,
-				[39552] = 4,
+				[103786] = 4,
+				[2124] = 15,
 				[52122] = 4,
-				[13031] = 18,
-				[228945] = 3,
+				[35461] = 3,
+				[227857] = 3,
 				[77619] = 4,
-				[188001] = 3,
-				[147953] = 8,
-				[227204] = 8,
+				[115049] = 5,
+				[32604] = 8,
 				[116530] = 3,
-				[228878] = 3,
-				[46103] = 16,
+				[211760] = 5,
+				[227713] = 6,
 				[110853] = 4,
 				[269503] = 9,
-				[211836] = 4,
+				[63158] = 6,
 				[159331] = 5,
-				[186153] = 5,
-				[18382] = 3,
-				[277696] = 4,
-				[249441] = 5,
+				[24385] = 3,
 				[179811] = 4,
-				[1181] = 53,
-				[184516] = 6,
-				[130915] = 3,
+				[277696] = 4,
+				[151140] = 4,
+				[18382] = 3,
+				[249441] = 5,
+				[211820] = 9,
+				[98148] = 3,
 				[187083] = 3,
 				[228776] = 3,
 				[118579] = 3,
-				[52353] = 3,
+				[109832] = 3,
 				[141815] = 3,
-				[79207] = 6,
+				[212092] = 3,
 				[212041] = 3,
 				[103782] = 3,
 				[96615] = 3,
 				[84359] = 7,
 				[52359] = 3,
 				[30299] = 55,
-				[7953] = 7,
+				[237783] = 12,
 				[54171] = 3,
 				[253539] = 4,
-				[228197] = 3,
+				[228375] = 3,
 				[163430] = 5,
-				[226684] = 3,
+				[196167] = 5,
 				[1853] = 3,
 				[142951] = 27,
-				[226564] = 33,
+				[136973] = 3,
 				[183910] = 6,
-				[227962] = 3,
-				[159427] = 4,
+				[42632] = 12,
+				[128866] = 3,
 				[73062] = 4,
 				[33692] = 5,
-				[249536] = 5,
+				[92003] = 4,
 				[203455] = 7,
-				[154114] = 11,
+				[212343] = 9,
 				[75574] = 5,
 				[2426] = 16,
-				[675] = 11,
-				[227751] = 6,
+				[194252] = 4,
+				[227922] = 3,
 				[167528] = 5,
-				[45236] = 6,
+				[35465] = 5,
 				[43932] = 3,
-				[269515] = 40,
 				[151145] = 4,
-				[277885] = 14,
-				[184001] = 5,
-				[117090] = 10,
+				[269515] = 40,
+				[77667] = 3,
+				[151234] = 10,
+				[39561] = 5,
 				[67383] = 4,
-				[71523] = 3,
-				[133639] = 8,
+				[143042] = 6,
+				[90374] = 4,
 				[245351] = 3,
-				[233151] = 4,
+				[100194] = 8,
 				[220776] = 8,
-				[67427] = 7,
+				[19291] = 3,
 				[228968] = 3,
 				[134763] = 4,
 				[146114] = 5,
 				[120630] = 7,
-				[253630] = 3,
+				[47026] = 5,
 				[62364] = 9,
 				[63388] = 3,
-				[81160] = 5,
-				[245438] = 4,
+				[547] = 3,
+				[147137] = 3,
 				[169144] = 3,
-				[242181] = 4,
-				[227010] = 3,
+				[249448] = 5,
+				[82275] = 10,
 				[147052] = 3,
-				[190985] = 41,
+				[4242] = 3,
 				[155244] = 3,
 				[159340] = 5,
 				[211737] = 3,
-				[76048] = 10,
+				[28996] = 5,
 				[42909] = 3,
 				[208491] = 7,
-				[6204] = 31,
+				[226440] = 6,
 				[45981] = 3,
-				[71947] = 4,
-				[226879] = 6,
-				[46215] = 3,
-				[2062] = 13,
+				[36490] = 10,
+				[19498] = 4,
+				[97778] = 31,
+				[7639] = 6,
 				[277716] = 3,
 				[57482] = 6,
 				[212588] = 10,
-				[67006] = 3,
-				[188094] = 3,
-				[85817] = 9,
+				[65158] = 6,
+				[94049] = 20,
+				[118584] = 6,
 				[28623] = 50,
 				[29135] = 7,
-				[118584] = 6,
+				[85817] = 9,
 				[87865] = 5,
 				[75027] = 6,
-				[96845] = 3,
+				[96523] = 5,
 				[7255] = 10,
 				[224877] = 5,
 				[130872] = 5,
 				[146109] = 4,
 				[102201] = 5,
-				[253291] = 4,
-				[23109] = 4,
-				[226692] = 3,
+				[45192] = 3,
+				[89825] = 3,
+				[225995] = 3,
 				[253549] = 3,
 				[49330] = 3,
 				[114489] = 4,
 				[92429] = 9,
 				[226513] = 4,
-				[237243] = 3,
+				[138942] = 5,
 				[44958] = 3,
-				[230068] = 9,
+				[48306] = 13,
 				[155249] = 6,
-				[261818] = 3,
-				[24025] = 23,
+				[196284] = 3,
+				[159421] = 5,
 				[167537] = 4,
-				[84238] = 4,
-				[85262] = 5,
-				[226492] = 3,
-				[70935] = 7,
+				[118548] = 4,
+				[77685] = 4,
+				[97631] = 5,
+				[213454] = 4,
 				[55198] = 7,
-				[118107] = 9,
+				[211635] = 12,
 				[163442] = 3,
 				[200305] = 3,
 				[14824] = 44,
 				[56496] = 7,
-				[102670] = 11,
+				[101733] = 72,
 				[124730] = 4,
 				[277727] = 4,
-				[16360] = 6,
 				[261744] = 3,
+				[16360] = 6,
 				[67388] = 5,
-				[277873] = 11,
-				[61674] = 10,
+				[220858] = 3,
+				[213897] = 3,
 				[73532] = 6,
 				[199866] = 3,
 				[110395] = 11,
 				[79676] = 6,
-				[134773] = 3,
 				[83772] = 4,
-				[17369] = 24,
+				[134773] = 3,
+				[69472] = 9,
 				[85271] = 3,
 				[147061] = 7,
 				[143900] = 5,
 				[220787] = 5,
-				[99607] = 3,
-				[54820] = 7,
+				[226238] = 3,
+				[18504] = 38,
 				[233075] = 5,
 				[226152] = 4,
 				[52127] = 12,
@@ -15255,59 +15208,59 @@ TMWOptDB = {
 				[249459] = 5,
 				[253555] = 7,
 				[56223] = 4,
-				[111917] = 5,
+				[213991] = 4,
 				[58271] = 11,
 				[59295] = 4,
-				[143035] = 6,
-				[226144] = 3,
-				[125207] = 5,
+				[60336] = 4,
+				[164381] = 4,
+				[8903] = 6,
 				[277735] = 4,
 				[257652] = 4,
-				[8621] = 25,
-				[114962] = 3,
+				[13861] = 3,
+				[154288] = 6,
 				[34720] = 5,
 				[208502] = 4,
-				[224783] = 7,
+				[45196] = 3,
 				[75582] = 8,
 				[160813] = 5,
+				[62126] = 3,
 				[163448] = 5,
-				[261749] = 3,
-				[78101] = 9,
-				[120088] = 5,
+				[110208] = 4,
+				[57995] = 6,
 				[217643] = 3,
+				[139950] = 3,
 				[91966] = 3,
-				[151161] = 9,
-				[33933] = 4,
-				[225914] = 3,
+				[214287] = 3,
+				[31048] = 11,
+				[167545] = 8,
 				[134778] = 6,
-				[200312] = 3,
-				[225860] = 36,
-				[55436] = 21,
-				[152268] = 3,
-				[233142] = 4,
+				[224676] = 3,
+				[246439] = 3,
+				[86835] = 3,
+				[83806] = 10,
 				[77631] = 10,
 				[37039] = 12,
-				[217767] = 3,
-				[57743] = 5,
+				[154022] = 3,
+				[35503] = 4,
 				[171642] = 4,
-				[224580] = 6,
+				[225231] = 4,
 				[212601] = 5,
 				[51341] = 5,
+				[214520] = 8,
+				[233081] = 8,
 				[130878] = 5,
 				[100159] = 6,
-				[65440] = 10,
-				[233081] = 8,
 				[138876] = 19,
-				[245369] = 5,
 				[106303] = 4,
+				[245369] = 5,
 				[23896] = 22,
 				[220794] = 9,
 				[192123] = 3,
 				[191468] = 8,
-				[277863] = 7,
+				[63407] = 6,
 				[42913] = 6,
 				[208507] = 5,
-				[214709] = 3,
+				[159357] = 7,
 				[216699] = 9,
 				[47009] = 3,
 				[224891] = 4,
@@ -15317,163 +15270,163 @@ TMWOptDB = {
 				[93528] = 4,
 				[32068] = 3,
 				[224812] = 5,
-				[41615] = 6,
-				[128279] = 3,
+				[146090] = 3,
+				[214731] = 4,
 				[214758] = 3,
-				[16728] = 11,
-				[224776] = 6,
+				[115321] = 3,
+				[173316] = 4,
 				[120640] = 27,
 				[61345] = 7,
 				[124736] = 12,
-				[73565] = 7,
-				[224754] = 6,
-				[121730] = 3,
+				[179893] = 3,
+				[214837] = 36,
+				[76120] = 13,
 				[33698] = 4,
 				[102209] = 11,
 				[8937] = 43,
 				[9193] = 7,
 				[67394] = 6,
 				[205356] = 3,
-				[133681] = 9,
+				[224327] = 3,
 				[163456] = 10,
 				[200319] = 6,
 				[215713] = 4,
 				[74069] = 4,
 				[89922] = 6,
 				[91970] = 6,
-				[17239] = 4,
+				[128833] = 10,
 				[48034] = 11,
-				[193550] = 9,
-				[158591] = 7,
+				[105810] = 7,
+				[19273] = 17,
 				[7830] = 10,
-				[94492] = 9,
+				[137886] = 3,
 				[53154] = 4,
 				[249471] = 18,
 				[277757] = 7,
-				[17106] = 25,
-				[48784] = 6,
+				[22089] = 7,
+				[85827] = 8,
 				[167554] = 3,
 				[237184] = 3,
 				[208513] = 14,
 				[147075] = 7,
-				[224429] = 6,
+				[5587] = 8,
+				[215862] = 3,
 				[64418] = 4,
-				[16105] = 16,
 				[98115] = 17,
-				[84253] = 3,
-				[224414] = 11,
-				[34452] = 25,
-				[223480] = 8,
-				[224945] = 5,
+				[244841] = 3,
+				[182841] = 3,
+				[206267] = 3,
+				[145981] = 6,
+				[128858] = 5,
 				[25942] = 5,
 				[215908] = 3,
-				[81188] = 5,
-				[224334] = 12,
-				[223230] = 13,
+				[198521] = 3,
+				[224349] = 4,
+				[241282] = 3,
 				[87876] = 4,
-				[93470] = 3,
+				[10278] = 62,
 				[147808] = 3,
-				[216021] = 3,
+				[196228] = 4,
 				[159365] = 7,
 				[49059] = 4,
-				[66848] = 9,
-				[126237] = 4,
+				[97566] = 5,
+				[27090] = 4,
 				[71493] = 4,
 				[179845] = 4,
 				[269573] = 3,
 				[220804] = 10,
-				[4630] = 111,
+				[129357] = 4,
 				[217748] = 8,
-				[102234] = 4,
-				[224099] = 4,
-				[65832] = 3,
+				[69467] = 3,
+				[4310] = 7,
+				[141894] = 4,
 				[90400] = 5,
-				[253614] = 10,
-				[257668] = 3,
+				[47022] = 3,
 				[224901] = 6,
+				[257668] = 3,
 				[130884] = 4,
 				[233093] = 4,
 				[69446] = 9,
-				[212655] = 3,
+				[147121] = 5,
 				[212614] = 3,
 				[216710] = 3,
 				[151176] = 4,
-				[222833] = 8,
+				[4246] = 16,
 				[114501] = 5,
-				[58002] = 6,
-				[44179] = 6,
+				[1045] = 5,
+				[260752] = 14,
 				[72015] = 19,
 				[222803] = 4,
 				[45988] = 5,
 				[43177] = 3,
 				[141887] = 5,
-				[55464] = 3,
+				[1365] = 8,
 				[223300] = 3,
-				[269656] = 9,
-				[17747] = 20,
+				[200366] = 5,
+				[269581] = 4,
 				[106310] = 3,
 				[54180] = 5,
-				[131460] = 7,
+				[96548] = 11,
 				[56228] = 8,
 				[229000] = 4,
-				[125220] = 14,
+				[105764] = 3,
 				[126246] = 4,
-				[59117] = 5,
-				[216459] = 4,
-				[216481] = 3,
+				[216321] = 6,
+				[158283] = 5,
+				[32331] = 3,
 				[94023] = 5,
 				[222712] = 3,
 				[163467] = 4,
 				[75086] = 3,
-				[79705] = 5,
-				[144801] = 4,
+				[56237] = 8,
+				[136288] = 6,
 				[1861] = 45,
-				[87338] = 3,
+				[222817] = 3,
 				[86312] = 17,
 				[39845] = 5,
-				[222749] = 5,
+				[216522] = 4,
 				[137987] = 3,
-				[49069] = 6,
+				[130903] = 3,
 				[43941] = 3,
 				[22483] = 35,
-				[35512] = 4,
-				[94040] = 6,
+				[76077] = 8,
+				[155309] = 3,
 				[159373] = 7,
-				[75593] = 3,
+				[134798] = 4,
 				[200332] = 6,
 				[171661] = 5,
-				[79689] = 15,
-				[179853] = 3,
-				[108360] = 6,
-				[241322] = 3,
 				[28115] = 10,
+				[179853] = 3,
+				[75593] = 3,
+				[208555] = 10,
+				[79689] = 15,
 				[190587] = 3,
-				[54934] = 16,
-				[27724] = 7,
+				[222132] = 3,
+				[119079] = 4,
 				[87881] = 15,
 				[89929] = 3,
 				[269591] = 3,
-				[234589] = 3,
+				[37032] = 4,
 				[224909] = 3,
-				[35750] = 4,
+				[3370] = 15,
 				[167567] = 4,
 				[237197] = 17,
-				[71498] = 4,
-				[108375] = 21,
+				[35750] = 4,
+				[151212] = 3,
 				[201337] = 3,
 				[110409] = 12,
-				[58520] = 4,
-				[117033] = 4,
-				[263314] = 4,
+				[34552] = 5,
+				[221914] = 74,
+				[222577] = 11,
 				[221892] = 11,
 				[84334] = 6,
-				[50855] = 12,
+				[221848] = 8,
 				[269595] = 20,
 				[155281] = 3,
-				[222118] = 4,
-				[89943] = 21,
+				[222346] = 5,
+				[61356] = 3,
 				[12522] = 6,
-				[207440] = 7,
+				[148058] = 6,
 				[208528] = 8,
 				[106314] = 4,
 				[97582] = 4,
@@ -15481,2416 +15434,2413 @@ TMWOptDB = {
 				[192145] = 4,
 				[163474] = 9,
 				[47258] = 20,
-				[114518] = 12,
-				[257703] = 4,
+				[3579] = 3,
+				[3515] = 12,
 				[98634] = 4,
-				[53483] = 7,
+				[222067] = 3,
 				[76087] = 6,
 				[244304] = 3,
-				[167328] = 5,
+				[165172] = 6,
 				[33703] = 4,
 				[177815] = 5,
 				[16462] = 5,
-				[2909] = 3,
-				[220818] = 13,
+				[118124] = 8,
 				[19412] = 16,
+				[220818] = 13,
 				[257681] = 7,
 				[114507] = 8,
 				[205450] = 10,
 				[118603] = 3,
 				[21972] = 3,
-				[53464] = 3,
-				[207924] = 6,
+				[152236] = 5,
+				[124207] = 3,
 				[155285] = 3,
 				[224915] = 18,
-				[33644] = 4,
+				[67405] = 19,
 				[100172] = 19,
 				[117064] = 14,
 				[142998] = 3,
 				[53159] = 8,
-				[146060] = 8,
+				[76461] = 12,
 				[79177] = 10,
-				[115111] = 18,
+				[87329] = 8,
 				[261779] = 3,
 				[233108] = 4,
-				[46235] = 4,
-				[31822] = 5,
-				[32724] = 3,
+				[126278] = 3,
+				[188054] = 3,
+				[159383] = 3,
 				[249492] = 6,
 				[94029] = 9,
 				[64423] = 6,
-				[130892] = 3,
-				[123185] = 4,
-				[22621] = 17,
-				[110898] = 9,
-				[220747] = 17,
+				[32724] = 3,
+				[60581] = 5,
+				[60069] = 3,
+				[102727] = 9,
+				[130373] = 15,
 				[37800] = 16,
-				[43725] = 5,
-				[87348] = 3,
-				[12200] = 41,
+				[37542] = 4,
+				[16724] = 3,
+				[136530] = 3,
 				[116557] = 3,
 				[42920] = 4,
 				[241302] = 3,
-				[229015] = 7,
+				[124749] = 27,
 				[91982] = 6,
-				[277830] = 32,
+				[59307] = 13,
 				[192152] = 6,
-				[49064] = 4,
+				[229015] = 7,
 				[167577] = 5,
 				[102222] = 4,
 				[97606] = 10,
 				[212632] = 3,
 				[216728] = 14,
 				[121139] = 8,
-				[131685] = 4,
-				[14248] = 5,
-				[220446] = 3,
+				[15018] = 19,
+				[82229] = 6,
+				[86342] = 3,
 				[85839] = 3,
 				[143003] = 3,
 				[245400] = 4,
 				[29267] = 4,
-				[198167] = 9,
-				[55965] = 3,
+				[76102] = 8,
+				[252513] = 3,
 				[227940] = 16,
 				[121155] = 4,
-				[161365] = 3,
-				[219951] = 6,
+				[269617] = 4,
+				[108367] = 3,
 				[18389] = 3,
 				[151196] = 7,
-				[63139] = 7,
+				[69440] = 5,
 				[219922] = 8,
 				[20437] = 12,
 				[134813] = 6,
-				[80186] = 3,
+				[208539] = 3,
 				[43945] = 3,
 				[44969] = 3,
 				[183964] = 3,
 				[188060] = 3,
-				[106809] = 10,
+				[24533] = 9,
 				[163485] = 7,
-				[175773] = 6,
+				[106320] = 3,
 				[51113] = 7,
-				[241307] = 3,
+				[175773] = 6,
 				[73553] = 6,
-				[69948] = 3,
+				[46244] = 16,
 				[73029] = 30,
-				[37024] = 3,
-				[151204] = 3,
+				[156288] = 5,
+				[108371] = 3,
 				[105786] = 5,
 				[218014] = 3,
 				[54435] = 3,
 				[89937] = 5,
-				[218995] = 4,
+				[219076] = 4,
 				[126800] = 4,
-				[218949] = 4,
-				[97092] = 3,
-				[13609] = 10,
+				[152177] = 6,
+				[219065] = 3,
+				[52899] = 5,
 				[8683] = 7,
-				[29009] = 20,
+				[66884] = 5,
 				[245405] = 5,
 				[249501] = 25,
-				[148086] = 6,
+				[76152] = 3,
 				[192159] = 3,
 				[120128] = 6,
-				[218568] = 3,
+				[2149] = 5,
 				[138913] = 3,
-				[218471] = 6,
-				[218372] = 5,
-				[117054] = 6,
+				[218188] = 3,
+				[218626] = 3,
+				[218208] = 3,
 				[277819] = 3,
 				[114263] = 5,
 				[166523] = 14,
 				[233119] = 6,
 				[237215] = 21,
-				[218288] = 3,
 				[218218] = 6,
+				[218288] = 3,
 				[269629] = 8,
 				[220832] = 8,
-				[218208] = 3,
-				[218626] = 3,
-				[218188] = 3,
-				[2149] = 5,
+				[117054] = 6,
+				[218372] = 5,
+				[218471] = 6,
+				[218568] = 3,
 				[143011] = 7,
-				[76152] = 3,
-				[66884] = 5,
-				[52899] = 5,
-				[219065] = 3,
-				[152177] = 6,
-				[219076] = 4,
+				[148086] = 6,
+				[29009] = 20,
+				[13609] = 10,
+				[97092] = 3,
+				[218949] = 4,
+				[218995] = 4,
 				[102227] = 6,
 				[17878] = 5,
 				[36779] = 3,
-				[108371] = 3,
-				[156288] = 5,
+				[151204] = 3,
+				[37024] = 3,
 				[39851] = 7,
-				[46244] = 16,
-				[106320] = 3,
-				[24533] = 9,
-				[208539] = 3,
+				[69948] = 3,
+				[241307] = 3,
+				[106809] = 10,
+				[80186] = 3,
 				[212643] = 3,
-				[69440] = 5,
-				[108367] = 3,
-				[269617] = 4,
+				[63139] = 7,
+				[219951] = 6,
+				[161365] = 3,
 				[163493] = 3,
 				[200356] = 3,
-				[252513] = 3,
-				[76102] = 8,
+				[55965] = 3,
+				[198167] = 9,
 				[106324] = 5,
-				[86342] = 3,
-				[82229] = 6,
-				[15018] = 19,
+				[220446] = 3,
+				[14248] = 5,
+				[131685] = 4,
 				[261795] = 3,
 				[134823] = 3,
-				[59307] = 13,
-				[124749] = 27,
-				[136530] = 3,
-				[16724] = 3,
-				[37542] = 4,
-				[130373] = 15,
-				[102727] = 9,
-				[60069] = 3,
-				[60581] = 5,
-				[159383] = 3,
-				[188054] = 3,
-				[126278] = 3,
-				[87329] = 8,
+				[277830] = 32,
+				[49064] = 4,
+				[12200] = 41,
+				[87348] = 3,
+				[43725] = 5,
+				[220747] = 17,
+				[110898] = 9,
+				[22621] = 17,
+				[123185] = 4,
+				[130892] = 3,
+				[31822] = 5,
+				[46235] = 4,
+				[115111] = 18,
 				[192167] = 6,
-				[76461] = 12,
+				[146060] = 8,
 				[116565] = 4,
-				[67405] = 19,
-				[124207] = 3,
-				[152236] = 5,
+				[33644] = 4,
+				[207924] = 6,
+				[53464] = 3,
 				[183976] = 7,
 				[126805] = 3,
-				[118124] = 8,
+				[2909] = 3,
 				[196264] = 5,
 				[233127] = 7,
-				[165172] = 6,
+				[167328] = 5,
 				[52140] = 4,
 				[3323] = 6,
-				[222067] = 3,
+				[53483] = 7,
 				[77655] = 7,
-				[3515] = 12,
-				[3579] = 3,
+				[257703] = 4,
+				[114518] = 12,
 				[58284] = 7,
 				[171690] = 24,
-				[148058] = 6,
-				[61356] = 3,
-				[222346] = 5,
-				[221848] = 8,
+				[207440] = 7,
+				[89943] = 21,
+				[222118] = 4,
+				[50855] = 12,
 				[159403] = 3,
 				[261800] = 6,
-				[222577] = 11,
-				[221914] = 74,
-				[34552] = 5,
+				[263314] = 4,
+				[117033] = 4,
+				[58520] = 4,
 				[212650] = 3,
-				[151212] = 3,
-				[3370] = 15,
-				[37032] = 4,
-				[119079] = 4,
-				[222132] = 3,
+				[108375] = 21,
+				[71498] = 4,
+				[234589] = 3,
+				[27724] = 7,
+				[54934] = 16,
 				[42925] = 7,
-				[208555] = 10,
+				[241322] = 3,
 				[44973] = 4,
-				[134798] = 4,
-				[155309] = 3,
-				[76077] = 8,
-				[130903] = 3,
+				[108360] = 6,
+				[94040] = 6,
+				[35512] = 4,
+				[49069] = 6,
 				[269652] = 3,
-				[216522] = 4,
+				[222749] = 5,
 				[71513] = 3,
-				[222817] = 3,
+				[87338] = 3,
 				[27095] = 8,
-				[136288] = 6,
-				[56237] = 8,
+				[144801] = 4,
+				[79705] = 5,
 				[163502] = 3,
 				[167598] = 8,
-				[32331] = 3,
-				[158283] = 5,
-				[216321] = 6,
+				[216481] = 3,
+				[216459] = 4,
+				[59117] = 5,
 				[91993] = 4,
-				[105764] = 3,
-				[96548] = 11,
-				[269581] = 4,
-				[200366] = 5,
+				[125220] = 14,
+				[131460] = 7,
+				[17747] = 20,
+				[269656] = 9,
 				[138928] = 7,
-				[1365] = 8,
+				[55464] = 3,
 				[245421] = 16,
 				[216750] = 5,
 				[110425] = 11,
 				[257709] = 6,
-				[260752] = 14,
-				[1045] = 5,
-				[4246] = 16,
+				[44179] = 6,
+				[58002] = 6,
+				[222833] = 8,
 				[10988] = 19,
-				[147121] = 5,
+				[212655] = 3,
 				[183984] = 3,
-				[47022] = 3,
+				[253614] = 10,
 				[48046] = 6,
-				[141894] = 4,
-				[4310] = 7,
-				[69467] = 3,
+				[65832] = 3,
+				[224099] = 4,
+				[102234] = 4,
 				[241327] = 3,
-				[129357] = 4,
-				[27090] = 4,
-				[97566] = 5,
-				[196228] = 4,
+				[4630] = 111,
+				[126237] = 4,
+				[66848] = 9,
+				[216021] = 3,
 				[163506] = 11,
-				[10278] = 62,
-				[241282] = 3,
-				[224349] = 4,
-				[198521] = 3,
+				[93470] = 3,
+				[223230] = 13,
+				[224334] = 12,
+				[81188] = 5,
 				[15596] = 4,
 				[126810] = 3,
-				[128858] = 5,
-				[145981] = 6,
-				[206267] = 3,
-				[182841] = 3,
-				[244841] = 3,
-				[215862] = 3,
-				[5587] = 8,
-				[85827] = 8,
-				[22089] = 7,
-				[137886] = 3,
+				[224945] = 5,
+				[223480] = 8,
+				[34452] = 25,
+				[224414] = 11,
+				[84253] = 3,
+				[16105] = 16,
+				[224429] = 6,
+				[48784] = 6,
+				[17106] = 25,
+				[94492] = 9,
 				[134837] = 4,
-				[19273] = 17,
-				[105810] = 7,
-				[128833] = 10,
+				[158591] = 7,
+				[193550] = 9,
+				[17239] = 4,
 				[45999] = 9,
 				[220851] = 3,
-				[224327] = 3,
+				[133681] = 9,
 				[130907] = 3,
 				[50095] = 3,
-				[76120] = 13,
-				[214837] = 36,
-				[179893] = 3,
-				[173316] = 4,
-				[115321] = 3,
+				[121730] = 3,
+				[224754] = 6,
+				[73565] = 7,
+				[224776] = 6,
+				[16728] = 11,
 				[159414] = 6,
-				[214731] = 4,
-				[146090] = 3,
+				[128279] = 3,
+				[41615] = 6,
 				[29656] = 3,
 				[143031] = 3,
 				[147127] = 6,
-				[159357] = 7,
-				[63407] = 6,
+				[214709] = 3,
+				[277863] = 7,
 				[96093] = 4,
 				[229045] = 6,
 				[33712] = 7,
 				[237237] = 3,
-				[214520] = 8,
+				[65440] = 10,
 				[212662] = 5,
-				[225231] = 4,
-				[35503] = 4,
-				[154022] = 3,
+				[224580] = 6,
+				[57743] = 5,
+				[217767] = 3,
 				[81758] = 3,
-				[83806] = 10,
-				[86835] = 3,
-				[246439] = 3,
-				[224676] = 3,
-				[167545] = 8,
-				[31048] = 11,
-				[214287] = 3,
-				[139950] = 3,
+				[233142] = 4,
+				[152268] = 3,
+				[55436] = 21,
+				[225860] = 36,
+				[200312] = 3,
+				[225914] = 3,
+				[33933] = 4,
+				[151161] = 9,
 				[134842] = 5,
-				[57995] = 6,
-				[110208] = 4,
-				[62126] = 3,
+				[120088] = 5,
+				[78101] = 9,
+				[261749] = 3,
 				[249527] = 8,
-				[45196] = 3,
-				[154288] = 6,
-				[13861] = 3,
-				[8903] = 6,
-				[164381] = 4,
-				[60336] = 4,
-				[213991] = 4,
+				[224783] = 7,
+				[114962] = 3,
+				[8621] = 25,
+				[125207] = 5,
+				[226144] = 3,
+				[143035] = 6,
+				[111917] = 5,
 				[151227] = 4,
-				[18504] = 38,
-				[226238] = 3,
+				[54820] = 7,
+				[99607] = 3,
 				[65456] = 3,
 				[16857] = 7,
-				[69472] = 9,
+				[17369] = 24,
 				[35761] = 6,
 				[106335] = 10,
-				[213897] = 3,
-				[220858] = 3,
+				[61674] = 10,
+				[277873] = 11,
 				[79712] = 3,
-				[101733] = 72,
+				[102670] = 11,
 				[269682] = 3,
-				[211635] = 12,
-				[213454] = 4,
-				[97631] = 5,
-				[77685] = 4,
-				[118548] = 4,
-				[159421] = 5,
-				[196284] = 3,
-				[48306] = 13,
-				[138942] = 5,
+				[118107] = 9,
+				[70935] = 7,
+				[226492] = 3,
+				[85262] = 5,
+				[84238] = 4,
+				[24025] = 23,
+				[261818] = 3,
+				[230068] = 9,
+				[237243] = 3,
 				[208572] = 7,
 				[26585] = 5,
 				[75617] = 5,
-				[225995] = 3,
-				[89825] = 3,
-				[45192] = 3,
+				[226692] = 3,
+				[23109] = 4,
+				[253291] = 4,
 				[29145] = 3,
 				[85857] = 5,
-				[96523] = 5,
+				[96845] = 3,
 				[179902] = 5,
 				[216765] = 3,
-				[94049] = 20,
-				[65158] = 6,
+				[188094] = 3,
+				[67006] = 3,
 				[163519] = 3,
-				[7639] = 6,
-				[97778] = 31,
-				[19498] = 4,
-				[36490] = 10,
-				[226440] = 6,
-				[28996] = 5,
+				[2062] = 13,
+				[46215] = 3,
+				[226879] = 6,
+				[71947] = 4,
+				[6204] = 31,
+				[76048] = 10,
 				[257725] = 5,
-				[4242] = 3,
-				[82275] = 10,
-				[249448] = 5,
+				[190985] = 41,
+				[227010] = 3,
+				[242181] = 4,
 				[120673] = 4,
-				[147137] = 3,
-				[547] = 3,
-				[47026] = 5,
+				[245438] = 4,
+				[81160] = 5,
+				[253630] = 3,
 				[192192] = 5,
-				[19291] = 3,
-				[100194] = 8,
-				[90374] = 4,
-				[143042] = 6,
-				[39561] = 5,
-				[151234] = 10,
-				[77667] = 3,
+				[67427] = 7,
+				[233151] = 4,
+				[133639] = 8,
+				[71523] = 3,
+				[117090] = 10,
+				[184001] = 5,
+				[277885] = 14,
 				[224960] = 7,
-				[35465] = 5,
-				[227922] = 3,
-				[194252] = 4,
-				[212343] = 9,
+				[45236] = 6,
+				[227751] = 6,
+				[675] = 11,
+				[154114] = 11,
 				[212673] = 3,
-				[92003] = 4,
+				[249536] = 5,
 				[15853] = 6,
-				[128866] = 3,
-				[42632] = 12,
-				[136973] = 3,
-				[196167] = 5,
-				[228375] = 3,
-				[237783] = 12,
+				[159427] = 4,
+				[227962] = 3,
+				[226564] = 33,
+				[226684] = 3,
+				[228197] = 3,
+				[7953] = 7,
 				[216770] = 3,
 				[220866] = 4,
 				[79716] = 3,
 				[163524] = 8,
 				[134853] = 3,
 				[237250] = 11,
-				[212092] = 3,
+				[79207] = 6,
 				[44979] = 5,
-				[109832] = 3,
+				[52353] = 3,
 				[23514] = 3,
 				[96100] = 3,
-				[98148] = 3,
-				[211820] = 9,
-				[151140] = 4,
+				[130915] = 3,
+				[184516] = 6,
+				[1181] = 53,
 				[26074] = 3,
-				[24385] = 3,
-				[63158] = 6,
+				[186153] = 5,
+				[211836] = 4,
 				[253635] = 4,
-				[227713] = 6,
-				[211760] = 5,
-				[32604] = 8,
-				[115049] = 5,
-				[227857] = 3,
-				[35461] = 3,
-				[2124] = 15,
-				[103786] = 4,
-				[205166] = 9,
-				[19549] = 12,
-				[89436] = 4,
-				[229131] = 6,
+				[46103] = 16,
+				[228878] = 3,
+				[227204] = 8,
+				[147953] = 8,
+				[188001] = 3,
+				[228945] = 3,
+				[13031] = 18,
+				[39552] = 4,
+				[78076] = 14,
+				[123129] = 8,
+				[37532] = 4,
+				[82171] = 7,
 				[241349] = 5,
 				[245445] = 6,
-				[261725] = 4,
+				[147967] = 10,
 				[110437] = 6,
 				[159432] = 3,
-				[261829] = 3,
-				[49848] = 9,
-				[206686] = 11,
-				[5969] = 21,
-				[211693] = 3,
+				[229062] = 4,
+				[96049] = 38,
+				[228106] = 10,
+				[72964] = 3,
+				[44671] = 15,
 				[249542] = 7,
-				[173393] = 7,
-				[79104] = 5,
-				[106861] = 3,
-				[229233] = 4,
+				[211340] = 6,
+				[76847] = 4,
+				[55422] = 4,
+				[52725] = 9,
 				[102246] = 11,
 				[71527] = 12,
-				[227458] = 3,
+				[245657] = 14,
 				[184009] = 4,
-				[38529] = 4,
-				[210798] = 3,
-				[71472] = 12,
+				[79097] = 6,
+				[62077] = 4,
+				[104239] = 22,
 				[58292] = 56,
-				[75120] = 5,
+				[269487] = 4,
 				[143051] = 147,
 				[147147] = 5,
 				[62388] = 4,
 				[253640] = 4,
 				[192202] = 4,
-				[210782] = 6,
+				[66814] = 4,
 				[134860] = 3,
 				[4343] = 9,
-				[228921] = 7,
+				[229909] = 3,
 				[212682] = 4,
-				[210515] = 4,
+				[90480] = 8,
 				[155340] = 3,
 				[159436] = 20,
-				[210459] = 8,
+				[197118] = 7,
 				[269714] = 23,
 				[42933] = 3,
-				[211677] = 4,
-				[62139] = 4,
-				[106285] = 5,
-				[38077] = 3,
-				[90362] = 11,
-				[98152] = 12,
+				[210490] = 9,
+				[31070] = 5,
+				[230464] = 11,
+				[108914] = 4,
+				[45695] = 4,
+				[229067] = 7,
 				[50101] = 4,
-				[152802] = 4,
-				[154072] = 9,
+				[158389] = 13,
+				[230783] = 12,
 				[179917] = 3,
-				[113012] = 5,
-				[70893] = 5,
-				[69292] = 3,
-				[140005] = 4,
+				[70907] = 3,
+				[230976] = 4,
+				[226298] = 5,
+				[148197] = 9,
 				[116584] = 7,
-				[44733] = 11,
-				[120680] = 6,
-				[180426] = 6,
-				[55933] = 3,
-				[92394] = 3,
-				[64118] = 4,
+				[99563] = 4,
+				[175822] = 4,
+				[231130] = 12,
+				[125161] = 3,
+				[29433] = 3,
+				[100599] = 4,
 				[65461] = 5,
-				[134864] = 3,
+				[167631] = 5,
 				[277912] = 4,
-				[21600] = 50,
-				[192969] = 13,
-				[209922] = 3,
+				[30268] = 5,
+				[114920] = 3,
+				[40638] = 8,
 				[253645] = 5,
 				[79722] = 3,
-				[40886] = 3,
-				[246212] = 3,
-				[171728] = 12,
-				[229955] = 3,
+				[114537] = 11,
+				[117991] = 8,
+				[237262] = 14,
+				[98548] = 4,
 				[212687] = 17,
 				[249550] = 18,
-				[68853] = 5,
+				[231683] = 4,
 				[192208] = 10,
-				[128241] = 4,
-				[25915] = 22,
-				[209759] = 5,
-				[67828] = 5,
+				[230117] = 3,
+				[45173] = 4,
+				[141795] = 9,
+				[195009] = 14,
 				[106346] = 6,
-				[105713] = 7,
-				[104689] = 27,
-				[201448] = 3,
-				[6480] = 7,
-				[86394] = 11,
-				[73083] = 4,
-				[54463] = 3,
-				[155215] = 3,
-				[184018] = 3,
-				[232204] = 4,
-				[232253] = 3,
-				[64113] = 4,
+				[47220] = 8,
+				[22843] = 7,
+				[127217] = 3,
+				[263028] = 4,
+				[231953] = 6,
+				[222146] = 3,
+				[9374] = 59,
+				[88291] = 4,
+				[124778] = 3,
+				[232029] = 7,
+				[212285] = 5,
+				[187118] = 3,
 				[67436] = 3,
 				[69484] = 3,
 				[17884] = 55,
 				[147156] = 4,
-				[10033] = 19,
+				[62577] = 3,
 				[220882] = 5,
-				[119638] = 12,
-				[196307] = 6,
-				[177973] = 7,
-				[123614] = 4,
-				[113026] = 3,
+				[232420] = 5,
+				[261841] = 4,
+				[72941] = 3,
+				[140709] = 4,
+				[83711] = 3,
 				[122731] = 4,
-				[128220] = 5,
+				[4807] = 63,
 				[126827] = 6,
 				[48055] = 3,
-				[245459] = 4,
-				[244659] = 4,
-				[98086] = 12,
+				[45249] = 3,
+				[226307] = 3,
+				[234757] = 7,
 				[241363] = 4,
-				[179925] = 9,
-				[227784] = 4,
+				[53175] = 9,
+				[27178] = 5,
 				[253651] = 3,
 				[56247] = 4,
-				[235971] = 3,
-				[125157] = 3,
-				[155351] = 5,
-				[31708] = 5,
-				[26978] = 50,
-				[208324] = 4,
-				[277927] = 15,
-				[96109] = 7,
-				[147886] = 5,
-				[94438] = 4,
-				[167494] = 3,
-				[7449] = 32,
+				[141773] = 4,
+				[25657] = 3,
+				[11549] = 19,
+				[39106] = 8,
+				[231578] = 4,
+				[161636] = 4,
+				[188118] = 3,
+				[32220] = 3,
+				[103642] = 4,
+				[115929] = 10,
+				[29130] = 4,
+				[97718] = 3,
 				[36792] = 4,
-				[208142] = 4,
+				[208249] = 4,
 				[110445] = 4,
-				[122072] = 6,
+				[107748] = 4,
 				[81774] = 8,
-				[167640] = 3,
-				[208110] = 5,
-				[42612] = 6,
+				[269738] = 9,
+				[166317] = 6,
+				[94874] = 15,
 				[147161] = 3,
-				[20938] = 51,
-				[20067] = 86,
+				[65754] = 7,
+				[147012] = 8,
 				[257750] = 3,
 				[163545] = 5,
-				[100206] = 14,
-				[63683] = 6,
-				[208008] = 6,
-				[68825] = 3,
+				[134874] = 4,
+				[165626] = 5,
+				[208055] = 5,
+				[17507] = 3,
 				[151258] = 4,
-				[51908] = 4,
-				[52420] = 3,
-				[250620] = 3,
-				[88278] = 4,
-				[195042] = 4,
-				[232400] = 5,
+				[233023] = 4,
+				[183873] = 3,
+				[64620] = 3,
+				[5013] = 3,
+				[24675] = 5,
+				[409] = 12,
 				[245464] = 5,
-				[81286] = 7,
-				[58564] = 5,
-				[207900] = 3,
-				[207836] = 5,
-				[207782] = 9,
-				[174736] = 3,
-				[88455] = 8,
+				[197389] = 4,
+				[64204] = 6,
+				[140037] = 5,
+				[116141] = 14,
+				[126163] = 14,
+				[55041] = 3,
+				[58593] = 7,
 				[73584] = 3,
 				[37817] = 4,
-				[44230] = 3,
-				[180639] = 3,
+				[232426] = 9,
+				[82321] = 5,
 				[261849] = 5,
-				[121504] = 9,
+				[18788] = 8,
 				[42937] = 6,
 				[21981] = 6,
-				[89968] = 4,
-				[225709] = 6,
+				[147165] = 3,
+				[183869] = 3,
 				[188124] = 20,
-				[207044] = 4,
-				[92554] = 3,
-				[80267] = 3,
+				[192926] = 6,
+				[87261] = 4,
+				[124113] = 8,
 				[204508] = 3,
-				[172446] = 3,
-				[206582] = 3,
+				[23140] = 13,
+				[114897] = 7,
 				[108400] = 15,
 				[155358] = 7,
-				[199064] = 3,
-				[51400] = 12,
+				[233964] = 3,
+				[120202] = 3,
 				[233180] = 7,
-				[28773] = 3,
-				[68817] = 3,
-				[206271] = 6,
-				[151263] = 4,
-				[44745] = 4,
-				[22837] = 5,
-				[102174] = 4,
+				[234047] = 4,
+				[206449] = 6,
+				[151099] = 4,
+				[124784] = 7,
+				[85198] = 11,
+				[234214] = 3,
+				[25144] = 16,
 				[67442] = 10,
-				[171743] = 4,
-				[194984] = 4,
+				[237277] = 3,
+				[89293] = 4,
 				[106353] = 3,
 				[184031] = 4,
 				[607] = 26,
-				[70862] = 3,
-				[24629] = 11,
-				[130844] = 4,
+				[110989] = 15,
+				[24885] = 8,
+				[113437] = 31,
 				[118641] = 3,
-				[65423] = 3,
+				[47817] = 25,
 				[245470] = 5,
 				[269755] = 8,
 				[277947] = 3,
-				[751] = 4,
-				[130929] = 4,
-				[17208] = 5,
+				[159457] = 3,
+				[229087] = 20,
+				[89487] = 4,
 				[12783] = 4,
 				[241375] = 4,
-				[178735] = 5,
-				[73501] = 6,
-				[96655] = 3,
-				[14063] = 24,
+				[49766] = 3,
+				[122056] = 4,
+				[206197] = 3,
+				[257759] = 5,
 				[163554] = 4,
-				[154847] = 5,
-				[36454] = 3,
-				[5338] = 23,
+				[234801] = 5,
+				[49831] = 3,
+				[123076] = 5,
 				[61370] = 4,
 				[975] = 5,
 				[126834] = 4,
-				[97680] = 4,
+				[92560] = 3,
 				[1023] = 21,
-				[22374] = 18,
+				[178742] = 7,
 				[237281] = 5,
-				[52426] = 3,
-				[144912] = 6,
+				[234956] = 3,
+				[80274] = 5,
 				[249569] = 23,
-				[206085] = 12,
-				[206021] = 4,
-				[235086] = 3,
-				[136578] = 5,
-				[71451] = 4,
+				[7770] = 21,
+				[234988] = 6,
+				[235000] = 4,
+				[37209] = 5,
+				[191260] = 6,
 				[1374] = 12,
 				[44987] = 6,
-				[199068] = 7,
+				[68371] = 3,
 				[23518] = 19,
-				[214782] = 7,
-				[235073] = 5,
-				[253667] = 4,
-				[112847] = 4,
-				[205887] = 5,
+				[102594] = 4,
+				[223642] = 3,
+				[233896] = 4,
+				[89282] = 6,
+				[79252] = 14,
 				[73589] = 10,
-				[54203] = 3,
-				[155366] = 6,
-				[247069] = 7,
-				[205786] = 5,
+				[269765] = 3,
+				[1726] = 26,
+				[235103] = 4,
+				[162172] = 3,
 				[233188] = 4,
 				[29662] = 3,
 				[241380] = 3,
-				[52109] = 8,
-				[235618] = 3,
-				[30823] = 6,
+				[104216] = 5,
+				[24007] = 4,
+				[21810] = 21,
 				[96117] = 8,
-				[63584] = 18,
-				[234196] = 3,
+				[205679] = 10,
+				[188793] = 3,
 				[69494] = 9,
-				[31335] = 5,
+				[234026] = 4,
 				[106357] = 11,
-				[236046] = 8,
-				[103629] = 6,
-				[43964] = 5,
-				[114549] = 6,
-				[44238] = 11,
-				[48334] = 8,
-				[87926] = 4,
-				[235797] = 3,
+				[99533] = 5,
+				[167467] = 3,
+				[82327] = 7,
+				[163560] = 8,
+				[72895] = 6,
+				[17512] = 16,
+				[208615] = 3,
+				[236005] = 5,
 				[184040] = 3,
 				[94070] = 28,
-				[205150] = 4,
-				[205129] = 15,
-				[134890] = 21,
-				[79037] = 3,
-				[105878] = 11,
-				[89289] = 3,
-				[37438] = 6,
+				[194927] = 7,
+				[74941] = 3,
+				[50108] = 23,
+				[210076] = 3,
+				[197067] = 3,
+				[52839] = 3,
+				[113849] = 6,
 				[55228] = 5,
-				[143725] = 3,
+				[63182] = 20,
 				[81783] = 7,
 				[167658] = 9,
 				[59324] = 6,
 				[60348] = 4,
 				[245480] = 3,
-				[250215] = 6,
-				[130231] = 18,
+				[30568] = 16,
+				[176492] = 10,
 				[159467] = 5,
 				[4092] = 8,
-				[103835] = 7,
-				[236672] = 6,
-				[35773] = 3,
+				[116122] = 6,
+				[167462] = 3,
+				[241385] = 4,
 				[147180] = 3,
-				[133241] = 3,
-				[75974] = 4,
-				[74950] = 7,
-				[258861] = 3,
-				[100764] = 3,
-				[46692] = 3,
-				[204124] = 3,
+				[49610] = 3,
+				[66760] = 5,
+				[81079] = 3,
+				[236876] = 3,
+				[75165] = 3,
+				[234849] = 4,
+				[249377] = 14,
 				[212715] = 3,
 				[151277] = 3,
-				[236930] = 4,
-				[48061] = 3,
+				[246112] = 3,
+				[192236] = 5,
 				[196332] = 3,
-				[221537] = 4,
-				[203871] = 3,
+				[133943] = 3,
+				[131430] = 14,
 				[52157] = 9,
-				[236987] = 7,
-				[152377] = 10,
+				[89269] = 3,
+				[140087] = 5,
 				[220908] = 4,
-				[114865] = 5,
-				[48010] = 6,
+				[63579] = 4,
+				[19562] = 7,
 				[83833] = 3,
-				[179744] = 3,
+				[116915] = 7,
 				[30175] = 4,
 				[245484] = 14,
-				[204047] = 3,
+				[186767] = 3,
 				[7928] = 4,
 				[128888] = 5,
 				[261868] = 4,
 				[233197] = 4,
-				[93969] = 16,
-				[159263] = 3,
-				[209828] = 3,
-				[217913] = 3,
+				[42271] = 4,
+				[235194] = 5,
+				[181128] = 3,
+				[86383] = 9,
 				[110457] = 9,
-				[196982] = 3,
-				[79267] = 9,
+				[134125] = 4,
+				[203642] = 4,
 				[116601] = 4,
-				[203158] = 5,
-				[56921] = 4,
-				[179952] = 5,
+				[153978] = 3,
+				[143737] = 3,
+				[89978] = 5,
 				[92026] = 5,
 				[155377] = 4,
 				[225007] = 10,
-				[193341] = 3,
-				[69392] = 3,
+				[196123] = 3,
+				[18734] = 29,
 				[237295] = 12,
-				[71855] = 6,
+				[65713] = 6,
 				[147186] = 7,
-				[151282] = 3,
+				[269789] = 4,
 				[77691] = 4,
-				[73904] = 7,
-				[244539] = 3,
-				[65470] = 9,
-				[100110] = 19,
-				[236503] = 3,
-				[202793] = 3,
+				[136000] = 10,
+				[28461] = 6,
+				[110350] = 18,
+				[110764] = 4,
+				[203141] = 6,
+				[64600] = 4,
 				[124794] = 3,
-				[253680] = 3,
+				[277983] = 3,
 				[192242] = 3,
-				[16368] = 4,
-				[73900] = 3,
-				[24113] = 4,
-				[10137] = 90,
-				[18400] = 31,
-				[68782] = 3,
-				[91580] = 14,
+				[98171] = 4,
+				[60627] = 12,
+				[112034] = 5,
+				[12439] = 22,
+				[36799] = 6,
+				[237977] = 15,
+				[21355] = 12,
 				[159476] = 3,
 				[196339] = 3,
 				[233202] = 3,
-				[118651] = 6,
-				[202267] = 5,
-				[55383] = 26,
-				[197612] = 7,
-				[139626] = 3,
-				[236847] = 11,
-				[98060] = 4,
-				[85175] = 3,
-				[250209] = 3,
-				[24428] = 7,
-				[178011] = 7,
-				[33495] = 4,
-				[236881] = 5,
+				[85884] = 13,
+				[90703] = 5,
+				[1907] = 36,
+				[143694] = 4,
+				[92346] = 3,
+				[100772] = 4,
+				[261650] = 3,
+				[103592] = 5,
+				[67754] = 5,
+				[47190] = 19,
+				[238607] = 9,
+				[45782] = 3,
+				[79016] = 3,
 				[28128] = 3,
 				[261875] = 3,
 				[167670] = 3,
-				[202100] = 3,
+				[148977] = 6,
 				[120700] = 6,
-				[125110] = 3,
-				[170859] = 7,
-				[202034] = 3,
-				[84726] = 11,
-				[43735] = 3,
+				[239038] = 4,
+				[136926] = 3,
+				[38485] = 3,
+				[202252] = 6,
+				[13590] = 18,
 				[67454] = 4,
 				[102269] = 5,
-				[19373] = 13,
-				[49030] = 4,
-				[212495] = 15,
-				[239090] = 11,
-				[12822] = 21,
+				[12694] = 16,
+				[46676] = 4,
+				[94633] = 7,
+				[1767] = 9,
+				[199501] = 5,
 				[114557] = 5,
 				[269802] = 4,
 				[42944] = 4,
-				[175864] = 6,
+				[208631] = 3,
 				[212727] = 7,
-				[13731] = 5,
-				[239313] = 5,
-				[202014] = 5,
-				[155150] = 8,
+				[220685] = 3,
+				[201575] = 4,
+				[123041] = 6,
+				[8854] = 3,
 				[233207] = 3,
-				[82451] = 21,
+				[30250] = 4,
 				[241399] = 10,
-				[147194] = 4,
-				[48723] = 10,
-				[239487] = 5,
-				[119477] = 10,
+				[179961] = 5,
+				[100529] = 8,
+				[191599] = 3,
+				[54488] = 3,
 				[261879] = 3,
 				[200441] = 6,
 				[277998] = 6,
-				[4956] = 4,
-				[18986] = 3,
-				[14135] = 10,
+				[239516] = 4,
+				[23850] = 8,
+				[21550] = 6,
 				[155387] = 9,
-				[114094] = 13,
+				[79278] = 26,
 				[229113] = 6,
-				[189272] = 4,
-				[34753] = 4,
-				[153914] = 6,
-				[122027] = 7,
-				[519] = 8,
+				[62033] = 4,
+				[69504] = 3,
+				[239837] = 6,
+				[187225] = 10,
+				[98735] = 21,
 				[77696] = 3,
-				[159484] = 4,
-				[52312] = 3,
-				[237921] = 4,
-				[84127] = 9,
-				[111025] = 17,
-				[238029] = 5,
+				[39873] = 3,
+				[75185] = 4,
+				[56912] = 4,
+				[128155] = 7,
+				[237829] = 4,
+				[3590] = 3,
 				[92032] = 6,
-				[165231] = 4,
-				[48065] = 17,
+				[32655] = 4,
+				[96128] = 6,
 				[130943] = 7,
 				[269812] = 3,
 				[139006] = 4,
-				[189649] = 3,
-				[53185] = 8,
-				[85148] = 10,
-				[188157] = 3,
+				[240121] = 5,
+				[73601] = 4,
+				[83101] = 7,
+				[278005] = 3,
 				[56257] = 3,
 				[196349] = 3,
-				[24872] = 11,
-				[114856] = 3,
+				[176990] = 5,
+				[240152] = 4,
 				[60353] = 54,
 				[61377] = 3,
 				[151295] = 5,
-				[104196] = 9,
+				[31016] = 6,
 				[32225] = 8,
 				[163583] = 3,
-				[84403] = 16,
-				[137547] = 3,
-				[106930] = 3,
+				[240407] = 3,
+				[61154] = 8,
+				[180595] = 4,
 				[9201] = 19,
 				[37826] = 4,
 				[9713] = 20,
-				[34691] = 3,
+				[100781] = 3,
 				[81794] = 7,
-				[240483] = 7,
-				[150167] = 7,
+				[144282] = 3,
+				[240581] = 9,
 				[87938] = 3,
-				[91575] = 4,
-				[11505] = 6,
-				[126849] = 7,
-				[192256] = 4,
-				[200016] = 7,
+				[20008] = 11,
+				[249598] = 31,
+				[220927] = 3,
+				[159489] = 10,
+				[238547] = 3,
 				[100226] = 3,
-				[240682] = 7,
-				[199904] = 7,
-				[175331] = 3,
-				[199776] = 6,
+				[65687] = 8,
+				[1091] = 7,
+				[33878] = 13,
+				[43230] = 3,
 				[55234] = 6,
-				[238703] = 281,
-				[239249] = 4,
-				[91042] = 3,
-				[93624] = 5,
-				[199716] = 3,
+				[242530] = 3,
+				[51276] = 9,
+				[240785] = 5,
+				[239167] = 6,
+				[240807] = 12,
 				[89987] = 41,
-				[77988] = 3,
+				[154528] = 3,
 				[188162] = 3,
-				[64450] = 5,
-				[199698] = 7,
-				[240850] = 10,
-				[102275] = 5,
-				[34900] = 6,
-				[239388] = 3,
-				[159229] = 4,
+				[128898] = 5,
+				[254546] = 12,
+				[196093] = 5,
+				[237313] = 7,
+				[241022] = 5,
+				[43595] = 17,
+				[146286] = 3,
 				[77700] = 3,
 				[19938] = 14,
 				[20450] = 13,
 				[167684] = 3,
-				[126095] = 7,
-				[42571] = 3,
+				[72850] = 14,
+				[152428] = 4,
 				[44995] = 3,
 				[124803] = 4,
 				[47043] = 14,
-				[178457] = 4,
-				[243985] = 3,
-				[12601] = 7,
-				[199582] = 3,
-				[56544] = 4,
+				[5258] = 4,
+				[152369] = 3,
+				[70081] = 3,
+				[87482] = 4,
+				[71825] = 7,
 				[26594] = 5,
-				[27106] = 71,
+				[108420] = 4,
 				[253699] = 6,
-				[53120] = 20,
-				[35552] = 4,
+				[18290] = 17,
+				[199605] = 5,
 				[200453] = 4,
-				[89531] = 6,
+				[95679] = 32,
 				[120708] = 7,
-				[3397] = 8,
+				[233781] = 5,
 				[62403] = 5,
 				[278023] = 4,
-				[95039] = 22,
-				[87181] = 3,
-				[67462] = 3,
+				[242030] = 3,
+				[22314] = 20,
+				[33732] = 3,
 				[69510] = 6,
-				[44616] = 6,
+				[53319] = 3,
 				[73606] = 11,
 				[151304] = 6,
-				[198208] = 5,
-				[231613] = 5,
-				[79613] = 3,
-				[116613] = 3,
+				[183798] = 4,
+				[215493] = 10,
+				[252166] = 3,
+				[269834] = 3,
 				[139017] = 3,
 				[43972] = 3,
-				[71819] = 3,
-				[167689] = 6,
+				[252787] = 3,
+				[269283] = 6,
 				[220935] = 4,
-				[13242] = 16,
+				[68745] = 4,
 				[98182] = 6,
-				[100230] = 3,
+				[134922] = 3,
 				[51140] = 4,
-				[115845] = 3,
+				[209769] = 9,
 				[147210] = 3,
-				[98757] = 4,
-				[85126] = 10,
-				[244608] = 4,
-				[28275] = 5,
-				[197789] = 7,
+				[65092] = 7,
+				[214191] = 4,
+				[197884] = 3,
+				[125376] = 3,
+				[81032] = 3,
 				[278030] = 8,
-				[197739] = 5,
-				[162098] = 6,
-				[92039] = 3,
+				[25384] = 40,
+				[117915] = 3,
+				[269839] = 4,
 				[155403] = 5,
 				[192266] = 3,
-				[168233] = 14,
-				[78280] = 6,
+				[240365] = 3,
+				[262727] = 5,
 				[237321] = 3,
 				[241417] = 3,
-				[179979] = 7,
-				[87192] = 4,
+				[245513] = 4,
+				[75908] = 3,
 				[77704] = 3,
-				[25379] = 4,
-				[63717] = 3,
-				[180518] = 8,
+				[87171] = 6,
+				[172932] = 5,
+				[49731] = 4,
 				[42949] = 4,
-				[99782] = 10,
-				[138124] = 6,
-				[146920] = 7,
-				[243349] = 20,
-				[240612] = 9,
-				[24547] = 24,
-				[137512] = 4,
-				[124168] = 4,
-				[5488] = 20,
-				[6649] = 4,
+				[40526] = 9,
+				[138375] = 3,
+				[243456] = 3,
+				[7280] = 9,
+				[6137] = 9,
+				[49093] = 4,
+				[110328] = 3,
+				[163309] = 3,
+				[124032] = 4,
+				[147214] = 12,
 				[54213] = 3,
 				[110472] = 3,
 				[79753] = 3,
-				[232327] = 3,
+				[129479] = 4,
 				[134927] = 4,
 				[139023] = 3,
-				[153892] = 3,
-				[197265] = 3,
-				[240740] = 3,
-				[240600] = 3,
-				[103881] = 4,
+				[240654] = 10,
+				[141605] = 7,
+				[747] = 3,
+				[40679] = 4,
+				[243590] = 3,
 				[163599] = 6,
-				[243513] = 4,
+				[93312] = 7,
 				[102281] = 3,
 				[208654] = 4,
-				[243878] = 3,
-				[108425] = 17,
-				[9236] = 16,
-				[124360] = 3,
+				[72890] = 4,
+				[75658] = 6,
+				[11924] = 15,
+				[33347] = 9,
 				[81802] = 6,
-				[167696] = 3,
+				[116617] = 7,
 				[10738] = 29,
-				[197009] = 3,
-				[98762] = 13,
-				[75212] = 3,
+				[240824] = 3,
+				[76235] = 7,
+				[128905] = 5,
 				[126857] = 3,
-				[96138] = 7,
+				[257806] = 4,
 				[130953] = 4,
 				[100234] = 3,
 				[237327] = 4,
-				[196865] = 5,
-				[196466] = 4,
+				[70784] = 6,
+				[3816] = 6,
 				[216848] = 5,
-				[118515] = 3,
-				[239847] = 5,
-				[49216] = 18,
-				[27734] = 3,
+				[277443] = 3,
+				[60647] = 3,
+				[138725] = 3,
+				[15129] = 38,
 				[278046] = 3,
-				[93328] = 3,
+				[243969] = 4,
 				[122762] = 3,
 				[124810] = 3,
 				[155411] = 5,
-				[73167] = 40,
+				[89741] = 3,
 				[196370] = 4,
-				[47337] = 3,
-				[171795] = 4,
-				[24460] = 6,
-				[846] = 5,
+				[123349] = 3,
+				[139028] = 3,
+				[100981] = 12,
+				[100008] = 4,
 				[151316] = 7,
 				[77708] = 3,
-				[244421] = 12,
-				[84109] = 9,
-				[41927] = 5,
+				[69363] = 4,
+				[74897] = 4,
+				[167700] = 3,
 				[85900] = 10,
 				[87948] = 10,
-				[244459] = 5,
+				[240324] = 3,
 				[269859] = 9,
-				[127458] = 4,
-				[229746] = 3,
-				[62534] = 3,
-				[67469] = 7,
-				[244639] = 3,
-				[195976] = 7,
-				[58428] = 10,
+				[40509] = 4,
+				[9439] = 15,
+				[231652] = 5,
+				[233235] = 4,
+				[65678] = 5,
+				[131539] = 3,
+				[130509] = 6,
 				[184085] = 3,
-				[110476] = 13,
-				[79757] = 8,
-				[28452] = 4,
-				[134935] = 3,
-				[59335] = 8,
-				[244682] = 4,
-				[212757] = 6,
-				[248189] = 6,
-				[146909] = 6,
-				[82384] = 6,
-				[195960] = 14,
+				[253715] = 6,
+				[192277] = 10,
+				[36074] = 14,
+				[200469] = 3,
+				[118668] = 3,
+				[111731] = 4,
+				[30692] = 3,
+				[244654] = 3,
+				[244876] = 4,
+				[24356] = 4,
+				[66677] = 3,
 				[33736] = 7,
 				[237333] = 4,
-				[242898] = 3,
+				[94344] = 22,
 				[106381] = 4,
-				[84752] = 11,
-				[61497] = 10,
-				[76913] = 39,
-				[243020] = 5,
-				[50923] = 3,
+				[18365] = 3,
+				[6344] = 9,
+				[164058] = 3,
+				[169711] = 3,
+				[160669] = 4,
 				[171800] = 3,
-				[133389] = 4,
-				[22358] = 13,
-				[238491] = 6,
-				[128130] = 3,
-				[45113] = 9,
-				[87150] = 10,
-				[102866] = 42,
-				[195778] = 3,
+				[74140] = 3,
+				[243012] = 4,
+				[58232] = 36,
+				[160728] = 5,
+				[220632] = 3,
+				[6151] = 44,
+				[247879] = 3,
+				[24085] = 3,
 				[104334] = 6,
 				[245527] = 5,
-				[55020] = 9,
-				[96725] = 3,
-				[243376] = 4,
+				[26403] = 3,
+				[44780] = 15,
+				[243108] = 3,
 				[196377] = 3,
-				[46829] = 4,
-				[83052] = 14,
-				[92267] = 4,
-				[27421] = 12,
-				[130516] = 5,
+				[245713] = 5,
+				[51256] = 3,
+				[25463] = 8,
+				[243341] = 7,
+				[245844] = 4,
 				[126862] = 3,
 				[64456] = 3,
-				[44611] = 3,
-				[100239] = 8,
-				[29444] = 4,
+				[20509] = 3,
+				[233241] = 7,
+				[62944] = 3,
 				[35785] = 3,
-				[110040] = 10,
-				[200148] = 3,
+				[243436] = 7,
+				[117205] = 4,
 				[19429] = 5,
 				[39881] = 9,
 				[40905] = 19,
 				[134941] = 3,
-				[194293] = 3,
-				[31868] = 8,
-				[64053] = 3,
-				[70761] = 5,
-				[41527] = 7,
-				[58607] = 5,
+				[56386] = 11,
+				[150445] = 3,
+				[226599] = 3,
+				[246187] = 4,
+				[63542] = 3,
+				[216530] = 147,
 				[130959] = 3,
-				[200476] = 3,
-				[25573] = 13,
+				[25061] = 24,
+				[51145] = 4,
 				[26085] = 8,
-				[111789] = 9,
-				[103751] = 3,
+				[114138] = 3,
+				[194370] = 5,
 				[55241] = 3,
-				[7146] = 8,
-				[53814] = 7,
-				[243791] = 3,
+				[246348] = 3,
+				[211888] = 3,
+				[103898] = 6,
 				[237340] = 6,
 				[120720] = 9,
-				[249294] = 3,
-				[69522] = 4,
-				[73829] = 12,
+				[82397] = 6,
+				[14269] = 23,
+				[95358] = 4,
 				[225053] = 3,
 				[196382] = 10,
 				[167711] = 4,
-				[102289] = 3,
-				[155848] = 4,
-				[212766] = 6,
-				[124648] = 3,
+				[8691] = 8,
+				[26657] = 3,
+				[245533] = 4,
+				[65397] = 3,
 				[253725] = 3,
-				[229] = 17,
-				[193190] = 5,
-				[83858] = 3,
+				[246490] = 4,
+				[16061] = 7,
+				[116625] = 6,
 				[171808] = 16,
 				[241438] = 3,
-				[193629] = 4,
+				[569] = 9,
 				[249630] = 20,
-				[41535] = 6,
+				[246363] = 3,
 				[159521] = 3,
-				[27770] = 5,
-				[83041] = 10,
+				[246623] = 6,
+				[155931] = 30,
 				[139042] = 8,
-				[26144] = 22,
-				[13299] = 19,
+				[187322] = 4,
+				[53194] = 12,
 				[151330] = 3,
-				[30745] = 6,
-				[286269] = 260,
+				[42036] = 6,
+				[192289] = 3,
 				[163618] = 11,
-				[254131] = 3,
+				[246776] = 3,
 				[204577] = 4,
-				[193809] = 8,
-				[15347] = 19,
-				[43234] = 3,
-				[94099] = 32,
-				[128914] = 4,
-				[65482] = 3,
-				[159923] = 8,
-				[148431] = 9,
-				[244603] = 4,
+				[209703] = 3,
+				[61386] = 5,
+				[193290] = 20,
+				[126866] = 4,
+				[257824] = 3,
+				[98195] = 4,
+				[146366] = 7,
+				[81016] = 4,
+				[43250] = 5,
 				[73620] = 4,
-				[184099] = 3,
-				[87523] = 4,
-				[178352] = 6,
-				[246878] = 3,
+				[37835] = 3,
+				[166118] = 5,
+				[179549] = 11,
+				[181184] = 4,
 				[200483] = 6,
-				[94692] = 27,
-				[732] = 8,
-				[147237] = 30,
-				[60658] = 9,
+				[142791] = 4,
+				[120548] = 4,
+				[245538] = 4,
+				[34666] = 4,
 				[278083] = 3,
-				[68285] = 5,
-				[111325] = 13,
+				[260422] = 3,
+				[166063] = 3,
 				[67477] = 4,
 				[237347] = 4,
 				[208676] = 3,
-				[202928] = 5,
+				[191938] = 3,
 				[75669] = 7,
-				[155430] = 7,
-				[56267] = 5,
+				[188197] = 5,
+				[192293] = 10,
 				[81813] = 3,
 				[233252] = 9,
-				[92246] = 3,
-				[247363] = 4,
-				[244981] = 5,
+				[132426] = 26,
+				[22808] = 4,
+				[217251] = 3,
 				[151335] = 8,
-				[146354] = 3,
-				[120965] = 45,
-				[231105] = 7,
-				[168106] = 3,
+				[57900] = 12,
+				[28695] = 3,
+				[128088] = 4,
+				[176297] = 3,
 				[102293] = 4,
-				[160841] = 4,
-				[142257] = 5,
-				[247668] = 4,
-				[57389] = 5,
-				[154571] = 4,
-				[8332] = 6,
-				[25212] = 33,
+				[248137] = 5,
+				[126438] = 3,
+				[78313] = 4,
+				[83433] = 12,
+				[248313] = 4,
+				[10000] = 17,
+				[227421] = 3,
 				[118677] = 4,
 				[43980] = 3,
-				[38955] = 4,
-				[113128] = 6,
-				[149658] = 3,
+				[209379] = 6,
+				[58922] = 8,
+				[131289] = 3,
 				[225063] = 4,
-				[191674] = 4,
+				[187838] = 19,
 				[3133] = 3,
-				[232686] = 6,
+				[112105] = 728,
 				[241447] = 3,
-				[106390] = 5,
+				[245543] = 3,
 				[54220] = 4,
-				[248337] = 8,
-				[202233] = 8,
-				[22969] = 3,
+				[248832] = 4,
+				[229523] = 4,
+				[142288] = 5,
 				[3645] = 3,
-				[61175] = 3,
-				[248894] = 3,
-				[130535] = 3,
+				[248879] = 4,
+				[207822] = 8,
+				[48428] = 10,
 				[184106] = 3,
-				[198218] = 4,
-				[44586] = 13,
-				[170539] = 11,
-				[76648] = 9,
+				[82029] = 3,
+				[155795] = 3,
+				[101868] = 3,
+				[191406] = 7,
 				[204586] = 6,
 				[35789] = 42,
-				[153742] = 6,
-				[52775] = 3,
-				[188203] = 4,
-				[4080] = 6,
+				[58616] = 3,
+				[249072] = 3,
+				[278097] = 3,
+				[15551] = 19,
 				[261929] = 5,
-				[41933] = 3,
+				[200491] = 4,
 				[42957] = 6,
-				[246141] = 3,
-				[246061] = 12,
+				[249169] = 11,
+				[219281] = 5,
 				[92056] = 11,
-				[190765] = 6,
-				[190302] = 9,
-				[49101] = 5,
-				[167725] = 7,
+				[130967] = 4,
+				[269163] = 3,
+				[98200] = 4,
+				[100248] = 14,
 				[139054] = 5,
-				[89229] = 13,
+				[9792] = 3,
 				[73625] = 4,
 				[6778] = 10,
-				[36089] = 4,
-				[79769] = 4,
+				[254937] = 4,
+				[225068] = 5,
 				[81817] = 11,
-				[233602] = 12,
-				[249122] = 4,
-				[93254] = 13,
+				[149650] = 6,
+				[244108] = 3,
+				[126449] = 6,
 				[7674] = 38,
-				[246051] = 3,
-				[155439] = 6,
+				[17180] = 3,
+				[278103] = 4,
 				[64461] = 3,
-				[20244] = 27,
-				[8436] = 74,
-				[246238] = 3,
-				[199647] = 5,
-				[227454] = 3,
-				[100850] = 4,
-				[65276] = 3,
+				[152559] = 12,
+				[134960] = 3,
+				[246394] = 13,
+				[209088] = 5,
+				[75484] = 3,
+				[66631] = 3,
+				[246354] = 8,
 				[159536] = 8,
-				[10228] = 7,
-				[188606] = 3,
-				[186496] = 3,
+				[196399] = 3,
+				[142493] = 6,
+				[149342] = 3,
 				[87962] = 4,
 				[245550] = 11,
-				[83448] = 4,
-				[199653] = 3,
-				[257838] = 8,
+				[13788] = 20,
+				[106202] = 3,
+				[128921] = 3,
 				[229167] = 3,
-				[39166] = 5,
+				[149632] = 12,
 				[102298] = 3,
-				[6661] = 3,
-				[110068] = 3,
-				[246579] = 4,
+				[200828] = 3,
+				[115465] = 3,
+				[269145] = 3,
 				[253743] = 4,
-				[169296] = 4,
-				[246635] = 6,
+				[228781] = 3,
+				[189528] = 3,
 				[116634] = 11,
 				[237360] = 10,
 				[120730] = 9,
 				[122778] = 4,
-				[71343] = 6,
-				[78912] = 3,
+				[226278] = 4,
+				[77922] = 3,
 				[96155] = 4,
-				[205801] = 9,
-				[16872] = 26,
+				[189158] = 3,
+				[134964] = 10,
 				[69532] = 22,
-				[135357] = 3,
-				[249794] = 18,
+				[247150] = 7,
+				[46933] = 7,
 				[151348] = 9,
-				[250098] = 3,
-				[23066] = 6,
-				[184440] = 5,
+				[84475] = 5,
+				[250061] = 12,
+				[7109] = 11,
 				[83868] = 4,
-				[85916] = 5,
-				[189456] = 3,
-				[45007] = 3,
-				[190031] = 6,
-				[126044] = 5,
-				[124968] = 6,
-				[183721] = 3,
-				[151722] = 7,
-				[250356] = 3,
+				[139061] = 7,
+				[250105] = 6,
+				[212787] = 4,
+				[157878] = 6,
+				[135286] = 3,
+				[3575] = 3,
+				[235322] = 43,
+				[42545] = 9,
+				[269132] = 12,
 				[104348] = 25,
-				[132691] = 9,
+				[90209] = 5,
 				[249651] = 4,
-				[247310] = 5,
-				[52481] = 3,
-				[163638] = 5,
-				[100443] = 3,
-				[154649] = 10,
-				[240627] = 4,
-				[187809] = 5,
-				[51759] = 4,
+				[153778] = 6,
+				[82431] = 5,
+				[57295] = 6,
+				[226929] = 3,
+				[78908] = 3,
+				[19473] = 10,
+				[38960] = 6,
+				[200102] = 3,
 				[220981] = 3,
-				[187633] = 5,
+				[83879] = 4,
 				[32744] = 3,
 				[167735] = 3,
-				[29826] = 6,
-				[52782] = 8,
-				[71381] = 5,
-				[197181] = 3,
+				[250534] = 9,
+				[54302] = 3,
+				[166067] = 7,
+				[85052] = 11,
 				[77726] = 5,
-				[48387] = 10,
-				[71172] = 7,
-				[187022] = 5,
-				[247650] = 11,
-				[91652] = 6,
-				[116788] = 4,
-				[78342] = 4,
-				[16347] = 3,
+				[185999] = 8,
+				[139369] = 6,
+				[51947] = 3,
+				[165991] = 5,
+				[204182] = 8,
+				[84023] = 7,
+				[82437] = 13,
+				[196002] = 9,
 				[159545] = 6,
-				[250512] = 7,
-				[62212] = 3,
+				[167182] = 3,
+				[53098] = 4,
 				[102302] = 4,
-				[51973] = 5,
+				[42527] = 10,
 				[73631] = 8,
-				[247986] = 3,
+				[250841] = 3,
 				[155450] = 4,
 				[257847] = 6,
-				[250561] = 8,
-				[200095] = 4,
-				[122963] = 7,
-				[248305] = 7,
+				[251010] = 8,
+				[145505] = 5,
+				[248030] = 3,
+				[36614] = 3,
 				[180026] = 3,
-				[130974] = 3,
+				[251207] = 3,
 				[278127] = 3,
-				[248202] = 8,
-				[98207] = 3,
-				[65592] = 6,
-				[95752] = 5,
-				[224668] = 3,
-				[124422] = 5,
-				[75680] = 3,
+				[43564] = 4,
+				[229177] = 9,
+				[65587] = 3,
+				[109616] = 27,
+				[100869] = 3,
+				[122374] = 15,
+				[249657] = 14,
 				[38865] = 6,
-				[186145] = 3,
+				[250860] = 3,
 				[163644] = 18,
-				[28548] = 11,
-				[186058] = 5,
+				[186064] = 6,
+				[250890] = 3,
 				[21993] = 15,
-				[248585] = 3,
-				[72083] = 4,
+				[39981] = 4,
+				[118280] = 3,
 				[278131] = 3,
-				[51463] = 4,
-				[71727] = 9,
+				[33032] = 8,
+				[55047] = 5,
 				[269940] = 4,
-				[153693] = 4,
+				[251533] = 4,
 				[208700] = 5,
-				[52265] = 3,
-				[236556] = 3,
+				[36311] = 3,
+				[152593] = 4,
 				[110496] = 18,
-				[78318] = 4,
-				[65049] = 11,
+				[185774] = 3,
+				[251632] = 4,
 				[233276] = 3,
 				[118688] = 5,
 				[30185] = 20,
-				[248959] = 3,
+				[85517] = 4,
 				[184126] = 7,
-				[52072] = 8,
-				[3249] = 3,
-				[165975] = 3,
+				[44056] = 22,
+				[158800] = 6,
+				[63203] = 6,
 				[167743] = 3,
-				[17551] = 62,
-				[85035] = 5,
-				[102446] = 7,
-				[151360] = 6,
-				[15879] = 89,
-				[79778] = 3,
-				[185545] = 9,
-				[132120] = 37,
+				[251805] = 4,
+				[88107] = 3,
+				[185606] = 3,
+				[269945] = 9,
+				[191895] = 5,
+				[192319] = 3,
+				[253333] = 16,
+				[105514] = 5,
 				[85922] = 3,
-				[2051] = 9,
-				[187413] = 7,
+				[251551] = 8,
+				[120168] = 3,
 				[216895] = 4,
-				[161940] = 5,
-				[128929] = 4,
-				[220563] = 6,
+				[79157] = 3,
+				[96162] = 3,
+				[149582] = 3,
 				[200512] = 3,
 				[51154] = 8,
-				[52178] = 4,
-				[245567] = 13,
-				[20870] = 5,
-				[153738] = 3,
-				[71372] = 4,
-				[89160] = 14,
+				[71587] = 3,
+				[106402] = 11,
+				[195987] = 4,
+				[58634] = 6,
+				[106536] = 3,
+				[17844] = 19,
 				[134979] = 4,
 				[237376] = 3,
-				[55410] = 4,
+				[242526] = 3,
 				[61394] = 8,
-				[185611] = 10,
-				[15861] = 6,
+				[119893] = 5,
+				[253760] = 7,
 				[159555] = 3,
 				[261952] = 6,
-				[33747] = 3,
+				[167747] = 4,
 				[102307] = 5,
-				[153254] = 3,
+				[29062] = 4,
 				[212802] = 4,
 				[108451] = 20,
 				[77732] = 4,
-				[83658] = 6,
+				[15622] = 14,
 				[114595] = 4,
-				[58123] = 4,
-				[185442] = 6,
-				[28684] = 10,
-				[118472] = 11,
-				[28867] = 3,
-				[6248] = 3,
+				[118820] = 3,
+				[82986] = 9,
+				[252535] = 3,
+				[130578] = 5,
+				[38948] = 4,
+				[76309] = 3,
 				[48083] = 11,
-				[207578] = 3,
-				[67493] = 9,
-				[96817] = 4,
-				[239682] = 5,
-				[99862] = 3,
+				[75101] = 3,
+				[200516] = 4,
+				[240898] = 5,
+				[44813] = 4,
+				[108053] = 23,
 				[54227] = 8,
 				[55251] = 4,
 				[28138] = 4,
-				[28807] = 3,
+				[80931] = 11,
 				[269958] = 7,
 				[139079] = 8,
-				[253190] = 3,
+				[75810] = 3,
 				[30698] = 9,
-				[124836] = 3,
-				[218023] = 4,
-				[273923] = 4,
+				[184134] = 28,
+				[40467] = 4,
+				[62219] = 8,
 				[229189] = 3,
 				[233285] = 4,
-				[183562] = 3,
-				[130757] = 6,
-				[54116] = 3,
-				[223293] = 4,
+				[253270] = 7,
+				[125119] = 5,
+				[80960] = 3,
+				[250172] = 3,
 				[155464] = 14,
-				[39892] = 5,
-				[174892] = 3,
-				[85530] = 3,
-				[219251] = 3,
-				[249985] = 4,
-				[107030] = 5,
-				[98840] = 7,
+				[159560] = 9,
+				[1826] = 7,
+				[250177] = 5,
+				[92190] = 9,
+				[125465] = 4,
+				[64782] = 4,
+				[50722] = 6,
 				[47060] = 5,
-				[155015] = 3,
-				[98214] = 3,
+				[133956] = 8,
+				[196424] = 5,
 				[167753] = 4,
 				[204616] = 3,
-				[27966] = 12,
-				[127514] = 10,
-				[250269] = 6,
-				[208259] = 17,
-				[56276] = 3,
-				[88440] = 5,
-				[200521] = 4,
+				[184796] = 3,
+				[119507] = 3,
+				[269966] = 4,
+				[27657] = 4,
+				[79783] = 13,
+				[55568] = 12,
+				[116646] = 14,
 				[118694] = 5,
-				[114746] = 43,
-				[178893] = 7,
-				[151371] = 4,
-				[182593] = 3,
+				[60431] = 5,
+				[174224] = 30,
+				[249672] = 4,
+				[130106] = 9,
 				[128934] = 3,
 				[229193] = 9,
-				[232832] = 15,
-				[30601] = 3,
-				[6563] = 9,
-				[137080] = 4,
-				[140852] = 5,
+				[269054] = 3,
+				[220544] = 12,
+				[187437] = 6,
+				[107546] = 4,
+				[17821] = 10,
 				[253769] = 3,
-				[72936] = 4,
+				[54545] = 3,
 				[81832] = 4,
-				[177208] = 6,
+				[76827] = 8,
 				[85928] = 6,
-				[71738] = 7,
-				[250326] = 3,
+				[155692] = 3,
+				[82974] = 11,
 				[46037] = 5,
-				[181415] = 9,
-				[181398] = 4,
-				[90172] = 34,
-				[228732] = 3,
-				[20744] = 7,
-				[278165] = 8,
+				[251608] = 3,
+				[181474] = 3,
+				[58643] = 5,
+				[97334] = 3,
+				[150407] = 3,
+				[60690] = 9,
 				[212812] = 3,
-				[81443] = 9,
-				[27627] = 5,
-				[110614] = 8,
+				[97303] = 3,
+				[77737] = 4,
+				[205883] = 3,
 				[114600] = 10,
 				[167758] = 5,
-				[61454] = 3,
+				[125973] = 5,
 				[120744] = 4,
-				[14088] = 9,
+				[84513] = 3,
 				[31211] = 12,
-				[43535] = 4,
-				[96169] = 4,
-				[236653] = 4,
+				[174666] = 38,
+				[64469] = 4,
+				[84517] = 4,
 				[200526] = 9,
 				[139088] = 12,
-				[180449] = 5,
+				[117280] = 3,
 				[245581] = 4,
 				[269977] = 8,
-				[248898] = 7,
-				[54549] = 10,
-				[251347] = 3,
-				[57621] = 5,
-				[17159] = 3,
+				[251342] = 3,
+				[254656] = 8,
+				[128702] = 6,
+				[9129] = 4,
+				[99377] = 7,
 				[241486] = 5,
-				[180691] = 4,
+				[56160] = 24,
 				[151377] = 7,
-				[101928] = 16,
-				[251616] = 7,
-				[254275] = 4,
-				[12534] = 4,
-				[179566] = 3,
-				[104873] = 11,
+				[115059] = 3,
+				[2025] = 25,
+				[95250] = 24,
+				[50134] = 7,
+				[277227] = 5,
+				[251467] = 3,
 				[180049] = 5,
-				[231279] = 4,
-				[13814] = 5,
-				[205321] = 6,
-				[261967] = 5,
-				[254586] = 5,
-				[106515] = 7,
-				[179494] = 6,
-				[179420] = 7,
-				[138322] = 5,
-				[71331] = 4,
+				[44555] = 7,
+				[253775] = 9,
+				[250809] = 9,
+				[57302] = 8,
+				[6914] = 3,
+				[254990] = 4,
+				[53770] = 8,
+				[255013] = 4,
+				[100396] = 3,
+				[255054] = 3,
 				[192338] = 3,
 				[130986] = 8,
 				[33751] = 6,
-				[20230] = 13,
-				[83501] = 3,
+				[23437] = 4,
+				[254708] = 3,
 				[73644] = 5,
-				[251693] = 3,
-				[179053] = 3,
-				[251963] = 3,
-				[251576] = 8,
-				[207957] = 3,
-				[58649] = 9,
-				[45338] = 4,
-				[16397] = 3,
-				[251983] = 3,
-				[85004] = 7,
-				[64793] = 7,
-				[99343] = 7,
+				[48649] = 28,
+				[129580] = 6,
+				[131403] = 3,
+				[255390] = 28,
+				[117772] = 3,
+				[135627] = 4,
+				[255461] = 3,
+				[35849] = 4,
+				[255468] = 3,
+				[82957] = 4,
+				[110633] = 12,
+				[31118] = 91,
 				[233299] = 4,
-				[22285] = 4,
-				[71597] = 3,
-				[17295] = 12,
-				[178029] = 10,
-				[19718] = 7,
-				[178003] = 6,
+				[77363] = 3,
+				[175957] = 3,
+				[190478] = 3,
+				[105010] = 3,
+				[1777] = 7,
+				[239624] = 8,
 				[81837] = 13,
-				[252114] = 4,
+				[178019] = 4,
 				[118700] = 14,
 				[87981] = 4,
 				[90029] = 15,
 				[92077] = 7,
-				[177842] = 5,
+				[252295] = 4,
 				[32236] = 3,
 				[98221] = 3,
-				[31527] = 5,
-				[47637] = 14,
-				[142703] = 5,
-				[227824] = 7,
-				[256303] = 3,
-				[38872] = 3,
+				[10456] = 120,
+				[111622] = 5,
+				[29327] = 5,
+				[163183] = 3,
+				[20204] = 7,
+				[155480] = 3,
 				[225110] = 9,
 				[163672] = 5,
 				[83886] = 15,
 				[171864] = 3,
-				[53254] = 7,
+				[34590] = 7,
 				[212823] = 3,
-				[252586] = 5,
-				[76809] = 4,
-				[256149] = 13,
-				[177408] = 14,
-				[47124] = 5,
-				[16899] = 9,
+				[255864] = 3,
+				[177612] = 4,
+				[5228] = 18,
+				[216165] = 5,
+				[122882] = 8,
+				[177431] = 7,
 				[175961] = 3,
-				[45588] = 4,
+				[213487] = 4,
 				[249687] = 3,
 				[55256] = 7,
-				[257060] = 3,
+				[252832] = 6,
 				[196441] = 6,
 				[200537] = 7,
 				[85935] = 13,
-				[149566] = 3,
-				[147451] = 3,
-				[223220] = 9,
+				[188406] = 3,
+				[224356] = 4,
+				[174518] = 5,
 				[188250] = 17,
-				[159579] = 5,
+				[192346] = 3,
 				[65496] = 4,
-				[67504] = 4,
-				[177017] = 15,
-				[67843] = 21,
+				[167771] = 3,
+				[138352] = 6,
+				[257208] = 3,
 				[180059] = 3,
-				[209319] = 4,
-				[195696] = 3,
-				[108213] = 3,
-				[35860] = 5,
-				[53779] = 8,
-				[171868] = 3,
-				[116284] = 7,
-				[105472] = 7,
-				[247791] = 4,
-				[157691] = 4,
+				[55583] = 9,
+				[110139] = 3,
+				[37724] = 3,
+				[269001] = 3,
+				[86940] = 9,
+				[278194] = 3,
+				[91429] = 34,
+				[38689] = 19,
+				[115260] = 3,
+				[169717] = 3,
 				[96176] = 8,
-				[172085] = 4,
-				[75777] = 4,
+				[99512] = 4,
+				[136656] = 11,
 				[102320] = 4,
 				[175965] = 8,
 				[245595] = 5,
 				[151390] = 4,
-				[188467] = 3,
-				[136682] = 3,
-				[48930] = 24,
+				[204781] = 9,
+				[134264] = 16,
+				[91763] = 3,
 				[270006] = 3,
 				[237404] = 143,
 				[120752] = 3,
 				[147295] = 5,
 				[249692] = 8,
-				[31725] = 4,
+				[155487] = 4,
 				[192350] = 3,
 				[163679] = 3,
-				[23175] = 4,
+				[11393] = 3,
 				[204638] = 4,
 				[143200] = 10,
-				[174780] = 5,
-				[76356] = 3,
+				[258238] = 3,
+				[230952] = 5,
 				[77746] = 3,
-				[77852] = 24,
-				[159727] = 6,
-				[123430] = 4,
-				[86594] = 3,
-				[36133] = 5,
-				[86777] = 3,
+				[224608] = 3,
+				[53082] = 4,
+				[117785] = 4,
+				[23955] = 3,
+				[24467] = 31,
+				[25609] = 31,
 				[216927] = 5,
 				[47066] = 5,
-				[258440] = 12,
+				[9058] = 19,
 				[49114] = 7,
 				[167777] = 4,
 				[12791] = 4,
-				[95810] = 6,
-				[42788] = 4,
-				[254100] = 4,
-				[100933] = 6,
-				[56282] = 21,
-				[44325] = 3,
-				[49166] = 4,
-				[171356] = 3,
-				[43865] = 4,
-				[24072] = 11,
+				[59900] = 6,
+				[122544] = 3,
+				[258468] = 7,
+				[26541] = 5,
+				[225120] = 3,
+				[200028] = 3,
+				[202722] = 4,
+				[73287] = 3,
+				[173880] = 5,
+				[258691] = 6,
 				[151395] = 12,
-				[189574] = 18,
-				[83526] = 14,
-				[64508] = 16,
-				[258431] = 8,
-				[215076] = 3,
-				[254270] = 4,
-				[254282] = 3,
-				[243190] = 6,
-				[19438] = 10,
-				[129008] = 5,
+				[160904] = 8,
+				[87031] = 3,
+				[258789] = 5,
+				[209159] = 3,
+				[75764] = 6,
+				[258841] = 3,
+				[173429] = 5,
+				[88051] = 3,
+				[110515] = 6,
+				[50683] = 5,
 				[261985] = 3,
-				[154935] = 3,
+				[172897] = 5,
 				[171876] = 3,
-				[177294] = 3,
+				[183255] = 7,
 				[147301] = 4,
-				[259118] = 4,
+				[34299] = 3,
 				[253794] = 3,
-				[91822] = 6,
+				[259110] = 6,
 				[130995] = 5,
-				[71245] = 3,
-				[172589] = 5,
-				[122445] = 3,
-				[92750] = 4,
-				[145220] = 6,
+				[63313] = 4,
+				[254696] = 4,
+				[259196] = 6,
+				[89108] = 7,
+				[20990] = 17,
 				[155494] = 3,
-				[4134] = 7,
-				[219098] = 4,
+				[135202] = 4,
+				[165016] = 4,
 				[167782] = 9,
-				[259399] = 7,
-				[14207] = 40,
-				[61403] = 4,
-				[123887] = 3,
+				[82930] = 4,
+				[245783] = 3,
+				[212837] = 4,
+				[210068] = 5,
 				[94133] = 21,
 				[192358] = 3,
-				[7234] = 5,
-				[24830] = 3,
+				[259053] = 7,
+				[259418] = 30,
 				[102325] = 5,
-				[5698] = 5,
-				[204115] = 4,
-				[249701] = 10,
-				[205904] = 5,
+				[23980] = 11,
+				[49144] = 8,
+				[270025] = 3,
+				[128591] = 3,
 				[159592] = 3,
-				[261989] = 4,
+				[196455] = 3,
 				[135017] = 5,
-				[208027] = 4,
+				[257360] = 3,
 				[208743] = 3,
-				[116305] = 12,
-				[70228] = 4,
+				[259599] = 3,
+				[259605] = 4,
 				[253798] = 4,
-				[167173] = 5,
+				[35832] = 7,
 				[98230] = 7,
-				[67511] = 3,
+				[100278] = 31,
 				[171881] = 3,
-				[77398] = 4,
-				[27799] = 7,
-				[58669] = 3,
-				[255719] = 4,
+				[224591] = 5,
+				[45356] = 10,
+				[109143] = 5,
+				[31382] = 4,
 				[79799] = 10,
-				[114614] = 4,
+				[229224] = 3,
 				[233320] = 4,
-				[65015] = 4,
+				[70635] = 4,
 				[143211] = 5,
-				[8043] = 20,
-				[216937] = 5,
-				[73741] = 6,
-				[119383] = 3,
-				[169669] = 18,
-				[26264] = 12,
+				[74387] = 4,
+				[270031] = 6,
+				[29099] = 7,
+				[125927] = 3,
+				[73306] = 3,
+				[268948] = 3,
 				[204650] = 3,
-				[170421] = 4,
+				[169511] = 4,
 				[245609] = 9,
-				[130714] = 7,
-				[106471] = 5,
-				[4988] = 13,
-				[82731] = 4,
-				[214185] = 5,
+				[218282] = 3,
+				[42486] = 4,
+				[192363] = 7,
+				[259680] = 4,
+				[63790] = 5,
 				[42973] = 3,
-				[169433] = 7,
-				[62454] = 3,
+				[16382] = 8,
+				[169500] = 3,
 				[124855] = 3,
-				[86023] = 4,
-				[82525] = 3,
-				[247751] = 9,
+				[88076] = 3,
+				[95206] = 3,
+				[129625] = 10,
 				[200556] = 5,
 				[278228] = 3,
-				[16538] = 11,
-				[145348] = 3,
-				[26009] = 4,
-				[24059] = 3,
+				[872] = 11,
+				[24269] = 6,
+				[167941] = 3,
+				[6968] = 11,
 				[159598] = 3,
-				[260435] = 5,
+				[260026] = 5,
 				[116664] = 5,
-				[27395] = 23,
-				[87993] = 3,
-				[6311] = 16,
-				[190463] = 3,
+				[39569] = 5,
+				[208749] = 6,
+				[168521] = 5,
+				[51204] = 6,
 				[221037] = 22,
 				[96185] = 4,
-				[200703] = 12,
-				[168356] = 3,
-				[78756] = 14,
-				[83972] = 3,
-				[59185] = 4,
+				[6631] = 3,
+				[281434] = 5,
+				[260729] = 4,
+				[113637] = 4,
+				[7740] = 3,
 				[151408] = 7,
-				[56114] = 5,
-				[86623] = 3,
-				[256853] = 6,
+				[7745] = 5,
+				[97253] = 3,
+				[460] = 7,
 				[167792] = 10,
-				[153531] = 13,
+				[48643] = 5,
 				[43998] = 5,
 				[147313] = 3,
 				[11512] = 7,
-				[165104] = 6,
-				[86964] = 8,
-				[229671] = 6,
-				[67515] = 3,
-				[70625] = 3,
+				[60891] = 6,
+				[50142] = 11,
+				[130722] = 6,
+				[270044] = 14,
+				[40244] = 4,
 				[71611] = 3,
 				[73659] = 8,
-				[75707] = 11,
+				[54238] = 3,
 				[110522] = 14,
 				[159602] = 5,
-				[81851] = 33,
-				[115681] = 35,
-				[87342] = 5,
+				[163698] = 4,
+				[54785] = 5,
+				[61748] = 7,
 				[120762] = 3,
-				[35126] = 3,
+				[44882] = 53,
 				[249712] = 3,
-				[279182] = 3,
-				[50485] = 8,
-				[16376] = 4,
+				[27642] = 4,
+				[44512] = 5,
+				[65502] = 8,
 				[135028] = 24,
-				[120115] = 8,
-				[280221] = 27,
+				[113713] = 6,
+				[21403] = 22,
 				[180083] = 3,
 				[108475] = 4,
-				[76396] = 6,
+				[260993] = 4,
 				[39903] = 3,
 				[40927] = 5,
 				[233330] = 4,
-				[262129] = 3,
-				[22753] = 3,
+				[95848] = 5,
+				[107487] = 6,
 				[147317] = 4,
-				[89707] = 3,
-				[137146] = 3,
-				[203983] = 10,
-				[232762] = 5,
-				[3828] = 93,
-				[165588] = 6,
+				[261190] = 3,
+				[32669] = 5,
+				[221101] = 4,
+				[261289] = 11,
+				[46696] = 6,
+				[83963] = 7,
 				[208756] = 3,
 				[53215] = 3,
 				[184181] = 6,
 				[253811] = 3,
-				[107348] = 3,
-				[1610] = 35,
-				[49465] = 7,
+				[63935] = 4,
+				[98920] = 8,
+				[243051] = 3,
 				[118716] = 20,
-				[280249] = 14,
-				[137134] = 6,
-				[258243] = 11,
-				[94200] = 3,
+				[276308] = 4,
+				[78385] = 4,
+				[149428] = 11,
+				[221097] = 3,
 				[64479] = 3,
-				[258334] = 3,
-				[218293] = 4,
-				[171895] = 4,
+				[119798] = 13,
+				[82541] = 4,
+				[204662] = 4,
 				[241525] = 10,
 				[106429] = 4,
-				[15803] = 19,
-				[92151] = 3,
-				[109560] = 3,
+				[12180] = 7,
+				[89713] = 4,
+				[82905] = 8,
 				[229238] = 3,
-				[123865] = 8,
-				[165596] = 4,
-				[165316] = 4,
-				[87666] = 5,
-				[216951] = 6,
-				[272446] = 3,
-				[7385] = 4,
-				[47419] = 4,
+				[6328] = 15,
+				[274483] = 7,
+				[82] = 14,
+				[165251] = 6,
+				[249718] = 3,
+				[185307] = 4,
+				[46395] = 4,
+				[127] = 3,
 				[233335] = 14,
 				[139130] = 3,
-				[56828] = 9,
-				[56738] = 7,
-				[74744] = 5,
-				[135301] = 5,
+				[35133] = 6,
+				[122876] = 5,
+				[37373] = 5,
+				[257952] = 4,
 				[225144] = 5,
-				[6198] = 3,
-				[13904] = 3,
+				[258719] = 3,
+				[69852] = 3,
 				[278254] = 5,
-				[120766] = 3,
+				[175994] = 3,
 				[245624] = 3,
 				[151419] = 9,
-				[64294] = 12,
-				[96191] = 6,
-				[164629] = 3,
+				[129842] = 16,
+				[128958] = 4,
+				[54590] = 3,
 				[167803] = 3,
-				[165125] = 3,
-				[212959] = 7,
-				[30974] = 3,
-				[271266] = 6,
-				[145231] = 5,
+				[85626] = 8,
+				[272960] = 8,
+				[123858] = 4,
+				[164160] = 3,
+				[113621] = 3,
 				[257913] = 3,
-				[20465] = 8,
+				[262009] = 7,
 				[83904] = 3,
 				[42977] = 4,
-				[19616] = 7,
-				[147325] = 3,
-				[75418] = 5,
-				[21921] = 4,
-				[67543] = 3,
-				[131007] = 4,
-				[259237] = 4,
-				[53241] = 9,
+				[42830] = 5,
+				[122815] = 8,
+				[68565] = 3,
+				[249133] = 15,
+				[37710] = 3,
+				[229243] = 5,
+				[98240] = 5,
+				[43839] = 24,
 				[52193] = 3,
-				[279314] = 6,
+				[11265] = 54,
 				[108480] = 10,
 				[278261] = 5,
-				[259206] = 7,
-				[36672] = 5,
-				[46074] = 4,
-				[36154] = 13,
-				[77242] = 20,
-				[121808] = 4,
+				[62270] = 3,
+				[259183] = 4,
+				[132662] = 4,
+				[190046] = 3,
+				[11132] = 64,
+				[69250] = 12,
 				[270071] = 4,
-				[259463] = 8,
+				[77439] = 3,
 				[159615] = 7,
 				[163711] = 3,
-				[200574] = 6,
-				[102337] = 5,
+				[167807] = 3,
+				[204670] = 7,
 				[208766] = 3,
 				[180095] = 3,
-				[9465] = 16,
+				[249725] = 15,
 				[155520] = 3,
 				[225150] = 5,
 				[114625] = 19,
 				[41954] = 3,
 				[85954] = 8,
-				[121475] = 4,
+				[60825] = 4,
 				[147329] = 4,
 				[46050] = 4,
-				[44876] = 5,
+				[88044] = 4,
 				[12025] = 14,
-				[49122] = 3,
+				[12281] = 11,
 				[270076] = 8,
 				[278268] = 5,
-				[216130] = 4,
-				[259883] = 3,
-				[125775] = 9,
-				[259905] = 4,
+				[220454] = 9,
+				[262198] = 6,
+				[118407] = 4,
+				[98375] = 3,
 				[192385] = 3,
-				[93845] = 7,
+				[76754] = 3,
 				[116674] = 6,
-				[262108] = 3,
+				[89041] = 8,
 				[88003] = 4,
-				[161393] = 4,
+				[129832] = 4,
 				[216961] = 3,
-				[78473] = 18,
-				[159687] = 7,
-				[28324] = 5,
-				[47945] = 13,
+				[5681] = 16,
+				[29834] = 3,
+				[161285] = 3,
+				[262457] = 6,
 				[17394] = 4,
-				[259788] = 4,
+				[212938] = 4,
 				[106435] = 4,
-				[62840] = 5,
-				[101004] = 7,
+				[160773] = 3,
+				[40779] = 5,
 				[19954] = 29,
-				[260107] = 4,
+				[262525] = 5,
 				[167812] = 3,
-				[63851] = 10,
+				[228641] = 4,
 				[120771] = 4,
-				[32454] = 20,
+				[116366] = 5,
 				[23026] = 4,
-				[243648] = 3,
+				[262653] = 3,
 				[257922] = 4,
-				[45386] = 9,
-				[260542] = 4,
+				[149447] = 4,
+				[168170] = 8,
 				[51171] = 15,
 				[104388] = 6,
-				[263796] = 7,
+				[51700] = 14,
 				[270085] = 4,
-				[155526] = 3,
+				[77765] = 3,
 				[192389] = 6,
-				[2783] = 35,
+				[246484] = 3,
 				[83909] = 5,
-				[476] = 7,
-				[260680] = 3,
-				[264311] = 3,
-				[216965] = 3,
+				[47592] = 4,
+				[29887] = 6,
+				[484] = 14,
+				[92101] = 3,
 				[278279] = 3,
 				[159623] = 9,
-				[72652] = 12,
+				[26790] = 7,
 				[33764] = 6,
-				[129756] = 14,
-				[42995] = 19,
-				[6591] = 4,
-				[282560] = 50,
-				[264211] = 4,
+				[43387] = 5,
+				[111255] = 5,
+				[157696] = 6,
+				[262846] = 7,
+				[70603] = 5,
 				[79814] = 7,
 				[163720] = 4,
 				[270090] = 4,
 				[171912] = 7,
-				[38270] = 9,
-				[263015] = 6,
+				[74395] = 4,
+				[129781] = 4,
 				[151433] = 13,
-				[136499] = 6,
+				[25833] = 6,
 				[96198] = 13,
 				[131013] = 8,
-				[229389] = 3,
-				[203309] = 4,
-				[157068] = 6,
+				[125892] = 3,
+				[136833] = 4,
+				[84936] = 7,
 				[53220] = 9,
 				[75719] = 3,
-				[140896] = 16,
+				[27828] = 3,
 				[257927] = 3,
-				[86687] = 4,
-				[61917] = 3,
-				[72671] = 6,
-				[18108] = 4,
-				[265586] = 7,
+				[57681] = 4,
+				[263237] = 4,
+				[194433] = 3,
+				[78496] = 3,
+				[81550] = 6,
 				[270095] = 4,
-				[253832] = 15,
+				[63460] = 8,
 				[128966] = 3,
-				[28330] = 3,
-				[103364] = 50,
-				[22248] = 19,
-				[208778] = 3,
+				[222612] = 3,
+				[13447] = 12,
+				[106458] = 4,
+				[71624] = 9,
 				[245641] = 3,
-				[72398] = 5,
+				[15168] = 60,
 				[188299] = 54,
-				[37285] = 4,
+				[45420] = 5,
 				[5117] = 17,
-				[233354] = 10,
-				[255355] = 5,
-				[30891] = 7,
+				[167820] = 9,
+				[217789] = 8,
+				[140] = 32,
 				[5629] = 19,
 				[216971] = 3,
 				[5885] = 3,
-				[17408] = 26,
-				[49153] = 8,
-				[263402] = 4,
+				[36180] = 14,
+				[64852] = 9,
+				[263516] = 11,
 				[25587] = 8,
-				[6525] = 5,
-				[263437] = 3,
+				[143246] = 5,
+				[125911] = 3,
 				[54245] = 3,
-				[173385] = 5,
-				[129702] = 9,
+				[144560] = 3,
+				[1835] = 15,
 				[163726] = 7,
-				[264132] = 8,
-				[263550] = 6,
+				[263505] = 5,
+				[7094] = 4,
 				[176014] = 3,
 				[180110] = 5,
-				[124872] = 7,
-				[155535] = 4,
-				[264370] = 7,
-				[84652] = 3,
+				[92105] = 3,
+				[221069] = 7,
+				[101034] = 14,
+				[263834] = 6,
 				[270104] = 3,
 				[139152] = 6,
-				[80719] = 3,
-				[264552] = 4,
+				[263964] = 7,
+				[157604] = 5,
 				[249741] = 6,
-				[44376] = 5,
+				[82901] = 3,
 				[9978] = 13,
-				[41306] = 4,
-				[149066] = 4,
+				[274763] = 6,
+				[264787] = 7,
 				[42982] = 5,
-				[13159] = 7,
-				[264932] = 4,
-				[119321] = 16,
-				[48474] = 10,
-				[192400] = 8,
+				[7133] = 3,
+				[264911] = 6,
+				[124551] = 4,
+				[264466] = 10,
+				[159633] = 6,
 				[49126] = 3,
-				[273341] = 3,
-				[265123] = 4,
+				[264958] = 10,
+				[272573] = 3,
 				[13050] = 49,
-				[264924] = 7,
+				[184222] = 4,
 				[270109] = 8,
-				[110538] = 6,
-				[144742] = 5,
+				[55270] = 4,
+				[265180] = 7,
 				[57318] = 4,
-				[76474] = 4,
-				[50579] = 4,
-				[88011] = 12,
+				[25264] = 17,
+				[152454] = 7,
+				[15098] = 16,
 				[90059] = 4,
-				[177780] = 4,
+				[265577] = 3,
 				[94155] = 3,
-				[78636] = 3,
-				[265899] = 9,
-				[70610] = 4,
-				[265483] = 4,
+				[265710] = 10,
+				[83921] = 5,
+				[265343] = 3,
+				[265819] = 37,
 				[143252] = 4,
-				[141211] = 11,
-				[266226] = 3,
-				[182127] = 3,
-				[265795] = 4,
+				[265959] = 7,
+				[15972] = 4,
+				[40142] = 4,
+				[33543] = 3,
 				[262033] = 3,
 				[135061] = 9,
-				[266305] = 3,
-				[208787] = 3,
-				[18117] = 7,
+				[266262] = 3,
+				[120779] = 4,
+				[267294] = 5,
 				[46055] = 17,
 				[155541] = 4,
-				[117709] = 6,
-				[262271] = 5,
-				[151448] = 3,
-				[262252] = 3,
-				[149491] = 5,
-				[267182] = 3,
-				[262351] = 8,
-				[14181] = 8,
+				[44393] = 13,
+				[149549] = 3,
+				[266928] = 3,
+				[267016] = 6,
+				[267061] = 3,
+				[267092] = 9,
+				[149354] = 4,
+				[267190] = 4,
 				[257939] = 5,
-				[163734] = 4,
-				[267386] = 10,
-				[149046] = 4,
-				[262487] = 5,
-				[245652] = 3,
+				[229268] = 15,
+				[267200] = 3,
+				[267370] = 3,
+				[247636] = 5,
+				[30708] = 9,
 				[184214] = 7,
-				[133086] = 3,
-				[107315] = 9,
-				[262688] = 3,
-				[264974] = 8,
-				[148555] = 5,
+				[267424] = 3,
+				[37222] = 4,
+				[267453] = 3,
+				[48485] = 5,
+				[267505] = 4,
 				[104397] = 3,
-				[267673] = 3,
-				[249749] = 6,
+				[105160] = 11,
+				[75726] = 3,
 				[38888] = 4,
 				[159640] = 6,
-				[267562] = 5,
-				[267601] = 3,
-				[268246] = 6,
-				[95170] = 15,
-				[262768] = 4,
+				[82891] = 9,
+				[267810] = 3,
+				[267857] = 17,
+				[68302] = 5,
+				[268154] = 13,
 				[92110] = 3,
-				[58730] = 13,
-				[268096] = 26,
-				[4271] = 8,
+				[262795] = 4,
+				[265297] = 7,
+				[268476] = 7,
 				[167833] = 6,
-				[185865] = 3,
+				[141195] = 4,
 				[143258] = 3,
-				[31415] = 7,
+				[268396] = 7,
 				[216984] = 3,
 				[155546] = 7,
 				[192409] = 3,
-				[226718] = 12,
-				[80837] = 5,
+				[268643] = 5,
+				[263767] = 4,
 				[85967] = 12,
-				[91079] = 3,
+				[84949] = 3,
 				[61416] = 7,
-				[37230] = 4,
-				[262999] = 3,
+				[76493] = 4,
+				[259513] = 3,
 				[128974] = 10,
-				[113356] = 8,
-				[206256] = 3,
-				[113365] = 14,
-				[263190] = 3,
-				[212890] = 3,
+				[67597] = 34,
+				[135226] = 7,
+				[143755] = 4,
+				[68516] = 8,
+				[73680] = 5,
 				[108495] = 3,
 				[221082] = 8,
-				[81088] = 7,
+				[11535] = 3,
 				[262041] = 4,
-				[66766] = 3,
+				[103583] = 4,
 				[204699] = 3,
-				[118050] = 8,
-				[180124] = 3,
-				[263298] = 3,
-				[224383] = 3,
+				[226741] = 7,
+				[90064] = 3,
+				[105180] = 13,
+				[230063] = 3,
 				[225179] = 5,
-				[68322] = 4,
-				[263375] = 3,
-				[226105] = 35,
-				[263722] = 3,
+				[222756] = 4,
+				[93650] = 3,
+				[153471] = 6,
+				[81230] = 6,
 				[106448] = 6,
-				[263449] = 6,
+				[60787] = 4,
 				[253851] = 3,
 				[28149] = 4,
-				[31949] = 6,
-				[135071] = 4,
-				[209714] = 3,
+				[21180] = 5,
+				[270134] = 3,
+				[179148] = 6,
 				[120784] = 3,
-				[264416] = 4,
-				[249756] = 37,
-				[94161] = 38,
-				[159647] = 7,
-				[98257] = 4,
-				[185406] = 3,
+				[263842] = 3,
+				[124880] = 20,
+				[278327] = 5,
+				[192414] = 7,
+				[32757] = 7,
+				[264011] = 8,
 				[102353] = 3,
 				[104401] = 21,
-				[91728] = 3,
-				[51565] = 8,
+				[264200] = 4,
+				[82780] = 3,
 				[110545] = 4,
-				[264716] = 14,
-				[99127] = 3,
+				[264478] = 32,
+				[270259] = 5,
 				[167840] = 3,
-				[153051] = 3,
-				[270712] = 6,
-				[136621] = 5,
-				[265153] = 4,
+				[270265] = 3,
+				[38719] = 4,
+				[270297] = 5,
+				[270216] = 3,
 				[47082] = 14,
-				[270687] = 4,
-				[270911] = 9,
+				[264995] = 4,
+				[136370] = 4,
 				[270140] = 3,
 				[204704] = 3,
-				[265242] = 3,
+				[11360] = 3,
 				[180129] = 4,
 				[151458] = 3,
-				[165351] = 3,
-				[265994] = 5,
+				[265674] = 4,
+				[265434] = 4,
 				[163746] = 4,
 				[200609] = 3,
-				[139171] = 4,
+				[118738] = 10,
 				[241568] = 4,
-				[266301] = 3,
-				[271690] = 4,
+				[265782] = 8,
+				[271520] = 6,
 				[278335] = 8,
-				[225185] = 6,
+				[16123] = 5,
 				[262048] = 6,
-				[266295] = 5,
+				[266491] = 4,
 				[171939] = 4,
 				[143268] = 5,
-				[266780] = 134,
+				[132605] = 3,
 				[270145] = 3,
-				[148991] = 3,
-				[90881] = 4,
-				[267233] = 4,
-				[272306] = 4,
-				[82692] = 6,
+				[132280] = 6,
+				[272039] = 7,
+				[272158] = 6,
+				[272202] = 5,
+				[39300] = 9,
 				[286530] = 59,
 				[45035] = 4,
-				[59780] = 4,
-				[272208] = 3,
-				[84744] = 6,
-				[272567] = 3,
-				[167845] = 5,
-				[267606] = 4,
+				[76551] = 4,
+				[272321] = 3,
+				[177671] = 7,
+				[272371] = 3,
+				[233379] = 4,
+				[272483] = 3,
 				[52203] = 4,
-				[267703] = 4,
-				[151462] = 3,
-				[272383] = 3,
-				[268376] = 9,
-				[12643] = 11,
-				[268626] = 8,
+				[177679] = 12,
+				[75733] = 7,
+				[272593] = 5,
+				[272599] = 10,
+				[97036] = 4,
+				[272638] = 7,
 				[29686] = 4,
-				[272625] = 6,
+				[272701] = 3,
 				[122836] = 4,
-				[268696] = 6,
+				[268745] = 7,
 				[155559] = 5,
-				[96213] = 6,
+				[64491] = 5,
 				[131028] = 3,
-				[22782] = 4,
+				[273039] = 3,
 				[278344] = 6,
-				[111377] = 17,
+				[273097] = 6,
 				[212902] = 3,
-				[275954] = 6,
-				[58763] = 3,
-				[257957] = 4,
+				[273302] = 5,
+				[242211] = 4,
+				[39916] = 3,
 				[196519] = 5,
-				[273227] = 4,
-				[111706] = 9,
-				[127765] = 3,
-				[118928] = 8,
-				[71850] = 4,
-				[51003] = 3,
-				[40336] = 4,
-				[35362] = 5,
-				[100310] = 5,
-				[274082] = 3,
-				[42720] = 3,
-				[109402] = 11,
+				[273458] = 3,
+				[273528] = 4,
+				[273560] = 3,
+				[273571] = 3,
+				[273578] = 9,
+				[273617] = 5,
+				[273875] = 12,
+				[273642] = 4,
+				[50156] = 5,
+				[273989] = 3,
+				[225935] = 3,
+				[154303] = 8,
 				[151466] = 5,
 				[110550] = 7,
-				[47905] = 6,
-				[274183] = 4,
+				[274048] = 4,
+				[274169] = 6,
 				[135083] = 5,
-				[60709] = 33,
-				[241576] = 11,
+				[36243] = 3,
+				[120790] = 9,
 				[147371] = 11,
-				[274522] = 5,
-				[253864] = 4,
-				[49556] = 3,
+				[274460] = 7,
+				[278351] = 5,
+				[274512] = 4,
 				[262056] = 4,
-				[270723] = 33,
-				[18153] = 6,
+				[227058] = 3,
+				[274620] = 5,
 				[208810] = 3,
-				[180139] = 3,
-				[274634] = 3,
-				[271239] = 3,
-				[271234] = 4,
+				[73688] = 4,
+				[270960] = 4,
+				[271121] = 17,
+				[271150] = 13,
 				[163756] = 4,
 				[270162] = 9,
 				[42989] = 3,
-				[176044] = 3,
-				[177749] = 7,
-				[271621] = 4,
-				[271576] = 3,
-				[24055] = 3,
-				[70453] = 3,
-				[271790] = 3,
-				[271943] = 3,
-				[80804] = 3,
-				[42455] = 4,
-				[275716] = 4,
-				[49567] = 8,
+				[44013] = 4,
+				[274851] = 7,
+				[274943] = 6,
+				[274861] = 24,
+				[159661] = 5,
+				[275206] = 3,
+				[275232] = 9,
+				[275399] = 11,
+				[275553] = 3,
+				[275575] = 6,
+				[272022] = 4,
+				[88892] = 7,
 				[225196] = 3,
-				[7166] = 12,
+				[196525] = 3,
 				[200621] = 5,
-				[78510] = 5,
-				[272316] = 4,
-				[132729] = 5,
-				[113469] = 4,
-				[7934] = 4,
-				[276269] = 7,
-				[276062] = 3,
-				[42403] = 3,
-				[8700] = 12,
+				[111419] = 26,
+				[275728] = 3,
+				[275870] = 4,
+				[275794] = 3,
+				[63469] = 3,
+				[275963] = 3,
+				[276240] = 5,
+				[272521] = 4,
+				[278360] = 4,
 				[208814] = 3,
-				[157311] = 5,
-				[151472] = 3,
-				[145028] = 5,
-				[276425] = 6,
+				[127808] = 3,
+				[108505] = 11,
+				[272690] = 3,
+				[198270] = 10,
 				[10236] = 3,
 				[135089] = 5,
-				[273020] = 5,
-				[273063] = 5,
-				[98640] = 6,
-				[273120] = 3,
-				[117855] = 10,
+				[264349] = 5,
+				[68558] = 6,
+				[119788] = 8,
+				[140937] = 9,
+				[89015] = 7,
 				[48110] = 5,
-				[107584] = 4,
+				[273368] = 9,
 				[67547] = 7,
-				[246015] = 4,
-				[23253] = 3,
-				[212912] = 3,
+				[103246] = 5,
+				[117578] = 8,
+				[53230] = 4,
 				[13564] = 14,
-				[228379] = 3,
-				[235158] = 9,
+				[97103] = 4,
+				[37291] = 18,
 				[14332] = 111,
 				[167858] = 16,
-				[58794] = 14,
-				[274316] = 5,
-				[274628] = 3,
-				[274542] = 12,
-				[84287] = 10,
+				[65803] = 3,
+				[226651] = 13,
+				[102696] = 3,
+				[274491] = 3,
+				[90963] = 5,
 				[159667] = 8,
 				[65518] = 4,
-				[274683] = 3,
+				[91663] = 5,
 				[17400] = 5,
-				[176051] = 6,
-				[99797] = 3,
+				[208818] = 4,
+				[274699] = 3,
 				[270177] = 8,
-				[278436] = 3,
-				[55728] = 3,
-				[177440] = 7,
+				[3026] = 24,
+				[145076] = 3,
+				[119447] = 4,
 				[41967] = 8,
-				[278623] = 5,
-				[278448] = 6,
+				[40371] = 9,
+				[275599] = 3,
 				[22520] = 19,
 				[151477] = 5,
-				[278921] = 5,
-				[276259] = 3,
-				[115563] = 7,
+				[278761] = 4,
+				[50614] = 8,
+				[11375] = 14,
 				[100316] = 4,
-				[276750] = 4,
+				[279049] = 3,
 				[26104] = 4,
-				[245683] = 3,
+				[212916] = 4,
 				[75741] = 5,
 				[221108] = 5,
-				[76658] = 6,
-				[279308] = 5,
-				[116700] = 4,
+				[32793] = 9,
+				[80751] = 7,
+				[29176] = 6,
 				[85981] = 21,
-				[279518] = 4,
-				[102550] = 3,
+				[28435] = 3,
+				[279638] = 3,
 				[217013] = 3,
-				[89300] = 17,
-				[65148] = 6,
-				[76666] = 4,
-				[115576] = 6,
-				[280103] = 3,
-				[61758] = 18,
-				[215930] = 6,
+				[279698] = 3,
+				[279726] = 3,
+				[279794] = 3,
+				[279844] = 3,
+				[279938] = 3,
+				[84860] = 3,
+				[279998] = 3,
 				[37872] = 6,
-				[111523] = 5,
-				[177910] = 8,
-				[229302] = 5,
-				[135097] = 4,
+				[126468] = 3,
+				[280367] = 5,
+				[114653] = 5,
+				[83934] = 8,
 				[171960] = 3,
-				[44483] = 15,
-				[278520] = 3,
-				[278555] = 4,
-				[80777] = 3,
-				[279018] = 3,
-				[279224] = 11,
-				[125831] = 5,
-				[102366] = 6,
-				[279321] = 11,
-				[281099] = 4,
+				[280467] = 6,
+				[280680] = 10,
+				[280722] = 3,
+				[280732] = 3,
+				[280793] = 7,
+				[280927] = 6,
+				[280894] = 32,
+				[69599] = 3,
+				[279158] = 14,
+				[279205] = 18,
 				[184249] = 3,
 				[110558] = 4,
 				[56304] = 6,
 				[262071] = 3,
-				[45518] = 5,
-				[280331] = 12,
-				[47569] = 5,
-				[281267] = 19,
-				[44499] = 4,
-				[281015] = 10,
+				[281118] = 5,
+				[281153] = 8,
+				[281173] = 5,
+				[281201] = 3,
+				[76704] = 7,
+				[281259] = 3,
 				[225209] = 9,
-				[281045] = 16,
-				[281074] = 3,
+				[281040] = 3,
+				[281378] = 6,
 				[139196] = 4,
-				[281244] = 3,
-				[281312] = 6,
-				[21228] = 102,
-				[77792] = 10,
-				[281522] = 6,
-				[72624] = 3,
-				[127917] = 4,
+				[281421] = 4,
+				[281453] = 3,
+				[281445] = 4,
+				[253881] = 3,
+				[281461] = 3,
+				[8823] = 9,
+				[281498] = 3,
 				[171964] = 4,
-				[36315] = 11,
-				[281745] = 35,
-				[281848] = 5,
-				[281630] = 12,
+				[281548] = 13,
+				[281585] = 4,
+				[29422] = 3,
+				[93107] = 43,
 				[96224] = 7,
 				[98272] = 3,
-				[282115] = 6,
-				[282249] = 189,
+				[12152] = 6,
+				[281855] = 4,
 				[71649] = 8,
 				[26617] = 22,
 				[151486] = 12,
 				[55281] = 3,
-				[101305] = 4,
+				[282499] = 31,
 				[81889] = 19,
-				[51682] = 8,
-				[282721] = 3,
-				[120800] = 3,
+				[282826] = 235,
+				[59871] = 7,
+				[88033] = 5,
 				[245692] = 11,
-				[284945] = 888,
-				[232614] = 3,
-				[272230] = 3,
+				[283256] = 55,
+				[280616] = 4,
+				[284308] = 42,
 			},
-			["XPac_ItemCache"] = 8,
-			["SpellCacheWoWVersion"] = "27980",
-			["SpellCacheLength"] = 291872,
 		},
 	},
 	["profileKeys"] = {
@@ -17906,12 +17856,12060 @@ TMWOptDB = {
 			"ffffffff", -- [1]
 			"ff7f7f7f", -- [2]
 		},
-		["TellMeWhenDBBackupDate"] = 1538681712,
+		["TellMeWhenDBBackupDate"] = 1538696652,
 		["EditorHeight"] = 632.693237304688,
 		["LastChangelogVersion"] = 85403,
-		["ConfigWarningN"] = 385,
-		["EditorScale"] = 1.28498303890228,
-		["ScaleIE"] = true,
+		["ConfigWarningN"] = 411,
+		["TellMeWhenDBBackup"] = {
+			["profileKeys"] = {
+				["Twiddlederr - Kel'Thuzad"] = "Twiddlederr - Kel'Thuzad",
+				["Suhdrude - Anvilmar"] = "Suhdrude - Anvilmar",
+				["Fistbeavers - Kel'Thuzad"] = "Fistbeavers - Kel'Thuzad",
+				["Twiddlederr - Anvilmar"] = "Twiddlederr - Anvilmar",
+				["Eyebrowse - Kel'Thuzad"] = "Druid",
+			},
+			["global"] = {
+				["TextLayouts"] = {
+					["icon1"] = {
+						{
+						}, -- [1]
+						{
+						}, -- [2]
+					},
+					["bar2"] = {
+						{
+						}, -- [1]
+						{
+						}, -- [2]
+					},
+				},
+				["ShowGUIDs"] = true,
+				["AllowCombatConfig"] = true,
+				["HelpSettings"] = {
+					["ICON_DURS_FIRSTSEE"] = true,
+					["SUG_FIRSTHELP"] = true,
+					["SCROLLBAR_DROPDOWN"] = true,
+					["ICON_POCKETWATCH_FIRSTSEE"] = true,
+					["CNDT_ANDOR_FIRSTSEE"] = true,
+				},
+			},
+			["Version"] = 85403,
+			["profiles"] = {
+				["Twiddlederr - Kel'Thuzad"] = {
+					["Locked"] = true,
+					["Groups"] = {
+						{
+							["GUID"] = "TMW:group:1QwL7gQwOB=r",
+							["Role"] = 1,
+							["Columns"] = 7,
+							["Scale"] = 2.21071815490723,
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sX", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Honorable Medallion; Gladiator's Medallion",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sF", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Darkness",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"G", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Shadowmeld",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sS", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Reverse Magic",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"s4", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Blur",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Netherwalk",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sB", -- [1]
+												"[Stacks:Hide(0)]", -- [2]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Healthstone",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"C", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+											["Texture"] = "6262",
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+											["Texture"] = "6262",
+										}, -- [2]
+										{
+											["Texture"] = "6262",
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["ShowTimerText"] = true,
+									["Type"] = "item",
+									["OnlyInBags"] = true,
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+								nil, -- [14]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [15]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [16]
+							},
+							["Point"] = {
+								["y"] = -107.08296581796,
+								["x"] = 2.65743524271414,
+							},
+						}, -- [1]
+						{
+							["GUID"] = "TMW:group:1RS6HM2lDcEb",
+							["Role"] = 1,
+							["Columns"] = 9,
+							["Scale"] = 1.58055913448334,
+							["Rows"] = 2,
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Demon's Bite",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"1", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "icon1",
+											["Texts"] = {
+												"2", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Throw Glaive",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"3", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Blade Dance",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"4", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Fel Rush",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"5", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Felblade; Fel Eruption",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"V", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Eye Beam",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sR", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Spectral Sight",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Immolation Aura",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sC", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sT", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Eye of Leotheras",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"S", -- [1]
+												"[Stacks:Hide(0)]", -- [2]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Chaos Nova",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"F", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Chaos Strike",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Rain from Above",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sZ", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"R", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Vengeful Retreat",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Fel Barrage",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sW", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [14]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sE", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Metamorphosis",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [15]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sD", -- [1]
+											},
+										},
+									},
+									["Type"] = "item",
+									["Name"] = "159614",
+									["OnlyEquipped"] = true,
+									["OnlyInBags"] = true,
+								}, -- [16]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sV", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Mana Rift",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [17]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ClockGCD"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sV", -- [1]
+											},
+										},
+									},
+									["Type"] = "item",
+									["Name"] = "162897",
+									["OnlyEquipped"] = true,
+									["OnlyInBags"] = true,
+								}, -- [18]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [19]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [20]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [21]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [22]
+								[28] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+							},
+							["Point"] = {
+								["y"] = -95.1651451413982,
+								["x"] = 9.96468823956766,
+							},
+						}, -- [2]
+						{
+							["GUID"] = "TMW:group:1RS6NLVOgcjf",
+							["Role"] = 1,
+							["Columns"] = 1,
+							["Scale"] = 1.47223138809204,
+							["Rows"] = 3,
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Disrupt; Disrupt",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"A", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"D", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Imprison",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"X", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Consume Magic",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+							},
+							["Point"] = {
+								["y"] = -75.9049150222335,
+								["x"] = 189.225925622256,
+							},
+						}, -- [3]
+						{
+							["LayoutDirection"] = 4,
+							["Role"] = 1,
+							["Columns"] = 2,
+							["Point"] = {
+								["y"] = -56.9959824265785,
+								["x"] = -272.679979298716,
+							},
+							["Scale"] = 0.791677951812744,
+							["Rows"] = 3,
+							["Icons"] = {
+								{
+									["Enabled"] = true,
+									["Type"] = "unitcondition",
+									["Conditions"] = {
+										{
+											["Type"] = "COMBAT",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["States"] = {
+										{
+											["Texture"] = "7165",
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+											["Texture"] = "7165",
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+										[102] = {
+											["Alpha"] = 0.3,
+											["Texture"] = "7165",
+										},
+									},
+								}, -- [1]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "buff",
+									["Name"] = "Blur",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.2,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["Enabled"] = true,
+									["Type"] = "buff",
+									["Name"] = "Magic",
+									["BuffOrDebuff"] = "HARMFUL",
+									["States"] = {
+										{
+											["Texture"] = "205604",
+										}, -- [1]
+										{
+											["Alpha"] = 0.2,
+											["Texture"] = "205604",
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "buff",
+									["Name"] = "Darkness",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.2,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "buff",
+									["Name"] = "Momentum",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.2,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "buff",
+									["Name"] = "Metamorphosis",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.2,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [14]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [15]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [16]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [17]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [18]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [19]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [20]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [21]
+							},
+							["GUID"] = "TMW:group:1RSt=ouq0YL7",
+						}, -- [4]
+						{
+							["GUID"] = "TMW:group:1RTVFSDmEWiz",
+							["Role"] = 4,
+							["Columns"] = 6,
+							["Scale"] = 1.65834546089172,
+							["Rows"] = 2,
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"1", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Shear",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Throw Glaive",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "icon1",
+											["Texts"] = {
+												"2", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Blade Dance",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"3", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Fel Rush",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"4", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Felblade",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"5", -- [1]
+												"[Stacks:Hide(0)]", -- [2]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sR", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Spectral Sight",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Chaos Strike",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"F", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"V", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Immolation Aura",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Torment",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sQ", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"R", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Fiery Brand",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Metamorphosis",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sE", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [14]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [15]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [16]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [17]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [18]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [19]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [20]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [21]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [22]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [23]
+								[25] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+							},
+							["Point"] = {
+								["y"] = -67.0846232718446,
+								["x"] = -18.7687929358271,
+							},
+						}, -- [5]
+						{
+							["GUID"] = "TMW:group:1RTVG4UvBykb",
+							["Role"] = 4,
+							["Columns"] = 1,
+							["Scale"] = 1.87222564220428,
+							["Rows"] = 3,
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"A", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Disrupt; Disrupt",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Imprison",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"D", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"X", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Consume Magic",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+							},
+							["Point"] = {
+								["y"] = 15.4899403668201,
+								["x"] = 89.1988008730811,
+							},
+						}, -- [6]
+						{
+							["GUID"] = "TMW:group:1RTVGIAotQBs",
+							["Role"] = 6,
+							["Columns"] = 6,
+							["Scale"] = 2.32501840591431,
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sX", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Gladiator's Medallion",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sW", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Fel Devastation",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sS", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Sigil of Silence",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"S", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Sigil of Misery",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Vengeful Retreat",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"s4", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["EnableStacks"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"C", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Name"] = "5512",
+									["Type"] = "item",
+									["OnlyInBags"] = true,
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								[13] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+								[19] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+							},
+							["Point"] = {
+								["y"] = -91.2356214927012,
+								["x"] = -6.18225533209082,
+							},
+						}, -- [7]
+						{
+							["GUID"] = "TMW:group:1RdQK=LE_axM",
+							["Role"] = 1,
+							["Columns"] = 1,
+							["Scale"] = 2.96943736076355,
+							["Icons"] = {
+								{
+									["Enabled"] = true,
+									["Type"] = "conditionicon",
+									["Conditions"] = {
+										{
+											["Name"] = "Bone Fishing Pole",
+											["Type"] = "ITEMEQUIPPED",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["States"] = {
+										{
+											["Texture"] = "269944",
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+							},
+							["Point"] = {
+								["y"] = -14.2982776060053,
+								["x"] = 62.4556642457759,
+							},
+						}, -- [8]
+						{
+							["Icons"] = {
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+							},
+						}, -- [9]
+					},
+					["NumGroups"] = 8,
+					["Version"] = 85403,
+				},
+				["Druid"] = {
+					["ForceNoBlizzCC"] = true,
+					["Version"] = 85403,
+					["NumGroups"] = 11,
+					["DrawEdge"] = true,
+					["Groups"] = {
+						{
+							["GUID"] = "TMW:group:1RfFReP1S9a5",
+							["Scale"] = 1.23335552215576,
+							["Columns"] = 3,
+							["Icons"] = {
+								{
+									["Type"] = "meta",
+									["Icons"] = {
+										"TMW:icon:1Rji6MdbKQ13", -- [1]
+										"TMW:icon:1Rji6Mdfx_Y6", -- [2]
+										"TMW:icon:1RjgNCit=ksg", -- [3]
+									},
+									["Enabled"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["Type"] = "meta",
+									["Icons"] = {
+										"TMW:icon:1RjgNDrGwqHt", -- [1]
+										"TMW:icon:1RjgNDrO88mu", -- [2]
+									},
+									["Enabled"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["Conditions"] = {
+										{
+											["Type"] = "STANCE",
+											["Name"] = "Bear Form",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Name"] = "Thrash",
+									["ShowTimerText"] = true,
+									["ClockGCD"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"3", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+									["ManaCheck"] = true,
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+							},
+							["Point"] = {
+								["y"] = -102.158887587785,
+								["x"] = 16.333018659453,
+							},
+						}, -- [1]
+						{
+							["GUID"] = "TMW:group:1RfGhxNqSXx2",
+							["Scale"] = 1.43334126472473,
+							["Rows"] = 2,
+							["Columns"] = 3,
+							["Icons"] = {
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["Name"] = "Mighty Bash; Mass Entanglement",
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"S", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [1]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["Name"] = "Ursol's Vortex",
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sD", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [2]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Soothe",
+									["ShowTimerText"] = true,
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sZ", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [3]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["Name"] = "Entangling Roots",
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"X", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [4]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["Name"] = "Hibernate",
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"cR", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								[13] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+							},
+							["Point"] = {
+								["y"] = -35.9288827783703,
+								["x"] = 220.463933581666,
+							},
+						}, -- [2]
+						{
+							["GUID"] = "TMW:group:1RfGjXK=gGRr",
+							["Scale"] = 1.91946601867676,
+							["Rows"] = 2,
+							["Icons"] = {
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["Name"] = "Barkskin",
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sW", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [1]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Incarnation: Tree of Life",
+									["ShowTimerText"] = true,
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"cE", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [2]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Renewal",
+									["ShowTimerText"] = true,
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"4", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [3]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "item",
+									["OnlyInBags"] = true,
+									["ShowTimerText"] = true,
+									["ClockGCD"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"C", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+											["Texture"] = "6262",
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+											["Texture"] = "6262",
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Enabled"] = true,
+									["Name"] = "Healthstone",
+								}, -- [4]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["Name"] = "Innervate",
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"T", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [5]
+								{
+									["ShowTimer"] = true,
+									["OnlyEquipped"] = true,
+									["Type"] = "item",
+									["ShowTimerText"] = true,
+									["Name"] = "161674",
+									["ClockGCD"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"cA", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+									["OnlyInBags"] = true,
+								}, -- [6]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["Name"] = "Ironfur",
+									["Conditions"] = {
+										{
+											["Type"] = "RAGE_ABS",
+											["Operator"] = ">=",
+											["Level"] = 45,
+										}, -- [1]
+										["n"] = 1,
+									},
+									["ClockGCD"] = true,
+									["Enabled"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sV", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+										[102] = {
+											["Alpha"] = 0.3,
+										},
+									},
+									["RangeCheck"] = true,
+									["ManaCheck"] = true,
+								}, -- [7]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["Name"] = "Frenzied Regeneration",
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sF", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [8]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+							},
+							["Point"] = {
+								["y"] = -118.999720569865,
+								["x"] = 37.1202386832802,
+							},
+						}, -- [3]
+						{
+							["GUID"] = "TMW:group:1RfGmr5jHboU",
+							["Scale"] = 1.63609611988068,
+							["Rows"] = 3,
+							["Columns"] = 2,
+							["Icons"] = {
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["Name"] = "Nature's Cure",
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sS", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [1]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["Name"] = "Swiftmend",
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"5", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [2]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Flourish",
+									["ShowTimerText"] = true,
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sA", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [3]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["Name"] = "Ironbark",
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sR", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [4]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["Name"] = "Cenarion Ward",
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"cF", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [5]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Overgrowth",
+									["ShowTimerText"] = true,
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"cW", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+							},
+							["Point"] = {
+								["y"] = -106.908938377106,
+								["x"] = -82.5644566603221,
+							},
+						}, -- [4]
+						{
+							["GUID"] = "TMW:group:1RfGptRX1Z7F",
+							["Scale"] = 1.95983970165253,
+							["Rows"] = 2,
+							["Columns"] = 3,
+							["Icons"] = {
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["Name"] = "Gladiator's Medallion",
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sX", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [1]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["Name"] = "Prowl",
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"F", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [2]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["Name"] = "Shadowmeld",
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"G", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [3]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["Name"] = "Wild Charge",
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"4", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [4]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["Name"] = "Dash",
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sT", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [5]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Rebirth",
+									["ShowTimerText"] = true,
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"cX", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+							},
+							["Point"] = {
+								["y"] = -120.012195662412,
+								["x"] = 158.656920141191,
+							},
+						}, -- [5]
+						{
+							["GUID"] = "TMW:group:1RfH9yE347k1",
+							["Scale"] = 0.795837879180908,
+							["Rows"] = 2,
+							["Icons"] = {
+								{
+									["Type"] = "unitcondition",
+									["Enabled"] = true,
+									["UnitConditions"] = {
+										{
+											["Type"] = "COMBAT",
+											["Unit"] = "player",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["States"] = {
+										{
+											["Texture"] = "61860",
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+											["Texture"] = "61860",
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "buff",
+									["Name"] = "Barkskin",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+											["Texture"] = "164547",
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Enabled"] = true,
+								}, -- [2]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "buff",
+									["ShowTimerText"] = true,
+									["Name"] = "Incarnation: Tree of Life",
+									["States"] = {
+										{
+											["Texture"] = "33891",
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+											["Texture"] = "33891",
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Enabled"] = true,
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "buff",
+									["Name"] = "Lunar Empowerment",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+											["Texture"] = "164547",
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Enabled"] = true,
+								}, -- [5]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "buff",
+									["ShowTimerText"] = true,
+									["Name"] = "Ironfur",
+									["States"] = {
+										{
+											["Texture"] = "164547",
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Enabled"] = true,
+								}, -- [6]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "buff",
+									["Name"] = "Innervate",
+									["ShowTimerText"] = true,
+									["Enabled"] = true,
+									["States"] = {
+										{
+											["Texture"] = "164547",
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "totem",
+									["ShowTimerText"] = true,
+									["Enabled"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+							},
+							["LayoutDirection"] = 4,
+							["Point"] = {
+								["y"] = -67.6941387889806,
+								["x"] = -160.523264046873,
+							},
+						}, -- [6]
+						{
+							["GUID"] = "TMW:group:1RfqiDgYIPrc",
+							["Scale"] = 1.2247474193573,
+							["Role"] = 4,
+							["EnabledSpecs"] = {
+								[103] = false,
+								[102] = false,
+								[105] = false,
+							},
+							["Columns"] = 1,
+							["Icons"] = {
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["Name"] = "Growl",
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sQ", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [1]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+							},
+							["Point"] = {
+								["y"] = -176.36263758927,
+								["x"] = -38.3753209914817,
+							},
+						}, -- [7]
+						{
+							["Scale"] = 1.23335552215576,
+							["GUID"] = "TMW:group:1RjiCBiZpet_",
+							["Columns"] = 3,
+							["Icons"] = {
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["ManaCheck"] = true,
+									["Name"] = "Mangle",
+									["ClockGCD"] = true,
+									["Conditions"] = {
+										{
+											["Type"] = "STANCE",
+											["Name"] = "Bear Form",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["GUID"] = "TMW:icon:1Rji6MdbKQ13",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"1", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+								}, -- [1]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Shred",
+									["ShowTimerText"] = true,
+									["GUID"] = "TMW:icon:1Rji6Mdfx_Y6",
+									["ClockGCD"] = true,
+									["Conditions"] = {
+										{
+											["Type"] = "STANCE",
+											["Name"] = "Cat Form",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"1", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["FakeHidden"] = true,
+									["Enabled"] = true,
+								}, -- [2]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Starsurge",
+									["ShowTimerText"] = true,
+									["GUID"] = "TMW:icon:1RjgNCit=ksg",
+									["ClockGCD"] = true,
+									["Conditions"] = {
+										{
+											["Type"] = "STANCE",
+											["Name"] = "Moonkin Form",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"1", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["FakeHidden"] = true,
+									["Enabled"] = true,
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								nil, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								nil, -- [11]
+								nil, -- [12]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+								nil, -- [14]
+								nil, -- [15]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [16]
+							},
+							["Point"] = {
+								["y"] = 142.700182236434,
+								["point"] = "RIGHT",
+								["relativePoint"] = "RIGHT",
+								["x"] = -165.807107212344,
+							},
+						}, -- [8]
+						{
+							["Scale"] = 1.23335552215576,
+							["GUID"] = "TMW:group:1RjiCXbdtxy9",
+							["Columns"] = 2,
+							["Icons"] = {
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["Name"] = "Thrash",
+									["GUID"] = "TMW:icon:1RjgNDrGwqHt",
+									["ClockGCD"] = true,
+									["Conditions"] = {
+										{
+											["Type"] = "STANCE",
+											["Name"] = "Bear Form",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"R", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["FakeHidden"] = true,
+									["Enabled"] = true,
+								}, -- [1]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["Name"] = "Lunar Strike",
+									["GUID"] = "TMW:icon:1RjgNDrO88mu",
+									["ClockGCD"] = true,
+									["Conditions"] = {
+										{
+											["Type"] = "STANCE",
+											["Name"] = "Moonkin Form",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"R", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["FakeHidden"] = true,
+									["Enabled"] = true,
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								[9] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+								[11] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+							},
+							["Point"] = {
+								["y"] = 103.782091416122,
+								["point"] = "RIGHT",
+								["relativePoint"] = "RIGHT",
+								["x"] = -201.076882602969,
+							},
+						}, -- [9]
+						{
+							["Scale"] = 1.23335552215576,
+							["GUID"] = "TMW:group:1RjiFFgBbMuZ",
+							["Columns"] = 1,
+							["Icons"] = {
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+							},
+							["Point"] = {
+								["y"] = 56.7559073340904,
+								["point"] = "RIGHT",
+								["relativePoint"] = "RIGHT",
+								["x"] = -230.670998813907,
+							},
+						}, -- [10]
+						{
+							["Scale"] = 1.63609611988068,
+							["GUID"] = "TMW:group:1RjiPV2U60uG",
+							["Columns"] = 2,
+							["Icons"] = {
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Wild Growth",
+									["ShowTimerText"] = true,
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sG", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [1]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Tranquility",
+									["ShowTimerText"] = true,
+									["ClockGCD"] = true,
+									["ManaCheck"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sE", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["RangeCheck"] = true,
+									["Enabled"] = true,
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+							},
+							["Point"] = {
+								["y"] = 134.746795654297,
+								["point"] = "BOTTOM",
+								["relativePoint"] = "BOTTOM",
+								["x"] = -80.6797215529003,
+							},
+						}, -- [11]
+						{
+							["Icons"] = {
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+							},
+						}, -- [12]
+						{
+							["Icons"] = {
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+							},
+						}, -- [13]
+						{
+							["Icons"] = {
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["Icons"] = {
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+							},
+						}, -- [15]
+					},
+					["Locked"] = true,
+				},
+				["Suhdrude - Anvilmar"] = {
+					["Locked"] = true,
+					["Version"] = 85403,
+					["Groups"] = {
+						{
+							["Icons"] = {
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+							},
+							["GUID"] = "TMW:group:1RUINPR_t0SY",
+						}, -- [1]
+					},
+				},
+				["Fistbeavers - Kel'Thuzad"] = {
+					["Locked"] = true,
+					["Groups"] = {
+						{
+							["GUID"] = "TMW:group:1RVw2NbNYhNz",
+							["Role"] = 1,
+							["Columns"] = 7,
+							["Point"] = {
+								["y"] = -98.4508057501963,
+								["x"] = 13.6723398106732,
+							},
+							["Scale"] = 1.39880955219269,
+							["Rows"] = 2,
+							["EnabledSpecs"] = {
+								[270] = false,
+								[268] = false,
+							},
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Tiger Palm",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"1", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Blackout Kick",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"2", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Rising Sun Kick",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"3", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Roll",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"4", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Flying Serpent Kick",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"5", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Spinning Crane Kick",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"R", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sR", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Fist of the White Tiger",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Leg Sweep",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"S", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Disable",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"R", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"cA", -- [1]
+											},
+										},
+									},
+									["Type"] = "item",
+									["Name"] = "161902",
+									["OnlyEquipped"] = true,
+									["OnlyInBags"] = true,
+								}, -- [10]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Fists of Fury",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"V", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Storm, Earth, and Fire",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sW", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Touch of Death",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"cW", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Crackling Jade Lightning",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"F", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [14]
+							},
+						}, -- [1]
+						{
+							["GUID"] = "TMW:group:1RW38WgjDOE_",
+							["Columns"] = 1,
+							["Scale"] = 1.54999876022339,
+							["Rows"] = 5,
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"A", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Spear Hand Strike",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"X", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Grapple Weapon",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Paralysis",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"D", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"S", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Leg Sweep",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Enabled"] = true,
+									["Name"] = "Song of Chi-Ji",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sE", -- [1]
+											},
+										},
+									},
+									["FakeHidden"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+							},
+							["Point"] = {
+								["y"] = -14.1924500278987,
+								["x"] = 171.613783483193,
+							},
+						}, -- [2]
+						{
+							["GUID"] = "TMW:group:1RW39XAYXOWl",
+							["Role"] = 1,
+							["Columns"] = 7,
+							["Point"] = {
+								["y"] = -134.812958540644,
+								["x"] = 11.3612028926254,
+							},
+							["Scale"] = 1.727379322052,
+							["Rows"] = 2,
+							["EnabledSpecs"] = {
+								[270] = false,
+								[268] = false,
+							},
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Dampen Harm",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sV", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Touch of Karma",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"cE", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sS", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Detox",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["OnlyInBags"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"cR", -- [1]
+											},
+										},
+									},
+									["Type"] = "item",
+									["Name"] = "158320",
+									["OnlyEquipped"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Transcendence",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sT", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Transcendence: Transfer",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sB", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sG", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Tiger's Lust",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sD", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Fortifying Brew",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"C", -- [1]
+											},
+										},
+									},
+									["Name"] = "Healthstone",
+									["States"] = {
+										{
+											["Texture"] = "6262",
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+											["Texture"] = "6262",
+										}, -- [2]
+										{
+											["Texture"] = "6262",
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Type"] = "item",
+									["OnlyInBags"] = true,
+								}, -- [11]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [14]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [15]
+								[22] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+							},
+						}, -- [3]
+						{
+							["GUID"] = "TMW:group:1RaS9sglJP1D",
+							["Role"] = 4,
+							["Columns"] = 7,
+							["Point"] = {
+								["y"] = -99.3539185337581,
+								["x"] = 11.6129289910051,
+							},
+							["Scale"] = 1.54999876022339,
+							["Rows"] = 2,
+							["EnabledSpecs"] = {
+								[270] = false,
+								[269] = false,
+							},
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Tiger Palm",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"1", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Blackout Strike",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"2", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Keg Smash",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"3", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Roll",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"4", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Rushing Jade Wind",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"5", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ClockGCD"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"aC", -- [1]
+											},
+										},
+									},
+									["Type"] = "item",
+									["Name"] = "155564",
+									["OnlyEquipped"] = true,
+									["OnlyInBags"] = true,
+								}, -- [6]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Chi Wave; Chi Burst",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"R", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Leg Sweep",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"S", -- [1]
+											},
+										},
+									},
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Provoke",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sQ", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Black Ox Brew; Fortifying Brew",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sW", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Crackling Jade Lightning",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"F", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Expel Harm",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sV", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Breath of Fire",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"V", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [14]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [15]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [16]
+								[22] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+							},
+						}, -- [4]
+						{
+							["GUID"] = "TMW:group:1RaSH36Ag_qG",
+							["Role"] = 4,
+							["Columns"] = 6,
+							["Point"] = {
+								["y"] = 142.941772460938,
+								["x"] = 5.96840912571528,
+								["point"] = "BOTTOM",
+								["relativePoint"] = "BOTTOM",
+							},
+							["Scale"] = 1.65801739692688,
+							["Rows"] = 2,
+							["EnabledSpecs"] = {
+								[270] = false,
+								[269] = false,
+							},
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Gladiator's Medallion",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sX", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Every Man for Himself",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sZ", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Ironskin Brew",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sE", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Purifying Brew",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sR", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Healing Elixir",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sF", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "5512",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"C", -- [1]
+											},
+										},
+									},
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Type"] = "item",
+									["OnlyInBags"] = true,
+								}, -- [6]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Detox",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sS", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Transcendence: Transfer",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sD", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Transcendence",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sT", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Zen Meditation",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"X", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [14]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [15]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [16]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [17]
+								nil, -- [18]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [19]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [20]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [21]
+							},
+						}, -- [5]
+						{
+							["GUID"] = "TMW:group:1RaT7pgT3=Jb",
+							["Columns"] = 1,
+							["Scale"] = 0.775005698204041,
+							["Rows"] = 5,
+							["Icons"] = {
+								{
+									["Enabled"] = true,
+									["Type"] = "unitcondition",
+									["Conditions"] = {
+										{
+											["Type"] = "COMBAT",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["States"] = {
+										{
+											["Texture"] = "61860",
+										}, -- [1]
+										{
+											["Alpha"] = 0.2,
+											["Texture"] = "61860",
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+										[102] = {
+											["Alpha"] = 0.2,
+											["Texture"] = "61860",
+										},
+									},
+								}, -- [1]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Ironskin Brew",
+									["Type"] = "buff",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.25,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+							},
+							["LayoutDirection"] = 4,
+							["Role"] = 4,
+							["EnabledSpecs"] = {
+								[270] = false,
+								[269] = false,
+							},
+							["Point"] = {
+								["y"] = -27.5799317899041,
+								["x"] = -209.837336453877,
+							},
+						}, -- [6]
+						{
+							["GUID"] = "TMW:group:1Rap6SLgVvMj",
+							["Columns"] = 1,
+							["Scale"] = 1.54999876022339,
+							["Icons"] = {
+								{
+									["Enabled"] = true,
+									["Type"] = "unitcondition",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"aF", -- [1]
+											},
+										},
+									},
+									["Conditions"] = {
+										{
+											["Type"] = "ITEMINBAGS",
+											["Name"] = "Coastal Healing Potion",
+											["Operator"] = ">",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["States"] = {
+										{
+											["Texture"] = "250870",
+										}, -- [1]
+										{
+											["Alpha"] = 0.27,
+											["Texture"] = "250870",
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+										[102] = {
+											["Alpha"] = 0.29,
+											["Texture"] = "250870",
+										},
+									},
+								}, -- [1]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+							},
+							["Point"] = {
+								["y"] = -76.1283936314143,
+								["x"] = 229.67811453788,
+							},
+						}, -- [7]
+						{
+							["GUID"] = "TMW:group:1RchLortTQBA",
+							["Columns"] = 2,
+							["Scale"] = 0.777064681053162,
+							["Rows"] = 3,
+							["Icons"] = {
+								{
+									["Enabled"] = true,
+									["Type"] = "buff",
+									["Name"] = "Thunder Focus Tea",
+									["States"] = {
+										{
+											["Texture"] = "116680",
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+											["Texture"] = "116680",
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["Enabled"] = true,
+									["Type"] = "unitcondition",
+									["UnitConditions"] = {
+										{
+											["Type"] = "COMBAT",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["States"] = {
+										{
+											["Texture"] = "61860",
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+											["Texture"] = "61860",
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["Enabled"] = true,
+									["Type"] = "buff",
+									["Name"] = "Zen Focus Tea",
+									["Conditions"] = {
+										{
+											["Name"] = "Zen Focus Tea",
+											["Type"] = "PVPTALENTLEARNED",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["States"] = {
+										{
+											["Texture"] = "209584",
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+											["Texture"] = "209584",
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["Enabled"] = true,
+									["Type"] = "buff",
+									["Name"] = "Teachings of the Monastery",
+									["States"] = {
+										{
+											["Texture"] = "116645",
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+											["Texture"] = "116645",
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "buff",
+									["Conditions"] = {
+										{
+											["Name"] = "Way of the Crane",
+											["Type"] = "PVPTALENTLEARNED",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Name"] = "Way of the Crane",
+									["States"] = {
+										{
+											["Texture"] = "216113",
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+											["Texture"] = "216113",
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+							},
+							["LayoutDirection"] = 4,
+							["Role"] = 2,
+							["EnabledSpecs"] = {
+								[268] = false,
+								[269] = false,
+							},
+							["Point"] = {
+								["y"] = -103.832068123163,
+								["x"] = -237.189448082037,
+							},
+						}, -- [8]
+						{
+							["GUID"] = "TMW:group:1RchM6x5IPwC",
+							["Columns"] = 5,
+							["Scale"] = 1.36825299263,
+							["Rows"] = 2,
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"1", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Tiger Palm",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"2", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Blackout Kick",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"3", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Rising Sun Kick",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sV", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Essence Font",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"V", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Summon Jade Serpent Statue",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"1", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Vivify",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"2", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Renewing Mist",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "icon1",
+											["Texts"] = {
+												"3", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Enveloping Mist",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"5", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Surging Mist",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"R", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Soothing Mist",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [14]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [15]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [16]
+								[21] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+								[26] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+							},
+							["LayoutDirection"] = 4,
+							["Role"] = 2,
+							["EnabledSpecs"] = {
+								[268] = false,
+								[269] = false,
+							},
+							["Point"] = {
+								["y"] = -129.394991175442,
+								["x"] = -34.106643747554,
+							},
+						}, -- [9]
+						{
+							["GUID"] = "TMW:group:1RchMrhOngpd",
+							["Role"] = 2,
+							["Columns"] = 2,
+							["Point"] = {
+								["y"] = 170.130996704102,
+								["x"] = 78.2253218504238,
+								["point"] = "BOTTOM",
+								["relativePoint"] = "BOTTOM",
+							},
+							["Scale"] = 1.36336183547974,
+							["Rows"] = 2,
+							["EnabledSpecs"] = {
+								[268] = false,
+								[269] = false,
+							},
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sS", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Detox",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Healing Sphere",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sG", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["EnableStacks"] = true,
+									["ClockGCD"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"C", -- [1]
+											},
+										},
+									},
+									["Type"] = "item",
+									["Name"] = "5512",
+									["OnlyEquipped"] = true,
+									["OnlyInBags"] = true,
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+							},
+						}, -- [10]
+						{
+							["GUID"] = "TMW:group:1Rcl9kXhHiqI",
+							["Columns"] = 3,
+							["Scale"] = 1.48888862133026,
+							["Rows"] = 2,
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sT", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Transcendence",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sB", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Transcendence: Transfer",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"4", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Chi Torpedo",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sE", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Ring of Peace",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Tiger's Lust",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"cX", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								nil, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								nil, -- [12]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [14]
+								nil, -- [15]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [16]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [17]
+								nil, -- [18]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [19]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [20]
+								[22] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+							},
+							["LayoutDirection"] = 4,
+							["Role"] = 2,
+							["EnabledSpecs"] = {
+								[268] = false,
+								[269] = false,
+							},
+							["Point"] = {
+								["y"] = -153.805357300968,
+								["x"] = 167.910669416129,
+							},
+						}, -- [11]
+						{
+							["GUID"] = "TMW:group:1RdFSvUZkpNT",
+							["Columns"] = 2,
+							["Scale"] = 0.600000023841858,
+							["Rows"] = 2,
+							["Icons"] = {
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "buff",
+									["Name"] = "Surging Mist",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "buff",
+									["Name"] = "Essence Font",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Enveloping Mist",
+									["Type"] = "buff",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "buff",
+									["Name"] = "Renewing Mist",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+							},
+							["LayoutDirection"] = 4,
+							["Role"] = 2,
+							["EnabledSpecs"] = {
+								[268] = false,
+								[269] = false,
+							},
+							["Point"] = {
+								["y"] = -91.6648134378226,
+								["x"] = -399.999033749114,
+							},
+						}, -- [12]
+						{
+							["GUID"] = "TMW:group:1RdFWFmLIE7r",
+							["Columns"] = 2,
+							["Scale"] = 0.600000023841858,
+							["Rows"] = 2,
+							["Icons"] = {
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Surging Mist",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Type"] = "buff",
+									["ShowTimerText"] = true,
+									["UnitConditions"] = {
+										{
+											["Unit"] = "party1",
+											["Type"] = "EXISTS",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Unit"] = "party1",
+								}, -- [1]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Essence Font",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Type"] = "buff",
+									["ShowTimerText"] = true,
+									["UnitConditions"] = {
+										{
+											["Unit"] = "party1",
+											["Type"] = "EXISTS",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Unit"] = "party1",
+								}, -- [2]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Type"] = "buff",
+									["Name"] = "Enveloping Mist",
+									["UnitConditions"] = {
+										{
+											["Unit"] = "party1",
+											["Type"] = "EXISTS",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Unit"] = "party1",
+								}, -- [3]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Renewing Mist",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Type"] = "buff",
+									["ShowTimerText"] = true,
+									["UnitConditions"] = {
+										{
+											["Unit"] = "party1",
+											["Type"] = "EXISTS",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Unit"] = "party1",
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [14]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [15]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [16]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [17]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [18]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [19]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [20]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [21]
+								[25] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+								[35] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+								[37] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+								[39] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+								[29] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+								[31] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+								[27] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+								[23] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+								[33] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+							},
+							["LayoutDirection"] = 4,
+							["Role"] = 2,
+							["Conditions"] = {
+								{
+									["Unit"] = "party1",
+									["Type"] = "EXISTS",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["EnabledSpecs"] = {
+								[268] = false,
+								[269] = false,
+							},
+							["Point"] = {
+								["y"] = -188.331622519854,
+								["x"] = -398.332529842864,
+							},
+						}, -- [13]
+						{
+							["GUID"] = "TMW:group:1RdFWWhZpc2z",
+							["Columns"] = 2,
+							["Scale"] = 0.600000023841858,
+							["Rows"] = 2,
+							["Icons"] = {
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Type"] = "buff",
+									["Name"] = "Surging Mist",
+									["UnitConditions"] = {
+										{
+											["Unit"] = "party2",
+											["Type"] = "EXISTS",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Unit"] = "party2",
+								}, -- [1]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Type"] = "buff",
+									["Name"] = "Essence Font",
+									["UnitConditions"] = {
+										{
+											["Unit"] = "party2",
+											["Type"] = "EXISTS",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Unit"] = "party2",
+								}, -- [2]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Enveloping Mist",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Type"] = "buff",
+									["ShowTimerText"] = true,
+									["UnitConditions"] = {
+										{
+											["Unit"] = "party2",
+											["Type"] = "EXISTS",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Unit"] = "party2",
+								}, -- [3]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Type"] = "buff",
+									["Name"] = "Renewing Mist",
+									["UnitConditions"] = {
+										{
+											["Unit"] = "party2",
+											["Type"] = "EXISTS",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Unit"] = "party2",
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [14]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [15]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [16]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [17]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [18]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [19]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [20]
+							},
+							["LayoutDirection"] = 4,
+							["Role"] = 2,
+							["Conditions"] = {
+								{
+									["Unit"] = "party2",
+									["Type"] = "EXISTS",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["EnabledSpecs"] = {
+								[268] = false,
+								[269] = false,
+							},
+							["Point"] = {
+								["y"] = -299.999347129229,
+								["x"] = -401.666636288177,
+							},
+						}, -- [14]
+						{
+							["GUID"] = "TMW:group:1RdFWfth886M",
+							["Columns"] = 2,
+							["Scale"] = 0.600000023841858,
+							["Rows"] = 2,
+							["Icons"] = {
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Surging Mist",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Type"] = "buff",
+									["ShowTimerText"] = true,
+									["UnitConditions"] = {
+										{
+											["Unit"] = "party3",
+											["Type"] = "EXISTS",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Unit"] = "party3",
+								}, -- [1]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Essence Font",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Type"] = "buff",
+									["ShowTimerText"] = true,
+									["UnitConditions"] = {
+										{
+											["Unit"] = "party3",
+											["Type"] = "EXISTS",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Unit"] = "party3",
+								}, -- [2]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Type"] = "buff",
+									["Name"] = "Enveloping Mist",
+									["UnitConditions"] = {
+										{
+											["Unit"] = "party3",
+											["Type"] = "EXISTS",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Unit"] = "party3",
+								}, -- [3]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Renewing Mist",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Type"] = "buff",
+									["ShowTimerText"] = true,
+									["UnitConditions"] = {
+										{
+											["Unit"] = "party3",
+											["Type"] = "EXISTS",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Unit"] = "party3",
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [14]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [15]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [16]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [17]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [18]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [19]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [20]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [21]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [22]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [23]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [24]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [25]
+								[33] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+								[35] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+								[27] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+								[39] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+								[29] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+								[43] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+								[31] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+								[47] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+								[37] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+								[41] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+								[45] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+							},
+							["LayoutDirection"] = 4,
+							["Role"] = 2,
+							["Conditions"] = {
+								{
+									["Unit"] = "party3",
+									["Type"] = "EXISTS",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["EnabledSpecs"] = {
+								[268] = false,
+								[269] = false,
+							},
+							["Point"] = {
+								["y"] = -411.665423789385,
+								["x"] = -403.333018124114,
+							},
+						}, -- [15]
+						{
+							["GUID"] = "TMW:group:1RdFWmW2fZ5M",
+							["Columns"] = 2,
+							["Scale"] = 0.600000023841858,
+							["Rows"] = 2,
+							["Icons"] = {
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Type"] = "buff",
+									["Name"] = "Surging Mist",
+									["UnitConditions"] = {
+										{
+											["Unit"] = "party4",
+											["Type"] = "EXISTS",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Unit"] = "party4",
+								}, -- [1]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Type"] = "buff",
+									["Name"] = "Essence Font",
+									["UnitConditions"] = {
+										{
+											["Unit"] = "party4",
+											["Type"] = "EXISTS",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Unit"] = "party4",
+								}, -- [2]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Enveloping Mist",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Type"] = "buff",
+									["ShowTimerText"] = true,
+									["UnitConditions"] = {
+										{
+											["Unit"] = "party4",
+											["Type"] = "EXISTS",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Unit"] = "party4",
+								}, -- [3]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Type"] = "buff",
+									["Name"] = "Renewing Mist",
+									["UnitConditions"] = {
+										{
+											["Unit"] = "party4",
+											["Type"] = "EXISTS",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Unit"] = "party4",
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [14]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [15]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [16]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [17]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [18]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [19]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [20]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [21]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [22]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [23]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [24]
+							},
+							["LayoutDirection"] = 4,
+							["Role"] = 2,
+							["Conditions"] = {
+								{
+									["Unit"] = "party4",
+									["Type"] = "EXISTS",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["EnabledSpecs"] = {
+								[268] = false,
+								[269] = false,
+							},
+							["Point"] = {
+								["y"] = 344.999816894531,
+								["x"] = -399.999888241302,
+								["point"] = "BOTTOM",
+								["relativePoint"] = "BOTTOM",
+							},
+						}, -- [16]
+						{
+							["GUID"] = "TMW:group:1RePSUiVsogx",
+							["Columns"] = 1,
+							["Scale"] = 0.624565660953522,
+							["Rows"] = 4,
+							["Icons"] = {
+								{
+									["Enabled"] = true,
+									["Type"] = "unitcondition",
+									["UnitConditions"] = {
+										{
+											["Type"] = "COMBAT",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["States"] = {
+										{
+											["Texture"] = "61860",
+										}, -- [1]
+										{
+											["Alpha"] = 0.33,
+											["Texture"] = "61860",
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+							},
+							["LayoutDirection"] = 4,
+							["Role"] = 1,
+							["EnabledSpecs"] = {
+								[270] = false,
+								[268] = false,
+							},
+							["Point"] = {
+								["y"] = -61.8530414085426,
+								["x"] = -239.1556484972,
+							},
+						}, -- [17]
+						{
+							["LayoutDirection"] = 4,
+							["Role"] = 2,
+							["Point"] = {
+								["y"] = 169.52473449707,
+								["x"] = -17.5405426733353,
+								["point"] = "BOTTOM",
+								["relativePoint"] = "BOTTOM",
+							},
+							["GUID"] = "TMW:group:1Rf3dWRei9Hh",
+							["Scale"] = 1.36825299263,
+							["Rows"] = 2,
+							["EnabledSpecs"] = {
+								[268] = false,
+								[269] = false,
+							},
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"cE", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Life Cocoon",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sW", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Revival",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"G", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Invoke Chi-Ji, the Red Crane",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"cW", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Way of the Crane",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sR", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Thunder Focus Tea",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sD", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Fortifying Brew",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sF", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Diffuse Magic; Healing Elixir; Dampen Harm",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"cV", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Mana Tea",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								nil, -- [10]
+								nil, -- [11]
+								nil, -- [12]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+							},
+						}, -- [18]
+						{
+							["GUID"] = "TMW:group:1Rf3em8CAAth",
+							["Role"] = 2,
+							["Columns"] = 2,
+							["Point"] = {
+								["y"] = 161.984603881836,
+								["x"] = -109.223781406771,
+								["point"] = "BOTTOM",
+								["relativePoint"] = "BOTTOM",
+							},
+							["Scale"] = 1.41371464729309,
+							["Rows"] = 2,
+							["EnabledSpecs"] = {
+								[268] = false,
+								[269] = false,
+							},
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sX", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Gladiator's Medallion",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sZ", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Every Man for Himself",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"A", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Zen Focus Tea",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								[7] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+							},
+						}, -- [19]
+						{
+							["GUID"] = "TMW:group:1Rf3f7aery6e",
+							["Point"] = {
+								["y"] = -130.092561976224,
+								["x"] = 78.202194143071,
+							},
+							["Scale"] = 1.36825299263,
+							["Rows"] = 2,
+							["Icons"] = {
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["OnlyInBags"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"cR", -- [1]
+											},
+										},
+									},
+									["Type"] = "item",
+									["Name"] = "159611; 158320",
+									["OnlyEquipped"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"F", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Crackling Jade Lightning",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"T", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Chi Wave",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Name"] = "162966; 161902",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"cA", -- [1]
+											},
+										},
+									},
+									["Type"] = "item",
+									["ShowTimerText"] = true,
+									["OnlyEquipped"] = true,
+									["OnlyInBags"] = true,
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								[7] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+							},
+							["LayoutDirection"] = 4,
+							["Role"] = 2,
+							["EnabledSpecs"] = {
+								[268] = false,
+								[269] = false,
+							},
+							["Columns"] = 2,
+						}, -- [20]
+					},
+					["Version"] = 85403,
+					["NumGroups"] = 20,
+				},
+				["Twiddlederr - Anvilmar"] = {
+					["Locked"] = true,
+					["Groups"] = {
+						{
+							["GUID"] = "TMW:group:1QwL7gQwOB=r",
+							["Columns"] = 6,
+							["Scale"] = 2.25000357627869,
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Honorable Medallion; Gladiator's Medallion",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sX", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"X", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Darkness",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Shadowmeld",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"G", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sS", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Reverse Magic",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Blur",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"s4", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ClockGCD"] = true,
+									["OnlyInBags"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"C", -- [1]
+											},
+										},
+									},
+									["Type"] = "item",
+									["Name"] = "5512",
+									["OnlyEquipped"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+							},
+							["Point"] = {
+								["y"] = -100.777248525589,
+								["x"] = -16.4446285576176,
+							},
+						}, -- [1]
+						{
+							["GUID"] = "TMW:group:1RS6HM2lDcEb",
+							["Columns"] = 6,
+							["Scale"] = 1.7166827917099,
+							["Rows"] = 2,
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Throw Glaive",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "icon1",
+											["Texts"] = {
+												"2", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Blade Dance",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"3", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Fel Rush",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"4", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"5", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Felblade",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Eye Beam",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"V", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Spectral Sight",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sR", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Chaos Nova",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"S", -- [1]
+												"[Stacks:Hide(0)]", -- [2]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Chaos Strike",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"F", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["OnlyInBags"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sC", -- [1]
+											},
+										},
+									},
+									["Type"] = "item",
+									["Name"] = "158224; 158215; 155567",
+									["OnlyEquipped"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Vengeful Retreat",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"R", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Metamorphosis",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sE", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [14]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [15]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [16]
+								[19] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+							},
+							["Point"] = {
+								["y"] = -78.9309045061854,
+								["x"] = -14.5624684731055,
+							},
+						}, -- [2]
+						{
+							["GUID"] = "TMW:group:1RS6NLVOgcjf",
+							["Columns"] = 1,
+							["Scale"] = 1.87222564220428,
+							["Rows"] = 3,
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Disrupt; Disrupt",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"m1-3", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Imprison",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"m4-6", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Consume Magic",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"m7-9", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+							},
+							["Point"] = {
+								["y"] = -51.1422160052502,
+								["x"] = 122.091806244175,
+							},
+						}, -- [3]
+						{
+							["GUID"] = "TMW:group:1RSt=ouq0YL7",
+							["Columns"] = 1,
+							["Scale"] = 0.791677951812744,
+							["Rows"] = 4,
+							["Icons"] = {
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "buff",
+									["Name"] = "Darkness",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.2,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Blur",
+									["Type"] = "buff",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.2,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "buff",
+									["Name"] = "Momentum",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.2,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["Enabled"] = true,
+									["Type"] = "buff",
+									["Name"] = "Magic",
+									["BuffOrDebuff"] = "HARMFUL",
+									["States"] = {
+										{
+											["Texture"] = "205604",
+										}, -- [1]
+										{
+											["Alpha"] = 0.2,
+											["Texture"] = "205604",
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+							},
+							["Point"] = {
+								["y"] = -44.366709965641,
+								["x"] = -248.680345509653,
+							},
+						}, -- [4]
+					},
+					["Version"] = 85204,
+					["NumGroups"] = 4,
+				},
+				["Eyebrowse - Kel'Thuzad"] = {
+					["DrawEdge"] = true,
+					["Groups"] = {
+						{
+							["GUID"] = "TMW:group:1RfFReP1S9a5",
+							["Columns"] = 3,
+							["Scale"] = 1.2247474193573,
+							["Rows"] = 2,
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"1", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Mangle",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"2", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Moonfire",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"3", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Maul",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sQ", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Growl",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"R", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Thrash",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"5", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Swipe",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+							},
+							["Point"] = {
+								["y"] = -119.813565323645,
+								["x"] = -9.07441767116924,
+							},
+						}, -- [1]
+						{
+							["GUID"] = "TMW:group:1RfGhxNqSXx2",
+							["Columns"] = 2,
+							["Scale"] = 1.43334126472473,
+							["Rows"] = 3,
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"A", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Skull Bash",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"X", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Entangling Roots",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"S", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Mighty Bash",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"D", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Incapacitating Roar",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"V", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Hibernate",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+							},
+							["Point"] = {
+								["y"] = -70.1155282861828,
+								["x"] = 170.231877917603,
+							},
+						}, -- [2]
+						{
+							["GUID"] = "TMW:group:1RfGjXK=gGRr",
+							["Columns"] = 6,
+							["Scale"] = 1.169438123703,
+							["Rows"] = 2,
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sW", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Barkskin",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sE", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Survival Instincts",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sF", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Frenzied Regeneration",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sR", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Incarnation: Guardian of Ursoc",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"F", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Prowl",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"G", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Shadowmeld",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sV", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Ironfur",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"C", -- [1]
+											},
+										},
+									},
+									["OnlyInBags"] = true,
+									["Type"] = "item",
+									["Name"] = "Healthstone",
+									["States"] = {
+										{
+											["Texture"] = "6262",
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+											["Texture"] = "6262",
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [14]
+								[19] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+							},
+							["Point"] = {
+								["y"] = -201.734545957735,
+								["x"] = 34.8458421676417,
+							},
+						}, -- [3]
+						{
+							["GUID"] = "TMW:group:1RfGjrqE1mw7",
+							["Columns"] = 2,
+							["Scale"] = 1.40276610851288,
+							["Rows"] = 2,
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"4", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Wild Charge",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sT", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Tiger Dash",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sD", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Stampeding Roar",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								[7] = {
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								},
+							},
+							["Point"] = {
+								["y"] = -150.357598868205,
+								["x"] = 173.882868084431,
+							},
+						}, -- [4]
+						{
+							["GUID"] = "TMW:group:1RfGmr5jHboU",
+							["Columns"] = 2,
+							["Scale"] = 1.26944756507874,
+							["Rows"] = 2,
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"1", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Rejuvenation",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Swiftmend",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"2", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"3", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Regrowth",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sG", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Wild Growth",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+							},
+							["Point"] = {
+								["y"] = -121.246790924396,
+								["x"] = -111.136978922474,
+							},
+						}, -- [5]
+						{
+							["GUID"] = "TMW:group:1RfGptRX1Z7F",
+							["Columns"] = 1,
+							["Scale"] = 1.60554766654968,
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"sX", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Name"] = "Gladiator's Medallion",
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+							},
+							["Point"] = {
+								["y"] = -146.990231862353,
+								["x"] = -105.260347539413,
+							},
+						}, -- [6]
+						{
+							["GUID"] = "TMW:group:1RfH9yE347k1",
+							["Columns"] = 1,
+							["LayoutDirection"] = 4,
+							["Scale"] = 0.616674423217774,
+							["Rows"] = 2,
+							["Icons"] = {
+								{
+									["Enabled"] = true,
+									["Type"] = "unitcondition",
+									["UnitConditions"] = {
+										{
+											["Type"] = "COMBAT",
+											["Unit"] = "player",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["States"] = {
+										{
+											["Texture"] = "61860",
+										}, -- [1]
+										{
+											["Alpha"] = 0.3,
+											["Texture"] = "61860",
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+							},
+							["Point"] = {
+								["y"] = -133.781520374407,
+								["x"] = -332.83400351731,
+							},
+						}, -- [7]
+						{
+							["GUID"] = "TMW:group:1RfLohDd5Kck",
+							["Columns"] = 1,
+							["Scale"] = 1.57360100746155,
+							["Icons"] = {
+								{
+									["ManaCheck"] = true,
+									["ShowTimer"] = true,
+									["RangeCheck"] = true,
+									["ClockGCD"] = true,
+									["Name"] = "Lunar Strike",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["Texts"] = {
+												"T", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["ShowTimerText"] = true,
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+							},
+							["Point"] = {
+								["y"] = 327.910308837891,
+								["x"] = 682.510986328125,
+								["relativePoint"] = "BOTTOMLEFT",
+							},
+						}, -- [8]
+					},
+					["Version"] = 85403,
+					["NumGroups"] = 8,
+					["ForceNoBlizzCC"] = true,
+				},
+			},
+		},
 		["AuraCache"] = {
 			[188151] = 2,
 			[275931] = 2,
@@ -19794,6 +31792,7 @@ TMWOptDB = {
 			[264676] = 2,
 			[279011] = 1,
 			[19366] = 1,
+			[279012] = 2,
 			[214265] = 2,
 			[272870] = 2,
 			[228600] = 2,
@@ -20691,111 +32690,117 @@ TMWOptDB = {
 			[267218] = 2,
 			[202225] = 2,
 			[211440] = 2,
+			[178485] = 2,
 			[82691] = 2,
+			[278972] = 1,
 			[6770] = 2,
+			[110885] = 2,
+			[262375] = 1,
+			[142459] = 2,
+			[78639] = 2,
 			[127230] = 2,
 			[273365] = 1,
-			[249984] = 2,
+			[264159] = 1,
 			[272100] = 1,
 			[263127] = 1,
 			[7090] = 1,
 			[211442] = 2,
 			[277462] = 1,
 			[32903] = 1,
-			[274891] = 1,
+			[34828] = 1,
 			[256493] = 1,
-			[280025] = 2,
-			[277977] = 1,
-			[268095] = 2,
+			[258798] = 1,
+			[208628] = 2,
+			[273274] = 2,
 			[211443] = 2,
-			[49754] = 2,
+			[268468] = 2,
 			[213491] = 2,
 			[265178] = 1,
 			[275417] = 1,
-			[262364] = 1,
+			[278173] = 1,
 			[24709] = 2,
 			[265179] = 1,
-			[275228] = 1,
-			[272685] = 2,
-			[253367] = 2,
-			[105689] = 2,
-			[207603] = 2,
+			[105698] = 2,
+			[227099] = 2,
+			[268253] = 2,
+			[276024] = 2,
+			[199412] = 2,
 			[257519] = 1,
 			[279515] = 2,
-			[81441] = 1,
-			[267161] = 2,
+			[66195] = 2,
+			[214342] = 2,
 			[23493] = 1,
 			[102659] = 2,
 			[68506] = 1,
 			[256496] = 2,
 			[200183] = 2,
 			[270707] = 1,
-			[254409] = 2,
-			[256851] = 1,
+			[129579] = 1,
+			[166727] = 1,
 			[261616] = 2,
-			[266006] = 1,
+			[91141] = 2,
 			[90885] = 2,
-			[233759] = 2,
-			[256867] = 1,
+			[673] = 2,
+			[66550] = 2,
 			[58501] = 2,
-			[92184] = 2,
+			[276214] = 2,
 			[83089] = 1,
 			[82320] = 1,
 			[271329] = 1,
-			[264813] = 2,
+			[82506] = 1,
 			[256498] = 1,
 			[281230] = 1,
-			[108416] = 2,
+			[54212] = 2,
 			[83151] = 1,
 			[72968] = 2,
 			[68719] = 2,
-			[177193] = 2,
-			[102915] = 1,
-			[101619] = 2,
+			[205655] = 2,
+			[229871] = 2,
+			[223665] = 2,
 			[87474] = 1,
 			[279523] = 2,
-			[84122] = 1,
+			[91352] = 2,
 			[267237] = 1,
 			[220664] = 2,
 			[271333] = 1,
 			[87722] = 1,
 			[275429] = 2,
-			[66251] = 1,
-			[277347] = 1,
+			[101809] = 1,
+			[87759] = 1,
 			[64901] = 2,
 			[203259] = 2,
-			[86930] = 1,
+			[101812] = 1,
 			[263144] = 1,
 			[102124] = 1,
-			[95248] = 1,
+			[79351] = 1,
 			[75529] = 1,
 			[88175] = 1,
-			[84550] = 1,
+			[266171] = 1,
 			[226322] = 2,
 			[93959] = 1,
 			[80038] = 1,
 			[119556] = 1,
 			[78835] = 1,
 			[159234] = 1,
-			[131845] = 2,
-			[102364] = 2,
-			[87721] = 1,
+			[88192] = 1,
+			[87771] = 1,
+			[199845] = 2,
 			[88171] = 1,
-			[88186] = 1,
-			[80028] = 1,
-			[88286] = 2,
-			[88055] = 1,
+			[36897] = 2,
+			[94160] = 2,
+			[78939] = 1,
+			[88663] = 2,
 			[279531] = 2,
 			[273388] = 2,
-			[184662] = 2,
+			[101811] = 1,
 			[253432] = 2,
-			[189804] = 1,
-			[92265] = 1,
-			[258935] = 1,
-			[264815] = 2,
+			[102442] = 1,
+			[102149] = 1,
+			[127915] = 2,
+			[252753] = 2,
 			[217597] = 2,
 			[251385] = 2,
-			[80308] = 1,
+			[79471] = 2,
 			[242055] = 1,
 			[272588] = 1,
 			[198144] = 2,
@@ -20806,80 +32811,80 @@ TMWOptDB = {
 			[92122] = 1,
 			[253434] = 2,
 			[241835] = 2,
-			[275441] = 1,
 			[17735] = 2,
+			[275441] = 1,
 			[269298] = 1,
 			[176644] = 2,
 			[81440] = 1,
 			[101411] = 1,
 			[196098] = 2,
-			[255718] = 2,
+			[206572] = 2,
 			[44099] = 2,
 			[275443] = 2,
 			[277491] = 1,
 			[101984] = 1,
 			[235006] = 2,
-			[92099] = 2,
+			[270507] = 1,
 			[196099] = 2,
-			[109714] = 2,
+			[50245] = 2,
 			[273397] = 1,
-			[271816] = 1,
+			[280007] = 2,
 			[269302] = 1,
 			[48265] = 2,
-			[277959] = 2,
+			[216810] = 2,
 			[142326] = 2,
 			[261628] = 1,
-			[61815] = 2,
-			[88814] = 1,
+			[82637] = 2,
+			[107550] = 1,
 			[267256] = 1,
 			[200196] = 2,
-			[278288] = 2,
+			[109778] = 2,
 			[202244] = 2,
 			[162313] = 2,
 			[34699] = 1,
 			[279544] = 1,
 			[181767] = 2,
 			[276020] = 1,
-			[255870] = 2,
-			[48722] = 2,
+			[93269] = 2,
+			[87762] = 1,
 			[202245] = 1,
-			[82640] = 2,
+			[84713] = 1,
 			[204293] = 2,
-			[256740] = 2,
+			[215785] = 2,
 			[265212] = 1,
 			[126683] = 2,
-			[62856] = 1,
+			[44104] = 2,
 			[263165] = 2,
-			[273404] = 2,
+			[62856] = 1,
 			[101643] = 2,
 			[261631] = 1,
 			[180745] = 2,
-			[81677] = 1,
-			[262115] = 2,
+			[270566] = 1,
+			[96847] = 1,
 			[224772] = 2,
 			[201223] = 2,
-			[165776] = 1,
+			[84378] = 2,
 			[48778] = 2,
 			[102414] = 1,
 			[279550] = 1,
-			[31920] = 2,
-			[275907] = 1,
+			[278780] = 2,
+			[256739] = 2,
 			[200200] = 2,
-			[258078] = 1,
+			[245998] = 2,
 			[202248] = 2,
 			[219654] = 1,
-			[275985] = 2,
+			[65247] = 2,
 			[180747] = 2,
-			[44106] = 2,
-			[276299] = 1,
-			[56191] = 2,
+			[196342] = 2,
+			[92091] = 2,
+			[82670] = 1,
 			[279553] = 2,
 			[281601] = 2,
-			[57294] = 2,
-			[121093] = 2,
+			[219988] = 2,
+			[272817] = 2,
 			[180748] = 2,
 			[273411] = 1,
-			[185350] = 1,
+			[280064] = 2,
 			[124682] = 2,
 			[250372] = 1,
 			[33624] = 1,
@@ -20887,100 +32892,100 @@ TMWOptDB = {
 			[46987] = 1,
 			[180749] = 2,
 			[181773] = 2,
-			[92174] = 2,
+			[102381] = 1,
 			[79632] = 2,
-			[272536] = 1,
+			[278524] = 2,
 			[259102] = 1,
 			[178702] = 1,
 			[269319] = 2,
 			[180750] = 2,
 			[5171] = 2,
-			[125883] = 2,
-			[101412] = 1,
+			[274358] = 1,
+			[268899] = 2,
 			[135700] = 2,
 			[34189] = 1,
 			[267273] = 1,
 			[102158] = 1,
 			[271369] = 1,
-			[16509] = 1,
+			[203539] = 2,
 			[44100] = 2,
 			[30151] = 2,
-			[66052] = 2,
+			[154797] = 2,
 			[259590] = 2,
 			[203277] = 2,
 			[204301] = 2,
 			[254471] = 2,
 			[198158] = 2,
 			[91408] = 1,
-			[226329] = 2,
-			[62062] = 2,
-			[194879] = 2,
+			[270547] = 1,
+			[79897] = 1,
+			[265206] = 1,
 			[275468] = 2,
 			[253448] = 2,
 			[254472] = 2,
-			[190826] = 2,
-			[278572] = 2,
+			[236986] = 1,
+			[108281] = 2,
 			[257544] = 1,
-			[258186] = 1,
+			[269290] = 1,
 			[273422] = 1,
 			[127928] = 2,
 			[267810] = 1,
 			[254473] = 2,
-			[277498] = 1,
+			[276749] = 1,
 			[231390] = 2,
-			[118872] = 2,
-			[280422] = 1,
+			[276887] = 1,
+			[275057] = 2,
 			[273424] = 2,
-			[273254] = 1,
+			[278383] = 2,
 			[155158] = 2,
 			[254474] = 2,
 			[181779] = 2,
 			[210391] = 2,
 			[277521] = 1,
 			[263187] = 1,
-			[256735] = 2,
-			[270546] = 1,
-			[263999] = 1,
+			[207589] = 2,
+			[256453] = 2,
+			[260237] = 1,
+			[117642] = 2,
 			[255499] = 1,
-			[90898] = 2,
 			[3150] = 1,
 			[172008] = 2,
-			[202797] = 2,
+			[277440] = 1,
 			[273428] = 2,
-			[127923] = 2,
-			[117647] = 2,
+			[223658] = 2,
+			[160007] = 2,
 			[279572] = 2,
-			[172183] = 1,
-			[274089] = 1,
+			[50986] = 2,
+			[274470] = 1,
 			[277525] = 1,
-			[102472] = 1,
+			[273922] = 2,
 			[215841] = 1,
 			[209746] = 2,
 			[278190] = 1,
-			[208611] = 2,
-			[275895] = 2,
+			[192229] = 2,
+			[150250] = 1,
 			[274741] = 2,
 			[208403] = 2,
-			[271799] = 1,
+			[279990] = 2,
 			[273432] = 1,
-			[44097] = 2,
-			[271046] = 1,
+			[267160] = 2,
+			[217498] = 2,
 			[86292] = 1,
-			[102066] = 1,
+			[258147] = 1,
 			[275481] = 2,
 			[280409] = 2,
-			[257756] = 1,
+			[224992] = 2,
 			[273434] = 1,
 			[203285] = 2,
 			[277530] = 1,
 			[221715] = 2,
-			[275893] = 2,
+			[267702] = 1,
 			[215572] = 2,
 			[269340] = 1,
 			[274019] = 1,
 			[273436] = 1,
-			[265217] = 1,
-			[265129] = 1,
+			[82839] = 1,
+			[275378] = 2,
 			[267250] = 1,
 			[274101] = 1,
 			[256528] = 2,
@@ -20988,51 +32993,51 @@ TMWOptDB = {
 			[263199] = 1,
 			[235027] = 2,
 			[280830] = 2,
-			[54649] = 2,
+			[92205] = 2,
 			[254481] = 2,
-			[239363] = 2,
-			[273843] = 2,
+			[280553] = 1,
+			[91002] = 2,
 			[124689] = 1,
 			[83872] = 1,
-			[212704] = 2,
-			[270143] = 1,
+			[269747] = 2,
+			[77808] = 1,
 			[280461] = 1,
 			[263202] = 1,
-			[278974] = 1,
-			[208608] = 2,
+			[241836] = 2,
+			[175844] = 2,
 			[79639] = 2,
 			[80151] = 1,
-			[277047] = 1,
+			[48864] = 2,
 			[267299] = 1,
 			[196122] = 1,
 			[53390] = 2,
-			[53751] = 2,
-			[262313] = 2,
-			[79356] = 1,
+			[263940] = 1,
+			[276900] = 1,
+			[278889] = 2,
 			[2378] = 2,
 			[68377] = 2,
 			[137596] = 2,
-			[3408] = 2,
+			[267878] = 1,
 			[257526] = 1,
 			[230935] = 2,
 			[207386] = 2,
 			[208410] = 2,
-			[192225] = 2,
+			[208607] = 2,
 			[274369] = 2,
 			[277128] = 1,
 			[269351] = 1,
 			[254485] = 2,
-			[1515] = 2,
+			[54149] = 2,
 			[91415] = 1,
 			[269352] = 2,
-			[276540] = 1,
+			[215479] = 2,
 			[79468] = 2,
 			[275067] = 1,
 			[271225] = 2,
 			[254486] = 2,
 			[265258] = 2,
-			[247776] = 2,
-			[231895] = 2,
+			[128275] = 2,
+			[99732] = 2,
 			[279593] = 2,
 			[273450] = 1,
 			[272414] = 2,
@@ -21042,65 +33047,65 @@ TMWOptDB = {
 			[115989] = 2,
 			[257559] = 1,
 			[38033] = 1,
-			[232597] = 2,
-			[18968] = 1,
+			[262314] = 2,
+			[270606] = 1,
 			[277548] = 1,
 			[142205] = 2,
 			[273453] = 2,
 			[94632] = 2,
-			[208605] = 2,
+			[175841] = 2,
 			[263215] = 1,
-			[6405] = 2,
+			[113942] = 2,
 			[24394] = 2,
 			[81690] = 1,
-			[87930] = 1,
+			[265264] = 1,
 			[273455] = 2,
-			[277501] = 1,
-			[236060] = 2,
+			[268216] = 1,
+			[255446] = 1,
 			[58511] = 1,
 			[117526] = 2,
-			[118038] = 2,
-			[207771] = 2,
-			[259798] = 1,
-			[274113] = 2,
-			[240443] = 1,
+			[236060] = 2,
+			[277391] = 1,
+			[202461] = 2,
+			[221677] = 2,
+			[276000] = 1,
 			[209858] = 1,
 			[225822] = 2,
 			[255977] = 1,
 			[227870] = 2,
-			[262378] = 1,
-			[268198] = 1,
-			[108554] = 2,
+			[273288] = 1,
+			[180746] = 2,
+			[255890] = 1,
 			[275507] = 1,
-			[225787] = 2,
+			[46604] = 1,
 			[271412] = 1,
 			[202274] = 2,
 			[279470] = 1,
-			[16567] = 1,
+			[231406] = 1,
 			[269301] = 1,
-			[87024] = 2,
+			[277547] = 1,
 			[199203] = 2,
-			[20578] = 2,
-			[197091] = 2,
+			[271783] = 1,
+			[281653] = 2,
 			[265271] = 2,
-			[223166] = 2,
+			[265237] = 1,
 			[179750] = 2,
 			[263224] = 1,
 			[165416] = 1,
 			[61305] = 2,
 			[156621] = 1,
-			[257748] = 1,
+			[277925] = 2,
 			[265273] = 2,
 			[269304] = 1,
 			[269369] = 1,
-			[278086] = 2,
+			[278888] = 1,
 			[189990] = 1,
-			[281656] = 2,
+			[275270] = 1,
 			[116189] = 2,
 			[201253] = 2,
 			[213872] = 2,
-			[211947] = 2,
-			[251836] = 2,
+			[280615] = 2,
+			[214206] = 2,
 			[263228] = 1,
 			[281658] = 2,
 			[267324] = 1,
@@ -21108,16 +33113,16 @@ TMWOptDB = {
 			[160832] = 2,
 			[268322] = 1,
 			[267325] = 2,
-			[157228] = 2,
+			[274840] = 1,
 			[279612] = 1,
-			[281660] = 2,
+			[157228] = 2,
 			[267326] = 2,
 			[48018] = 2,
 			[225828] = 2,
 			[226852] = 2,
 			[267327] = 2,
-			[80158] = 1,
-			[190446] = 2,
+			[254958] = 1,
+			[281662] = 2,
 			[99100] = 1,
 			[115994] = 2,
 			[91933] = 1,
@@ -21128,166 +33133,166 @@ TMWOptDB = {
 			[55173] = 2,
 			[127769] = 1,
 			[267330] = 2,
-			[176568] = 2,
+			[256897] = 1,
 			[79833] = 1,
 			[259618] = 1,
 			[267331] = 2,
 			[280487] = 1,
+			[259562] = 1,
 			[273475] = 1,
-			[281666] = 2,
-			[28272] = 2,
+			[270277] = 1,
 			[183852] = 1,
 			[271428] = 1,
 			[4974] = 1,
 			[274472] = 2,
-			[260106] = 1,
-			[265633] = 1,
+			[266209] = 1,
+			[153310] = 1,
 			[281668] = 2,
-			[262362] = 1,
-			[188389] = 2,
+			[229872] = 2,
+			[255434] = 1,
 			[225832] = 2,
 			[97054] = 2,
 			[198121] = 2,
 			[171567] = 2,
-			[605] = 2,
+			[114800] = 1,
 			[281670] = 1,
-			[210413] = 2,
-			[81782] = 2,
+			[207744] = 2,
+			[32736] = 1,
 			[58514] = 1,
 			[84768] = 1,
-			[178906] = 2,
+			[114034] = 1,
 			[34709] = 1,
-			[259519] = 1,
+			[264458] = 1,
 			[273481] = 2,
-			[279965] = 2,
+			[258768] = 1,
 			[87840] = 2,
 			[30283] = 2,
 			[80673] = 1,
-			[268183] = 1,
+			[160793] = 2,
 			[277578] = 1,
-			[174524] = 2,
+			[259572] = 1,
 			[214572] = 2,
-			[232599] = 2,
-			[269279] = 2,
+			[268214] = 1,
+			[166355] = 2,
 			[156132] = 2,
-			[264712] = 2,
-			[271140] = 1,
+			[22859] = 1,
+			[13443] = 1,
 			[8115] = 2,
 			[263246] = 1,
-			[209406] = 2,
+			[275909] = 2,
 			[53480] = 2,
 			[48020] = 2,
-			[279448] = 1,
-			[231412] = 1,
-			[161229] = 1,
+			[208822] = 2,
+			[44530] = 1,
+			[80354] = 2,
 			[204335] = 2,
 			[202744] = 2,
-			[275428] = 1,
+			[257420] = 2,
 			[215598] = 2,
 			[203268] = 2,
 			[209455] = 2,
 			[259625] = 1,
 			[221710] = 1,
 			[221186] = 1,
-			[20549] = 2,
+			[46300] = 1,
 			[256363] = 1,
-			[75532] = 2,
+			[279584] = 2,
 			[44531] = 1,
-			[274740] = 2,
-			[233868] = 2,
+			[278901] = 1,
+			[58506] = 1,
 			[178740] = 2,
 			[204337] = 1,
 			[271443] = 1,
 			[23693] = 2,
 			[224127] = 1,
-			[246152] = 2,
+			[279526] = 2,
 			[1330] = 2,
 			[235054] = 2,
 			[275540] = 2,
 			[269397] = 2,
-			[171574] = 2,
-			[264105] = 1,
+			[270284] = 1,
+			[198097] = 2,
 			[79140] = 2,
-			[45334] = 2,
-			[263904] = 2,
+			[55164] = 2,
+			[48743] = 2,
 			[80676] = 1,
 			[267351] = 2,
 			[171575] = 2,
-			[87923] = 1,
+			[257740] = 1,
 			[273495] = 2,
 			[231984] = 1,
-			[255824] = 1,
+			[273038] = 1,
 			[33943] = 2,
 			[243247] = 2,
 			[275544] = 2,
 			[277592] = 1,
 			[205364] = 2,
-			[1604] = 1,
+			[257483] = 2,
 			[267354] = 1,
 			[257582] = 1,
 			[193078] = 1,
 			[259630] = 1,
 			[260654] = 1,
 			[277594] = 1,
-			[279956] = 2,
-			[281136] = 1,
-			[33786] = 2,
-			[188353] = 1,
+			[110960] = 2,
+			[66] = 2,
+			[173958] = 2,
+			[216016] = 2,
 			[15655] = 1,
 			[277541] = 1,
 			[77505] = 2,
 			[77606] = 2,
 			[110882] = 2,
 			[273415] = 2,
-			[268311] = 2,
+			[272273] = 1,
 			[269406] = 1,
-			[277432] = 2,
+			[228486] = 2,
 			[8116] = 2,
 			[12544] = 1,
 			[277598] = 1,
-			[173102] = 2,
+			[105691] = 2,
 			[194594] = 2,
 			[179093] = 1,
-			[257738] = 1,
+			[134873] = 2,
 			[50326] = 2,
 			[263831] = 2,
-			[255538] = 1,
+			[190010] = 1,
 			[8680] = 2,
 			[279648] = 2,
-			[190010] = 1,
+			[255538] = 1,
 			[267362] = 1,
 			[8936] = 2,
 			[131604] = 1,
 			[265315] = 2,
 			[256885] = 1,
-			[31884] = 2,
+			[199545] = 2,
 			[205369] = 2,
-			[79640] = 2,
-			[251401] = 1,
+			[203814] = 2,
+			[82626] = 2,
 			[277517] = 1,
-			[270017] = 1,
-			[250729] = 1,
-			[249365] = 1,
-			[228358] = 2,
+			[175456] = 2,
+			[208086] = 2,
+			[242088] = 1,
+			[167385] = 1,
 			[236430] = 2,
-			[270268] = 2,
+			[261577] = 2,
 			[166463] = 1,
 			[96038] = 1,
-			[28493] = 2,
+			[197625] = 2,
 			[265319] = 1,
-			[267367] = 1,
+			[28493] = 2,
 			[253493] = 2,
 			[5697] = 2,
 			[281702] = 1,
 			[279555] = 2,
-			[164862] = 2,
+			[81340] = 2,
 			[50327] = 2,
-			[178207] = 2,
+			[259592] = 2,
 			[42648] = 1,
-			[278468] = 2,
+			[164417] = 2,
 			[59542] = 2,
 			[270332] = 2,
-			[233497] = 2,
+			[114108] = 2,
 			[96039] = 2,
 			[271466] = 2,
 			[265323] = 1,
@@ -21298,39 +33303,39 @@ TMWOptDB = {
 			[24379] = 1,
 			[61721] = 2,
 			[131617] = 1,
-			[259919] = 1,
+			[273465] = 2,
 			[219708] = 2,
 			[102183] = 1,
 			[31821] = 2,
-			[188245] = 2,
+			[216528] = 2,
 			[267374] = 1,
-			[48792] = 2,
-			[234185] = 2,
-			[81706] = 1,
-			[275566] = 2,
+			[233490] = 2,
+			[168657] = 2,
 			[261688] = 1,
+			[48792] = 2,
+			[81706] = 1,
 			[12042] = 2,
 			[16591] = 2,
-			[185870] = 1,
+			[268013] = 1,
 			[253307] = 2,
 			[108839] = 2,
 			[281711] = 2,
 			[252474] = 1,
-			[251839] = 2,
+			[221527] = 2,
 			[59543] = 2,
-			[275848] = 1,
-			[224125] = 1,
-			[234184] = 2,
-			[270927] = 1,
+			[109933] = 2,
+			[36899] = 2,
+			[279943] = 2,
+			[272441] = 1,
 			[260096] = 1,
 			[260666] = 1,
 			[81707] = 1,
 			[279666] = 2,
 			[247356] = 2,
-			[132653] = 2,
-			[279942] = 2,
+			[159238] = 2,
+			[230088] = 2,
 			[853] = 2,
-			[183767] = 2,
+			[207707] = 1,
 			[13736] = 1,
 			[269429] = 1,
 			[13864] = 1,
@@ -21342,281 +33347,281 @@ TMWOptDB = {
 			[260668] = 1,
 			[253501] = 2,
 			[266496] = 2,
-			[156618] = 1,
+			[262794] = 1,
 			[182854] = 1,
 			[277623] = 1,
 			[42138] = 1,
-			[195630] = 2,
+			[24378] = 1,
 			[42650] = 2,
 			[260669] = 1,
 			[59544] = 2,
 			[265338] = 1,
-			[264101] = 1,
-			[204490] = 2,
+			[260651] = 1,
+			[118635] = 2,
 			[279673] = 2,
 			[281721] = 2,
 			[130343] = 2,
 			[61336] = 2,
-			[267890] = 1,
-			[271000] = 1,
+			[251837] = 2,
+			[256455] = 2,
 			[233496] = 2,
+			[280170] = 2,
 			[217668] = 2,
-			[160331] = 2,
 			[265341] = 1,
 			[252480] = 1,
-			[205763] = 1,
-			[225820] = 1,
+			[202602] = 2,
+			[227869] = 2,
 			[281724] = 2,
-			[270376] = 2,
-			[184362] = 2,
-			[19708] = 2,
+			[269928] = 1,
+			[211522] = 2,
+			[178703] = 1,
 			[273470] = 1,
 			[105771] = 2,
-			[48107] = 2,
-			[32182] = 2,
+			[273272] = 1,
+			[126389] = 2,
 			[190025] = 2,
 			[256577] = 1,
-			[108843] = 2,
 			[263297] = 2,
+			[108843] = 2,
 			[235076] = 1,
-			[79560] = 1,
+			[190026] = 2,
 			[277632] = 1,
 			[59545] = 2,
 			[265346] = 1,
 			[279204] = 2,
-			[191034] = 2,
+			[277943] = 2,
 			[166354] = 2,
-			[81711] = 1,
-			[203337] = 2,
 			[212552] = 2,
+			[203337] = 2,
+			[81711] = 1,
+			[257834] = 1,
 			[61849] = 2,
-			[190027] = 2,
-			[167971] = 1,
-			[274387] = 2,
+			[30831] = 1,
+			[265882] = 1,
 			[258627] = 1,
-			[153161] = 1,
-			[280605] = 1,
+			[233498] = 2,
+			[204361] = 2,
 			[77616] = 2,
 			[279684] = 2,
-			[211805] = 2,
+			[259344] = 2,
 			[69826] = 2,
-			[8221] = 2,
-			[93622] = 2,
+			[207400] = 2,
+			[265311] = 1,
 			[226888] = 2,
 			[267399] = 2,
-			[97463] = 2,
+			[176151] = 2,
 			[254533] = 2,
 			[265352] = 1,
-			[255836] = 1,
+			[221549] = 2,
 			[205630] = 2,
-			[181545] = 1,
+			[270188] = 1,
 			[84784] = 1,
-			[121253] = 2,
+			[205259] = 1,
 			[183765] = 2,
-			[236077] = 2,
+			[281195] = 2,
 			[255558] = 1,
 			[267402] = 2,
 			[207995] = 2,
-			[175817] = 2,
+			[233154] = 2,
 			[278070] = 2,
-			[196420] = 2,
+			[208683] = 2,
 			[271371] = 1,
-			[212283] = 2,
+			[204362] = 2,
 			[198222] = 2,
 			[223819] = 2,
-			[240460] = 1,
+			[280655] = 2,
 			[140876] = 1,
-			[216413] = 2,
-			[60344] = 2,
+			[274105] = 2,
+			[200389] = 2,
 			[204366] = 2,
 			[119085] = 2,
-			[157644] = 2,
+			[258860] = 2,
 			[275597] = 1,
 			[257608] = 1,
 			[280200] = 2,
 			[273550] = 2,
 			[130348] = 2,
 			[130860] = 1,
-			[246463] = 2,
+			[43194] = 2,
 			[16593] = 2,
 			[116014] = 2,
 			[257609] = 1,
-			[265360] = 1,
-			[275832] = 1,
+			[260667] = 1,
+			[126311] = 2,
 			[219726] = 2,
-			[267410] = 2,
+			[192082] = 2,
 			[59547] = 2,
 			[281744] = 2,
-			[128301] = 2,
+			[267410] = 2,
 			[26064] = 2,
-			[207736] = 2,
-			[208579] = 2,
-			[264040] = 2,
-			[263275] = 1,
-			[6795] = 2,
+			[270457] = 1,
+			[100202] = 1,
+			[142204] = 2,
+			[258133] = 1,
+			[6197] = 2,
 			[273555] = 2,
 			[215632] = 2,
-			[176199] = 2,
-			[257975] = 1,
-			[267836] = 1,
-			[279925] = 2,
-			[269686] = 1,
-			[268886] = 1,
+			[217163] = 1,
+			[174453] = 1,
+			[55001] = 2,
+			[64695] = 1,
+			[120679] = 2,
+			[202852] = 2,
 			[265366] = 1,
-			[273781] = 2,
+			[255676] = 2,
 			[64411] = 2,
 			[106284] = 2,
-			[267997] = 2,
+			[122159] = 2,
 			[130350] = 2,
-			[269880] = 1,
-			[109977] = 1,
+			[84533] = 1,
+			[160724] = 2,
 			[265368] = 1,
 			[256589] = 1,
 			[183894] = 1,
-			[148563] = 2,
-			[28880] = 2,
+			[195901] = 2,
+			[36901] = 2,
 			[260685] = 1,
+			[191545] = 2,
 			[279704] = 2,
-			[59548] = 2,
 			[62173] = 2,
-			[263540] = 1,
-			[79930] = 1,
+			[221887] = 2,
+			[265755] = 1,
 			[202295] = 1,
-			[273559] = 2,
+			[46168] = 2,
 			[275610] = 1,
-			[277077] = 1,
-			[271465] = 2,
+			[192081] = 2,
+			[236321] = 2,
 			[273563] = 1,
 			[141917] = 2,
-			[215607] = 2,
+			[251838] = 2,
 			[262270] = 1,
-			[131785] = 2,
-			[258118] = 1,
+			[221886] = 2,
+			[268415] = 1,
 			[23505] = 1,
-			[276061] = 1,
+			[246821] = 2,
 			[214613] = 1,
 			[64844] = 2,
 			[224852] = 2,
 			[279709] = 2,
-			[263537] = 2,
+			[152262] = 2,
 			[250951] = 2,
 			[6673] = 2,
-			[90985] = 2,
+			[82794] = 1,
 			[203849] = 2,
-			[58448] = 2,
+			[23451] = 1,
 			[185476] = 2,
-			[207999] = 2,
+			[23445] = 2,
 			[265377] = 1,
-			[113860] = 2,
-			[147732] = 2,
+			[199804] = 2,
+			[277660] = 1,
 			[34976] = 1,
 			[25809] = 1,
 			[214170] = 2,
 			[192090] = 2,
 			[261711] = 1,
-			[271725] = 2,
-			[204598] = 2,
+			[164547] = 2,
+			[73630] = 2,
 			[261714] = 1,
-			[12472] = 2,
-			[16561] = 1,
+			[217200] = 2,
+			[130342] = 2,
 			[124210] = 2,
+			[32752] = 2,
 			[2379] = 2,
-			[279715] = 2,
-			[185464] = 2,
-			[270459] = 1,
+			[275157] = 1,
+			[105421] = 2,
 			[261715] = 2,
 			[197211] = 2,
-			[28271] = 2,
+			[276297] = 1,
 			[22128] = 1,
 			[56222] = 2,
 			[48287] = 1,
 			[121411] = 2,
 			[28497] = 2,
-			[255570] = 2,
-			[64413] = 2,
+			[199260] = 2,
+			[124211] = 2,
 			[82744] = 1,
 			[248406] = 2,
 			[33697] = 2,
 			[206931] = 2,
 			[257144] = 1,
-			[179807] = 2,
 			[196189] = 1,
-			[247563] = 2,
-			[213691] = 2,
+			[179807] = 2,
+			[225598] = 2,
+			[164545] = 2,
 			[199261] = 2,
 			[257622] = 2,
 			[268998] = 2,
-			[61781] = 2,
+			[263909] = 2,
 			[162402] = 2,
-			[265056] = 1,
+			[267434] = 1,
 			[197214] = 2,
-			[50259] = 2,
+			[224126] = 1,
 			[124212] = 2,
 			[80534] = 2,
-			[223929] = 2,
-			[26393] = 1,
-			[254193] = 1,
+			[199356] = 1,
+			[132403] = 2,
+			[259853] = 1,
 			[269485] = 2,
-			[198688] = 2,
+			[55342] = 2,
 			[214621] = 2,
 			[256600] = 1,
 			[248744] = 2,
-			[130624] = 1,
+			[183585] = 1,
 			[202335] = 2,
 			[81210] = 1,
-			[16595] = 2,
-			[263344] = 1,
 			[255577] = 1,
+			[263344] = 1,
+			[16595] = 2,
 			[124213] = 2,
 			[156779] = 2,
 			[258649] = 1,
-			[268532] = 2,
+			[273542] = 1,
 			[267441] = 1,
-			[25810] = 1,
 			[127797] = 2,
-			[206432] = 2,
+			[141928] = 2,
+			[25810] = 1,
 			[43681] = 2,
 			[187464] = 2,
 			[271538] = 2,
 			[2645] = 2,
 			[82836] = 1,
-			[271716] = 1,
-			[109976] = 1,
+			[125282] = 2,
+			[267444] = 1,
 			[3355] = 2,
 			[124214] = 2,
-			[165308] = 1,
+			[271867] = 1,
 			[201314] = 2,
 			[255579] = 1,
 			[256818] = 2,
 			[269493] = 1,
 			[221792] = 2,
-			[258128] = 1,
-			[118922] = 2,
+			[213758] = 1,
+			[185394] = 2,
 			[207318] = 2,
-			[197046] = 2,
-			[60234] = 2,
-			[275809] = 1,
+			[79966] = 1,
+			[8220] = 2,
+			[267618] = 1,
+			[208997] = 2,
 			[213602] = 2,
-			[271543] = 2,
-			[254308] = 2,
+			[982] = 2,
 			[217694] = 2,
 			[13819] = 2,
 			[258653] = 1,
-			[45181] = 2,
-			[280295] = 1,
+			[270524] = 1,
+			[265723] = 1,
 			[108271] = 2,
-			[196725] = 2,
+			[254901] = 1,
 			[255582] = 1,
 			[258162] = 1,
-			[279902] = 2,
+			[271711] = 2,
 			[279737] = 2,
 			[41425] = 2,
 			[269847] = 1,
 			[212580] = 2,
-			[273218] = 1,
+			[170950] = 2,
 			[61856] = 2,
 			[124216] = 2,
-			[20798] = 1,
+			[1079] = 2,
 			[201318] = 2,
 			[84797] = 1,
 			[260703] = 1,
@@ -21624,11 +33629,11 @@ TMWOptDB = {
 			[279740] = 2,
 			[243568] = 1,
 			[267981] = 1,
-			[210152] = 2,
+			[152173] = 2,
 			[271550] = 2,
 			[265407] = 1,
-			[194084] = 2,
-			[268547] = 2,
+			[273599] = 1,
+			[41635] = 2,
 			[279742] = 2,
 			[82750] = 1,
 			[124217] = 2,
@@ -21636,178 +33641,178 @@ TMWOptDB = {
 			[234084] = 2,
 			[281791] = 2,
 			[260705] = 2,
-			[257784] = 1,
-			[55095] = 2,
+			[268552] = 2,
+			[127801] = 1,
 			[281792] = 2,
 			[248419] = 2,
 			[192106] = 2,
 			[152175] = 2,
 			[273602] = 1,
 			[150429] = 2,
-			[265412] = 2,
-			[271555] = 1,
 			[281794] = 2,
+			[271555] = 1,
+			[265412] = 2,
 			[124218] = 2,
 			[270576] = 2,
+			[281795] = 2,
 			[84799] = 1,
-			[202346] = 2,
-			[267611] = 2,
+			[252591] = 1,
 			[261731] = 1,
 			[259165] = 1,
 			[119611] = 2,
-			[198912] = 2,
-			[81216] = 1,
-			[277703] = 2,
+			[15487] = 2,
+			[248958] = 2,
+			[271559] = 2,
 			[202347] = 2,
-			[260708] = 2,
+			[81216] = 1,
 			[261732] = 1,
 			[213610] = 2,
-			[269513] = 2,
+			[107837] = 2,
 			[215658] = 2,
-			[83776] = 1,
-			[202905] = 2,
+			[277703] = 2,
+			[255742] = 2,
 			[5302] = 2,
 			[195181] = 2,
-			[163441] = 2,
+			[269513] = 2,
 			[271561] = 1,
 			[127803] = 2,
 			[215659] = 2,
+			[194310] = 2,
 			[271562] = 1,
-			[263371] = 1,
 			[243942] = 2,
 			[203373] = 1,
 			[277706] = 2,
 			[279754] = 2,
 			[82753] = 1,
 			[124220] = 2,
-			[271564] = 2,
 			[217708] = 2,
-			[221562] = 2,
-			[280375] = 2,
+			[271564] = 2,
+			[276189] = 2,
+			[91797] = 2,
 			[261735] = 1,
-			[280073] = 2,
-			[32615] = 2,
+			[95988] = 2,
+			[222087] = 1,
 			[256616] = 1,
 			[257640] = 1,
-			[86603] = 1,
-			[138130] = 2,
-			[279758] = 2,
+			[271924] = 2,
+			[271544] = 2,
+			[80983] = 1,
 			[204399] = 2,
-			[115006] = 1,
+			[279758] = 2,
 			[255593] = 1,
 			[223497] = 2,
 			[33702] = 2,
 			[132367] = 1,
-			[272188] = 2,
+			[203534] = 2,
 			[6358] = 2,
 			[277712] = 2,
 			[1160] = 2,
-			[215652] = 2,
+			[253721] = 1,
 			[207472] = 2,
 			[241260] = 2,
-			[48181] = 2,
+			[279541] = 2,
 			[265427] = 1,
-			[101260] = 1,
-			[162487] = 2,
-			[6742] = 1,
+			[204018] = 2,
+			[260779] = 1,
+			[257916] = 1,
 			[255595] = 1,
-			[256619] = 1,
-			[54452] = 2,
+			[6742] = 1,
+			[271700] = 1,
 			[201330] = 2,
 			[101185] = 2,
-			[240640] = 2,
+			[204227] = 1,
 			[253548] = 1,
 			[279764] = 2,
-			[115385] = 1,
+			[8377] = 1,
 			[21163] = 1,
 			[233411] = 2,
 			[119381] = 2,
-			[124219] = 2,
+			[146202] = 2,
 			[81220] = 1,
-			[13750] = 2,
+			[105681] = 2,
 			[279766] = 1,
 			[276268] = 1,
 			[116032] = 2,
+			[280847] = 2,
 			[279767] = 1,
-			[201332] = 2,
 			[101186] = 2,
 			[275672] = 2,
 			[277720] = 2,
-			[275793] = 1,
-			[225597] = 2,
+			[12975] = 2,
+			[64843] = 2,
 			[191627] = 2,
 			[272123] = 2,
 			[267198] = 2,
-			[210607] = 2,
-			[196733] = 2,
+			[259753] = 1,
+			[255114] = 2,
 			[188023] = 2,
-			[51690] = 2,
+			[268762] = 1,
 			[255599] = 1,
-			[213981] = 2,
+			[114644] = 1,
 			[268122] = 1,
 			[201334] = 2,
-			[261743] = 1,
-			[188024] = 2,
+			[51510] = 2,
 			[277724] = 2,
+			[261743] = 1,
 			[271581] = 2,
-			[259994] = 1,
+			[221812] = 2,
 			[79174] = 1,
 			[270598] = 1,
 			[121153] = 2,
 			[201979] = 2,
-			[214169] = 2,
-			[186257] = 2,
+			[5277] = 2,
+			[259500] = 1,
 			[258230] = 1,
-			[2094] = 2,
+			[259536] = 1,
 			[48103] = 2,
-			[772] = 2,
+			[258184] = 1,
 			[201336] = 2,
 			[207076] = 2,
 			[130437] = 1,
 			[204408] = 2,
-			[216695] = 2,
+			[23978] = 1,
 			[273633] = 1,
 			[79175] = 1,
-			[257650] = 1,
+			[216695] = 2,
 			[80199] = 2,
 			[273634] = 2,
-			[83783] = 1,
-			[195710] = 2,
-			[257651] = 2,
+			[205021] = 2,
+			[185471] = 2,
+			[277731] = 2,
 			[82759] = 1,
 			[267492] = 1,
-			[277731] = 2,
-			[89798] = 1,
-			[188028] = 2,
+			[83783] = 1,
+			[191629] = 2,
+			[261477] = 1,
 			[275684] = 1,
-			[277732] = 1,
-			[240005] = 2,
-			[234153] = 2,
-			[58519] = 1,
+			[188028] = 2,
+			[263927] = 1,
+			[44212] = 2,
+			[79962] = 1,
+			[115078] = 2,
 			[104773] = 2,
-			[271590] = 1,
 			[270578] = 2,
 			[275686] = 1,
 			[188029] = 2,
-			[48707] = 2,
+			[258453] = 1,
 			[82760] = 1,
 			[20822] = 1,
 			[114282] = 2,
 			[160902] = 2,
 			[265449] = 1,
-			[276154] = 2,
-			[256920] = 1,
-			[642] = 2,
+			[115175] = 2,
+			[79976] = 1,
+			[259229] = 1,
 			[273641] = 1,
 			[275689] = 2,
-			[47057] = 1,
-			[15286] = 2,
+			[170838] = 2,
+			[280855] = 2,
 			[250933] = 1,
-			[263652] = 2,
+			[114052] = 2,
 			[188031] = 2,
 			[165802] = 2,
-			[278819] = 2,
-			[279336] = 2,
+			[19236] = 2,
+			[16870] = 2,
 			[83785] = 1,
 			[23126] = 2,
 			[262036] = 1,
@@ -21815,141 +33820,141 @@ TMWOptDB = {
 			[197871] = 2,
 			[263406] = 2,
 			[23766] = 1,
-			[79977] = 1,
+			[262811] = 1,
 			[79968] = 1,
 			[755] = 2,
-			[183218] = 2,
+			[272471] = 1,
 			[252537] = 1,
 			[188033] = 2,
 			[248694] = 2,
-			[109972] = 1,
-			[250532] = 1,
+			[260100] = 1,
+			[258723] = 2,
 			[276218] = 1,
-			[155835] = 2,
-			[248423] = 2,
-			[264940] = 1,
+			[268953] = 2,
+			[16128] = 1,
+			[253562] = 1,
 			[188034] = 2,
 			[279792] = 2,
-			[269305] = 2,
-			[268070] = 1,
+			[257829] = 1,
+			[233153] = 2,
 			[104264] = 2,
 			[279793] = 2,
-			[201939] = 2,
-			[51514] = 2,
+			[270674] = 2,
+			[214202] = 2,
 			[188035] = 2,
-			[202912] = 2,
-			[195816] = 1,
-			[1719] = 2,
-			[232854] = 2,
+			[73629] = 2,
+			[197874] = 2,
+			[214975] = 2,
+			[267899] = 1,
+			[131493] = 2,
 			[226943] = 2,
-			[281843] = 2,
-			[126063] = 1,
-			[263938] = 2,
-			[281844] = 2,
+			[118] = 2,
+			[248210] = 2,
 			[871] = 2,
-			[73313] = 2,
+			[281844] = 2,
+			[259220] = 1,
 			[128943] = 2,
-			[703] = 2,
-			[277013] = 2,
+			[44544] = 2,
+			[269944] = 1,
 			[275702] = 1,
 			[212610] = 2,
 			[233639] = 2,
 			[82764] = 1,
 			[248446] = 1,
-			[264957] = 1,
+			[258233] = 1,
 			[139] = 2,
 			[260337] = 1,
-			[89792] = 2,
-			[2096] = 2,
-			[130958] = 1,
-			[196834] = 2,
-			[200947] = 2,
-			[62175] = 2,
+			[99] = 2,
+			[280431] = 2,
+			[278981] = 2,
+			[280187] = 2,
+			[191293] = 1,
+			[216802] = 2,
 			[214222] = 2,
-			[210131] = 1,
+			[130] = 2,
 			[260734] = 2,
-			[250060] = 1,
-			[259711] = 1,
+			[273276] = 1,
+			[196364] = 2,
 			[265468] = 1,
-			[278989] = 2,
+			[76622] = 1,
 			[269564] = 2,
 			[201350] = 2,
-			[76622] = 1,
+			[259711] = 1,
+			[94028] = 2,
 			[23511] = 1,
-			[277756] = 2,
-			[201634] = 2,
+			[16172] = 1,
 			[23767] = 1,
+			[263423] = 2,
 			[104267] = 2,
-			[167563] = 1,
 			[234115] = 2,
 			[58450] = 2,
 			[252545] = 2,
-			[80221] = 1,
-			[104282] = 2,
+			[121176] = 1,
+			[175784] = 2,
 			[281854] = 2,
 			[207495] = 2,
 			[16856] = 1,
 			[268810] = 1,
 			[273664] = 1,
 			[205191] = 2,
-			[2383] = 2,
-			[36900] = 2,
+			[280313] = 1,
+			[22842] = 2,
 			[273665] = 2,
-			[250141] = 2,
-			[121308] = 1,
+			[257222] = 1,
+			[236748] = 2,
 			[250499] = 1,
-			[82255] = 1,
+			[281178] = 2,
 			[267523] = 1,
 			[269571] = 2,
-			[279810] = 2,
+			[82255] = 1,
 			[231046] = 2,
-			[115295] = 2,
-			[264679] = 2,
-			[255645] = 2,
+			[269800] = 1,
+			[258234] = 2,
+			[74589] = 2,
 			[218760] = 1,
 			[252548] = 1,
-			[258278] = 2,
-			[32612] = 2,
+			[263958] = 1,
+			[268007] = 1,
 			[255620] = 1,
-			[40626] = 2,
+			[219809] = 2,
 			[277765] = 1,
-			[116847] = 2,
+			[268702] = 1,
 			[257183] = 1,
-			[257692] = 2,
+			[269622] = 2,
 			[261764] = 2,
 			[124280] = 2,
 			[273671] = 1,
-			[2367] = 2,
+			[82768] = 1,
 			[269576] = 2,
 			[100686] = 1,
-			[205025] = 2,
+			[260369] = 2,
 			[34477] = 2,
 			[260741] = 1,
-			[58875] = 2,
+			[201641] = 2,
 			[201408] = 2,
 			[267530] = 1,
-			[259455] = 2,
+			[20007] = 2,
 			[121164] = 1,
 			[259718] = 1,
-			[974] = 2,
-			[84305] = 1,
+			[176458] = 1,
+			[279818] = 2,
 			[106830] = 2,
-			[203407] = 2,
+			[279819] = 2,
 			[267532] = 1,
 			[108366] = 2,
-			[176785] = 2,
-			[277773] = 1,
+			[84305] = 1,
+			[104271] = 2,
 			[1462] = 2,
-			[253595] = 2,
-			[252553] = 1,
+			[212640] = 2,
+			[275726] = 2,
 			[23768] = 1,
 			[47788] = 2,
-			[104271] = 2,
-			[32727] = 2,
-			[218765] = 1,
-			[275726] = 2,
+			[277773] = 1,
 			[245386] = 1,
-			[219788] = 2,
+			[218765] = 1,
+			[203407] = 2,
+			[32727] = 2,
+			[123725] = 2,
 			[255625] = 1,
 			[199450] = 2,
 			[277775] = 1,
@@ -21959,742 +33964,742 @@ TMWOptDB = {
 			[277776] = 1,
 			[261769] = 2,
 			[78675] = 2,
-			[8096] = 2,
+			[277777] = 1,
 			[257674] = 1,
 			[271634] = 2,
 			[60229] = 2,
-			[259737] = 1,
+			[12654] = 2,
 			[277778] = 2,
-			[92596] = 2,
+			[279173] = 1,
 			[255627] = 1,
-			[271636] = 1,
+			[104272] = 2,
 			[134810] = 1,
-			[279827] = 1,
-			[260402] = 2,
-			[263446] = 2,
+			[271636] = 1,
+			[195776] = 1,
+			[166302] = 1,
 			[245389] = 2,
-			[279828] = 1,
+			[263446] = 2,
 			[273685] = 2,
-			[204085] = 2,
+			[268125] = 2,
 			[104273] = 2,
-			[212638] = 2,
-			[236187] = 2,
+			[277806] = 1,
+			[40625] = 2,
 			[105809] = 2,
-			[211793] = 2,
+			[106898] = 2,
 			[197268] = 2,
-			[246413] = 2,
-			[277805] = 1,
+			[54644] = 2,
+			[128852] = 1,
 			[275504] = 1,
 			[271640] = 1,
-			[157348] = 2,
+			[47536] = 2,
 			[59052] = 2,
 			[277784] = 2,
 			[279832] = 2,
-			[223202] = 2,
-			[236431] = 2,
+			[125071] = 2,
+			[48045] = 2,
 			[104274] = 2,
-			[253806] = 2,
-			[253583] = 1,
+			[166592] = 2,
+			[13585] = 1,
 			[267547] = 1,
-			[204437] = 2,
+			[253583] = 1,
 			[257597] = 1,
-			[192226] = 2,
+			[168360] = 1,
 			[62124] = 2,
 			[277787] = 2,
-			[275755] = 2,
+			[256663] = 2,
 			[265501] = 1,
-			[36554] = 2,
+			[259331] = 1,
 			[1966] = 2,
-			[267548] = 1,
+			[277779] = 1,
 			[23769] = 1,
 			[267550] = 1,
 			[32216] = 2,
 			[214690] = 1,
-			[268030] = 1,
+			[91771] = 2,
 			[40623] = 2,
-			[259357] = 2,
-			[258945] = 1,
-			[255567] = 1,
+			[111400] = 2,
+			[17877] = 2,
+			[62305] = 2,
 			[267552] = 2,
-			[208693] = 2,
-			[246423] = 2,
-			[267553] = 1,
+			[260805] = 1,
+			[197277] = 2,
 			[275744] = 1,
+			[267553] = 1,
 			[277792] = 2,
 			[34914] = 2,
-			[2580] = 2,
+			[252848] = 2,
 			[258718] = 1,
 			[104276] = 2,
 			[277793] = 2,
-			[267560] = 2,
-			[198300] = 2,
+			[256661] = 1,
+			[206491] = 2,
 			[277794] = 1,
-			[116849] = 2,
+			[256849] = 1,
 			[265508] = 2,
-			[255366] = 1,
-			[230152] = 2,
+			[182512] = 2,
+			[220351] = 2,
 			[271652] = 1,
 			[66906] = 2,
 			[275748] = 1,
-			[170397] = 2,
+			[279848] = 2,
 			[225017] = 2,
 			[257169] = 1,
 			[267558] = 2,
 			[104277] = 2,
-			[279848] = 2,
+			[170397] = 2,
 			[265511] = 1,
-			[220351] = 2,
-			[182512] = 2,
-			[256849] = 1,
-			[206491] = 2,
-			[256661] = 1,
+			[230152] = 2,
+			[255366] = 1,
+			[116849] = 2,
+			[198300] = 2,
+			[267560] = 2,
 			[277799] = 1,
 			[209563] = 2,
-			[252848] = 2,
+			[2580] = 2,
 			[275752] = 1,
 			[277800] = 1,
-			[197277] = 2,
-			[260805] = 1,
-			[62305] = 2,
-			[17877] = 2,
-			[111400] = 2,
-			[91771] = 2,
+			[246423] = 2,
+			[208693] = 2,
+			[255567] = 1,
+			[258945] = 1,
+			[259357] = 2,
+			[268030] = 1,
 			[236185] = 2,
-			[277779] = 1,
+			[267548] = 1,
 			[246424] = 2,
-			[259331] = 1,
-			[256663] = 2,
-			[168360] = 1,
+			[36554] = 2,
+			[275755] = 2,
+			[192226] = 2,
 			[225947] = 2,
-			[13585] = 1,
-			[166592] = 2,
-			[48045] = 2,
-			[125071] = 2,
-			[47536] = 2,
+			[204437] = 2,
+			[253806] = 2,
+			[236431] = 2,
+			[223202] = 2,
+			[157348] = 2,
 			[248473] = 2,
-			[128852] = 1,
-			[54644] = 2,
-			[106898] = 2,
-			[40625] = 2,
-			[277806] = 1,
-			[268125] = 2,
-			[166302] = 1,
-			[195776] = 1,
-			[104272] = 2,
-			[279173] = 1,
-			[12654] = 2,
+			[277805] = 1,
+			[246413] = 2,
+			[211793] = 2,
+			[236187] = 2,
+			[212638] = 2,
+			[204085] = 2,
+			[279828] = 1,
+			[260402] = 2,
+			[279827] = 1,
+			[92596] = 2,
+			[259737] = 1,
 			[236188] = 2,
-			[277777] = 1,
+			[8096] = 2,
 			[102744] = 2,
 			[265522] = 1,
 			[215711] = 2,
 			[17883] = 1,
-			[123725] = 2,
+			[219788] = 2,
 			[273714] = 2,
 			[252571] = 1,
-			[212640] = 2,
+			[253595] = 2,
 			[205473] = 2,
-			[279819] = 2,
-			[279818] = 2,
-			[176458] = 1,
-			[20007] = 2,
+			[252553] = 1,
+			[176785] = 2,
+			[974] = 2,
+			[259455] = 2,
 			[259739] = 1,
-			[201641] = 2,
+			[58875] = 2,
 			[212641] = 2,
-			[260369] = 2,
-			[82768] = 1,
+			[205025] = 2,
+			[2367] = 2,
 			[275765] = 2,
-			[269622] = 2,
+			[257692] = 2,
 			[121175] = 1,
-			[268702] = 1,
-			[219809] = 2,
-			[268007] = 1,
-			[263958] = 1,
-			[74589] = 2,
-			[258234] = 2,
-			[269800] = 1,
-			[281178] = 2,
-			[236748] = 2,
-			[257222] = 1,
-			[22842] = 2,
-			[280313] = 1,
+			[116847] = 2,
+			[40626] = 2,
+			[32612] = 2,
+			[258278] = 2,
+			[255645] = 2,
+			[264679] = 2,
+			[115295] = 2,
+			[279810] = 2,
+			[121308] = 1,
+			[250141] = 2,
+			[36900] = 2,
+			[2383] = 2,
 			[273721] = 1,
 			[267578] = 1,
-			[175784] = 2,
-			[121176] = 1,
+			[104282] = 2,
+			[80221] = 1,
 			[235169] = 2,
-			[263423] = 2,
-			[16172] = 1,
-			[94028] = 2,
+			[167563] = 1,
+			[201634] = 2,
+			[277756] = 2,
 			[247456] = 2,
-			[196364] = 2,
-			[273276] = 1,
-			[130] = 2,
+			[278989] = 2,
+			[250060] = 1,
+			[210131] = 1,
 			[265533] = 1,
-			[216802] = 2,
-			[191293] = 1,
-			[280187] = 2,
-			[278981] = 2,
-			[280431] = 2,
-			[99] = 2,
+			[62175] = 2,
+			[200947] = 2,
+			[196834] = 2,
+			[130958] = 1,
+			[2096] = 2,
+			[89792] = 2,
 			[121177] = 1,
 			[210598] = 2,
-			[258233] = 1,
+			[264957] = 1,
 			[138927] = 2,
-			[269944] = 1,
-			[44544] = 2,
+			[277013] = 2,
+			[703] = 2,
 			[267584] = 1,
-			[259220] = 1,
+			[73313] = 2,
 			[263489] = 1,
-			[248210] = 2,
-			[118] = 2,
-			[131493] = 2,
-			[267899] = 1,
-			[214975] = 2,
-			[197874] = 2,
-			[73629] = 2,
-			[214202] = 2,
-			[270674] = 2,
-			[233153] = 2,
-			[257829] = 1,
-			[253562] = 1,
-			[16128] = 1,
-			[268953] = 2,
+			[263938] = 2,
+			[126063] = 1,
+			[281843] = 2,
+			[232854] = 2,
+			[1719] = 2,
+			[195816] = 1,
+			[202912] = 2,
+			[51514] = 2,
+			[201939] = 2,
+			[268070] = 1,
+			[269305] = 2,
+			[264940] = 1,
+			[248423] = 2,
+			[155835] = 2,
 			[277827] = 1,
-			[258723] = 2,
-			[260100] = 1,
+			[250532] = 1,
+			[109972] = 1,
 			[267589] = 1,
-			[272471] = 1,
+			[183218] = 2,
 			[263494] = 1,
-			[262811] = 1,
+			[79977] = 1,
 			[267590] = 1,
 			[175790] = 2,
-			[16870] = 2,
-			[19236] = 2,
+			[279336] = 2,
+			[278819] = 2,
 			[162480] = 2,
-			[114052] = 2,
+			[263652] = 2,
 			[20572] = 2,
-			[280855] = 2,
-			[170838] = 2,
-			[259229] = 1,
-			[79976] = 1,
-			[115175] = 2,
+			[15286] = 2,
+			[47057] = 1,
+			[642] = 2,
+			[256920] = 1,
+			[276154] = 2,
 			[236200] = 2,
 			[163505] = 2,
-			[258453] = 1,
+			[48707] = 2,
 			[255654] = 2,
-			[115078] = 2,
-			[79962] = 1,
-			[44212] = 2,
-			[263927] = 1,
-			[261477] = 1,
-			[191629] = 2,
+			[271590] = 1,
+			[58519] = 1,
+			[234153] = 2,
+			[240005] = 2,
+			[277732] = 1,
+			[89798] = 1,
 			[279882] = 2,
-			[185471] = 2,
-			[205021] = 2,
-			[23978] = 1,
+			[257651] = 2,
+			[195710] = 2,
+			[257650] = 1,
 			[5784] = 2,
 			[194223] = 2,
-			[258184] = 1,
+			[772] = 2,
 			[212653] = 2,
-			[259536] = 1,
+			[2094] = 2,
 			[86881] = 1,
-			[259500] = 1,
-			[5277] = 2,
+			[186257] = 2,
+			[214169] = 2,
 			[279885] = 2,
 			[218797] = 2,
-			[221812] = 2,
+			[259994] = 1,
 			[6136] = 1,
-			[51510] = 2,
+			[188024] = 2,
 			[33206] = 2,
-			[114644] = 1,
-			[268762] = 1,
-			[255114] = 2,
-			[259753] = 1,
+			[213981] = 2,
+			[51690] = 2,
+			[196733] = 2,
+			[210607] = 2,
 			[6360] = 1,
 			[51124] = 2,
 			[131769] = 1,
-			[64843] = 2,
-			[12975] = 2,
-			[280847] = 2,
+			[225597] = 2,
+			[275793] = 1,
+			[201332] = 2,
 			[209584] = 2,
-			[105681] = 2,
-			[146202] = 2,
+			[13750] = 2,
+			[124219] = 2,
 			[269651] = 2,
 			[213680] = 2,
 			[273747] = 1,
-			[8377] = 1,
-			[204227] = 1,
-			[271700] = 1,
-			[257916] = 1,
-			[260779] = 1,
-			[204018] = 2,
-			[279541] = 2,
-			[253721] = 1,
+			[115385] = 1,
+			[240640] = 2,
+			[54452] = 2,
+			[256619] = 1,
+			[162487] = 2,
+			[101260] = 1,
+			[48181] = 2,
+			[215652] = 2,
 			[275797] = 1,
-			[203534] = 2,
+			[272188] = 2,
 			[121183] = 2,
 			[202419] = 1,
-			[80983] = 1,
-			[271544] = 2,
-			[271924] = 2,
-			[222087] = 1,
-			[95988] = 2,
-			[91797] = 2,
-			[276189] = 2,
+			[115006] = 1,
+			[138130] = 2,
+			[86603] = 1,
+			[32615] = 2,
+			[280073] = 2,
+			[280375] = 2,
+			[221562] = 2,
 			[251566] = 2,
 			[7384] = 2,
-			[194310] = 2,
-			[255742] = 2,
-			[107837] = 2,
-			[271559] = 2,
-			[248958] = 2,
-			[15487] = 2,
+			[263371] = 1,
+			[163441] = 2,
+			[202905] = 2,
+			[83776] = 1,
+			[260708] = 2,
+			[198912] = 2,
 			[218803] = 2,
-			[252591] = 1,
-			[281795] = 2,
+			[267611] = 2,
+			[202346] = 2,
 			[15407] = 2,
 			[214708] = 2,
 			[267612] = 2,
-			[127801] = 1,
-			[268552] = 2,
+			[55095] = 2,
+			[257784] = 1,
 			[15727] = 1,
-			[41635] = 2,
-			[273599] = 1,
-			[152173] = 2,
+			[268547] = 2,
+			[194084] = 2,
+			[210152] = 2,
 			[7992] = 1,
 			[79206] = 2,
 			[134847] = 1,
-			[1079] = 2,
-			[170950] = 2,
+			[20798] = 1,
+			[273218] = 1,
 			[114018] = 2,
 			[188089] = 2,
-			[271711] = 2,
+			[279902] = 2,
 			[265568] = 1,
-			[254901] = 1,
+			[196725] = 2,
 			[33720] = 2,
-			[265723] = 1,
-			[270524] = 1,
+			[280295] = 1,
+			[45181] = 2,
 			[252594] = 1,
 			[261809] = 2,
-			[982] = 2,
-			[208997] = 2,
-			[267618] = 1,
-			[8220] = 2,
-			[79966] = 1,
+			[254308] = 2,
+			[271543] = 2,
+			[275809] = 1,
+			[60234] = 2,
+			[197046] = 2,
 			[202425] = 2,
-			[185394] = 2,
-			[213758] = 1,
+			[118922] = 2,
+			[258128] = 1,
 			[213688] = 2,
 			[157375] = 2,
-			[271867] = 1,
-			[267444] = 1,
-			[125282] = 2,
+			[165308] = 1,
+			[109976] = 1,
+			[271716] = 1,
 			[281955] = 2,
 			[260787] = 2,
 			[220856] = 2,
-			[141928] = 2,
+			[206432] = 2,
 			[265574] = 2,
-			[273542] = 1,
+			[268532] = 2,
 			[269670] = 1,
 			[40120] = 2,
-			[183585] = 1,
+			[130624] = 1,
 			[81256] = 2,
-			[55342] = 2,
-			[259853] = 1,
-			[132403] = 2,
-			[199356] = 1,
+			[198688] = 2,
+			[254193] = 1,
+			[26393] = 1,
+			[223929] = 2,
 			[33721] = 2,
-			[224126] = 1,
-			[267434] = 1,
-			[263909] = 2,
+			[50259] = 2,
+			[265056] = 1,
+			[61781] = 2,
 			[126819] = 2,
-			[164545] = 2,
-			[225598] = 2,
+			[213691] = 2,
+			[247563] = 2,
 			[267626] = 2,
 			[269674] = 1,
 			[279913] = 2,
-			[124211] = 2,
-			[199260] = 2,
+			[64413] = 2,
+			[255570] = 2,
 			[163522] = 2,
 			[221883] = 2,
-			[276297] = 1,
-			[105421] = 2,
-			[275157] = 1,
-			[32752] = 2,
-			[130342] = 2,
-			[217200] = 2,
-			[73630] = 2,
-			[164547] = 2,
+			[28271] = 2,
+			[270459] = 1,
+			[185464] = 2,
+			[279715] = 2,
+			[16561] = 1,
+			[12472] = 2,
+			[204598] = 2,
+			[271725] = 2,
 			[265582] = 1,
 			[275821] = 1,
-			[277660] = 1,
-			[199804] = 2,
-			[23445] = 2,
+			[147732] = 2,
+			[113860] = 2,
+			[207999] = 2,
 			[260792] = 1,
-			[23451] = 1,
+			[58448] = 2,
 			[221885] = 2,
-			[82794] = 1,
+			[90985] = 2,
 			[256697] = 2,
 			[269680] = 1,
-			[152262] = 2,
+			[263537] = 2,
 			[243387] = 1,
-			[246821] = 2,
-			[268415] = 1,
-			[221886] = 2,
+			[276061] = 1,
+			[258118] = 1,
+			[131785] = 2,
 			[247483] = 2,
-			[251838] = 2,
-			[236321] = 2,
-			[192081] = 2,
-			[46168] = 2,
+			[215607] = 2,
+			[271465] = 2,
+			[277077] = 1,
+			[273559] = 2,
 			[275826] = 1,
-			[265755] = 1,
-			[221887] = 2,
+			[79930] = 1,
+			[263540] = 1,
 			[273779] = 2,
-			[191545] = 2,
-			[36901] = 2,
-			[195901] = 2,
-			[160724] = 2,
-			[84533] = 1,
-			[122159] = 2,
+			[59548] = 2,
+			[28880] = 2,
+			[148563] = 2,
+			[109977] = 1,
+			[269880] = 1,
+			[267997] = 2,
 			[279924] = 2,
-			[255676] = 2,
-			[202852] = 2,
-			[120679] = 2,
-			[64695] = 1,
-			[55001] = 2,
-			[174453] = 1,
-			[217163] = 1,
-			[6197] = 2,
-			[258133] = 1,
-			[142204] = 2,
-			[100202] = 1,
-			[270457] = 1,
-			[192082] = 2,
-			[126311] = 2,
-			[260667] = 1,
-			[43194] = 2,
+			[273781] = 2,
+			[268886] = 1,
+			[269686] = 1,
+			[279925] = 2,
+			[267836] = 1,
+			[257975] = 1,
+			[176199] = 2,
+			[6795] = 2,
+			[263275] = 1,
+			[264040] = 2,
+			[208579] = 2,
+			[207736] = 2,
+			[128301] = 2,
+			[275832] = 1,
+			[265360] = 1,
+			[246463] = 2,
 			[265594] = 1,
-			[258860] = 2,
-			[200389] = 2,
-			[274105] = 2,
+			[157644] = 2,
+			[60344] = 2,
+			[216413] = 2,
 			[186055] = 1,
-			[280655] = 2,
-			[204362] = 2,
+			[240460] = 1,
+			[212283] = 2,
 			[45242] = 2,
-			[208683] = 2,
+			[196420] = 2,
 			[275835] = 1,
-			[233154] = 2,
+			[175817] = 2,
 			[193223] = 2,
-			[281195] = 2,
+			[236077] = 2,
 			[275836] = 1,
-			[205259] = 1,
-			[270188] = 1,
+			[121253] = 2,
+			[181545] = 1,
 			[255680] = 1,
-			[221549] = 2,
-			[176151] = 2,
-			[265311] = 1,
-			[207400] = 2,
+			[255836] = 1,
+			[97463] = 2,
+			[93622] = 2,
+			[8221] = 2,
 			[81262] = 2,
-			[259344] = 2,
-			[204361] = 2,
-			[233498] = 2,
-			[265882] = 1,
-			[30831] = 1,
-			[257834] = 1,
+			[211805] = 2,
+			[280605] = 1,
+			[153161] = 1,
+			[274387] = 2,
+			[167971] = 1,
+			[190027] = 2,
 			[194249] = 2,
 			[267649] = 1,
-			[277943] = 2,
+			[191034] = 2,
 			[43195] = 2,
-			[190026] = 2,
+			[79560] = 1,
 			[215751] = 2,
-			[126389] = 2,
-			[273272] = 1,
+			[32182] = 2,
+			[48107] = 2,
 			[273794] = 2,
-			[178703] = 1,
-			[211522] = 2,
-			[269928] = 1,
-			[227869] = 2,
-			[202602] = 2,
-			[280170] = 2,
+			[19708] = 2,
+			[184362] = 2,
+			[270376] = 2,
+			[225820] = 1,
+			[205763] = 1,
+			[160331] = 2,
 			[234182] = 2,
-			[256455] = 2,
-			[251837] = 2,
-			[118635] = 2,
-			[260651] = 1,
+			[271000] = 1,
+			[267890] = 1,
+			[204490] = 2,
+			[264101] = 1,
 			[273797] = 2,
-			[24378] = 1,
-			[262794] = 1,
+			[195630] = 2,
+			[156618] = 1,
 			[80240] = 2,
 			[273798] = 2,
-			[207707] = 1,
+			[183767] = 2,
 			[261828] = 1,
-			[230088] = 2,
-			[159238] = 2,
+			[279942] = 2,
+			[132653] = 2,
 			[191181] = 2,
-			[272441] = 1,
-			[279943] = 2,
-			[36899] = 2,
-			[109933] = 2,
-			[221527] = 2,
+			[270927] = 1,
+			[234184] = 2,
+			[224125] = 1,
+			[275848] = 1,
+			[251839] = 2,
 			[43196] = 2,
-			[268013] = 1,
+			[185870] = 1,
 			[275849] = 1,
 			[269706] = 1,
-			[168657] = 2,
-			[233490] = 2,
-			[216528] = 2,
-			[273465] = 2,
+			[234185] = 2,
+			[275566] = 2,
+			[188245] = 2,
+			[259919] = 1,
 			[213708] = 2,
 			[273803] = 2,
 			[256711] = 1,
 			[269708] = 1,
 			[271756] = 1,
-			[114108] = 2,
+			[233497] = 2,
 			[275852] = 2,
-			[164417] = 2,
-			[259592] = 2,
-			[81340] = 2,
+			[278468] = 2,
+			[178207] = 2,
+			[164862] = 2,
 			[182993] = 2,
 			[257736] = 1,
-			[197625] = 2,
-			[261577] = 2,
+			[267367] = 1,
+			[270268] = 2,
 			[275854] = 2,
-			[167385] = 1,
-			[242088] = 1,
-			[208086] = 2,
-			[175456] = 2,
+			[228358] = 2,
+			[249365] = 1,
+			[250729] = 1,
+			[270017] = 1,
 			[33726] = 2,
-			[82626] = 2,
-			[203814] = 2,
-			[199545] = 2,
+			[251401] = 1,
+			[79640] = 2,
+			[31884] = 2,
 			[277904] = 2,
 			[43197] = 2,
 			[273809] = 2,
 			[275857] = 2,
-			[134873] = 2,
+			[257738] = 1,
 			[152279] = 2,
 			[273810] = 1,
-			[105691] = 2,
+			[173102] = 2,
 			[261834] = 1,
-			[228486] = 2,
-			[272273] = 1,
+			[277432] = 2,
+			[268311] = 2,
 			[256715] = 1,
 			[257739] = 1,
 			[152280] = 2,
-			[216016] = 2,
-			[173958] = 2,
-			[66] = 2,
-			[110960] = 2,
-			[257483] = 2,
-			[273038] = 1,
-			[257740] = 1,
-			[48743] = 2,
-			[55164] = 2,
-			[198097] = 2,
-			[270284] = 1,
+			[188353] = 1,
+			[33786] = 2,
+			[281136] = 1,
+			[279956] = 2,
+			[1604] = 1,
+			[255824] = 1,
+			[87923] = 1,
+			[263904] = 2,
+			[45334] = 2,
+			[264105] = 1,
+			[171574] = 2,
 			[263576] = 1,
-			[279526] = 2,
+			[246152] = 2,
 			[275863] = 2,
 			[257741] = 1,
-			[58506] = 1,
-			[278901] = 1,
+			[233868] = 2,
+			[274740] = 2,
 			[228049] = 2,
-			[279584] = 2,
+			[75532] = 2,
 			[43198] = 2,
-			[46300] = 1,
+			[20549] = 2,
 			[275865] = 1,
 			[257742] = 1,
 			[271770] = 2,
-			[257420] = 2,
+			[275428] = 1,
 			[228050] = 2,
-			[80354] = 2,
-			[44530] = 1,
-			[208822] = 2,
+			[161229] = 1,
+			[231412] = 1,
+			[279448] = 1,
 			[275867] = 2,
-			[275909] = 2,
+			[209406] = 2,
 			[201430] = 2,
-			[13443] = 1,
-			[22859] = 1,
+			[271140] = 1,
+			[264712] = 2,
 			[63420] = 1,
-			[166355] = 2,
-			[268214] = 1,
-			[259572] = 1,
-			[160793] = 2,
-			[258768] = 1,
-			[264458] = 1,
-			[114034] = 1,
-			[32736] = 1,
-			[207744] = 2,
-			[114800] = 1,
+			[269279] = 2,
+			[232599] = 2,
+			[174524] = 2,
+			[268183] = 1,
+			[279965] = 2,
+			[259519] = 1,
+			[178906] = 2,
+			[81782] = 2,
+			[210413] = 2,
+			[605] = 2,
 			[124273] = 2,
-			[255434] = 1,
-			[229872] = 2,
-			[153310] = 1,
-			[266209] = 1,
+			[188389] = 2,
+			[262362] = 1,
+			[265633] = 1,
+			[260106] = 1,
 			[171740] = 2,
 			[43199] = 2,
-			[270277] = 1,
-			[259562] = 1,
+			[28272] = 2,
+			[281666] = 2,
 			[277921] = 1,
 			[271778] = 1,
-			[256897] = 1,
+			[176568] = 2,
 			[211672] = 2,
-			[281662] = 2,
-			[254958] = 1,
-			[274840] = 1,
+			[190446] = 2,
+			[80158] = 1,
+			[281660] = 2,
 			[124274] = 2,
 			[257747] = 1,
-			[214206] = 2,
-			[280615] = 2,
+			[251836] = 2,
+			[211947] = 2,
 			[267685] = 2,
 			[277924] = 2,
-			[275270] = 1,
-			[278888] = 1,
+			[281656] = 2,
+			[278086] = 2,
 			[215769] = 2,
-			[277925] = 2,
+			[257748] = 1,
 			[20066] = 2,
 			[153313] = 1,
-			[265237] = 1,
-			[281653] = 2,
-			[271783] = 1,
-			[277547] = 1,
+			[223166] = 2,
+			[197091] = 2,
+			[20578] = 2,
+			[87024] = 2,
 			[124275] = 2,
-			[231406] = 1,
+			[16567] = 1,
 			[2637] = 2,
-			[46604] = 1,
-			[255890] = 1,
-			[180746] = 2,
-			[273288] = 1,
+			[225787] = 2,
+			[108554] = 2,
+			[268198] = 1,
+			[262378] = 1,
 			[222938] = 1,
 			[275881] = 1,
-			[276000] = 1,
-			[221677] = 2,
-			[202461] = 2,
-			[277391] = 1,
-			[255446] = 1,
-			[268216] = 1,
-			[265264] = 1,
-			[113942] = 2,
-			[175841] = 2,
+			[240443] = 1,
+			[274113] = 2,
+			[259798] = 1,
+			[207771] = 2,
+			[118038] = 2,
+			[277501] = 1,
+			[87930] = 1,
+			[6405] = 2,
+			[208605] = 2,
 			[271788] = 2,
 			[273836] = 2,
-			[270606] = 1,
-			[262314] = 2,
+			[18968] = 1,
+			[232597] = 2,
 			[271789] = 1,
 			[265646] = 1,
-			[99732] = 2,
-			[278972] = 1,
+			[231895] = 2,
+			[247776] = 2,
 			[250585] = 2,
 			[218845] = 2,
 			[187105] = 1,
-			[215479] = 2,
-			[54149] = 2,
+			[276540] = 1,
+			[1515] = 2,
 			[198368] = 2,
 			[16739] = 2,
-			[208607] = 2,
+			[192225] = 2,
 			[263601] = 1,
-			[267878] = 1,
+			[3408] = 2,
 			[109943] = 1,
-			[278889] = 2,
-			[276900] = 1,
-			[263940] = 1,
-			[48864] = 2,
-			[175844] = 2,
-			[241836] = 2,
+			[79356] = 1,
+			[262313] = 2,
+			[53751] = 2,
+			[277047] = 1,
+			[208608] = 2,
+			[278974] = 1,
 			[273842] = 2,
-			[77808] = 1,
-			[269747] = 2,
+			[270143] = 1,
+			[212704] = 2,
 			[123254] = 2,
-			[91002] = 2,
-			[280553] = 1,
-			[92205] = 2,
+			[273843] = 2,
+			[239363] = 2,
+			[54649] = 2,
 			[217824] = 2,
 			[210657] = 2,
 			[109944] = 1,
-			[275378] = 2,
-			[82839] = 1,
+			[265129] = 1,
+			[265217] = 1,
 			[265654] = 1,
-			[267702] = 1,
-			[224992] = 2,
+			[275893] = 2,
+			[257756] = 1,
 			[271798] = 1,
-			[258147] = 1,
-			[217498] = 2,
-			[267160] = 2,
-			[279990] = 2,
+			[102066] = 1,
+			[271046] = 1,
+			[44097] = 2,
+			[271799] = 1,
 			[20707] = 2,
-			[150250] = 1,
-			[192229] = 2,
+			[275895] = 2,
+			[208611] = 2,
 			[271800] = 1,
 			[227041] = 2,
 			[260829] = 1,
-			[273922] = 2,
-			[274470] = 1,
-			[50986] = 2,
-			[160007] = 2,
-			[223658] = 2,
-			[277440] = 1,
+			[102472] = 1,
+			[274089] = 1,
+			[172183] = 1,
+			[117647] = 2,
+			[127923] = 2,
+			[202797] = 2,
 			[210660] = 2,
 			[260830] = 1,
-			[117642] = 2,
-			[260237] = 1,
-			[256453] = 2,
-			[207589] = 2,
+			[90898] = 2,
+			[263999] = 1,
+			[270546] = 1,
+			[256735] = 2,
 			[208613] = 2,
-			[278383] = 2,
-			[275057] = 2,
-			[276887] = 1,
+			[273254] = 1,
+			[280422] = 1,
+			[118872] = 2,
 			[55233] = 2,
-			[276749] = 1,
+			[277498] = 1,
 			[265662] = 1,
 			[275901] = 2,
-			[269290] = 1,
-			[108281] = 2,
-			[236986] = 1,
-			[265206] = 1,
-			[79897] = 1,
-			[270547] = 1,
-			[154797] = 2,
+			[258186] = 1,
+			[278572] = 2,
+			[190826] = 2,
+			[194879] = 2,
+			[62062] = 2,
+			[226329] = 2,
+			[66052] = 2,
 			[275903] = 2,
-			[203539] = 2,
-			[268899] = 2,
-			[274358] = 1,
+			[16509] = 1,
+			[101412] = 1,
+			[125883] = 2,
 			[68992] = 2,
-			[278524] = 2,
-			[102381] = 1,
+			[272536] = 1,
+			[92174] = 2,
 			[255714] = 1,
-			[280064] = 2,
-			[272817] = 2,
-			[219988] = 2,
-			[82670] = 1,
-			[92091] = 2,
-			[196342] = 2,
-			[65247] = 2,
-			[245998] = 2,
-			[256739] = 2,
-			[278780] = 2,
+			[185350] = 1,
+			[121093] = 2,
+			[57294] = 2,
+			[56191] = 2,
+			[276299] = 1,
+			[44106] = 2,
+			[275985] = 2,
+			[258078] = 1,
+			[275907] = 1,
+			[31920] = 2,
 			[217832] = 2,
-			[84378] = 2,
-			[96847] = 1,
-			[270566] = 1,
-			[44104] = 2,
+			[165776] = 1,
+			[262115] = 2,
+			[81677] = 1,
+			[273404] = 2,
 			[86911] = 1,
-			[215785] = 2,
-			[84713] = 1,
-			[87762] = 1,
-			[93269] = 2,
+			[256740] = 2,
+			[82640] = 2,
+			[48722] = 2,
+			[255870] = 2,
 			[187117] = 1,
-			[109778] = 2,
-			[107550] = 1,
-			[82637] = 2,
+			[278288] = 2,
+			[88814] = 1,
+			[61815] = 2,
 			[275911] = 2,
-			[216810] = 2,
-			[280007] = 2,
-			[50245] = 2,
-			[270507] = 1,
+			[277959] = 2,
+			[271816] = 1,
+			[109714] = 2,
+			[92099] = 2,
 			[277960] = 2,
 			[271817] = 1,
-			[206572] = 2,
+			[255718] = 2,
 			[256742] = 2,
 			[200429] = 1,
 			[280009] = 1,
@@ -22704,12555 +34709,70 @@ TMWOptDB = {
 			[263628] = 1,
 			[273867] = 1,
 			[275915] = 2,
-			[79471] = 2,
-			[252753] = 2,
-			[127915] = 2,
-			[102149] = 1,
-			[102442] = 1,
-			[101811] = 1,
-			[88663] = 2,
-			[78939] = 1,
-			[94160] = 2,
-			[36897] = 2,
+			[80308] = 1,
+			[264815] = 2,
+			[258935] = 1,
+			[92265] = 1,
+			[189804] = 1,
+			[184662] = 2,
+			[88055] = 1,
+			[88286] = 2,
+			[80028] = 1,
+			[88186] = 1,
 			[218861] = 2,
-			[199845] = 2,
-			[87771] = 1,
-			[88192] = 1,
+			[87721] = 1,
+			[102364] = 2,
+			[131845] = 2,
 			[273871] = 1,
 			[256745] = 2,
 			[269776] = 2,
-			[266171] = 1,
+			[84550] = 1,
 			[243435] = 2,
-			[79351] = 1,
+			[95248] = 1,
 			[277968] = 1,
-			[101812] = 1,
-			[87759] = 1,
-			[101809] = 1,
+			[86930] = 1,
+			[277347] = 1,
+			[66251] = 1,
 			[277969] = 2,
-			[91352] = 2,
+			[84122] = 1,
 			[273874] = 1,
-			[223665] = 2,
-			[229871] = 2,
-			[205655] = 2,
+			[101619] = 2,
+			[102915] = 1,
+			[177193] = 2,
 			[255723] = 2,
 			[116095] = 2,
-			[54212] = 2,
+			[108416] = 2,
 			[263637] = 1,
-			[82506] = 1,
+			[264813] = 2,
 			[109952] = 1,
 			[261867] = 1,
-			[276214] = 2,
-			[66550] = 2,
-			[673] = 2,
-			[91141] = 2,
-			[166727] = 1,
-			[129579] = 1,
+			[92184] = 2,
+			[256867] = 1,
+			[233759] = 2,
+			[266006] = 1,
+			[256851] = 1,
+			[254409] = 2,
 			[275926] = 2,
 			[269783] = 2,
-			[214342] = 2,
-			[66195] = 2,
-			[199412] = 2,
-			[276024] = 2,
-			[268253] = 2,
-			[227099] = 2,
-			[105698] = 2,
+			[267161] = 2,
+			[81441] = 1,
+			[207603] = 2,
+			[105689] = 2,
+			[253367] = 2,
+			[272685] = 2,
+			[275228] = 1,
 			[277976] = 1,
-			[278173] = 1,
-			[268468] = 2,
-			[273274] = 2,
-			[208628] = 2,
-			[258798] = 1,
-			[34828] = 1,
+			[262364] = 1,
+			[49754] = 2,
+			[268095] = 2,
+			[277977] = 1,
+			[280025] = 2,
+			[274891] = 1,
 			[236273] = 2,
-			[264159] = 1,
+			[249984] = 2,
 		},
-		["TellMeWhenDBBackup"] = {
-			["profileKeys"] = {
-				["Twiddlederr - Kel'Thuzad"] = "Twiddlederr - Kel'Thuzad",
-				["Suhdrude - Anvilmar"] = "Suhdrude - Anvilmar",
-				["Fistbeavers - Kel'Thuzad"] = "Fistbeavers - Kel'Thuzad",
-				["Twiddlederr - Anvilmar"] = "Twiddlederr - Anvilmar",
-				["Eyebrowse - Kel'Thuzad"] = "Druid",
-			},
-			["global"] = {
-				["TextLayouts"] = {
-					["icon1"] = {
-						{
-						}, -- [1]
-						{
-						}, -- [2]
-					},
-					["bar2"] = {
-						{
-						}, -- [1]
-						{
-						}, -- [2]
-					},
-				},
-				["ShowGUIDs"] = true,
-				["AllowCombatConfig"] = true,
-				["HelpSettings"] = {
-					["ICON_DURS_FIRSTSEE"] = true,
-					["SUG_FIRSTHELP"] = true,
-					["ICON_POCKETWATCH_FIRSTSEE"] = true,
-					["SCROLLBAR_DROPDOWN"] = true,
-				},
-			},
-			["Version"] = 85403,
-			["profiles"] = {
-				["Twiddlederr - Kel'Thuzad"] = {
-					["Locked"] = true,
-					["NumGroups"] = 8,
-					["Version"] = 85403,
-					["Groups"] = {
-						{
-							["GUID"] = "TMW:group:1QwL7gQwOB=r",
-							["Role"] = 1,
-							["Columns"] = 7,
-							["Scale"] = 2.21071815490723,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sX", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Honorable Medallion; Gladiator's Medallion",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sF", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Darkness",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"G", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Shadowmeld",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sS", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Reverse Magic",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"s4", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Blur",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Netherwalk",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sB", -- [1]
-												"[Stacks:Hide(0)]", -- [2]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Healthstone",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"C", -- [1]
-											},
-										},
-									},
-									["OnlyInBags"] = true,
-									["Type"] = "item",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-											["Texture"] = "6262",
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-											["Texture"] = "6262",
-										}, -- [2]
-										{
-											["Texture"] = "6262",
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [9]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [11]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [13]
-								nil, -- [14]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [15]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [16]
-							},
-							["Point"] = {
-								["y"] = -107.08296581796,
-								["x"] = 2.65743524271414,
-							},
-						}, -- [1]
-						{
-							["GUID"] = "TMW:group:1RS6HM2lDcEb",
-							["Role"] = 1,
-							["Columns"] = 9,
-							["Scale"] = 1.58055913448334,
-							["Rows"] = 2,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Demon's Bite",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"1", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "icon1",
-											["Texts"] = {
-												"2", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Throw Glaive",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"3", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Blade Dance",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"4", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Fel Rush",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"5", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Felblade; Fel Eruption",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"V", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Eye Beam",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sR", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Spectral Sight",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Immolation Aura",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sC", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sT", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Eye of Leotheras",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [9]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"S", -- [1]
-												"[Stacks:Hide(0)]", -- [2]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Chaos Nova",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"F", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Chaos Strike",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [11]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Rain from Above",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sZ", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"R", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Vengeful Retreat",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [13]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Fel Barrage",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sW", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [14]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sE", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Metamorphosis",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [15]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["OnlyInBags"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sD", -- [1]
-											},
-										},
-									},
-									["Type"] = "item",
-									["Name"] = "159614",
-									["OnlyEquipped"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [16]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sV", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Mana Rift",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [17]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["ClockGCD"] = true,
-									["OnlyInBags"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sV", -- [1]
-											},
-										},
-									},
-									["Type"] = "item",
-									["Name"] = "162897",
-									["OnlyEquipped"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [18]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [19]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [20]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [21]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [22]
-								[28] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-							},
-							["Point"] = {
-								["y"] = -95.1651451413982,
-								["x"] = 9.96468823956766,
-							},
-						}, -- [2]
-						{
-							["GUID"] = "TMW:group:1RS6NLVOgcjf",
-							["Role"] = 1,
-							["Columns"] = 1,
-							["Scale"] = 1.47223138809204,
-							["Rows"] = 3,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Disrupt; Disrupt",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"A", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"D", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Imprison",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"X", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Consume Magic",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-							},
-							["Point"] = {
-								["y"] = -75.9049150222335,
-								["x"] = 189.225925622256,
-							},
-						}, -- [3]
-						{
-							["LayoutDirection"] = 4,
-							["Role"] = 1,
-							["Columns"] = 2,
-							["GUID"] = "TMW:group:1RSt=ouq0YL7",
-							["Scale"] = 0.791677951812744,
-							["Rows"] = 3,
-							["Icons"] = {
-								{
-									["Enabled"] = true,
-									["Type"] = "unitcondition",
-									["Conditions"] = {
-										{
-											["Type"] = "COMBAT",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-											["Texture"] = "7165",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-											["Texture"] = "7165",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-										[102] = {
-											["Alpha"] = 0.3,
-											["Texture"] = "7165",
-										},
-									},
-								}, -- [1]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "buff",
-									["Name"] = "Blur",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.2,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["Enabled"] = true,
-									["Type"] = "buff",
-									["Name"] = "Magic",
-									["BuffOrDebuff"] = "HARMFUL",
-									["States"] = {
-										{
-											["Texture"] = "205604",
-										}, -- [1]
-										{
-											["Alpha"] = 0.2,
-											["Texture"] = "205604",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "buff",
-									["Name"] = "Darkness",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.2,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "buff",
-									["Name"] = "Momentum",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.2,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "buff",
-									["Name"] = "Metamorphosis",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.2,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [9]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [11]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [13]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [14]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [15]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [16]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [17]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [18]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [19]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [20]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [21]
-							},
-							["Point"] = {
-								["y"] = -56.9959824265785,
-								["x"] = -272.679979298716,
-							},
-						}, -- [4]
-						{
-							["GUID"] = "TMW:group:1RTVFSDmEWiz",
-							["Role"] = 4,
-							["Columns"] = 6,
-							["Scale"] = 1.65834546089172,
-							["Rows"] = 2,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"1", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Shear",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Throw Glaive",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "icon1",
-											["Texts"] = {
-												"2", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Blade Dance",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"3", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Fel Rush",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"4", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Felblade",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"5", -- [1]
-												"[Stacks:Hide(0)]", -- [2]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sR", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Spectral Sight",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Chaos Strike",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"F", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"V", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Immolation Aura",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [9]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Torment",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sQ", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"R", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Fiery Brand",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [11]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Metamorphosis",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sE", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [13]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [14]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [15]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [16]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [17]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [18]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [19]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [20]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [21]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [22]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [23]
-								[25] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-							},
-							["Point"] = {
-								["y"] = -67.0846232718446,
-								["x"] = -18.7687929358271,
-							},
-						}, -- [5]
-						{
-							["GUID"] = "TMW:group:1RTVG4UvBykb",
-							["Role"] = 4,
-							["Columns"] = 1,
-							["Scale"] = 1.87222564220428,
-							["Rows"] = 3,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"A", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Disrupt; Disrupt",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Imprison",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"D", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"X", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Consume Magic",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-							},
-							["Point"] = {
-								["y"] = 15.4899403668201,
-								["x"] = 89.1988008730811,
-							},
-						}, -- [6]
-						{
-							["GUID"] = "TMW:group:1RTVGIAotQBs",
-							["Role"] = 6,
-							["Columns"] = 6,
-							["Scale"] = 2.32501840591431,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sX", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Gladiator's Medallion",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sW", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Fel Devastation",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sS", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Sigil of Silence",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"S", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Name"] = "Sigil of Misery",
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Vengeful Retreat",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"s4", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["EnableStacks"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"C", -- [1]
-											},
-										},
-									},
-									["OnlyInBags"] = true,
-									["Type"] = "item",
-									["Name"] = "5512",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [9]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [11]
-								[13] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-								[19] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-							},
-							["Point"] = {
-								["y"] = -91.2356214927012,
-								["x"] = -6.18225533209082,
-							},
-						}, -- [7]
-						{
-							["GUID"] = "TMW:group:1RdQK=LE_axM",
-							["Role"] = 1,
-							["Columns"] = 1,
-							["Scale"] = 2.96943736076355,
-							["Icons"] = {
-								{
-									["Enabled"] = true,
-									["Type"] = "conditionicon",
-									["Conditions"] = {
-										{
-											["Name"] = "Bone Fishing Pole",
-											["Type"] = "ITEMEQUIPPED",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-											["Texture"] = "269944",
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-							},
-							["Point"] = {
-								["y"] = -14.2982776060053,
-								["x"] = 62.4556642457759,
-							},
-						}, -- [8]
-						{
-							["Icons"] = {
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-							},
-						}, -- [9]
-					},
-				},
-				["Druid"] = {
-					["DrawEdge"] = true,
-					["Version"] = 85403,
-					["Locked"] = true,
-					["Groups"] = {
-						{
-							["GUID"] = "TMW:group:1RfFReP1S9a5",
-							["Columns"] = 2,
-							["Scale"] = 1.23335552215576,
-							["Rows"] = 2,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Mangle",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"1", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Maul",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"3", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Thrash",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"R", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["Name"] = "Swipe",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"5", -- [1]
-											},
-										},
-									},
-									["Type"] = "cooldown",
-									["Conditions"] = {
-										{
-											["BitFlags"] = {
-												[104] = true,
-											},
-											["Type"] = "UNITSPEC",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-							},
-							["Point"] = {
-								["y"] = -118.375714980363,
-								["x"] = -21.7743421803908,
-							},
-						}, -- [1]
-						{
-							["GUID"] = "TMW:group:1RfGhxNqSXx2",
-							["Columns"] = 3,
-							["Scale"] = 1.43334126472473,
-							["Rows"] = 3,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Skull Bash; Thorns",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"A", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Ursol's Vortex",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sD", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Hibernate",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"cR", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Mighty Bash; Mass Entanglement",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"S", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Incapacitating Roar; Cyclone",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"D", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Entangling Roots",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"X", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"T", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Bristling Fur; Demoralizing Roar; Demoralizing Roar",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [9]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [11]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-							},
-							["Point"] = {
-								["y"] = -70.1151620752453,
-								["x"] = 188.371404284791,
-							},
-						}, -- [2]
-						{
-							["GUID"] = "TMW:group:1RfGjXK=gGRr",
-							["Columns"] = 5,
-							["Scale"] = 1.28611862659454,
-							["Rows"] = 2,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Barkskin",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sW", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Innervate",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"T", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"cE", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Incarnation: Tree of Life",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"4", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Renewal",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Frenzied Regeneration",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sF", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Survival Instincts",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sE", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sV", -- [1]
-											},
-										},
-									},
-									["Type"] = "cooldown",
-									["Conditions"] = {
-										{
-											["Type"] = "RAGE_ABS",
-											["Level"] = 45,
-											["Operator"] = ">=",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["Name"] = "Ironfur",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-										[102] = {
-											["Alpha"] = 0.3,
-										},
-									},
-								}, -- [7]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Incarnation: Guardian of Ursoc; Alpha Challenge",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sR", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"cA", -- [1]
-											},
-										},
-									},
-									["Type"] = "item",
-									["Name"] = "161674",
-									["OnlyEquipped"] = true,
-									["OnlyInBags"] = true,
-								}, -- [9]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Healthstone",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"C", -- [1]
-											},
-										},
-									},
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-											["Texture"] = "6262",
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-											["Texture"] = "6262",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Type"] = "item",
-									["OnlyInBags"] = true,
-								}, -- [10]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [11]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [13]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [14]
-								nil, -- [15]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [16]
-							},
-							["Point"] = {
-								["y"] = -183.043667240348,
-								["x"] = 69.3948462891569,
-							},
-						}, -- [3]
-						{
-							["GUID"] = "TMW:group:1RfGjrqE1mw7",
-							["Columns"] = 2,
-							["Scale"] = 1.40276610851288,
-							["Rows"] = 2,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Wild Charge",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"4", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Dash",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sT", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Stampeding Roar",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sD", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								[7] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-							},
-							["Point"] = {
-								["y"] = 161.823822021484,
-								["x"] = 173.883417400838,
-								["point"] = "BOTTOM",
-								["relativePoint"] = "BOTTOM",
-							},
-						}, -- [4]
-						{
-							["GUID"] = "TMW:group:1RfGmr5jHboU",
-							["Columns"] = 2,
-							["Scale"] = 1.26944756507874,
-							["Rows"] = 6,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Nature's Cure",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sS", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Swiftmend",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"5", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Efflorescence",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"V", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Ironbark",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sR", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sG", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Wild Growth",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sE", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Tranquility",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"cW", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Overgrowth",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"cX", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Rebirth",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sA", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Flourish",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [9]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Cenarion Ward",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"cF", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [11]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sZ", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Soothe",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-							},
-							["Point"] = {
-								["y"] = -155.906916656818,
-								["x"] = -93.0187538248177,
-							},
-						}, -- [5]
-						{
-							["GUID"] = "TMW:group:1RfGptRX1Z7F",
-							["Columns"] = 3,
-							["Scale"] = 1.48055839538574,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Gladiator's Medallion",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sX", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Prowl",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"F", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Shadowmeld",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"G", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								[10] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-								[7] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-							},
-							["Point"] = {
-								["y"] = -129.563596582461,
-								["x"] = 188.695351364161,
-							},
-						}, -- [6]
-						{
-							["GUID"] = "TMW:group:1RfH9yE347k1",
-							["Point"] = {
-								["y"] = -65.1812603710118,
-								["x"] = -144.188058968748,
-							},
-							["Scale"] = 0.795837879180908,
-							["Rows"] = 2,
-							["Icons"] = {
-								{
-									["Enabled"] = true,
-									["Type"] = "unitcondition",
-									["UnitConditions"] = {
-										{
-											["Unit"] = "player",
-											["Type"] = "COMBAT",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-											["Texture"] = "61860",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-											["Texture"] = "61860",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["Name"] = "Gore",
-									["Type"] = "buff",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-											["Texture"] = "93622",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-											["Texture"] = "93622",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "buff",
-									["Name"] = "Barkskin",
-									["States"] = {
-										{
-											["Texture"] = "164547",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["Name"] = "Incarnation: Guardian of Ursoc; Galactic Guardian",
-									["Type"] = "buff",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-											["Texture"] = "8921",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-											["Texture"] = "8921",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["Name"] = "Solar Empowerment",
-									["Type"] = "buff",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-											["Texture"] = "164545",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-											["Texture"] = "164545",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "buff",
-									["Name"] = "Lunar Empowerment",
-									["States"] = {
-										{
-											["Texture"] = "164547",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["Name"] = "Ironfur; Lunar Empowerment",
-									["Type"] = "buff",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-											["Texture"] = "164547",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "buff",
-									["Name"] = "Survival Instincts",
-									["States"] = {
-										{
-											["Texture"] = "164547",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [9]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [11]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [13]
-							},
-							["LayoutDirection"] = 4,
-						}, -- [7]
-						{
-							["GUID"] = "TMW:group:1RfLohDd5Kck",
-							["Columns"] = 3,
-							["Scale"] = 1.20902132987976,
-							["Rows"] = 2,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"1", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Starsurge",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Moonfire",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"2", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Sunfire",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"3", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Solar Wrath",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"5", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Lunar Strike",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"R", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-								[10] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-							},
-							["Point"] = {
-								["y"] = -120.809907757874,
-								["x"] = 59.2163106748848,
-							},
-						}, -- [8]
-						{
-							["GUID"] = "TMW:group:1RfqHmXGTsgN",
-							["Columns"] = 3,
-							["Scale"] = 0.668056547641754,
-							["Rows"] = 2,
-							["Icons"] = {
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "buff",
-									["OnlyMine"] = true,
-									["Name"] = "Rejuvenation",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["Name"] = "Rejuvenation (Germination)",
-									["Type"] = "buff",
-									["OnlyMine"] = true,
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-											["Texture"] = "155777",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-											["Texture"] = "155777",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["Enabled"] = true,
-									["Type"] = "buff",
-									["Name"] = "Focused Growth",
-									["Conditions"] = {
-										{
-											["Name"] = "Focused Growth",
-											["Type"] = "PVPTALENTLEARNED",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-											["Texture"] = "203553",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-											["Texture"] = "203553",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["Name"] = "Lifebloom",
-									["Type"] = "buff",
-									["OnlyMine"] = true,
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"", -- [1]
-											},
-										},
-									},
-									["Type"] = "buff",
-									["OnlyMine"] = true,
-									["Name"] = "Regrowth",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["Enabled"] = true,
-									["Type"] = "buff",
-									["Name"] = "Grove Tending",
-									["States"] = {
-										{
-											["Texture"] = "279778",
-										}, -- [1]
-										{
-											["Alpha"] = 0.31,
-											["Texture"] = "279778",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								[10] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-							},
-							["Point"] = {
-								["y"] = -67.3277537265884,
-								["x"] = -300.90359580465,
-							},
-						}, -- [9]
-						{
-							["GUID"] = "TMW:group:1RfqiDgYIPrc",
-							["Role"] = 4,
-							["Columns"] = 1,
-							["Scale"] = 1.2247474193573,
-							["Point"] = {
-								["y"] = -176.36263758927,
-								["x"] = -38.3753209914817,
-							},
-							["EnabledSpecs"] = {
-								[103] = false,
-								[102] = false,
-								[105] = false,
-							},
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Growl",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sQ", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-							},
-						}, -- [10]
-						{
-							["GUID"] = "TMW:group:1Rf=TuuEl_Ug",
-							["Columns"] = 1,
-							["Scale"] = 1.20902132987976,
-							["Rows"] = 2,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"1", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Shred",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-							},
-							["Point"] = {
-								["y"] = -123.240114056703,
-								["x"] = 137.30151575301,
-							},
-						}, -- [11]
-						{
-							["GUID"] = "TMW:group:1Rf=WtEWWH7p",
-							["Columns"] = 3,
-							["Point"] = {
-								["y"] = -152.681147281276,
-								["x"] = -302.369660257775,
-							},
-							["Scale"] = 0.668056547641754,
-							["Rows"] = 2,
-							["Icons"] = {
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["Name"] = "Rejuvenation",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["OnlyMine"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "buff",
-									["Unit"] = "party1",
-								}, -- [1]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-											["Texture"] = "155777",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-											["Texture"] = "155777",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["OnlyMine"] = true,
-									["Name"] = "Rejuvenation (Germination)",
-									["Type"] = "buff",
-									["Unit"] = "party1",
-								}, -- [2]
-								{
-									["Enabled"] = true,
-									["Type"] = "buff",
-									["Name"] = "Focused Growth",
-									["Conditions"] = {
-										{
-											["Name"] = "Focused Growth",
-											["Type"] = "PVPTALENTLEARNED",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-											["Texture"] = "203553",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-											["Texture"] = "203553",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Unit"] = "party1",
-								}, -- [3]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["OnlyMine"] = true,
-									["Name"] = "Lifebloom",
-									["Type"] = "buff",
-									["Unit"] = "party1",
-								}, -- [4]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["Unit"] = "party1",
-									["OnlyMine"] = true,
-									["Name"] = "Regrowth",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"", -- [1]
-											},
-										},
-									},
-									["Type"] = "buff",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["Enabled"] = true,
-									["Type"] = "buff",
-									["Name"] = "Grove Tending",
-									["States"] = {
-										{
-											["Texture"] = "279778",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-											["Texture"] = "279778",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Unit"] = "party1",
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								[10] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-							},
-							["Conditions"] = {
-								{
-									["Unit"] = "party1",
-									["Type"] = "EXISTS",
-								}, -- [1]
-								["n"] = 1,
-							},
-						}, -- [12]
-						{
-							["GUID"] = "TMW:group:1Rf=X4COPlbZ",
-							["Columns"] = 3,
-							["Point"] = {
-								["y"] = -248.481806460963,
-								["x"] = -302.36941611715,
-							},
-							["Scale"] = 0.668056547641754,
-							["Rows"] = 2,
-							["Icons"] = {
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["OnlyMine"] = true,
-									["Name"] = "Rejuvenation",
-									["Type"] = "buff",
-									["Unit"] = "party2",
-								}, -- [1]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["Name"] = "Rejuvenation (Germination)",
-									["States"] = {
-										{
-											["Texture"] = "155777",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-											["Texture"] = "155777",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["OnlyMine"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "buff",
-									["Unit"] = "party2",
-								}, -- [2]
-								{
-									["Enabled"] = true,
-									["Type"] = "buff",
-									["Name"] = "Focused Growth",
-									["Conditions"] = {
-										{
-											["Name"] = "Focused Growth",
-											["Type"] = "PVPTALENTLEARNED",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-											["Texture"] = "203553",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-											["Texture"] = "203553",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Unit"] = "party2",
-								}, -- [3]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["Name"] = "Lifebloom",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["OnlyMine"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "buff",
-									["Unit"] = "party2",
-								}, -- [4]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["Unit"] = "party2",
-									["OnlyMine"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"", -- [1]
-											},
-										},
-									},
-									["Type"] = "buff",
-									["Name"] = "Regrowth",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["Enabled"] = true,
-									["Type"] = "buff",
-									["Name"] = "Grove Tending",
-									["States"] = {
-										{
-											["Texture"] = "279778",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-											["Texture"] = "279778",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Unit"] = "party2",
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								[10] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-							},
-							["Conditions"] = {
-								{
-									["Unit"] = "party2",
-									["Type"] = "EXISTS",
-								}, -- [1]
-								["n"] = 1,
-							},
-						}, -- [13]
-						{
-							["GUID"] = "TMW:group:1Rf=XAM1eFm=",
-							["Columns"] = 2,
-							["Point"] = {
-								["y"] = -359.25091046487,
-								["x"] = -315.841462015587,
-							},
-							["Scale"] = 0.668056547641754,
-							["Rows"] = 2,
-							["Icons"] = {
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["Name"] = "Rejuvenation",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["OnlyMine"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "buff",
-									["Unit"] = "party3",
-								}, -- [1]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["Name"] = "Rejuvenation (Germination)",
-									["States"] = {
-										{
-											["Texture"] = "155777",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-											["Texture"] = "155777",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["OnlyMine"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "buff",
-									["Unit"] = "party3",
-								}, -- [2]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["OnlyMine"] = true,
-									["Name"] = "Lifebloom",
-									["Type"] = "buff",
-									["Unit"] = "party3",
-								}, -- [3]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["Unit"] = "party3",
-									["OnlyMine"] = true,
-									["Name"] = "Regrowth",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"", -- [1]
-											},
-										},
-									},
-									["Type"] = "buff",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-							},
-							["Conditions"] = {
-								{
-									["Unit"] = "party3",
-									["Type"] = "EXISTS",
-								}, -- [1]
-								["n"] = 1,
-							},
-						}, -- [14]
-						{
-							["GUID"] = "TMW:group:1Rf=XFUqBpTn",
-							["Columns"] = 2,
-							["Point"] = {
-								["y"] = 318.772888183594,
-								["x"] = -315.841462015587,
-								["point"] = "BOTTOM",
-								["relativePoint"] = "BOTTOM",
-							},
-							["Scale"] = 0.668056547641754,
-							["Rows"] = 2,
-							["Icons"] = {
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["OnlyMine"] = true,
-									["Name"] = "Rejuvenation",
-									["Type"] = "buff",
-									["Unit"] = "party4",
-								}, -- [1]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-											["Texture"] = "155777",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-											["Texture"] = "155777",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["OnlyMine"] = true,
-									["Name"] = "Rejuvenation (Germination)",
-									["Type"] = "buff",
-									["Unit"] = "party4",
-								}, -- [2]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["Name"] = "Lifebloom",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["OnlyMine"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "buff",
-									["Unit"] = "party4",
-								}, -- [3]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["Unit"] = "party4",
-									["OnlyMine"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"", -- [1]
-											},
-										},
-									},
-									["Type"] = "buff",
-									["Name"] = "Regrowth",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								[7] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-							},
-							["Conditions"] = {
-								{
-									["Unit"] = "party4",
-									["Type"] = "EXISTS",
-								}, -- [1]
-								["n"] = 1,
-							},
-						}, -- [15]
-						{
-							["Icons"] = {
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-							},
-						}, -- [16]
-					},
-					["NumGroups"] = 15,
-					["ForceNoBlizzCC"] = true,
-				},
-				["Suhdrude - Anvilmar"] = {
-					["Locked"] = true,
-					["Version"] = 85403,
-					["Groups"] = {
-						{
-							["Icons"] = {
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-							},
-							["GUID"] = "TMW:group:1RUINPR_t0SY",
-						}, -- [1]
-					},
-				},
-				["Fistbeavers - Kel'Thuzad"] = {
-					["Version"] = 85403,
-					["NumGroups"] = 20,
-					["Groups"] = {
-						{
-							["Scale"] = 1.39880955219269,
-							["Rows"] = 2,
-							["Role"] = 1,
-							["EnabledSpecs"] = {
-								[270] = false,
-								[268] = false,
-							},
-							["Columns"] = 7,
-							["Icons"] = {
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Tiger Palm",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"1", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [1]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Blackout Kick",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"2", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [2]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Rising Sun Kick",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"3", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [3]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Roll",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"4", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [4]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Flying Serpent Kick",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"5", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [5]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Spinning Crane Kick",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"R", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [6]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Fist of the White Tiger",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sR", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [7]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Leg Sweep",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"S", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [8]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Disable",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"R", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [9]
-								{
-									["ShowTimer"] = true,
-									["OnlyEquipped"] = true,
-									["Type"] = "item",
-									["ShowTimerText"] = true,
-									["Name"] = "161902",
-									["OnlyInBags"] = true,
-									["ClockGCD"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"cA", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [10]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Fists of Fury",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"V", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [11]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Storm, Earth, and Fire",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sW", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [12]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Touch of Death",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"cW", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [13]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Crackling Jade Lightning",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"F", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [14]
-							},
-							["GUID"] = "TMW:group:1RVw2NbNYhNz",
-							["Point"] = {
-								["y"] = -98.4508057501963,
-								["x"] = 13.6723398106732,
-							},
-						}, -- [1]
-						{
-							["GUID"] = "TMW:group:1RW38WgjDOE_",
-							["Scale"] = 1.54999876022339,
-							["Rows"] = 5,
-							["Columns"] = 1,
-							["Icons"] = {
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Spear Hand Strike",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"A", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [1]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Grapple Weapon",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"X", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [2]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Paralysis",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"D", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [3]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Leg Sweep",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"S", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [4]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Song of Chi-Ji",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sE", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["FakeHidden"] = true,
-									["Enabled"] = true,
-								}, -- [5]
-							},
-							["Point"] = {
-								["y"] = -14.1924500278987,
-								["x"] = 171.613783483193,
-							},
-						}, -- [2]
-						{
-							["Scale"] = 1.727379322052,
-							["Rows"] = 2,
-							["Role"] = 1,
-							["EnabledSpecs"] = {
-								[270] = false,
-								[268] = false,
-							},
-							["Columns"] = 7,
-							["Icons"] = {
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Dampen Harm",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sV", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [1]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Touch of Karma",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"cE", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [2]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Detox",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sS", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [3]
-								{
-									["ShowTimer"] = true,
-									["OnlyEquipped"] = true,
-									["Type"] = "item",
-									["ShowTimerText"] = true,
-									["Name"] = "158320",
-									["ClockGCD"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"cR", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-									["OnlyInBags"] = true,
-								}, -- [4]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Transcendence",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sT", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [5]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Transcendence: Transfer",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sB", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [6]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Tiger's Lust",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sG", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [7]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [9]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Fortifying Brew",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sD", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [10]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "item",
-									["ShowTimerText"] = true,
-									["Enabled"] = true,
-									["OnlyInBags"] = true,
-									["ClockGCD"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"C", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-											["Texture"] = "6262",
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-											["Texture"] = "6262",
-										}, -- [2]
-										{
-											["Texture"] = "6262",
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Name"] = "Healthstone",
-								}, -- [11]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [13]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [14]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [15]
-								[22] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-							},
-							["GUID"] = "TMW:group:1RW39XAYXOWl",
-							["Point"] = {
-								["y"] = -134.812958540644,
-								["x"] = 11.3612028926254,
-							},
-						}, -- [3]
-						{
-							["Scale"] = 1.54999876022339,
-							["Rows"] = 2,
-							["Role"] = 4,
-							["EnabledSpecs"] = {
-								[270] = false,
-								[269] = false,
-							},
-							["Columns"] = 7,
-							["Icons"] = {
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Tiger Palm",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"1", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [1]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Blackout Strike",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"2", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [2]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Keg Smash",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"3", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [3]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Roll",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"4", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [4]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Rushing Jade Wind",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"5", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [5]
-								{
-									["ShowTimer"] = true,
-									["OnlyEquipped"] = true,
-									["Type"] = "item",
-									["ShowTimerText"] = true,
-									["Name"] = "155564",
-									["OnlyInBags"] = true,
-									["ClockGCD"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"aC", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [6]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Chi Wave; Chi Burst",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"R", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [7]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Leg Sweep",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"S", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [8]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Provoke",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sQ", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [9]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Black Ox Brew; Fortifying Brew",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sW", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [10]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Crackling Jade Lightning",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"F", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [11]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Expel Harm",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sV", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [12]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Breath of Fire",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"V", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [13]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [14]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [15]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [16]
-								[22] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-							},
-							["GUID"] = "TMW:group:1RaS9sglJP1D",
-							["Point"] = {
-								["y"] = -99.3539185337581,
-								["x"] = 11.6129289910051,
-							},
-						}, -- [4]
-						{
-							["Scale"] = 1.65801739692688,
-							["Rows"] = 2,
-							["Role"] = 4,
-							["EnabledSpecs"] = {
-								[270] = false,
-								[269] = false,
-							},
-							["Columns"] = 6,
-							["Icons"] = {
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Gladiator's Medallion",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sX", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [1]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Every Man for Himself",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sZ", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [2]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Ironskin Brew",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sE", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [3]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Purifying Brew",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sR", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [4]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Healing Elixir",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sF", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [5]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "item",
-									["Name"] = "5512",
-									["Enabled"] = true,
-									["OnlyInBags"] = true,
-									["ClockGCD"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"C", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["ShowTimerText"] = true,
-								}, -- [6]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Detox",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sS", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [7]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Transcendence: Transfer",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sD", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [8]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Transcendence",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sT", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [9]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Zen Meditation",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"X", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [11]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [13]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [14]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [15]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [16]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [17]
-								nil, -- [18]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [19]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [20]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [21]
-							},
-							["GUID"] = "TMW:group:1RaSH36Ag_qG",
-							["Point"] = {
-								["y"] = 142.941772460938,
-								["x"] = 5.96840912571528,
-								["point"] = "BOTTOM",
-								["relativePoint"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["Scale"] = 0.775005698204041,
-							["Rows"] = 5,
-							["Role"] = 4,
-							["EnabledSpecs"] = {
-								[270] = false,
-								[269] = false,
-							},
-							["Columns"] = 1,
-							["Icons"] = {
-								{
-									["Type"] = "unitcondition",
-									["States"] = {
-										{
-											["Texture"] = "61860",
-										}, -- [1]
-										{
-											["Alpha"] = 0.2,
-											["Texture"] = "61860",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-										[102] = {
-											["Alpha"] = 0.2,
-											["Texture"] = "61860",
-										},
-									},
-									["Enabled"] = true,
-									["Conditions"] = {
-										{
-											["Type"] = "COMBAT",
-										}, -- [1]
-										["n"] = 1,
-									},
-								}, -- [1]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "buff",
-									["Name"] = "Ironskin Brew",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.25,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [2]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-							},
-							["LayoutDirection"] = 4,
-							["GUID"] = "TMW:group:1RaT7pgT3=Jb",
-							["Point"] = {
-								["y"] = -27.5799317899041,
-								["x"] = -209.837336453877,
-							},
-						}, -- [6]
-						{
-							["GUID"] = "TMW:group:1Rap6SLgVvMj",
-							["Scale"] = 1.54999876022339,
-							["Columns"] = 1,
-							["Icons"] = {
-								{
-									["Type"] = "unitcondition",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"aF", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-											["Texture"] = "250870",
-										}, -- [1]
-										{
-											["Alpha"] = 0.27,
-											["Texture"] = "250870",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-										[102] = {
-											["Alpha"] = 0.29,
-											["Texture"] = "250870",
-										},
-									},
-									["Enabled"] = true,
-									["Conditions"] = {
-										{
-											["Type"] = "ITEMINBAGS",
-											["Operator"] = ">",
-											["Name"] = "Coastal Healing Potion",
-										}, -- [1]
-										["n"] = 1,
-									},
-								}, -- [1]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-							},
-							["Point"] = {
-								["y"] = -76.1283936314143,
-								["x"] = 229.67811453788,
-							},
-						}, -- [7]
-						{
-							["Scale"] = 0.777064681053162,
-							["Rows"] = 3,
-							["Role"] = 2,
-							["EnabledSpecs"] = {
-								[268] = false,
-								[269] = false,
-							},
-							["Columns"] = 2,
-							["Icons"] = {
-								{
-									["Type"] = "buff",
-									["States"] = {
-										{
-											["Texture"] = "116680",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-											["Texture"] = "116680",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-									["Name"] = "Thunder Focus Tea",
-								}, -- [1]
-								{
-									["Type"] = "unitcondition",
-									["Enabled"] = true,
-									["UnitConditions"] = {
-										{
-											["Type"] = "COMBAT",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-											["Texture"] = "61860",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-											["Texture"] = "61860",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["Type"] = "buff",
-									["Name"] = "Zen Focus Tea",
-									["Conditions"] = {
-										{
-											["Type"] = "PVPTALENTLEARNED",
-											["Name"] = "Zen Focus Tea",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-											["Texture"] = "209584",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-											["Texture"] = "209584",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [3]
-								{
-									["Type"] = "buff",
-									["States"] = {
-										{
-											["Texture"] = "116645",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-											["Texture"] = "116645",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-									["Name"] = "Teachings of the Monastery",
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "buff",
-									["ShowTimerText"] = true,
-									["Name"] = "Way of the Crane",
-									["Conditions"] = {
-										{
-											["Type"] = "PVPTALENTLEARNED",
-											["Name"] = "Way of the Crane",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-											["Texture"] = "216113",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-											["Texture"] = "216113",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-							},
-							["LayoutDirection"] = 4,
-							["GUID"] = "TMW:group:1RchLortTQBA",
-							["Point"] = {
-								["y"] = -103.832068123163,
-								["x"] = -237.189448082037,
-							},
-						}, -- [8]
-						{
-							["Scale"] = 1.36825299263,
-							["Rows"] = 2,
-							["Role"] = 2,
-							["EnabledSpecs"] = {
-								[268] = false,
-								[269] = false,
-							},
-							["Columns"] = 5,
-							["Icons"] = {
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Tiger Palm",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"1", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [1]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Blackout Kick",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"2", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [2]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Rising Sun Kick",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"3", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [3]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Essence Font",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sV", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [4]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Summon Jade Serpent Statue",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"V", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [5]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Vivify",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"1", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [6]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Renewing Mist",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"2", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [7]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Enveloping Mist",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "icon1",
-											["Texts"] = {
-												"3", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [8]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Surging Mist",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"5", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [9]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Soothing Mist",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"R", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [10]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [11]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [13]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [14]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [15]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [16]
-								[21] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-								[26] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-							},
-							["LayoutDirection"] = 4,
-							["GUID"] = "TMW:group:1RchM6x5IPwC",
-							["Point"] = {
-								["y"] = -129.394991175442,
-								["x"] = -34.106643747554,
-							},
-						}, -- [9]
-						{
-							["Scale"] = 1.36336183547974,
-							["Rows"] = 2,
-							["Role"] = 2,
-							["EnabledSpecs"] = {
-								[268] = false,
-								[269] = false,
-							},
-							["Columns"] = 2,
-							["Icons"] = {
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Detox",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sS", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [1]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Healing Sphere",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sG", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [2]
-								{
-									["ShowTimer"] = true,
-									["OnlyEquipped"] = true,
-									["Type"] = "item",
-									["ShowTimerText"] = true,
-									["Name"] = "5512",
-									["OnlyInBags"] = true,
-									["ClockGCD"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"C", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["EnableStacks"] = true,
-									["Enabled"] = true,
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [9]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [11]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-							},
-							["GUID"] = "TMW:group:1RchMrhOngpd",
-							["Point"] = {
-								["y"] = 170.130996704102,
-								["x"] = 78.2253218504238,
-								["point"] = "BOTTOM",
-								["relativePoint"] = "BOTTOM",
-							},
-						}, -- [10]
-						{
-							["Scale"] = 1.48888862133026,
-							["Rows"] = 2,
-							["Role"] = 2,
-							["EnabledSpecs"] = {
-								[268] = false,
-								[269] = false,
-							},
-							["Columns"] = 3,
-							["Icons"] = {
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Transcendence",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sT", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [1]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Transcendence: Transfer",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sB", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [2]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Chi Torpedo",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"4", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [4]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Ring of Peace",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sE", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [5]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Tiger's Lust",
-									["ShowTimerText"] = true,
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"cX", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-								nil, -- [9]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [11]
-								nil, -- [12]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [13]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [14]
-								nil, -- [15]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [16]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [17]
-								nil, -- [18]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [19]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [20]
-								[22] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-							},
-							["LayoutDirection"] = 4,
-							["GUID"] = "TMW:group:1Rcl9kXhHiqI",
-							["Point"] = {
-								["y"] = -153.805357300968,
-								["x"] = 167.910669416129,
-							},
-						}, -- [11]
-						{
-							["Scale"] = 0.600000023841858,
-							["Rows"] = 2,
-							["Role"] = 2,
-							["EnabledSpecs"] = {
-								[268] = false,
-								[269] = false,
-							},
-							["Columns"] = 2,
-							["Icons"] = {
-								{
-									["ShowTimer"] = true,
-									["Type"] = "buff",
-									["ShowTimerText"] = true,
-									["Name"] = "Surging Mist",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [1]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "buff",
-									["ShowTimerText"] = true,
-									["Name"] = "Essence Font",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [2]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "buff",
-									["Name"] = "Enveloping Mist",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [3]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "buff",
-									["ShowTimerText"] = true,
-									["Name"] = "Renewing Mist",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-							},
-							["LayoutDirection"] = 4,
-							["GUID"] = "TMW:group:1RdFSvUZkpNT",
-							["Point"] = {
-								["y"] = -91.6648134378226,
-								["x"] = -399.999033749114,
-							},
-						}, -- [12]
-						{
-							["Scale"] = 0.600000023841858,
-							["Rows"] = 2,
-							["Role"] = 2,
-							["EnabledSpecs"] = {
-								[268] = false,
-								[269] = false,
-							},
-							["Columns"] = 2,
-							["Icons"] = {
-								{
-									["ShowTimer"] = true,
-									["Unit"] = "party1",
-									["Type"] = "buff",
-									["Name"] = "Surging Mist",
-									["ShowTimerText"] = true,
-									["UnitConditions"] = {
-										{
-											["Type"] = "EXISTS",
-											["Unit"] = "party1",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [1]
-								{
-									["ShowTimer"] = true,
-									["Unit"] = "party1",
-									["Type"] = "buff",
-									["Name"] = "Essence Font",
-									["ShowTimerText"] = true,
-									["UnitConditions"] = {
-										{
-											["Type"] = "EXISTS",
-											["Unit"] = "party1",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [2]
-								{
-									["ShowTimer"] = true,
-									["Unit"] = "party1",
-									["Type"] = "buff",
-									["ShowTimerText"] = true,
-									["Name"] = "Enveloping Mist",
-									["UnitConditions"] = {
-										{
-											["Type"] = "EXISTS",
-											["Unit"] = "party1",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [3]
-								{
-									["ShowTimer"] = true,
-									["Unit"] = "party1",
-									["Type"] = "buff",
-									["Name"] = "Renewing Mist",
-									["ShowTimerText"] = true,
-									["UnitConditions"] = {
-										{
-											["Type"] = "EXISTS",
-											["Unit"] = "party1",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [9]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [11]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [13]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [14]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [15]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [16]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [17]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [18]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [19]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [20]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [21]
-								[25] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-								[35] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-								[37] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-								[39] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-								[29] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-								[31] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-								[33] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-								[23] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-								[27] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-							},
-							["LayoutDirection"] = 4,
-							["Conditions"] = {
-								{
-									["Type"] = "EXISTS",
-									["Unit"] = "party1",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["GUID"] = "TMW:group:1RdFWFmLIE7r",
-							["Point"] = {
-								["y"] = -188.331622519854,
-								["x"] = -398.332529842864,
-							},
-						}, -- [13]
-						{
-							["Scale"] = 0.600000023841858,
-							["Rows"] = 2,
-							["Role"] = 2,
-							["EnabledSpecs"] = {
-								[268] = false,
-								[269] = false,
-							},
-							["Columns"] = 2,
-							["Icons"] = {
-								{
-									["ShowTimer"] = true,
-									["Unit"] = "party2",
-									["Type"] = "buff",
-									["ShowTimerText"] = true,
-									["Name"] = "Surging Mist",
-									["UnitConditions"] = {
-										{
-											["Type"] = "EXISTS",
-											["Unit"] = "party2",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [1]
-								{
-									["ShowTimer"] = true,
-									["Unit"] = "party2",
-									["Type"] = "buff",
-									["ShowTimerText"] = true,
-									["Name"] = "Essence Font",
-									["UnitConditions"] = {
-										{
-											["Type"] = "EXISTS",
-											["Unit"] = "party2",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [2]
-								{
-									["ShowTimer"] = true,
-									["Unit"] = "party2",
-									["Type"] = "buff",
-									["Name"] = "Enveloping Mist",
-									["ShowTimerText"] = true,
-									["UnitConditions"] = {
-										{
-											["Type"] = "EXISTS",
-											["Unit"] = "party2",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [3]
-								{
-									["ShowTimer"] = true,
-									["Unit"] = "party2",
-									["Type"] = "buff",
-									["ShowTimerText"] = true,
-									["Name"] = "Renewing Mist",
-									["UnitConditions"] = {
-										{
-											["Type"] = "EXISTS",
-											["Unit"] = "party2",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [9]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [11]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [13]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [14]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [15]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [16]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [17]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [18]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [19]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [20]
-							},
-							["LayoutDirection"] = 4,
-							["Conditions"] = {
-								{
-									["Type"] = "EXISTS",
-									["Unit"] = "party2",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["GUID"] = "TMW:group:1RdFWWhZpc2z",
-							["Point"] = {
-								["y"] = -299.999347129229,
-								["x"] = -401.666636288177,
-							},
-						}, -- [14]
-						{
-							["Scale"] = 0.600000023841858,
-							["Rows"] = 2,
-							["Role"] = 2,
-							["EnabledSpecs"] = {
-								[268] = false,
-								[269] = false,
-							},
-							["Columns"] = 2,
-							["Icons"] = {
-								{
-									["ShowTimer"] = true,
-									["Unit"] = "party3",
-									["Type"] = "buff",
-									["Name"] = "Surging Mist",
-									["ShowTimerText"] = true,
-									["UnitConditions"] = {
-										{
-											["Type"] = "EXISTS",
-											["Unit"] = "party3",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [1]
-								{
-									["ShowTimer"] = true,
-									["Unit"] = "party3",
-									["Type"] = "buff",
-									["Name"] = "Essence Font",
-									["ShowTimerText"] = true,
-									["UnitConditions"] = {
-										{
-											["Type"] = "EXISTS",
-											["Unit"] = "party3",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [2]
-								{
-									["ShowTimer"] = true,
-									["Unit"] = "party3",
-									["Type"] = "buff",
-									["ShowTimerText"] = true,
-									["Name"] = "Enveloping Mist",
-									["UnitConditions"] = {
-										{
-											["Type"] = "EXISTS",
-											["Unit"] = "party3",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [3]
-								{
-									["ShowTimer"] = true,
-									["Unit"] = "party3",
-									["Type"] = "buff",
-									["Name"] = "Renewing Mist",
-									["ShowTimerText"] = true,
-									["UnitConditions"] = {
-										{
-											["Type"] = "EXISTS",
-											["Unit"] = "party3",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [9]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [11]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [13]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [14]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [15]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [16]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [17]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [18]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [19]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [20]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [21]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [22]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [23]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [24]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [25]
-								[33] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-								[35] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-								[27] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-								[39] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-								[29] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-								[43] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-								[31] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-								[47] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-								[45] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-								[41] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-								[37] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-							},
-							["LayoutDirection"] = 4,
-							["Conditions"] = {
-								{
-									["Type"] = "EXISTS",
-									["Unit"] = "party3",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["GUID"] = "TMW:group:1RdFWfth886M",
-							["Point"] = {
-								["y"] = -411.665423789385,
-								["x"] = -403.333018124114,
-							},
-						}, -- [15]
-						{
-							["Scale"] = 0.600000023841858,
-							["Rows"] = 2,
-							["Role"] = 2,
-							["EnabledSpecs"] = {
-								[268] = false,
-								[269] = false,
-							},
-							["Columns"] = 2,
-							["Icons"] = {
-								{
-									["ShowTimer"] = true,
-									["Unit"] = "party4",
-									["Type"] = "buff",
-									["ShowTimerText"] = true,
-									["Name"] = "Surging Mist",
-									["UnitConditions"] = {
-										{
-											["Type"] = "EXISTS",
-											["Unit"] = "party4",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [1]
-								{
-									["ShowTimer"] = true,
-									["Unit"] = "party4",
-									["Type"] = "buff",
-									["ShowTimerText"] = true,
-									["Name"] = "Essence Font",
-									["UnitConditions"] = {
-										{
-											["Type"] = "EXISTS",
-											["Unit"] = "party4",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [2]
-								{
-									["ShowTimer"] = true,
-									["Unit"] = "party4",
-									["Type"] = "buff",
-									["Name"] = "Enveloping Mist",
-									["ShowTimerText"] = true,
-									["UnitConditions"] = {
-										{
-											["Type"] = "EXISTS",
-											["Unit"] = "party4",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [3]
-								{
-									["ShowTimer"] = true,
-									["Unit"] = "party4",
-									["Type"] = "buff",
-									["ShowTimerText"] = true,
-									["Name"] = "Renewing Mist",
-									["UnitConditions"] = {
-										{
-											["Type"] = "EXISTS",
-											["Unit"] = "party4",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [9]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [11]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [13]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [14]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [15]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [16]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [17]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [18]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [19]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [20]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [21]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [22]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [23]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [24]
-							},
-							["LayoutDirection"] = 4,
-							["Conditions"] = {
-								{
-									["Type"] = "EXISTS",
-									["Unit"] = "party4",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["GUID"] = "TMW:group:1RdFWmW2fZ5M",
-							["Point"] = {
-								["y"] = 344.999816894531,
-								["x"] = -399.999888241302,
-								["point"] = "BOTTOM",
-								["relativePoint"] = "BOTTOM",
-							},
-						}, -- [16]
-						{
-							["Scale"] = 0.624565660953522,
-							["Rows"] = 4,
-							["Role"] = 1,
-							["EnabledSpecs"] = {
-								[270] = false,
-								[268] = false,
-							},
-							["Columns"] = 1,
-							["Icons"] = {
-								{
-									["Type"] = "unitcondition",
-									["Enabled"] = true,
-									["UnitConditions"] = {
-										{
-											["Type"] = "COMBAT",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-											["Texture"] = "61860",
-										}, -- [1]
-										{
-											["Alpha"] = 0.33,
-											["Texture"] = "61860",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-							},
-							["LayoutDirection"] = 4,
-							["GUID"] = "TMW:group:1RePSUiVsogx",
-							["Point"] = {
-								["y"] = -61.8530414085426,
-								["x"] = -239.1556484972,
-							},
-						}, -- [17]
-						{
-							["Scale"] = 1.36825299263,
-							["Rows"] = 2,
-							["Role"] = 2,
-							["EnabledSpecs"] = {
-								[268] = false,
-								[269] = false,
-							},
-							["Icons"] = {
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Life Cocoon",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"cE", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [1]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Revival",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sW", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [2]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Invoke Chi-Ji, the Red Crane",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"G", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [3]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Way of the Crane",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"cW", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [4]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Thunder Focus Tea",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sR", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [5]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Fortifying Brew",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sD", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [6]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Diffuse Magic; Healing Elixir; Dampen Harm",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sF", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [7]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Mana Tea",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"cV", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [8]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [9]
-								nil, -- [10]
-								nil, -- [11]
-								nil, -- [12]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [13]
-							},
-							["LayoutDirection"] = 4,
-							["GUID"] = "TMW:group:1Rf3dWRei9Hh",
-							["Point"] = {
-								["y"] = 169.52473449707,
-								["x"] = -17.5405426733353,
-								["point"] = "BOTTOM",
-								["relativePoint"] = "BOTTOM",
-							},
-						}, -- [18]
-						{
-							["Scale"] = 1.41371464729309,
-							["Rows"] = 2,
-							["Role"] = 2,
-							["EnabledSpecs"] = {
-								[268] = false,
-								[269] = false,
-							},
-							["Columns"] = 2,
-							["Icons"] = {
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Gladiator's Medallion",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sX", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [1]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Every Man for Himself",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sZ", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [2]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Zen Focus Tea",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"A", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								[7] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-							},
-							["GUID"] = "TMW:group:1Rf3em8CAAth",
-							["Point"] = {
-								["y"] = 161.984603881836,
-								["x"] = -109.223781406771,
-								["point"] = "BOTTOM",
-								["relativePoint"] = "BOTTOM",
-							},
-						}, -- [19]
-						{
-							["Point"] = {
-								["y"] = -130.092561976224,
-								["x"] = 78.202194143071,
-							},
-							["Scale"] = 1.36825299263,
-							["Rows"] = 2,
-							["Role"] = 2,
-							["EnabledSpecs"] = {
-								[268] = false,
-								[269] = false,
-							},
-							["Columns"] = 2,
-							["Icons"] = {
-								{
-									["ShowTimer"] = true,
-									["OnlyEquipped"] = true,
-									["Type"] = "item",
-									["ShowTimerText"] = true,
-									["Name"] = "159611; 158320",
-									["ClockGCD"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"cR", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-									["OnlyInBags"] = true,
-								}, -- [1]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Crackling Jade Lightning",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"F", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [2]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Chi Wave",
-									["ClockGCD"] = true,
-									["ManaCheck"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"T", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [3]
-								{
-									["ShowTimer"] = true,
-									["OnlyEquipped"] = true,
-									["Type"] = "item",
-									["Name"] = "162966; 161902",
-									["ShowTimerText"] = true,
-									["OnlyInBags"] = true,
-									["ClockGCD"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"cA", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["RangeCheck"] = true,
-									["Enabled"] = true,
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								[7] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-							},
-							["LayoutDirection"] = 4,
-							["GUID"] = "TMW:group:1Rf3f7aery6e",
-						}, -- [20]
-					},
-					["Locked"] = true,
-				},
-				["Twiddlederr - Anvilmar"] = {
-					["Locked"] = true,
-					["Version"] = 85204,
-					["NumGroups"] = 4,
-					["Groups"] = {
-						{
-							["GUID"] = "TMW:group:1QwL7gQwOB=r",
-							["Columns"] = 6,
-							["Scale"] = 2.25000357627869,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Honorable Medallion; Gladiator's Medallion",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sX", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"X", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Darkness",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Shadowmeld",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"G", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sS", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Reverse Magic",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Blur",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"s4", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["ClockGCD"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"C", -- [1]
-											},
-										},
-									},
-									["Type"] = "item",
-									["Name"] = "5512",
-									["OnlyEquipped"] = true,
-									["OnlyInBags"] = true,
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-							},
-							["Point"] = {
-								["y"] = -100.777248525589,
-								["x"] = -16.4446285576176,
-							},
-						}, -- [1]
-						{
-							["GUID"] = "TMW:group:1RS6HM2lDcEb",
-							["Columns"] = 6,
-							["Scale"] = 1.7166827917099,
-							["Rows"] = 2,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Throw Glaive",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "icon1",
-											["Texts"] = {
-												"2", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Blade Dance",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"3", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Fel Rush",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"4", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"5", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Felblade",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Eye Beam",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"V", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Spectral Sight",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sR", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Chaos Nova",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"S", -- [1]
-												"[Stacks:Hide(0)]", -- [2]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Chaos Strike",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"F", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sC", -- [1]
-											},
-										},
-									},
-									["Type"] = "item",
-									["Name"] = "158224; 158215; 155567",
-									["OnlyEquipped"] = true,
-									["OnlyInBags"] = true,
-								}, -- [9]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Vengeful Retreat",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"R", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [11]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Metamorphosis",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sE", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [13]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [14]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [15]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [16]
-								[19] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-							},
-							["Point"] = {
-								["y"] = -78.9309045061854,
-								["x"] = -14.5624684731055,
-							},
-						}, -- [2]
-						{
-							["GUID"] = "TMW:group:1RS6NLVOgcjf",
-							["Columns"] = 1,
-							["Scale"] = 1.87222564220428,
-							["Rows"] = 3,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Disrupt; Disrupt",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"m1-3", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Imprison",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"m4-6", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Consume Magic",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"m7-9", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-							},
-							["Point"] = {
-								["y"] = -51.1422160052502,
-								["x"] = 122.091806244175,
-							},
-						}, -- [3]
-						{
-							["GUID"] = "TMW:group:1RSt=ouq0YL7",
-							["Columns"] = 1,
-							["Scale"] = 0.791677951812744,
-							["Rows"] = 4,
-							["Icons"] = {
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "buff",
-									["Name"] = "Darkness",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.2,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["Name"] = "Blur",
-									["Type"] = "buff",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.2,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["ShowTimerText"] = true,
-									["Type"] = "buff",
-									["Name"] = "Momentum",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.2,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["Enabled"] = true,
-									["Type"] = "buff",
-									["Name"] = "Magic",
-									["BuffOrDebuff"] = "HARMFUL",
-									["States"] = {
-										{
-											["Texture"] = "205604",
-										}, -- [1]
-										{
-											["Alpha"] = 0.2,
-											["Texture"] = "205604",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-							},
-							["Point"] = {
-								["y"] = -44.366709965641,
-								["x"] = -248.680345509653,
-							},
-						}, -- [4]
-					},
-				},
-				["Eyebrowse - Kel'Thuzad"] = {
-					["DrawEdge"] = true,
-					["Groups"] = {
-						{
-							["GUID"] = "TMW:group:1RfFReP1S9a5",
-							["Columns"] = 3,
-							["Scale"] = 1.2247474193573,
-							["Rows"] = 2,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"1", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Mangle",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"2", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Moonfire",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"3", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Maul",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sQ", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Growl",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"R", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Thrash",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"5", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Swipe",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [9]
-							},
-							["Point"] = {
-								["y"] = -119.813565323645,
-								["x"] = -9.07441767116924,
-							},
-						}, -- [1]
-						{
-							["GUID"] = "TMW:group:1RfGhxNqSXx2",
-							["Columns"] = 2,
-							["Scale"] = 1.43334126472473,
-							["Rows"] = 3,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"A", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Skull Bash",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"X", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Entangling Roots",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"S", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Mighty Bash",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"D", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Incapacitating Roar",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"V", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Hibernate",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-							},
-							["Point"] = {
-								["y"] = -70.1155282861828,
-								["x"] = 170.231877917603,
-							},
-						}, -- [2]
-						{
-							["GUID"] = "TMW:group:1RfGjXK=gGRr",
-							["Columns"] = 6,
-							["Scale"] = 1.169438123703,
-							["Rows"] = 2,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sW", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Barkskin",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sE", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Survival Instincts",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sF", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Frenzied Regeneration",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sR", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Incarnation: Guardian of Ursoc",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"F", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Prowl",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"G", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Shadowmeld",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [9]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sV", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Ironfur",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"C", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-											["Texture"] = "6262",
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-											["Texture"] = "6262",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Name"] = "Healthstone",
-									["Type"] = "item",
-									["OnlyInBags"] = true,
-								}, -- [11]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [13]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [14]
-								[19] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-							},
-							["Point"] = {
-								["y"] = -201.734545957735,
-								["x"] = 34.8458421676417,
-							},
-						}, -- [3]
-						{
-							["GUID"] = "TMW:group:1RfGjrqE1mw7",
-							["Columns"] = 2,
-							["Scale"] = 1.40276610851288,
-							["Rows"] = 2,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"4", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Wild Charge",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sT", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Tiger Dash",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sD", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Stampeding Roar",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								[7] = {
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								},
-							},
-							["Point"] = {
-								["y"] = -150.357598868205,
-								["x"] = 173.882868084431,
-							},
-						}, -- [4]
-						{
-							["GUID"] = "TMW:group:1RfGmr5jHboU",
-							["Columns"] = 2,
-							["Scale"] = 1.26944756507874,
-							["Rows"] = 2,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"1", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Rejuvenation",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Swiftmend",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"2", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"3", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Regrowth",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sG", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Wild Growth",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-							},
-							["Point"] = {
-								["y"] = -121.246790924396,
-								["x"] = -111.136978922474,
-							},
-						}, -- [5]
-						{
-							["GUID"] = "TMW:group:1RfGptRX1Z7F",
-							["Columns"] = 1,
-							["Scale"] = 1.60554766654968,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"sX", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Gladiator's Medallion",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-							},
-							["Point"] = {
-								["y"] = -146.990231862353,
-								["x"] = -105.260347539413,
-							},
-						}, -- [6]
-						{
-							["GUID"] = "TMW:group:1RfH9yE347k1",
-							["Columns"] = 1,
-							["Point"] = {
-								["y"] = -133.781520374407,
-								["x"] = -332.83400351731,
-							},
-							["Scale"] = 0.616674423217774,
-							["Rows"] = 2,
-							["Icons"] = {
-								{
-									["Enabled"] = true,
-									["Type"] = "unitcondition",
-									["UnitConditions"] = {
-										{
-											["Unit"] = "player",
-											["Type"] = "COMBAT",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-											["Texture"] = "61860",
-										}, -- [1]
-										{
-											["Alpha"] = 0.3,
-											["Texture"] = "61860",
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-							},
-							["LayoutDirection"] = 4,
-						}, -- [7]
-						{
-							["GUID"] = "TMW:group:1RfLohDd5Kck",
-							["Columns"] = 1,
-							["Scale"] = 1.57360100746155,
-							["Icons"] = {
-								{
-									["ManaCheck"] = true,
-									["ShowTimer"] = true,
-									["RangeCheck"] = true,
-									["ClockGCD"] = true,
-									["Name"] = "Lunar Strike",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"T", -- [1]
-											},
-										},
-									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-							},
-							["Point"] = {
-								["y"] = 327.910308837891,
-								["x"] = 682.510986328125,
-								["relativePoint"] = "BOTTOMLEFT",
-							},
-						}, -- [8]
-					},
-					["ForceNoBlizzCC"] = true,
-					["NumGroups"] = 8,
-					["Version"] = 85403,
-				},
-			},
-		},
+		["ScaleIE"] = true,
+		["EditorScale"] = 1.28498303890228,
 	},
 	["Version"] = 85403,
 	["profiles"] = {

@@ -24,6 +24,9 @@ END
 VER 3 0000000000000038 "BGOpie" "1322720"
 /click ORLOpen BGs
 END
+VER 3 000000000000005B "Cat" "132115"
+/cast [nostance:2] Cat Form(Shapeshift)
+END
 VER 3 0000000000000048 "CC1" "136022"
 #showtooltip
 /cast [@arena1, exists] Cyclone;
@@ -81,6 +84,9 @@ END
 VER 3 000000000000003A "Mnt OPIE" "132265"
 /click ORLOpen Mounts
 END
+VER 3 000000000000005C "Moon" "136036"
+/cast [nostance:4] Moonkin Form
+END
 VER 3 000000000000002F "MoonOrSwift" "SPELL_NATURE_STARFALL"
 #showtooltip
 /cast [@target, exists, help] Swiftmend;
@@ -127,10 +133,10 @@ VER 3 0000000000000051 "rootMo" "136100"
 /cast [@mouseover, exists] Entangling Roots;
 /cast Entangling Roots;
 END
-VER 3 0000000000000050 "rootPi" "INV_MISC_QUESTIONMARK"
+VER 3 0000000000000052 "rootPi" "136100"
 /click ORLOpen Roots
 END
-VER 3 0000000000000052 "rootPi" "136100"
+VER 3 0000000000000050 "rootPi" "INV_MISC_QUESTIONMARK"
 /click ORLOpen Roots
 END
 VER 3 0000000000000033 "RootsOrInnervate" "SPELL_NATURE_STRANGLEVINES"

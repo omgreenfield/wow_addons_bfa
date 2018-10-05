@@ -44,10 +44,10 @@ Bagnon_Sets = {
 			["x"] = -299.999267578125,
 			["borderColor"] = {
 			},
-			["brokerObject"] = "BagnonLauncher",
-			["itemScale"] = 1,
-			["scale"] = 1,
 			["alpha"] = 1,
+			["scale"] = 1,
+			["itemScale"] = 1,
+			["brokerObject"] = "BagnonLauncher",
 		},
 		["vault"] = {
 			["rules"] = {
@@ -122,10 +122,10 @@ Bagnon_Sets = {
 			["x"] = 306.999969482422,
 			["borderColor"] = {
 			},
-			["itemScale"] = 1,
-			["scale"] = 1,
-			["alpha"] = 1,
 			["brokerObject"] = "BagnonLauncher",
+			["alpha"] = 1,
+			["scale"] = 1,
+			["itemScale"] = 1,
 		},
 		["bank"] = {
 			["rules"] = {
@@ -166,8 +166,8 @@ Bagnon_Sets = {
 			["x"] = 95.0000076293945,
 			["borderColor"] = {
 			},
-			["showBags"] = true,
 			["brokerObject"] = "BagnonLauncher",
+			["showBags"] = true,
 		},
 	},
 	["engineerColor"] = {
@@ -180,14 +180,14 @@ Bagnon_Sets = {
 	},
 	["inscribeColor"] = {
 	},
-	["tackleColor"] = {
-	},
-	["leatherColor"] = {
-	},
-	["herbColor"] = {
+	["enchantColor"] = {
 	},
 	["normalColor"] = {
 	},
-	["enchantColor"] = {
+	["herbColor"] = {
+	},
+	["leatherColor"] = {
+	},
+	["tackleColor"] = {
 	},
 }
