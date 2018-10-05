@@ -10,10 +10,10 @@ Gladius2DB = {
 	["profiles"] = {
 		["Twiddlederr - Kel'Thuzad"] = {
 			["y"] = {
-				["arena1"] = 691.199886528648,
+				["arena1"] = 433.777614670326,
 			},
 			["x"] = {
-				["arena1"] = 975.644902096865,
+				["arena1"] = 1047.46729966933,
 			},
 			["tags"] = {
 				["maxhealth"] = {
@@ -91,14 +91,14 @@ Gladius2DB = {
 			},
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["announcements"] = {
-				["dispell"] = true,
-				["trinket"] = true,
-			},
 			["tagsTexts"] = {
 				["HealthBar Left Text"] = {
 					["text"] = "[name:status] [maxhealth]",
 				},
+			},
+			["announcements"] = {
+				["dispell"] = true,
+				["trinket"] = true,
 			},
 		},
 		["Suhdrude - Anvilmar"] = {
@@ -208,14 +208,14 @@ Gladius2DB = {
 			},
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
+			["announcements"] = {
+				["dispell"] = true,
+				["trinket"] = true,
+			},
 			["tagsTexts"] = {
 				["HealthBar Left Text"] = {
 					["text"] = "[name:status] [maxhealth]",
 				},
-			},
-			["announcements"] = {
-				["dispell"] = true,
-				["trinket"] = true,
 			},
 		},
 		["Twiddlederr - Anvilmar"] = {
@@ -241,10 +241,15 @@ Gladius2DB = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
 			["y"] = {
-				["arena1"] = 373.333168762256,
+				["arena1"] = 531.200056265461,
 			},
 			["x"] = {
-				["arena1"] = 960.711394790815,
+				["arena1"] = 962.844901786921,
+			},
+			["tagsTexts"] = {
+				["HealthBar Right Text"] = {
+					["text"] = "[health:percentage] [maxhealth]",
+				},
 			},
 		},
 	},

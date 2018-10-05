@@ -1,15 +1,20 @@
 VER 3 000000000000003D "/click ORLOpen P" "1500803"
 /click ORLOpen Potions
 END
+VER 3 0000000000000058 "ar1" "INV_MISC_QUESTIONMARK"
+/target @arena1
+END
+VER 3 0000000000000059 "ar2" "INV_MISC_QUESTIONMARK"
+/target @arena2
+END
+VER 3 000000000000005A "ar3" "INV_MISC_QUESTIONMARK"
+/target @arena3
+END
 VER 3 000000000000003C "B OPIE" "135926"
 /click ORLOpen Buffs
 END
-VER 3 0000000000000034 "BashOrOvergrowth" "ABILITY_DRUID_BASH"
-#showtooltip
-/cast [@target, help] Overgrowth;
-/cast [@target, harm] Mighty Bash;
-/cast [nohelp] Typhoon;
-/cast Overgrowth;
+VER 3 000000000000004C "Bear" "132276"
+/cast [nostance:1] Bear Form(Shapeshift)
 END
 VER 3 0000000000000032 "BearThenFrenzy" "ABILITY_BULLRUSH"
 #showtooltip;
@@ -19,10 +24,28 @@ END
 VER 3 0000000000000038 "BGOpie" "1322720"
 /click ORLOpen BGs
 END
-VER 3 0000000000000035 "CatThenMaim" "ABILITY_DRUID_MANGLE.TGA"
-#showtooltip;
-/cast [nostance:2] Cat Form;;
-/cast [stance:2] Maim;
+VER 3 0000000000000048 "CC1" "136022"
+#showtooltip
+/cast [@arena1, exists] Cyclone;
+/cast Cyclone;
+END
+VER 3 0000000000000049 "CC2" "136022"
+#showtooltip
+/cast [@arena2, exists] Cyclone;
+/cast Cyclone;
+END
+VER 3 000000000000004A "CC3" "136022"
+#showtooltip
+/cast [@arena3, exists] Cyclone;
+/cast Cyclone;
+END
+VER 3 000000000000004B "CCMO" "136022"
+#showtooltip
+/cast [@mouseover, exists] Cyclone;
+/cast Cyclone;
+END
+VER 3 0000000000000056 "chatL" "INV_MISC_QUESTIONMARK"
+/chatlog
 END
 VER 3 0000000000000017 "Consume Magic" "ABILITY_DEMONHUNTER_CONSUMEMAGIC"
 /cast [nomod,@target] [mod:shift,@arena1] [mod:alt,@arena2] [mod:ctrl,@arena3] Consume Magic;
@@ -39,9 +62,6 @@ END
 VER 3 000000000000003B "FishOpie" "134017"
 /click ORLOpen Fishing
 END
-VER 3 0000000000000026 "giftpie" "INV_MACE_1H_ARTIFACTAZSHARA_D_02"
-/click ORLOpen GiftorRain
-END
 VER 3 0000000000000027 "HealerProfRing" "INV_MISC_QUESTIONMARK"
 /click ORLOpen rofessions
 END
@@ -51,8 +71,9 @@ END
 VER 3 0000000000000013 "Imprison" "ABILITY_DEMONHUNTER_IMPRISON"
 /cast [nomod,@target] [mod:shift,@arena1] [mod:alt,@arena2] [mod:ctrl,@arena3] Imprison;
 END
-VER 3 0000000000000037 "Mark A1" "134399"
-/run SetRaidTarget("party1",3)
+VER 3 0000000000000055 "InnervateSelf" "136048"
+#showtooltip
+/cast [@player] Innervate;
 END
 VER 3 0000000000000023 "Market OPie" "INV_HELMET_21"
 /click ORLOpen RaidSymbols
@@ -66,17 +87,14 @@ VER 3 000000000000002F "MoonOrSwift" "SPELL_NATURE_STARFALL"
 /cast [@target,harm] Moonfire;
 /cast Swiftmend;;
 END
-VER 3 000000000000002D "NatCureOPIE" "ABILITY_SHAMAN_CLEANSESPIRIT"
-/click ORLOpen Cleanse
-END
 VER 3 0000000000000025 "ProfessionRing" "135966"
 /click ORLOpen rofessions2
 END
-VER 3 000000000000002A "PvPTotem" "132093"
-#showtooltip
-/cast Counterstrike Totem;
-/cast Windfury Totem ;
-/cast Skyfury Totem ;
+VER 3 0000000000000047 "Profs1Pi " "133631"
+/click ORLOpen Profs1
+END
+VER 3 0000000000000057 "recount" "INV_MISC_QUESTIONMARK"
+/recount report main say
 END
 VER 3 000000000000002B "Rejuvenation" "SPELL_NATURE_REJUVENATION"
 #showtooltip
@@ -90,11 +108,45 @@ END
 VER 3 000000000000003E "ResPie" "132132"
 /click ORLOpen Res
 END
+VER 3 000000000000004D "root1" "136100"
+#showtooltip
+/cast [@arena1, exists] Entangling Roots;
+/cast Entangling Roots;
+END
+VER 3 000000000000004E "root2" "136100"
+#showtooltip
+/cast [@arena2, exists] Entangling Roots;
+/cast Entangling Roots;
+END
+VER 3 000000000000004F "root3" "136100"
+#showtooltip
+/cast [@arena3, exists] Entangling Roots;
+/cast Entangling Roots;
+END
+VER 3 0000000000000051 "rootMo" "136100"
+/cast [@mouseover, exists] Entangling Roots;
+/cast Entangling Roots;
+END
+VER 3 0000000000000052 "rootPi" "136100"
+/click ORLOpen Roots
+END
+VER 3 0000000000000050 "rootPi" "INV_MISC_QUESTIONMARK"
+/click ORLOpen Roots
+END
 VER 3 0000000000000033 "RootsOrInnervate" "SPELL_NATURE_STRANGLEVINES"
 #showtooltip
 /cast [@target, exists, help] Innvervate;
-/cast [@target,harm] Entangling Roots;
-/cast Innervate;;
+/click [@target,harm] ORLOpen Roots
+/cast Innervate;
+END
+VER 3 0000000000000053 "sit" "INV_MISC_QUESTIONMARK"
+/sit
+END
+VER 3 0000000000000045 "SpecsPi" "132121"
+/click ORLOpen Specs
+END
+VER 3 0000000000000054 "stand" "INV_MISC_QUESTIONMARK"
+/stand
 END
 VER 3 0000000000000031 "StarSurgOrRejuv" "SPELL_ARCANE_ARCANE03"
 #showtooltip
@@ -118,10 +170,13 @@ VER 3 0000000000000043 "targetP3" "INV_MISC_QUESTIONMARK"
 /target [target=party3]
 END
 VER 3 0000000000000042 "targetP4" "INV_MISC_QUESTIONMARK"
-/target [target=self]
+/target [target=party4]
 END
 VER 3 0000000000000044 "targetSelf" "INV_MISC_QUESTIONMARK"
 /target [target=player]
+END
+VER 3 0000000000000046 "TravelPi" "413582"
+/click ORLOpen FuckOff
 END
 VER 3 0000000000000036 "TravelPie" "413582"
 /click ORLOpen SpecMenu

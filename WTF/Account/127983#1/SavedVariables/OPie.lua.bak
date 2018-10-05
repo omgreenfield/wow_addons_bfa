@@ -14,13 +14,18 @@ OneRing_Config = {
 			["ClickActivation"] = true,
 			["SliceBinding"] = true,
 			["Bindings"] = {
-				["SpecMenu"] = "ALT-S",
+				["RaidSymbols"] = false,
+				["DruidUtility"] = false,
+				["CommonTrades"] = false,
+				["DruidShift"] = false,
+				["SpecMenu"] = false,
+				["DruidFeral"] = false,
 			},
 			["XTScaleSpeed"] = 4,
 			["MISpinOnHide"] = false,
 			["XTRotationPeriod"] = 10,
+			["XTPointerSpeed"] = 4,
 			["ShowRecharge"] = true,
-			["XTZoomTime"] = 0,
 			["IndicationOffsetX"] = 150,
 			["ShowCooldowns"] = true,
 			["CenterAction"] = true,
@@ -28,7 +33,7 @@ OneRing_Config = {
 				["RaidSymbols#SliceBinding"] = true,
 			},
 			["IndicationOffsetY"] = -150,
-			["XTPointerSpeed"] = 4,
+			["XTZoomTime"] = 0,
 		},
 	},
 	["PersistentStorage"] = {
@@ -117,8 +122,8 @@ OneRing_Config = {
 			},
 			["Shifts"] = {
 				{
-					["sliceToken"] = "ABuedablyZa",
-					["id"] = "/cancelform [noflyable,noform:moonkin]\n/cast [flyable,outdoors,nocombat,noswimming,nomod][flying] {{spell:783}}; [outpost:corral,nomod,nospec:103/104] Garrison Ability; [swimming,nomod][flyable,nomod][flying] {{spell:783}}; [outdoors] {{spell:783}}",
+					["sliceToken"] = "ABuedaTVKtr",
+					["id"] = 783,
 				}, -- [1]
 				{
 					["sliceToken"] = "ABuedablyZp",
@@ -129,8 +134,8 @@ OneRing_Config = {
 					["id"] = 5487,
 				}, -- [3]
 				{
-					["sliceToken"] = "ABuedablyZd",
 					["id"] = 197625,
+					["sliceToken"] = "ABuedablyZd",
 				}, -- [4]
 				{
 					["sliceToken"] = "ABuedablyZ2",
@@ -232,18 +237,92 @@ OneRing_Config = {
 				["save"] = true,
 				["hotkey"] = "ALT-R",
 			},
+			["Buffs"] = {
+				{
+					"item", -- [1]
+					160053, -- [2]
+					["sliceToken"] = "ABuedrxG0nf",
+				}, -- [1]
+				{
+					"item", -- [1]
+					120257, -- [2]
+					["sliceToken"] = "ABuedrxG0nd",
+				}, -- [2]
+				{
+					"item", -- [1]
+					154167, -- [2]
+					["sliceToken"] = "ABued2w6wRe",
+				}, -- [3]
+				{
+					"item", -- [1]
+					142406, -- [2]
+					["sliceToken"] = "ABueda8IHUe",
+				}, -- [4]
+				{
+					"item", -- [1]
+					158201, -- [2]
+					["sliceToken"] = "ABueds3Srxu",
+				}, -- [5]
+				{
+					"item", -- [1]
+					158202, -- [2]
+					["sliceToken"] = "ABueds3Srxy",
+				}, -- [6]
+				{
+					"item", -- [1]
+					158204, -- [2]
+					["sliceToken"] = "ABueds3Srxi",
+				}, -- [7]
+				["name"] = "Buffs",
+				["save"] = true,
+			},
 			["Res"] = {
+				{
+					["sliceToken"] = "ABueddABZUy",
+					["id"] = 20484,
+				}, -- [1]
+				{
+					["sliceToken"] = "ABuedghY301",
+					["id"] = 212040,
+				}, -- [2]
+				{
+					["sliceToken"] = "ABueddABZUt",
+					["id"] = 50769,
+				}, -- [3]
 				{
 					["id"] = 115178,
 					["sliceToken"] = "ABuediQ29Si",
-				}, -- [1]
+				}, -- [4]
 				{
 					["id"] = 212051,
 					["sliceToken"] = "ABuediQ29Su",
-				}, -- [2]
-				["save"] = true,
+				}, -- [5]
 				["name"] = "Res",
-				["limit"] = "Fistbeavers-Kel'Thuzad",
+				["save"] = true,
+			},
+			["FuckOff"] = {
+				{
+					"item", -- [1]
+					6948, -- [2]
+					["sliceToken"] = "ABuedsRZ0wm",
+				}, -- [1]
+				{
+					"item", -- [1]
+					140192, -- [2]
+					["sliceToken"] = "ABuedsRZ0wn",
+				}, -- [2]
+				{
+					"item", -- [1]
+					141605, -- [2]
+					["sliceToken"] = "ABuedsRZ0w6",
+				}, -- [3]
+				{
+					["sliceToken"] = "ABuedsRZ0wb",
+					["id"] = 193753,
+				}, -- [4]
+				["limit"] = "Eyebrowse-Kel'Thuzad",
+				["save"] = true,
+				["name"] = "FuckOff",
 			},
 			["Imprison"] = {
 				{
@@ -305,8 +384,38 @@ OneRing_Config = {
 					152560, -- [2]
 					["sliceToken"] = "ABuedoUBkqe",
 				}, -- [6]
+				{
+					"item", -- [1]
+					152561, -- [2]
+					["sliceToken"] = "ABuedgJ=vKe",
+				}, -- [7]
 				["name"] = "Potions",
 				["save"] = true,
+			},
+			["Specs"] = {
+				{
+					"specset", -- [1]
+					4, -- [2]
+					["sliceToken"] = "ABuedsRZ0wp",
+				}, -- [1]
+				{
+					"specset", -- [1]
+					2, -- [2]
+					["sliceToken"] = "ABuedsRZ0wo",
+				}, -- [2]
+				{
+					"specset", -- [1]
+					3, -- [2]
+					["sliceToken"] = "ABuedsRZ0w2",
+				}, -- [3]
+				{
+					"specset", -- [1]
+					1, -- [2]
+					["sliceToken"] = "ABuedsRZ0wi",
+				}, -- [4]
+				["limit"] = "Eyebrowse-Kel'Thuzad",
+				["save"] = true,
+				["name"] = "Specs",
 			},
 			["Incap"] = {
 				{
@@ -388,9 +497,49 @@ OneRing_Config = {
 					["id"] = 5487,
 				}, -- [4]
 				["name"] = "Shapeshifts",
-				["limit"] = "DRUID",
 				["save"] = true,
 				["hotkey"] = "BUTTON4",
+				["limit"] = "DRUID",
+			},
+			["Profs1"] = {
+				{
+					["id"] = 195116,
+					["sliceToken"] = "ABuedsUpZgl",
+				}, -- [1]
+				{
+					["id"] = 2108,
+					["sliceToken"] = "ABuedsUpZgk",
+				}, -- [2]
+				{
+					["id"] = 2259,
+					["sliceToken"] = "ABuedsF1eFf",
+				}, -- [3]
+				{
+					["id"] = 45357,
+					["sliceToken"] = "ABuedsF1eF3",
+				}, -- [4]
+				{
+					["id"] = 51005,
+					["sliceToken"] = "ABuedsF1eFd",
+				}, -- [5]
+				{
+					["id"] = 31252,
+					["sliceToken"] = "ABuedsUpZgj",
+				}, -- [6]
+				{
+					["id"] = 195128,
+					["sliceToken"] = "ABuedsUpZg4",
+				}, -- [7]
+				{
+					["id"] = 195127,
+					["sliceToken"] = "ABuedsUpZgh",
+				}, -- [8]
+				{
+					["id"] = 80451,
+					["sliceToken"] = "ABuedsUpZgg",
+				}, -- [9]
+				["name"] = "Profs",
+				["save"] = true,
 			},
 			["OPieFlagStore"] = {
 				["FlushedDefaultColors"] = true,
@@ -413,6 +562,34 @@ OneRing_Config = {
 					["id"] = 278803,
 				}, -- [4]
 				["name"] = "Mounts",
+				["save"] = true,
+			},
+			["nsumeMagic"] = {
+				{
+					"macro", -- [1]
+					"ConsumeMagic1", -- [2]
+					["sliceToken"] = "ABue3VjFJrZ",
+				}, -- [1]
+				{
+					"macro", -- [1]
+					"ConsumeMagic2", -- [2]
+					["sliceToken"] = "ABue3VjFJr=",
+				}, -- [2]
+				{
+					"macro", -- [1]
+					"ConsumeMagic3e", -- [2]
+					["sliceToken"] = "ABue3VjFJrL",
+				}, -- [3]
+				{
+					["id"] = 278326,
+					["sliceToken"] = "ABue3VjFJrK",
+				}, -- [4]
+				{
+					"macro", -- [1]
+					"P MO", -- [2]
+					["sliceToken"] = "ABue3VjFJrJ",
+				}, -- [5]
+				["name"] = "ConsumeMagic",
 				["save"] = true,
 			},
 			["IslandExp"] = {
@@ -476,54 +653,17 @@ OneRing_Config = {
 					163761, -- [2]
 					["sliceToken"] = "ABuedpFdSbd",
 				}, -- [12]
+				{
+					"item", -- [1]
+					160105, -- [2]
+					["sliceToken"] = "ABueddlkIUe",
+				}, -- [13]
+				{
+					"item", -- [1]
+					160106, -- [2]
+					["sliceToken"] = "ABueddlkIUr",
+				}, -- [14]
 				["name"] = "IslandExp",
-				["save"] = true,
-			},
-			["MonkDmg"] = {
-				{
-					["id"] = 117952,
-					["sliceToken"] = "ABuedivYhU1",
-				}, -- [1]
-				{
-					["id"] = 101546,
-					["sliceToken"] = "ABuedivYhUr",
-				}, -- [2]
-				["save"] = true,
-				["name"] = "MonkDmg",
-				["limit"] = "Fistbeavers-Kel'Thuzad",
-			},
-			["Buffs"] = {
-				{
-					"item", -- [1]
-					160053, -- [2]
-					["sliceToken"] = "ABuedrxG0nf",
-				}, -- [1]
-				{
-					"item", -- [1]
-					120257, -- [2]
-					["sliceToken"] = "ABuedrxG0nd",
-				}, -- [2]
-				{
-					"item", -- [1]
-					127840, -- [2]
-					["sliceToken"] = "ABuedrxG0n3",
-				}, -- [3]
-				{
-					"item", -- [1]
-					127841, -- [2]
-					["sliceToken"] = "ABuedrxG0ns",
-				}, -- [4]
-				{
-					"item", -- [1]
-					78883, -- [2]
-					["sliceToken"] = "ABuedrxG0na",
-				}, -- [5]
-				{
-					"item", -- [1]
-					154167, -- [2]
-					["sliceToken"] = "ABued2w6wRe",
-				}, -- [6]
-				["name"] = "Buffs",
 				["save"] = true,
 			},
 			["Fishing"] = {
@@ -559,33 +699,74 @@ OneRing_Config = {
 				["name"] = "Fishing",
 				["save"] = true,
 			},
-			["nsumeMagic"] = {
+			["MonkDmg"] = {
+				{
+					["id"] = 117952,
+					["sliceToken"] = "ABuedivYhU1",
+				}, -- [1]
+				{
+					["id"] = 101546,
+					["sliceToken"] = "ABuedivYhUr",
+				}, -- [2]
+				["save"] = true,
+				["name"] = "MonkDmg",
+				["limit"] = "Fistbeavers-Kel'Thuzad",
+			},
+			["Roots"] = {
 				{
 					"macro", -- [1]
-					"ConsumeMagic1", -- [2]
-					["sliceToken"] = "ABue3VjFJrZ",
+					"root1", -- [2]
+					["sliceToken"] = "ABueddIlle2",
+					["show"] = "[@arena1, exists][instance:arena]",
 				}, -- [1]
 				{
 					"macro", -- [1]
-					"ConsumeMagic2", -- [2]
-					["sliceToken"] = "ABue3VjFJr=",
+					"root2", -- [2]
+					["sliceToken"] = "ABueddIlleo",
+					["show"] = "[@arena2, exists][instance:arena]",
 				}, -- [2]
 				{
 					"macro", -- [1]
-					"ConsumeMagic3e", -- [2]
-					["sliceToken"] = "ABue3VjFJrL",
+					"root3", -- [2]
+					["sliceToken"] = "ABueddIllei",
+					["show"] = "[@arena3, exists][instance:arena]",
 				}, -- [3]
 				{
-					["id"] = 278326,
-					["sliceToken"] = "ABue3VjFJrK",
+					"macro", -- [1]
+					"rootMo", -- [2]
+					["sliceToken"] = "ABueddIlle3",
 				}, -- [4]
+				["limit"] = "Eyebrowse-Kel'Thuzad",
+				["save"] = true,
+				["name"] = "Roots",
+			},
+			["Cyclone"] = {
 				{
 					"macro", -- [1]
-					"P MO", -- [2]
-					["sliceToken"] = "ABue3VjFJrJ",
-				}, -- [5]
-				["name"] = "ConsumeMagic",
+					"CC1", -- [2]
+					["sliceToken"] = "ABuedsG3ekp",
+					["show"] = "[@arena1, exists][instance:arena]",
+				}, -- [1]
+				{
+					"macro", -- [1]
+					"CC2", -- [2]
+					["sliceToken"] = "ABuedsG3eko",
+					["show"] = "[@arena2, exists][instance:arena]",
+				}, -- [2]
+				{
+					"macro", -- [1]
+					"CC3", -- [2]
+					["sliceToken"] = "ABuedsG3ek2",
+					["show"] = "[@arena3, exists][instance:arena]",
+				}, -- [3]
+				{
+					"macro", -- [1]
+					"CCMO", -- [2]
+					["sliceToken"] = "ABuedsG3eki",
+				}, -- [4]
+				["name"] = "Cyclone",
 				["save"] = true,
+				["limit"] = "Eyebrowse-Kel'Thuzad",
 			},
 		},
 	},

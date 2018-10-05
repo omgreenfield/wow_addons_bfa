@@ -3,7 +3,7 @@ Postal3DB = {
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
-				"Eyebrowse|Kel'Thuzad|Alliance|110|DRUID", -- [1]
+				"Eyebrowse|Kel'Thuzad|Alliance|120|DRUID", -- [1]
 				"Fistbeavers|Kel'Thuzad|Alliance|120|MONK", -- [2]
 				"Suhdrude|Anvilmar|Alliance|110|DRUID", -- [3]
 				"Twiddlederr|Anvilmar|Alliance|120|DEMONHUNTER", -- [4]
@@ -22,7 +22,8 @@ Postal3DB = {
 		["Twiddlederr - Kel'Thuzad"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Fistbeavers|Kel'Thuzad|Alliance", -- [1]
+					"Eyebrowse|Kel'Thuzad|Alliance", -- [1]
+					"Fistbeavers|Kel'Thuzad|Alliance", -- [2]
 				},
 			},
 		},
@@ -31,13 +32,22 @@ Postal3DB = {
 		["Fistbeavers - Kel'Thuzad"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Twiddlederr|Kel'Thuzad|Alliance", -- [1]
+					"Eyebrowse|Kel'Thuzad|Alliance", -- [1]
+					"Twiddlederr|Kel'Thuzad|Alliance", -- [2]
 				},
 			},
 		},
 		["Twiddlederr - Anvilmar"] = {
 		},
 		["Eyebrowse - Kel'Thuzad"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Fistbeavers|Kel'Thuzad|Alliance", -- [1]
+					"Twiddlederr|Kel'Thuzad|Alliance", -- [2]
+					"Fistbeaversqqqq|Kel'Thuzad|Alliance", -- [3]
+					"h|Kel'Thuzad|Alliance", -- [4]
+				},
+			},
 		},
 	},
 }

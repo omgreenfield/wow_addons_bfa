@@ -10,10 +10,10 @@ Gladius2DB = {
 	["profiles"] = {
 		["Twiddlederr - Kel'Thuzad"] = {
 			["y"] = {
-				["arena1"] = 691.199886528648,
+				["arena1"] = 433.777614670326,
 			},
 			["x"] = {
-				["arena1"] = 975.644902096865,
+				["arena1"] = 1047.46729966933,
 			},
 			["tags"] = {
 				["maxhealth"] = {
@@ -91,14 +91,14 @@ Gladius2DB = {
 			},
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
+			["announcements"] = {
+				["dispell"] = true,
+				["trinket"] = true,
+			},
 			["tagsTexts"] = {
 				["HealthBar Left Text"] = {
 					["text"] = "[name:status] [maxhealth]",
 				},
-			},
-			["announcements"] = {
-				["dispell"] = true,
-				["trinket"] = true,
 			},
 		},
 		["Suhdrude - Anvilmar"] = {
@@ -126,11 +126,22 @@ Gladius2DB = {
 			},
 		},
 		["Gladius"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
 			["y"] = {
 				["arena1"] = 440.889116578637,
 			},
 			["x"] = {
 				["arena1"] = 964.267037238024,
+			},
+			["announcements"] = {
+				["dispell"] = true,
+				["trinket"] = true,
+			},
+			["tagsTexts"] = {
+				["HealthBar Left Text"] = {
+					["text"] = "[name:status] [maxhealth]",
+				},
 			},
 			["tags"] = {
 				["maxhealth"] = {
@@ -206,17 +217,6 @@ Gladius2DB = {
 					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
 				},
 			},
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
-			["announcements"] = {
-				["dispell"] = true,
-				["trinket"] = true,
-			},
-			["tagsTexts"] = {
-				["HealthBar Left Text"] = {
-					["text"] = "[name:status] [maxhealth]",
-				},
-			},
 		},
 		["Twiddlederr - Anvilmar"] = {
 			["y"] = {
@@ -238,13 +238,18 @@ Gladius2DB = {
 			},
 		},
 		["Eyebrowse - Kel'Thuzad"] = {
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
 			["y"] = {
-				["arena1"] = 418.844411183727,
+				["arena1"] = 531.200056265461,
 			},
 			["x"] = {
-				["arena1"] = 990.578148986242,
+				["arena1"] = 962.844901786921,
+			},
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["tagsTexts"] = {
+				["HealthBar Right Text"] = {
+					["text"] = "[health:percentage] [maxhealth]",
+				},
 			},
 		},
 	},

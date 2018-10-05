@@ -1,3 +1,4 @@
+-- Arena Team Tracker by Izy
 
 local name, SPELLDB = ...
 local lower = string.lower
@@ -10,7 +11,7 @@ local UnitName = UnitName
 local IsInInstance = IsInInstance
 local GetNumSubgroupMembers = GetNumSubgroupMembers
 local CooldownFrame_Set = CooldownFrame_Set
-local CombatLogGetCurrentEventInfo = CombatLogGetCurrentEventInfo -- new fix
+local CombatLogGetCurrentEventInfo = CombatLogGetCurrentEventInfo 
 
 local CommPrefix  = "ATTop31ms337x" -- Receive ability and cooldown
 local CommPrefix2 = "ATTm4d4f4k4l0" -- Send GUID for syncing
@@ -24,8 +25,6 @@ local ATT = CreateFrame("Frame","ATT",UIParent)
 local ATTIcons = CreateFrame("Frame",nil,UIParent)
 local ATTAnchor = CreateFrame("Frame",nil,UIParent)
 local ATTTooltip = CreateFrame("GameTooltip", "ATTGameTooltip", nil, "GameTooltipTemplate")
-ATTTooltip:SetMinimumWidth(200)
-ATTTooltip:SetHeight(200)
 
 local iconlist = {}
 local anchors = {}
@@ -64,7 +63,6 @@ local defaultAbilities = {
 		},
 		[103] = {	-- Feral
 			{106839, 15}, -- Skull Bash
-			{61336, 120, 2}, -- Survival Instincts
 		},
 		[104] = {	-- Guardian
 		},
@@ -107,10 +105,8 @@ local defaultAbilities = {
 	["PALADIN"] = {
 		["ALL"] = {	-- All specs
 			{853, 60}, 	-- Hammer of Justice
-			{66115, 15}, 	-- Hand of Freedom
 		},
 		[65] = {	-- Holy
-			{150630, 300, 2}, -- Hand of Protection
 			{6940, 120, 2}, -- Blessing of Sacrifice
 			{642, 300}, -- Divine Shield
 			{216331, 120}, -- Avenging Crusader
@@ -118,7 +114,6 @@ local defaultAbilities = {
 		[70] = {	-- Retribution
 			{642, 300}, -- Divine Shield
 			{96231, 15},  -- Rebuke
-			{150630, 300}, -- Hand of Protection
 		},
 	},
 	["PRIEST"] = {
@@ -174,7 +169,6 @@ local defaultAbilities = {
 		["ALL"] = {	-- All specs
 			{19647, 24}, 	-- Spell Lock
 			{104773, 180}, -- Unending Resolve
-			{6789, 45}, -- Mortal Coil
 			{108416, 60}, -- Dark Pact
 			{212295, 45}, -- Nether Ward
 		},
@@ -256,7 +250,6 @@ local WillOfTheForsakenName = GetSpellInfo(7744)
 
 local PvPTrinket = { ability = PvPTrinketName, cooldown = 120, id = 208683 }
 
-
 local function convertspellids(t)
 	local temp = {}
 	for class, table in pairs(t) do
@@ -274,7 +267,6 @@ local function convertspellids(t)
 end
 
 defaultAbilities = convertspellids(defaultAbilities)
-
 
 
 local cooldownResetters = {
@@ -304,8 +296,6 @@ end
 cooldownResetters = temp
 temp = nil
 convertspellids = nil
-
-
 
 -- Inspection stuff (Based on ATTR):
 local inspected = {}
@@ -399,9 +389,6 @@ end
 
 hooksecurefunc("NotifyInspect", function(unit) nextInspectTick = GetTime() + 3 end)
 
-
-
-
 function ATT:SavePositions()
 	for k,anchor in ipairs(anchors) do
 		local scale = anchor:GetEffectiveScale()
@@ -449,8 +436,8 @@ function ATT:LoadPositions()
 	end
 end
 
-local backdrop = {bgFile="Interface\\Tooltips\\UI-Tooltip-Background", edgeFile="", tile=false,}
 function ATT:CreateAnchors()
+    local backdrop = {bgFile="Interface\\Tooltips\\UI-Tooltip-Background", edgeFile="", tile=false,}
 	for i=1,5 do
 		local anchor = CreateFrame("Frame","ATTAnchor"..i ,ATTAnchor)
 		anchor:SetBackdrop(backdrop)
@@ -477,8 +464,8 @@ local function CreateIcon(anchor)
 	local icon = CreateFrame("Frame",anchor:GetName().."Icon".. (#anchor.icons+1),ATTIcons)
 	icon:SetHeight(38)
 	icon:SetWidth(38)
-
 	local cd = CreateFrame("Cooldown",icon:GetName().."Cooldown",icon,"CooldownFrameTemplate")
+	cd:SetHideCountdownNumbers(false)
 	icon.cd = cd
 	
 	icon.Start = function(sentCD, startNextRecharge)
@@ -500,23 +487,6 @@ local function CreateIcon(anchor)
 			if not startNextRecharge then
 				icon.chargesText:SetText(charges and charges <= 0 and 0 or charges)
 			end
-
-			--[[
-			if charges == icon.maxcharges or startNextRecharge then
-				CooldownFrame_Set(cd,GetTime(),icon.cooldown, 1, 1, icon.maxcharges)
-				icon.cd:SetDrawEdge(true)
-				icon.cd:SetDrawSwipe(false)
-				icon.starttime = GetTime()
-			end
-			if not startNextRecharge then
-				charges = charges - 1
-				icon.chargesText:SetText(charges and charges <= 0 and 0 or charges)
-			end
-			if charges == 0 then
-				icon.cd:SetDrawEdge(true)
-				icon.cd:SetDrawSwipe(true)
-			end
-			]]
 		else
 			CooldownFrame_Set(cd,GetTime(),icon.cooldown, 1)
 			icon.starttime = GetTime()
@@ -649,6 +619,7 @@ function ATT:UpdateAnchor(unit, i)
 			table.remove(icons, 1)
 		end
 		-- Abilities [All Specs]:
+		
 		for abilityIndex, abilityTable in pairs(db.abilities[class]["ALL"]) do
 			local ability, id, cooldown, maxcharges, talent = abilityTable.ability, abilityTable.id, abilityTable.cooldown, abilityTable.maxcharges, abilityTable.talent
 			local icon = icons[numIcons] or self:AddIcon(icons,anchor)
@@ -736,17 +707,32 @@ function ATT:ToggleIconDisplay(i)
 		    if db.iconOffsetX == nil then
                 db.iconOffsetX = "0"
             end
-			if count == 1 then
+
+         if  not db.tworows then
+			if count == 1  then
 				icon:SetPoint(db.growLeft and "TOPRIGHT" or "TOPLEFT", anchor, db.growLeft and "BOTTOMLEFT" or "BOTTOMRIGHT", db.growLeft and -1 * db.iconOffsetX or db.iconOffsetX, 0)
 			else
 				icon:SetPoint(db.growLeft and "RIGHT" or "LEFT", icons[lastActiveIndex], db.growLeft and "LEFT" or "RIGHT", db.growLeft and -1 * db.iconOffsetX or db.iconOffsetX, 0)
 			end
+			 else 
+			 if count == 1 then
+				icon:SetPoint(db.growLeft and "TOPRIGHT" or "TOPLEFT", anchor, db.growLeft and "BOTTOMLEFT" or "BOTTOMRIGHT", db.growLeft and -1 * db.iconOffsetX or db.iconOffsetX, 0)
+			else if   (count % 2 == 0 ) then 			
+				icon:SetPoint(db.growLeft and "TOP" or "TOP", icons[lastActiveIndex], db.growLeft and "BOTTOM" or "BOTTOM", db.growLeft )			 
+			else	
+                icon:SetPoint(db.growLeft and "BOTTOMRIGHT" or "BOTTOMLEFT", icons[lastActiveIndex], db.growLeft and "TOPLEFT" or "TOPRIGHT", db.growLeft and -1 * db.iconOffsetX or db.iconOffsetX, 0)
+			 end
+			 
+			end 
+		end
+		
 			lastActiveIndex = k
 			count = count + 1
 			icon:Show()
 		end
 	end
-	--self:ToggleAnchorDisplay()
+	-- here
+	-- self:ToggleAnchorDisplay() 
 end
 
 function ATT:UpdateAnchors()
@@ -787,6 +773,26 @@ function ATT:ApplyAnchorSettings()
 	self:UpdateIcons()
 
 	if db.lock then ATTAnchor:Hide() else ATTAnchor:Show() end
+	
+    local _, instanceType = IsInInstance()
+    
+    if instanceType == "arena" and db.arenanumber then
+	ATT:Fnumbers()
+    end
+    
+	if instanceType == "arena" and db.dampening then
+		self:RegisterUnitEvent("UNIT_AURA", "player")
+	else	
+		self:UnregisterEvent("UNIT_AURA")
+	end
+
+end
+
+function ATT:Fnumbers()
+	local ATTU=UnitIsUnit 
+    hooksecurefunc("CompactUnitFrame_UpdateName",function(Fnumbers)
+    if IsActiveBattlefieldArena()and Fnumbers.unit:find("nameplate") and db.arenanumber then 
+    for i=1,3 do if ATTU(Fnumbers.unit,"arena"..i)then Fnumbers.name:SetText(i)Fnumbers.name:SetTextColor(1,1,0) end end end end)
 end
 
 function ATT:GroupUpdate()
@@ -810,6 +816,32 @@ end
 function ATT:UNIT_OTHER_PARTY_CHANGED()
 	self:GroupUpdate()
 end
+---- dump
+local FindAuraByName = AuraUtil.FindAuraByName
+local dampeningtext = GetSpellInfo(110310)
+ATT:SetPoint("TOP", UIWidgetTopCenterContainerFrame, "BOTTOM", 0, 0)
+ATT:SetSize(200, 50.38) --11,38 is the height of the remaining time
+ATT.text = ATT:CreateFontString(nil, "BACKGROUND")
+ATT.text:SetFontObject(GameFontNormal)
+ATT.text:SetAllPoints()
+
+function ATT:UNIT_AURA(unit)
+	local name, icon, count, debuffType, duration, expirationTime, source, isStealable, nameplateShowPersonal, spellID, canApplyAura, isBossDebuff, nameplateShowAll, noIdea, timeMod , percentage = FindAuraByName(dampeningtext, unit, "HARMFUL")
+
+	if percentage then
+		if not self:IsShown() then
+			self:Show()
+		end
+		if self.dampening ~= percentage then
+			self.dampening = percentage
+			self.text:SetText(dampeningtext..": "..percentage.."%")
+		end
+
+	elseif self:IsShown() then
+		self:Hide()
+	end
+end
+
 
 function ATT:PLAYER_ENTERING_WORLD()
 	self:InspectPlayer()
@@ -820,19 +852,18 @@ function ATT:PLAYER_ENTERING_WORLD()
 	self:LoadPositions()
 	self:RequestSync()
 	self:UpdateAnchors()
+
 end
-
-
 
 function ATT:COMBAT_LOG_EVENT_UNFILTERED()
     local timestamp, event, hideCaster, sourceGUID, sourceName, sourceFlags, sourceRaidFlags, destGUID, destName, destFlags, destRaidFlags, spellId, spellName, spellSchool, auraType = CombatLogGetCurrentEventInfo()
 
-		if(event == "SPELL_CAST_SUCCESS" ) then
+		if(event == "SPELL_CAST_SUCCESS" ) or (event == "SPELL_AURA_APPLIED" ) then
 		 self:StartCooldown(spellName, self:GetUnitByGUID(sourceGUID))
 	end
-	    if(event == "SPELL_AURA_APPLIED" ) then
-		self:StartCooldown(spellName, self:GetUnitByGUID(sourceGUID))
-	end
+--	    if(event == "SPELL_AURA_APPLIED" ) then
+--		self:StartCooldown(spellName, self:GetUnitByGUID(sourceGUID))
+--	end
 end
 
 function ATT:FindAbilityByName(abilities, name)
@@ -934,8 +965,6 @@ function ATT:TrackCooldown(anchor, ability, cooldown)
 	end
 end
 
-
-
 function ATT:UNIT_SPELLCAST_SUCCEEDED(unit, ability)
 	if (unit == "player" or unit == "pet") and ability then self:SendCooldown(ability) end
 
@@ -1026,12 +1055,11 @@ function ATT:CHAT_MSG_ADDON(prefix, message, dist, sender)
 end
 
 function ATT:SendAddonMessage(prefix, message, dest, target)
-	--thanks Jax!
 	local chl = strlower(dest)
 	if (chl == "raid" and GetNumGroupMembers(LE_PARTY_CATEGORY_HOME) == 0) or (chl == "party" and GetNumGroupMembers(LE_PARTY_CATEGORY_HOME) == 0) or (chl == "guild" and not IsInGuild()) then
 		return
 	end
-	SendAddonMessage(prefix, message, dest, target)
+	C_ChatInfo.SendAddonMessage(prefix, message, dest, target)
 end
 
 -- sends message to your party via addon communication
@@ -1062,8 +1090,9 @@ local function ATT_OnLoad(self)
 	self:RegisterEvent("UNIT_OTHER_PARTY_CHANGED")
 	self:RegisterEvent("UNIT_SPELLCAST_SUCCEEDED")
 	self:RegisterEvent("COMBAT_LOG_EVENT_UNFILTERED")
-	if self.useCrossAddonCommunication then self:RegisterEvent("CHAT_MSG_ADDON") end
 	self:RegisterEvent("INSPECT_READY")
+	
+	if self.useCrossAddonCommunication then self:RegisterEvent("CHAT_MSG_ADDON") end
 	self:SetScript("OnEvent",function(self,event,...) if self[event] then self[event](self,...) end end)
 	
 	ATTDB = ATTDB or { abilities = defaultAbilities, scale = 1  }
@@ -1083,6 +1112,7 @@ local function ATT_OnLoad(self)
 
 	-- thanks BigDebuffs
 	hooksecurefunc("CompactUnitFrame_UpdateAll", function(frame)
+		if frame:IsForbidden() then return end	    	
 		local name = frame:GetName()
 		if not name or not name:match("^Compact") or not db.attach then return end
 		for k,anchor in ipairs(anchors) do
@@ -1095,7 +1125,7 @@ local function ATT_OnLoad(self)
 	end)
 
 	
-	print("Arena Team Tracker updated by Izy. Type /att to open options")
+	print("Arena Team Tracker by |cff33ff99Izy|r. Type |cff33ff99/att|r to open options.")
 end
 
 function ATT:FindAbilityIcon(ability, id)
@@ -1124,26 +1154,31 @@ function ATT:FindAbilityID(ability)
 end
 
 function ATT:FormatAbility(s)
+    locale = GetLocale();
+    if (GetLocale() == "enGB") or (GetLocale() == "enUS") then
 	s = s:gsub("(%a)(%a*)('*)(%a*)", function (a,b,c,d) return a:upper()..b:lower()..c..d:lower() end)
 	s = s:gsub("(The)", string.lower)
 	s = s:gsub("(Of)", string.lower)
+	return s 
+	else 
 	return s
+	end
 end
 
 -------------------------------------------------------------
--- Options
+-- Options Panel
 -------------------------------------------------------------
 
 local SO = LibStub("LibSimpleOptions-1.01")
 
 local function CreateListButton(parent,index)
 	local button = CreateFrame("Button",parent:GetName()..index,parent)
-	
-	button:SetWidth(130)
+	button:SetWidth(158)
 	button:SetHeight(16)
 	local font = CreateFont("ATTListFont")
 	font:SetFont(GameFontNormal:GetFont(),12)
 	font:SetJustifyH("LEFT")
+	--here
 	button:SetNormalFontObject(font)
 	button:SetHighlightTexture("Interface\\QuestFrame\\UI-QuestTitleHighlight","ADD")
 	button:SetScript("OnClick",function(self) parent.currentButton = self:GetText(); ATT:UpdateScrollBar() end)
@@ -1166,7 +1201,7 @@ function ATT:CreateOptions()
 	local panel = SO.AddOptionsPanel("ATT", function() end)
 	self.panel = panel
 	SO.AddSlashCommand("ATT","/att")
-	local title, subText = panel:MakeTitleTextAndSubText("Arena Team Tracker: Battle for Azeroth","General settings")
+	local title, subText = panel:MakeTitleTextAndSubText("Arena Team Tracker","General settings")
 	local scale = panel:MakeSlider(
 	     'name', 'Scale',
 	     'description', 'Adjust the scale of icons',
@@ -1188,6 +1223,15 @@ function ATT:CreateOptions()
 	     'getFunc', function() return db.attach end,
 	     'setFunc', function(value) db.attach = value; ATT:LoadPositions(); ATT:ApplyAnchorSettings() end)
 	attach:SetPoint("TOPLEFT",scale,"TOPLEFT", 0, -32)
+	
+		local tworows = panel:MakeToggle(
+	     'name', 'Use two rows',
+	     'description', 'Show icons on 2 rows',
+	     'default', false,
+	     'getFunc', function() return db.tworows end,
+	     'setFunc', function(value) db.tworows = value; ATT:ApplyAnchorSettings() end)
+	tworows:SetPoint("TOPLEFT",scale,"TOPLEFT",150,-32)
+	
 
 	local offsetX = CreateEditBox("Offset X", panel, 50, 25)
 	offsetX:SetText(db.offsetX or "0")
@@ -1211,6 +1255,7 @@ function ATT:CreateOptions()
 	offsetY:SetText(db.offsetY or "0")
 	offsetY:SetCursorPosition(0)
 	offsetY:SetPoint("LEFT", offsetX, "RIGHT", 10, 0)
+
 	offsetY:SetScript("OnEnterPressed", function(self)
 		self:ClearFocus()
 		local num = self:GetText():match("%-?%d+$")
@@ -1243,13 +1288,21 @@ function ATT:CreateOptions()
 	end)
 	panel.iconOffsetX = iconOffsetX
 
+   local offsetdesc =  panel:CreateFontString(nil,nil ,"GameFontNormalSmall")
+	offsetdesc:SetText("-input offset value then press ENTER");
+	offsetdesc:SetJustifyH("LEFT")
+	offsetdesc:SetWidth(100)
+	offsetdesc:SetHeight(100)
+	offsetdesc:SetPoint("TOPLEFT",scale,"BOTTOMLEFT",0,-40)
+	offsetdesc:SetPoint("RIGHT", -32, 0)
+	
 	local lock = panel:MakeToggle(
 	     'name', 'Lock',
 	     'description', 'Show/hide anchors',
 	     'default', false,
 	     'getFunc', function() return db.lock end,
 	     'setFunc', function(value) db.lock = value; ATT:ApplyAnchorSettings() end)
-	lock:SetPoint("TOP",panel,"TOP",10,-36)
+	lock:SetPoint("TOP",panel,"TOP",10,-38)
 	
 	local arena = panel:MakeToggle(
 	     'name', 'Arena',
@@ -1266,6 +1319,22 @@ function ATT:CreateOptions()
 	     'getFunc', function() return db.hidden end,
 	     'setFunc', function(value) db.hidden = value; ATT:ApplyAnchorSettings() end)
 	hidden:SetPoint("TOP",arena,"BOTTOM",0,-5)
+	
+	local dampening = panel:MakeToggle(
+	     'name', 'Dampening',
+	     'description', 'Show dampening under the remaining time',
+	     'default', false,
+	     'getFunc', function() return db.dampening end,
+	     'setFunc', function(value) db.dampening = value; ATT:ApplyAnchorSettings() end)
+	dampening:SetPoint("TOP",arena,"BOTTOM",0,-35)
+	
+		local arenanumber = panel:MakeToggle(
+	     'name', 'Arena Number',
+	     'description', 'Show arena number over enemy nameplates',
+	     'default', false,
+	     'getFunc', function() return db.arenanumber end,
+	     'setFunc', function(value) db.arenanumber = value; ATT:ApplyAnchorSettings() end)
+	arenanumber:SetPoint("TOP",arena,"BOTTOM",0,-65)
 
 	local growLeft = panel:MakeToggle(
 	     'name', 'Grow Left',
@@ -1273,7 +1342,7 @@ function ATT:CreateOptions()
 	     'default', false,
 	     'getFunc', function() return db.growLeft end,
 	     'setFunc', function(value) db.growLeft = value; ATT:LoadPositions(); ATT:ApplyAnchorSettings(); end)
-	growLeft:SetPoint("LEFT",lock,"RIGHT",50,0)
+	growLeft:SetPoint("LEFT",lock,"RIGHT",90,0)
 
 	local showTrinket = panel:MakeToggle(
 	     'name', 'Show PvP Trinket',
@@ -1318,25 +1387,20 @@ end
 
 local function count(t) local i = 0 for k,v in pairs(t) do i = i + 1  end return i end
 
-
-
 function ATT:UpdateScrollBar()
 	local btns = self.btns
 	local scrollframe = self.scrollframe
 	local classSelectedSpecs = db.abilities[db.classSelected] 
-	--local classSelectedListLength = 25
-	local line = 1	
+	local line = 1
 
-	-- for specID, abilities in pairs(classSelectedSpecs) do classSelectedListLength = classSelectedListLength + count(abilities) end
+	
 	for specID, abilities in pairs(classSelectedSpecs) do
 		for abilityIndex, abilityTable in pairs(abilities) do
-			local ability, id, cooldown, maxcharges = abilityTable.ability, abilityTable.id, abilityTable.cooldown, abilityTable.maxcharges
-			btns[line]:SetText(ability)
-			test = btns[line]:GetText()
+			local ability, id, cooldown, maxcharges, talent = abilityTable.ability, abilityTable.id, abilityTable.cooldown, abilityTable.maxcharges, abilityTable.talent
+			btns[line]:SetText(ability.." ["..specID.."]")
 			if btns[line]:GetText() ~= scrollframe.currentButton then
 				btns[line]:SetNormalTexture("")
 			else 
-
 				btns[line]:SetNormalTexture("Interface\\QuestFrame\\UI-QuestTitleHighlight")
 				btns[line]:GetNormalTexture():SetBlendMode("ADD") 
 				scrollframe.addeditbox:SetText(ability)
@@ -1352,7 +1416,6 @@ function ATT:UpdateScrollBar()
 
 		end 
 
-
 	end 			
 
 	 for i=line,25 do btns[i]:Hide() end
@@ -1363,29 +1426,29 @@ function ATT:CreateAbilityEditor()
 	local btns = {}
 	self.btns = btns
 	local scrollframe = CreateFrame("ScrollFrame", "ATTScrollFrame",panel,"UIPanelScrollFrameTemplate")
+	    local backdrop = {
+		bgFile = [=[Interface\Buttons\WHITE8X8]=],
+		insets = { left = 0, right = 0, top = -5, bottom = -5 },
+	}
+	scrollframe:SetBackdrop(backdrop)
+	scrollframe:SetBackdropColor(0,0,0,0.50)
 	local child = CreateFrame("ScrollFrame" ,"ATTScrollFrame" , scrollframe )
 	child:SetSize(1, 1)
 	scrollframe:SetScrollChild(child)
-	local button1 = CreateListButton(child,"20")
+	local button1 = CreateListButton(child,"25")
 	button1:SetPoint("TOPLEFT",child,"TOPLEFT",11,0)
 	btns[#btns+1] = button1
 	for i=2,25 do
 		local button = CreateListButton(child,tostring(i))
-
 		button:SetPoint("TOPLEFT",btns[#btns],"BOTTOMLEFT")
 		btns[#btns+1] = button
-		
 	end
 
-	scrollframe:SetWidth(150); 
+	--scrollframe:SetScript("OnLoad",function(self) if not db.classSelected then db.classSelected = "WARRIOR" end; ATT:UpdateScrollBar(); end)	
+	self.scrollframe = child
+	scrollframe:SetWidth(175); 
 	scrollframe:SetHeight(175)
 	scrollframe:SetPoint('LEFT',16,-45)
-	scrollframe:SetBackdrop(backdrop)
-	scrollframe:SetBackdropColor(0,0,0,0.50)
-	--scrollframe:SetScript("OnLoad",function(self) if not db.classSelected then db.classSelected = "WARRIOR" end; ATT:UpdateScrollBar(); end)
-	
-	
-	self.scrollframe = child
 	scrollframe.dropdown2 = nil
 	
 	local dropdown = panel:MakeDropDown(
@@ -1428,7 +1491,7 @@ function ATT:CreateAbilityEditor()
 	child.dropdown = dropdown
 
 	local dropdown2 = panel:MakeDropDown(
-       'name', 'Spec',
+       'name', 'Spec - [spec ID]',
 	     'description', 'Pick a spec',
 	     'values', {
 		     		"ALL", "All Specs",
@@ -1460,7 +1523,7 @@ function ATT:CreateAbilityEditor()
 
 	local addbutton = panel:MakeButton(
 	     'name', 'Add/Edit',
-	     'description', "Add a new ability with a specified cooldown.",
+	     'description', "Add a new ability with a specified cooldown.(case sensitive)",
 	     'func', function() 
 	     		local id = ideditbox:GetText():match("^[0-9]+$")
 	     		local spec = dropdown2.value
@@ -1510,13 +1573,20 @@ function ATT:CreateAbilityEditor()
 	removebutton:SetPoint("TOPLEFT",addbutton,"BOTTOMLEFT",0,-5)
 	
 	local description =  panel:CreateFontString(nil,"ARTWORK","GameFontNormal")
-	description:SetText(" Add(remove) abilities that you want to track - input correct Ability name + SpellID + CD - all required! \r\n The addon is still in BETA but most things are working. Report bugs on <curseforge> addon page. \r\n \r\n For future improvements and bug fixes please support me at  <>  http://twitch.tv/imedia <> \r\n Enjoy!");
-	description:SetNonSpaceWrap(true)
+    description:SetText("Add[remove] abilities that you want to track - input correct Ability name + Spell ID + CD. \r\nSpell [Max Charges] is currently in BETA state. More info on < curseforge > addon page.\r\n \r\n")
 	description:SetJustifyH("LEFT")
-	description:SetWidth(100)
-	description:SetHeight(100)
-	description:SetPoint("TOPLEFT",scrollframe,"BOTTOMLEFT",0,-10)
-	description:SetPoint("RIGHT", -32, 0)
+	--description:SetWidth(200)
+	--description:SetHeight(150)
+	--description:SetNonSpaceWrap(true)
+	--description:SetPoint("RIGHT", -12, 0)
+	--description:SetNonSpaceWrap(true)
+    description:SetPoint("TOPLEFT",scrollframe,"BOTTOMLEFT",10,-10)
+	
+    local authordesc =  panel:CreateFontString(nil,"ARTWORK","GameFontDisable")
+    authordesc:SetText("If you want to help with future development any support for my work is greatly appreciated.\r\nYou can find and support me at: < |cff33ff99http://www.twitch.tv/imedia|r > or < |cff33ff99curseforge|r >.  Enjoy! \r\n  \r\n  |cffffff00Version:|r |cff33ff99v3.5.1|r")
+   	authordesc:SetJustifyH("LEFT")
+    authordesc:SetPoint("TOPLEFT",scrollframe,"BOTTOMLEFT",10,-80)
+	authordesc:SetPoint("RIGHT", -12, 0)
 end
 
 ATT:RegisterEvent("VARIABLES_LOADED")

@@ -1,10 +1,5 @@
-VER 3 0100000000000014 "CatThenSkullBash" "INV_BONE_SKULL_04"
-#showtooltip
-/cast [nostance:1/2] Cat Form;
-/cast Skull Bash
-END
-VER 3 010000000000000A "DefensivesOPIE" "ABILITY_DRUID_TIGERSROAR"
-/click ORLOpen fensiveCDs
+VER 3 0100000000000011 "CancelForm" "INV_MISC_QUESTIONMARK"
+/cancelform
 END
 VER 3 0100000000000007 "FerBiteOrRegrowt" "ABILITY_DRUID_FEROCIOUSBITE"
 #showtooltip
@@ -13,37 +8,44 @@ VER 3 0100000000000007 "FerBiteOrRegrowt" "ABILITY_DRUID_FEROCIOUSBITE"
 /cast [harm] Ferocious Bite;
 /cast Regrowth;
 END
-VER 3 0100000000000011 "FormPi" "132144"
-/click ORLOpen DruidShift
+VER 3 0100000000000017 "Fur" "1378702"
+#showtooltip Iron Fur
+/cast [nostance:1] Bear Form;
+/cast Iron Fur
 END
-VER 3 0100000000000012 "LeaveForm" "132132"
+VER 3 010000000000001A "Juve/SF" "136081"
 #showtooltip
-/cast [form:1] !Bear Form; [form:3] !Travel Form; [form:4] Moonkin Form; !Cat Form
+/cast [@target, help] Rejuvenation;
+/cast [@target, harm, stance:1] Mangle;
+/cast [@target, harm, stance:2] Shred;
+/cast [@target, harm, stance:4] Starsurge;
+/cast Rejuvenation;
+END
+VER 3 010000000000001B "LB/MF" "134206"
+#showtooltip
+/cast [@target, help] Lifebloom;
+/cast [@target, harm] Moonfire(Lunar)
+/cast Lifebloom;
 END
 VER 3 010000000000000B "MangleOrRejuv" "ABILITY_DRUID_MANGLE2"
 #showtooltip
 /cast [@target, exists, help] Rejuvenation;
-/cast [help] Rejuvenation;
-/cast [harm] Mangle;
+/cast [stance:1] Mangle;
+/cast [stance:4] Starsurge
+/cast Rejuvenation;
 END
-VER 3 010000000000000E "MarkOrRegrowth" "INV_MISC_QUESTIONMARK"
+VER 3 010000000000000C "MaulSF" "ABILITY_DRUID_MAUL"
 #showtooltip
-/cast [form:1] Mark of Ursol;
-/cast [form:2] Regrowth;
-END
-VER 3 010000000000000C "MaulOrRegrowth" "ABILITY_DRUID_MAUL"
-#showtooltip
-/cast [@mouseover, exists,help] Regrowth;
 /cast [@target, exists, help] Regrowth;
-/cast [@mouseover, exists,harm] Maul;
-/cast [@target,harm] Maul;
-/cast [harm] Maul;
+/cast [@target,harm, stance:1] Maul;
+/cast [@target, harm, stance: 4] Sunfire(Solar);
+/cast Regrowth;
 END
-VER 3 0100000000000001 "MoonOrLifebloom" "SPELL_NATURE_STARFALL"
+VER 3 0100000000000001 "MoonOrSwift" "136096"
 #showtooltip
-/cast [@target, exists, help] Lifebloom;
+/cast [@target, exists, help] Swiftmend;
 /cast [@target,harm] Moonfire;
-/cast Lifebloom;
+/cast Swiftmend;
 END
 VER 3 0100000000000004 "RakeOrRejuv" "ABILITY_DRUID_DISEMBOWEL"
 #showtooltip
@@ -51,11 +53,16 @@ VER 3 0100000000000004 "RakeOrRejuv" "ABILITY_DRUID_DISEMBOWEL"
 /cast [@target,nostance:1,harm] Rake;
 /cast [@target,stance:1,harm] Mangle;
 END
-VER 3 0100000000000013 "Regrowth" "SPELL_NATURE_RESISTNATURE"
+VER 3 0100000000000013 "RG/SF" "136085"
 #showtooltip
-/cast [@mouseover, exists, help] Regrowth;
-/cast [@target, exists, help] Regrowth;
-/cast Regrowth;;
+/cast [@target, help] Regrowth;
+/cast [@target, harm] Sunfire(Solar)
+/cast Regrowth;
+END
+VER 3 0100000000000015 "SBash" "236946"
+#showtooltip
+/cast [nostance:1/2] Bear Form;
+/cast Skull Bash
 END
 VER 3 0100000000000005 "ShredOrHealTouch" "SPELL_SHADOW_VAMPIRICAURA"
 #showtooltip
@@ -63,31 +70,33 @@ VER 3 0100000000000005 "ShredOrHealTouch" "SPELL_SHADOW_VAMPIRICAURA"
 /cast [@target,harm] Shred;
 /cast [harm] Shred;
 END
-VER 3 0100000000000003 "SolarOrHealTouch" "SPELL_NATURE_WRATHV2"
+VER 3 010000000000001C "SM/Swipe" "134914"
 #showtooltip
-/cast [@target, exists, help] Healing Touch;
-/cast [@target,harm] Solar Wrath;
-/cast Healing Touch;
+/cast [@target, help] Swiftmend;
+/cast [@target, harm] Solar Wrath(Solar);
+/cast Swiftmend
 END
-VER 3 0100000000000002 "SunOrRegrowth" "ABILITY_MAGE_FIRESTARTER"
+VER 3 010000000000000D "Swipe/SW" "134296"
 #showtooltip
-/cast [@target, exists, help] Regrowth;
-/cast [@target,harm] Sunfire;
-/cast Regrowth;
-END
-VER 3 010000000000000D "SwipeOrHealTouch" "INV_MISC_MONSTERCLAW_03"
-#showtooltip
-/cast [@mouseover, exists,help] Healing Touch;
-/cast [@target, exists, help] Healing Touch;
-/cast [@mouseover, exists,harm] Swipe;
-/cast [@target,harm] Swipe;
+/cast [stance:4] Solar Wrath;
 /cast [harm] Swipe;
+/cast [@target, help] Swiftmend;
 END
 VER 3 0100000000000008 "TFuryOrGrowl" "ABILITY_MOUNT_JUNGLETIGER"
 #showtooltip
 /cast [form:1] Growl;
 /cast [form:2] Tiger's Fury
 END
-VER 3 0100000000000009 "TravelOPIE" "1418288"
-/click ORLOpen Travel
+VER 3 0100000000000016 "Thrash" "451161"
+#showtooltip
+/cast [stance:4] Lunar Strike;
+/cast [nostance:1/2] Bear Form;
+/cast Thrash
+END
+VER 3 0100000000000018 "Travel" "132144"
+/cast [outdoors, nostance:3][swimming, nostance:3] Travel Form(Shapeshift)
+END
+VER 3 010000000000001D "WC/Renewal" "538771"
+/cast Wild Charge;
+/cast Renewal;
 END

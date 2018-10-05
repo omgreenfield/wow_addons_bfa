@@ -10,7 +10,6 @@ NameplateCooldownsAceDB = {
 	},
 	["profiles"] = {
 		["Twiddlederr - Kel'Thuzad"] = {
-			["DBVersion"] = 8,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -2443,6 +2442,7 @@ NameplateCooldownsAceDB = {
 					["texture"] = 1380678,
 				},
 			},
+			["DBVersion"] = 8,
 		},
 		["Suhdrude - Anvilmar"] = {
 			["DBVersion"] = 8,
@@ -4880,6 +4880,7 @@ NameplateCooldownsAceDB = {
 			},
 		},
 		["Eyebrowse - Kel'Thuzad"] = {
+			["DBVersion"] = 8,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -5950,7 +5951,7 @@ NameplateCooldownsAceDB = {
 						[1850] = true,
 					},
 					["cooldown"] = 180,
-					["texture"] = 1817485,
+					["texture"] = 132120,
 				},
 				["Ascendance"] = {
 					["enabled"] = true,
@@ -7312,7 +7313,6 @@ NameplateCooldownsAceDB = {
 					["texture"] = 135875,
 				},
 			},
-			["DBVersion"] = 8,
 		},
 		["Fistbeavers - Kel'Thuzad"] = {
 			["SpellCDs"] = {

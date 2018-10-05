@@ -1184,7 +1184,7 @@ TidyPlatesContHubSettings = {
 		["UnitSpotlightOpacityEnable"] = true,
 		["TextUseBlizzardFont"] = false,
 		["ScaleCastingSpotlight"] = false,
-		["StyleFriendlyBarsOnNPC"] = true,
+		["StyleFriendlyBarsOnNPC"] = false,
 		["HeadlineFriendlyColor"] = 4,
 		["ThreatGlowEnable"] = true,
 	},

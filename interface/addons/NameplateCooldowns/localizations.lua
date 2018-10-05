@@ -72,10 +72,8 @@ There are updated cooldowns for some of your spells. Do you want to apply update
 	["chat:addon-is-disabled"] = "Addon ist deaktiviert",
 	["chat:addon-is-disabled-note"] = "Bitte beachte: Dieses Addon ist deaktiviert. Du kannst es in den Optionen aktivieren (/nc)",
 	["chat:addon-is-enabled"] = "Addon ist aktiviert",
-	--[[Translation missing --]]
-	["chat:default-spell-is-added-to-ignore-list"] = "Default spell is added to ignore list: %s. You will not receive cooldown time updates for this spell.",
-	--[[Translation missing --]]
-	["chat:enable-only-for-target-nameplate"] = "Cooldowns will be shown on target nameplate only",
+	["chat:default-spell-is-added-to-ignore-list"] = "Standardzauber wird zur Ignorierliste hinzugefügt: %s. Du wirst keine Aktualisierungen von Abklingzeiten für diesen Zauber erhalten.",
+	["chat:enable-only-for-target-nameplate"] = "Abklingzeiten werden nur auf der Namensplakette deines Ziels angezeigt",
 	--[[Translation missing --]]
 	["chat:print-updated-spells"] = "%s: your cooldown: %s sec, new cooldown: %s sec",
 	["Click on icon to enable/disable tracking"] = "Klicke auf das Symbol, um die Verfolgung ein-/auszuschalten",
@@ -87,73 +85,43 @@ There are updated cooldowns for some of your spells. Do you want to apply update
 	["Delete profile:"] = "Profil löschen:",
 	["Disable test mode"] = "Testmodus deaktivieren",
 	["Enable test mode (need at least one visible nameplate)"] = "Testmodus aktivieren\\r\\n(es muss mindestens eine Namensplakette sichtbar sein)",
-	--[[Translation missing --]]
-	["Filters"] = "Filters",
-	--[[Translation missing --]]
-	["filters.instance-types"] = [=[Set the visibility of the cooldowns
-in different types of locations]=],
+	["Filters"] = "Filter",
+	["filters.instance-types"] = "Stelle die Sichtbarkeit der Abklingzeiten abhängig von der Art der Instanzen ein.",
 	["Font:"] = "Schriftart:",
 	["General"] = "Allgemein",
-	--[[Translation missing --]]
-	["general.sort-mode"] = "Sort mode:",
+	["general.sort-mode"] = "Sortieren nach:",
 	["Icon size"] = "Symbolgröße ",
 	["Icon X-coord offset"] = "X-Position des Symbols",
 	["Icon Y-coord offset"] = "Y-Position des Symbols",
-	--[[Translation missing --]]
-	["instance-type:arena"] = "Arenas",
-	--[[Translation missing --]]
-	["instance-type:none"] = "Open World",
-	--[[Translation missing --]]
-	["instance-type:party"] = "5ppl dungeons",
-	--[[Translation missing --]]
-	["instance-type:pvp"] = "Battlegrounds",
-	--[[Translation missing --]]
-	["instance-type:raid"] = "Raid dungeons",
-	--[[Translation missing --]]
-	["instance-type:scenario"] = "Scenarios",
-	--[[Translation missing --]]
-	["instance-type:unknown"] = "Unknown dungeons (some quest scenarios)",
+	["instance-type:arena"] = "Arenen",
+	["instance-type:none"] = "Offene Welt",
+	["instance-type:party"] = "5-Mann-Dungeons",
+	["instance-type:pvp"] = "Schlachtfelder",
+	["instance-type:raid"] = "Schlachtzüge",
+	["instance-type:scenario"] = "Szenarien",
+	["instance-type:unknown"] = "Unbekannte Dungeons (Manche Questszenarien)",
 	["MISC"] = "Verschiedenes",
-	--[[Translation missing --]]
-	["msg:question:import-existing-spells"] = [=[NameplateCooldowns
-There are updated cooldowns for some of your spells. Do you want to apply update?]=],
+	["msg:question:import-existing-spells"] = [=[NameplateCooldownsEs gibt aktualisierte Abklingzeiten für manche deiner Zauber. Möchtest du sie aktualisieren?]=],
 	["New spell has been added: %s"] = "Ein neuer Zauber wurde hinzugefügt: %s",
 	["Options are not available in combat!"] = "Einstellungen sind nicht im Kampf verfügbar",
-	--[[Translation missing --]]
-	["options:category:spells"] = "Spells",
+	["options:category:spells"] = "Zauber",
 	["options:general:disable-addon-btn"] = "Addon deaktivieren",
 	["options:general:enable-addon-btn"] = "Addon aktivieren",
-	--[[Translation missing --]]
-	["options:general:enable-only-for-target-nameplate"] = "Show the cooldowns on the current target nameplate only",
-	--[[Translation missing --]]
-	["options:general:space-between-icons"] = "Space between icons (px)",
-	--[[Translation missing --]]
-	["options:profiles:open-profiles-dialog"] = "Open profiles dialog",
-	--[[Translation missing --]]
-	["options:spells:add-new-spell"] = "Add new spell (name or id):",
-	--[[Translation missing --]]
-	["options:spells:add-spell"] = "Add spell",
-	--[[Translation missing --]]
-	["options:spells:click-to-select-spell"] = "Click to select spell",
-	--[[Translation missing --]]
-	["options:spells:cooldown-time"] = "Cooldown time",
-	--[[Translation missing --]]
-	["options:spells:delete-all-spells"] = "Delete all spells",
-	--[[Translation missing --]]
-	["options:spells:delete-all-spells-confirmation"] = "Do you really want to delete ALL spells?",
-	--[[Translation missing --]]
-	["options:spells:delete-spell"] = "Delete spell",
-	--[[Translation missing --]]
-	["options:spells:enable-tracking-of-this-spell"] = "Enable tracking of this spell",
-	--[[Translation missing --]]
-	["options:spells:icon-glow"] = "Icon glow is disabled",
-	--[[Translation missing --]]
-	["options:spells:icon-glow-always"] = "Icon will glow if spell is on cooldown",
-	--[[Translation missing --]]
-	["options:spells:icon-glow-threshold"] = "Icon will glow if remaining time is less than",
-	--[[Translation missing --]]
-	["options:spells:track-only-this-spellid"] = [=[Track only these spell IDs
-(comma-separated)]=],
+	["options:general:enable-only-for-target-nameplate"] = "Zeige die Abklingzeit nur auf der Namensplakette des aktuellen Ziels.",
+	["options:general:space-between-icons"] = "Platz zwischen Symbolen (px)",
+	["options:profiles:open-profiles-dialog"] = "Profildialog öffnen",
+	["options:spells:add-new-spell"] = "Füge neuen Zauber hinzu (Name oder ID):",
+	["options:spells:add-spell"] = "Zauber hinzufügen",
+	["options:spells:click-to-select-spell"] = "Klicke, um einen Zauber auszuwählen",
+	["options:spells:cooldown-time"] = "Abklingzeit",
+	["options:spells:delete-all-spells"] = "Alle Zauber entfernen",
+	["options:spells:delete-all-spells-confirmation"] = "Möchtest du wirklich ALLE Zauber entfernen?",
+	["options:spells:delete-spell"] = "Zauber löschen",
+	["options:spells:enable-tracking-of-this-spell"] = "Verfolgung dieses Zaubers aktivieren",
+	["options:spells:icon-glow"] = "Symbolleuchten ist deaktiviert",
+	["options:spells:icon-glow-always"] = "Symbol wird leuchten, falls der Zauber abklingt",
+	["options:spells:icon-glow-threshold"] = "Symbol wird leuchten, falls die verbleibende Zeit weniger ist als",
+	["options:spells:track-only-this-spellid"] = [=[Nur diese Zauber-IDs verfolgen(kommasepariert)]=],
 	["Profile '%s' has been successfully deleted"] = "Profil '%s' wurde erfolgreich gelöscht.",
 	["Profiles"] = "Profile",
 	["Show border around interrupts"] = "Rahmen um Unterbrechungen anzeigen",
@@ -664,8 +632,7 @@ There are updated cooldowns for some of your spells. Do you want to apply update
 	["ptBR"] = 
 {
 	["Always display CD icons at full opacity (ReloadUI is needed)"] = "Sempre mostrar ícones de CD em opacidade máxima (Necessário recarregar UI)",
-	--[[Translation missing --]]
-	["chat:addon-is-disabled"] = "Addon is disabled",
+	["chat:addon-is-disabled"] = "Addon desativado",
 	--[[Translation missing --]]
 	["chat:addon-is-disabled-note"] = "Please note: this addon is disabled. You can enable it in options dialog (/nc)",
 	--[[Translation missing --]]
@@ -851,14 +818,13 @@ There are updated cooldowns for some of your spells. Do you want to apply update
 },
 	["zhCN"] = 
 {
-	["Always display CD icons at full opacity (ReloadUI is needed)"] = "总是显示不透明的图标（需要重载界面）",
+	["Always display CD icons at full opacity (ReloadUI is needed)"] = "总是以不透明的方式显示冷却图标（需要重载界面）",
 	["chat:addon-is-disabled"] = "插件已停用",
 	["chat:addon-is-disabled-note"] = "请注意: 这个插件已被停用，你可以在设置页面 (/nc) 中启用。",
 	["chat:addon-is-enabled"] = "插件已启用",
 	["chat:default-spell-is-added-to-ignore-list"] = "预设法术已加入忽略列表: %s，将不会显示这个法术的冷却时间。",
 	["chat:enable-only-for-target-nameplate"] = "只在当前目标的血条上显示技能冷却",
-	--[[Translation missing --]]
-	["chat:print-updated-spells"] = "%s: your cooldown: %s sec, new cooldown: %s sec",
+	["chat:print-updated-spells"] = "%s: 你的冷却: %s 秒，新的冷却: %s 秒",
 	["Click on icon to enable/disable tracking"] = "点击图标启用/禁用跟踪",
 	["Copy"] = "复制",
 	["Copy other profile to current profile:"] = "复制其他配置文件至当前配置文件：",
@@ -868,15 +834,11 @@ There are updated cooldowns for some of your spells. Do you want to apply update
 	["Delete profile:"] = "删除配置文件",
 	["Disable test mode"] = "关闭测试模式",
 	["Enable test mode (need at least one visible nameplate)"] = "启用测试模式（至少需要一个可见的姓名板）",
-	--[[Translation missing --]]
-	["Filters"] = "Filters",
-	--[[Translation missing --]]
-	["filters.instance-types"] = [=[Set the visibility of the cooldowns
-in different types of locations]=],
+	["Filters"] = "过滤器",
+	["filters.instance-types"] = "设置在不同地域下是否显示冷却",
 	["Font:"] = "字体：",
 	["General"] = "综合",
-	--[[Translation missing --]]
-	["general.sort-mode"] = "Sort mode:",
+	["general.sort-mode"] = "排序方式:",
 	["Icon size"] = "图标大小",
 	["Icon X-coord offset"] = "图标的X坐标偏移",
 	["Icon Y-coord offset"] = "图标的Y坐标偏移",
@@ -885,51 +847,30 @@ in different types of locations]=],
 	["instance-type:party"] = "5人地下城",
 	["instance-type:pvp"] = "战场",
 	["instance-type:raid"] = "团队副本",
-	--[[Translation missing --]]
-	["instance-type:scenario"] = "Scenarios",
+	["instance-type:scenario"] = "场景战役",
 	["instance-type:unknown"] = "未知地域(某些任务场景)",
 	["MISC"] = "杂项",
-	--[[Translation missing --]]
-	["msg:question:import-existing-spells"] = [=[NameplateCooldowns
-There are updated cooldowns for some of your spells. Do you want to apply update?]=],
+	["msg:question:import-existing-spells"] = [=[NameplateCooldowns你的某些法术冷却已更新，是否要应用更新?]=],
 	["New spell has been added: %s"] = "新的法术已添加：%s",
 	["Options are not available in combat!"] = "选项在战斗中不可用！",
-	--[[Translation missing --]]
-	["options:category:spells"] = "Spells",
-	--[[Translation missing --]]
-	["options:general:disable-addon-btn"] = "Disable addon",
-	--[[Translation missing --]]
-	["options:general:enable-addon-btn"] = "Enable addon",
-	--[[Translation missing --]]
-	["options:general:enable-only-for-target-nameplate"] = "Show the cooldowns on the current target nameplate only",
-	--[[Translation missing --]]
-	["options:general:space-between-icons"] = "Space between icons (px)",
-	--[[Translation missing --]]
-	["options:profiles:open-profiles-dialog"] = "Open profiles dialog",
-	--[[Translation missing --]]
-	["options:spells:add-new-spell"] = "Add new spell (name or id):",
-	--[[Translation missing --]]
-	["options:spells:add-spell"] = "Add spell",
-	--[[Translation missing --]]
-	["options:spells:click-to-select-spell"] = "Click to select spell",
-	--[[Translation missing --]]
-	["options:spells:cooldown-time"] = "Cooldown time",
-	--[[Translation missing --]]
-	["options:spells:delete-all-spells"] = "Delete all spells",
-	--[[Translation missing --]]
-	["options:spells:delete-all-spells-confirmation"] = "Do you really want to delete ALL spells?",
-	--[[Translation missing --]]
-	["options:spells:delete-spell"] = "Delete spell",
-	--[[Translation missing --]]
-	["options:spells:enable-tracking-of-this-spell"] = "Enable tracking of this spell",
+	["options:category:spells"] = "法术",
+	["options:general:disable-addon-btn"] = "禁用插件",
+	["options:general:enable-addon-btn"] = "启用插件",
+	["options:general:enable-only-for-target-nameplate"] = "只在当前目标的姓名板上显示技能冷却",
+	["options:general:space-between-icons"] = "图标间距(px)",
+	["options:profiles:open-profiles-dialog"] = "打开配置文件窗口",
+	["options:spells:add-new-spell"] = "添加新的法术 (名称或ID):",
+	["options:spells:add-spell"] = "添加法术",
+	["options:spells:click-to-select-spell"] = "点击以选择法术",
+	["options:spells:cooldown-time"] = "冷却时间",
+	["options:spells:delete-all-spells"] = "删除所有法术",
+	["options:spells:delete-all-spells-confirmation"] = "确定要删除所有法术?",
+	["options:spells:delete-spell"] = "删除法术",
+	["options:spells:enable-tracking-of-this-spell"] = "开始追踪这个法术",
 	["options:spells:icon-glow"] = "高亮图标已被禁用",
-	--[[Translation missing --]]
-	["options:spells:icon-glow-always"] = "Icon will glow if spell is on cooldown",
-	--[[Translation missing --]]
-	["options:spells:icon-glow-threshold"] = "Icon will glow if remaining time is less than",
-	--[[Translation missing --]]
-	["options:spells:track-only-this-spellid"] = [=[Track only these spell IDs
-(comma-separated)]=],
+	["options:spells:icon-glow-always"] = "图标高亮，当法术冷却中",
+	["options:spells:icon-glow-threshold"] = "图标高亮，当剩余时间小于",
+	["options:spells:track-only-this-spellid"] = [=[只追踪这些法术ID(使用逗号分隔)]=],
 	["Profile '%s' has been successfully deleted"] = "配置文件 '%s' 已成功删除",
 	["Profiles"] = "配置文件",
 	["Show border around interrupts"] = "为打断技能显示边框",

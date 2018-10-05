@@ -11,8 +11,8 @@ RecountDB = {
 		["Twiddlederr - Kel'Thuzad"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -162,
-					["x"] = 467.000122070313,
+					["y"] = -388.999786376953,
+					["x"] = 853.000366210938,
 					["w"] = 201.999923706055,
 					["h"] = 209.999984741211,
 				},
@@ -31,9 +31,9 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = -305.000061035156,
-			["MainWindowHeight"] = 225.999984741211,
-			["MainWindowWidth"] = 247,
 			["DetailWindowX"] = 565.000061035156,
+			["MainWindowWidth"] = 247,
+			["MainWindowHeight"] = 225.999984741211,
 		},
 		["Suhdrude - Anvilmar"] = {
 			["MainWindow"] = {
@@ -108,14 +108,16 @@ RecountDB = {
 		["Eyebrowse - Kel'Thuzad"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -359.000274658203,
-					["x"] = 764.000244140625,
-					["w"] = 189.999847412109,
-					["h"] = 185.999984741211,
+					["y"] = -308,
+					["x"] = 765,
+					["w"] = 221.999816894531,
+					["h"] = 255.999984741211,
 				},
 			},
-			["MainWindowMode"] = 2,
-			["MainWindowHeight"] = 185.999954223633,
+			["DetailWindowX"] = 684.000915527344,
+			["MainWindowHeight"] = 256.000061035156,
+			["Font"] = "2002 Bold",
+			["SegmentBosses"] = true,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -126,8 +128,11 @@ RecountDB = {
 					},
 				},
 			},
-			["CurDataSet"] = "LastFightData",
-			["MainWindowWidth"] = 189.999984741211,
+			["DetailWindowY"] = -306.999847412109,
+			["MainWindowMode"] = 2,
+			["CurDataSet"] = "OverallData",
+			["MainWindowWidth"] = 221.999954223633,
+			["LastInstanceName"] = "Twin Peaks",
 		},
 	},
 }

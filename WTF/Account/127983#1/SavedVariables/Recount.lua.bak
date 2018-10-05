@@ -11,8 +11,8 @@ RecountDB = {
 		["Twiddlederr - Kel'Thuzad"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -162,
-					["x"] = 467.000122070313,
+					["y"] = -388.999786376953,
+					["x"] = 853.000366210938,
 					["w"] = 201.999923706055,
 					["h"] = 209.999984741211,
 				},
@@ -31,9 +31,9 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = -305.000061035156,
-			["DetailWindowX"] = 565.000061035156,
-			["MainWindowWidth"] = 247,
 			["MainWindowHeight"] = 225.999984741211,
+			["MainWindowWidth"] = 247,
+			["DetailWindowX"] = 565.000061035156,
 		},
 		["Suhdrude - Anvilmar"] = {
 			["MainWindow"] = {
@@ -65,10 +65,6 @@ RecountDB = {
 				},
 			},
 			["MainWindowMode"] = 2,
-			["LastInstanceName"] = "Dalaran Sewers",
-			["MainWindowHeight"] = 207.000076293945,
-			["CurDataSet"] = "OverallData",
-			["MainWindowWidth"] = 211,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -79,6 +75,10 @@ RecountDB = {
 					},
 				},
 			},
+			["LastInstanceName"] = "Dalaran Sewers",
+			["CurDataSet"] = "OverallData",
+			["MainWindowWidth"] = 211,
+			["MainWindowHeight"] = 207.000076293945,
 		},
 		["Twiddlederr - Anvilmar"] = {
 			["MainWindow"] = {
@@ -108,13 +108,14 @@ RecountDB = {
 		["Eyebrowse - Kel'Thuzad"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -359.000350952148,
-					["x"] = 764.000244140625,
-					["w"] = 189.999847412109,
-					["h"] = 185.999984741211,
+					["y"] = -308,
+					["x"] = 765,
+					["w"] = 221.999816894531,
+					["h"] = 255.999984741211,
 				},
 			},
-			["MainWindowHeight"] = 185.999954223633,
+			["MainWindowHeight"] = 256.000061035156,
+			["SegmentBosses"] = true,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -125,9 +126,13 @@ RecountDB = {
 					},
 				},
 			},
-			["MainWindowMode"] = 2,
+			["DetailWindowY"] = -306.999847412109,
+			["DetailWindowX"] = 684.000915527344,
+			["LastInstanceName"] = "Twin Peaks",
+			["Font"] = "2002 Bold",
 			["CurDataSet"] = "OverallData",
-			["MainWindowWidth"] = 189.999984741211,
+			["MainWindowMode"] = 2,
+			["MainWindowWidth"] = 221.999954223633,
 		},
 	},
 }
