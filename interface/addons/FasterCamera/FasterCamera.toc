@@ -1,9 +1,9 @@
 ## Interface: 80000
 ## Version: v2.2.0
-## Title: MaxCam
-## Notes: Max Camera
+## Title: FasterCamera
+## Notes: Accelerates Camera Zooming
 ## Author: Ketho @ EU-Boulderfist
-## SavedVariables: MaxCamDB
+## SavedVariables: FasterCameraDB2
 ## OptionalDeps: Ace3
 ## X-Embeds: Ace3
 
@@ -17,4 +17,4 @@ Libs\AceConfig-3.0\AceConfig-3.0.xml
 Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
 
 Locales.lua
-MaxCam.lua
+FasterCamera.lua

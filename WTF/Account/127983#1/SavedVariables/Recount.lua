@@ -31,9 +31,9 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = -305.000061035156,
-			["MainWindowHeight"] = 225.999984741211,
-			["MainWindowWidth"] = 247,
 			["DetailWindowX"] = 565.000061035156,
+			["MainWindowWidth"] = 247,
+			["MainWindowHeight"] = 225.999984741211,
 		},
 		["Suhdrude - Anvilmar"] = {
 			["MainWindow"] = {
@@ -65,8 +65,8 @@ RecountDB = {
 				},
 			},
 			["MainWindowMode"] = 2,
-			["MainWindowHeight"] = 207.000076293945,
 			["LastInstanceName"] = "Dalaran Sewers",
+			["MainWindowHeight"] = 207.000076293945,
 			["CurDataSet"] = "OverallData",
 			["MainWindowWidth"] = 211,
 			["Colors"] = {
@@ -90,6 +90,10 @@ RecountDB = {
 				},
 			},
 			["MainWindowMode"] = 2,
+			["MainWindowHeight"] = 209.999984741211,
+			["LastInstanceName"] = "Silvershard Mines",
+			["CurDataSet"] = "LastFightData",
+			["MainWindowWidth"] = 201.999923706055,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -100,20 +104,17 @@ RecountDB = {
 					},
 				},
 			},
-			["MainWindowHeight"] = 209.999984741211,
-			["CurDataSet"] = "LastFightData",
-			["MainWindowWidth"] = 201.999923706055,
-			["LastInstanceName"] = "Silvershard Mines",
 		},
 		["Eyebrowse - Kel'Thuzad"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -308,
-					["x"] = 765,
+					["y"] = -307.999862670898,
+					["x"] = 783.000122070313,
 					["w"] = 221.999816894531,
 					["h"] = 255.999984741211,
 				},
 			},
+			["MainWindowMode"] = 2,
 			["MainWindowHeight"] = 256.000061035156,
 			["SegmentBosses"] = true,
 			["Colors"] = {
@@ -126,13 +127,12 @@ RecountDB = {
 					},
 				},
 			},
-			["DetailWindowY"] = -306.999847412109,
-			["DetailWindowX"] = 684.000915527344,
-			["LastInstanceName"] = "Uldir",
-			["CurDataSet"] = "LastFightData",
-			["MainWindowMode"] = 5,
-			["Font"] = "2002 Bold",
+			["DetailWindowY"] = -305.000030517578,
+			["DetailWindowX"] = 800.000244140625,
+			["LastInstanceName"] = "Verdant Wilds (Islands 8)",
+			["CurDataSet"] = "OverallData",
 			["MainWindowWidth"] = 221.999954223633,
+			["Font"] = "2002 Bold",
 		},
 	},
 }

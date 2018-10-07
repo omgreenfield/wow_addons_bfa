@@ -31,9 +31,9 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = -305.000061035156,
-			["DetailWindowX"] = 565.000061035156,
-			["MainWindowWidth"] = 247,
 			["MainWindowHeight"] = 225.999984741211,
+			["MainWindowWidth"] = 247,
+			["DetailWindowX"] = 565.000061035156,
 		},
 		["Suhdrude - Anvilmar"] = {
 			["MainWindow"] = {
@@ -75,10 +75,10 @@ RecountDB = {
 					},
 				},
 			},
-			["LastInstanceName"] = "Dalaran Sewers",
+			["MainWindowHeight"] = 207.000076293945,
 			["CurDataSet"] = "OverallData",
 			["MainWindowWidth"] = 211,
-			["MainWindowHeight"] = 207.000076293945,
+			["LastInstanceName"] = "Dalaran Sewers",
 		},
 		["Twiddlederr - Anvilmar"] = {
 			["MainWindow"] = {
@@ -90,10 +90,6 @@ RecountDB = {
 				},
 			},
 			["MainWindowMode"] = 2,
-			["MainWindowHeight"] = 209.999984741211,
-			["LastInstanceName"] = "Silvershard Mines",
-			["CurDataSet"] = "LastFightData",
-			["MainWindowWidth"] = 201.999923706055,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -104,19 +100,22 @@ RecountDB = {
 					},
 				},
 			},
+			["LastInstanceName"] = "Silvershard Mines",
+			["CurDataSet"] = "LastFightData",
+			["MainWindowWidth"] = 201.999923706055,
+			["MainWindowHeight"] = 209.999984741211,
 		},
 		["Eyebrowse - Kel'Thuzad"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -308,
-					["x"] = 765,
-					["w"] = 221.999816894531,
+					["y"] = -307.999923706055,
+					["x"] = 783.000122070313,
+					["w"] = 221.999954223633,
 					["h"] = 255.999984741211,
 				},
 			},
-			["DetailWindowX"] = 684.000915527344,
+			["MainWindowMode"] = 2,
 			["MainWindowHeight"] = 256.000061035156,
-			["Font"] = "2002 Bold",
 			["SegmentBosses"] = true,
 			["Colors"] = {
 				["Bar"] = {
@@ -129,10 +128,11 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = -306.999847412109,
-			["MainWindowMode"] = 2,
+			["DetailWindowX"] = 684.000915527344,
+			["LastInstanceName"] = "Uldir",
+			["Font"] = "2002 Bold",
 			["CurDataSet"] = "OverallData",
 			["MainWindowWidth"] = 221.999954223633,
-			["LastInstanceName"] = "Twin Peaks",
 		},
 	},
 }

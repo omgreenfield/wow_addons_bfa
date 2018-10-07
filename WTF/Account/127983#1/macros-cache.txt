@@ -47,6 +47,9 @@ VER 3 000000000000004B "CCMO" "136022"
 /cast [@mouseover, exists] Cyclone;
 /cast Cyclone;
 END
+VER 3 000000000000005F "cF" "INV_MISC_QUESTIONMARK"
+/clearfocus
+END
 VER 3 0000000000000056 "chatL" "INV_MISC_QUESTIONMARK"
 /chatlog
 END
@@ -54,7 +57,8 @@ VER 3 0000000000000017 "Consume Magic" "ABILITY_DEMONHUNTER_CONSUMEMAGIC"
 /cast [nomod,@target] [mod:shift,@arena1] [mod:alt,@arena2] [mod:ctrl,@arena3] Consume Magic;
 END
 VER 3 000000000000002E "CycloneOPIE" "SPELL_NATURE_EARTHBIND"
-/click ORLOpen Cyclone
+/click [@arena1, exists] ORLOpen Cyclone
+/cast [@arena1, noexists] Cyclone
 END
 VER 3 0000000000000028 "DisableRBTarget1" "INV_MISC_QUESTIONMARK"
 /run local f=CreateFrame("button","mlook")f:RegisterForClicks("AnyDown","AnyUp")f:SetScript("OnClick",function(s,b,d)if d then MouselookStart()else MouselookStop()end end)SecureStateDriverManager:RegisterEvent("UPDATE_MOUSEOVER_UNIT")
@@ -64,6 +68,9 @@ VER 3 0000000000000029 "DisableRBTarget2" "INV_MISC_QUESTIONMARK"
 END
 VER 3 000000000000003B "FishOpie" "134017"
 /click ORLOpen Fishing
+END
+VER 3 000000000000005D "FT" "INV_MISC_QUESTIONMARK"
+/focus [@target]
 END
 VER 3 0000000000000027 "HealerProfRing" "INV_MISC_QUESTIONMARK"
 /click ORLOpen rofessions
@@ -134,7 +141,8 @@ VER 3 0000000000000051 "rootMo" "136100"
 /cast Entangling Roots;
 END
 VER 3 0000000000000052 "rootPi" "136100"
-/click ORLOpen Roots
+/click [@arena1, exists] ORLOpen Roots
+/cast  [@arena1, noexists] Entangling Roots
 END
 VER 3 0000000000000050 "rootPi" "INV_MISC_QUESTIONMARK"
 /click ORLOpen Roots
@@ -144,6 +152,14 @@ VER 3 0000000000000033 "RootsOrInnervate" "SPELL_NATURE_STRANGLEVINES"
 /cast [@target, exists, help] Innvervate;
 /click [@target,harm] ORLOpen Roots
 /cast Innervate;
+END
+VER 3 000000000000005E "sFT" "INV_MISC_QUESTIONMARK"
+/focus [target=mouseover][@focus, noexists]
+/target [@focus, exists] focus;
+/targetlasttarget [@focus, exists];
+/focus [@focus, exists];
+/targetlasttarge [@focus, exists];
+/O
 END
 VER 3 0000000000000053 "sit" "INV_MISC_QUESTIONMARK"
 /sit

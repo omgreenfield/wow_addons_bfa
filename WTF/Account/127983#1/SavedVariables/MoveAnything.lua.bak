@@ -27,15 +27,15 @@ MADB = {
 						"CENTER", -- [1]
 						"UIParent", -- [2]
 						"CENTER", -- [3]
-						-510.175415039063, -- [4]
-						0, -- [5]
+						400, -- [4]
+						197.473663330078, -- [5]
 					},
 				},
 			},
 		},
 	},
-	["frameListRows"] = 18,
-	["noBags"] = false,
-	["playSound"] = false,
 	["closeGUIOnEscape"] = false,
+	["playSound"] = false,
+	["noBags"] = false,
+	["frameListRows"] = 18,
 }

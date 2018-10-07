@@ -1,17 +1,10 @@
 -- Author: Ketho (EU-Boulderfist)
 -- License: Public Domain
 
-local disable = {
-	DynamicCam = "DynamicCam is more advanced",
-	FasterCamera = "FasterCamera is MaxCam",
-}
-
-for k, v in pairs(disable) do
-	if IsAddOnLoaded(k) then
-		print(v..", disabling MaxCam...")
-		DisableAddOn("MaxCam", true)
-		return
-	end
+if IsAddOnLoaded("DynamicCam") then
+	print("DynamicCam is more advanced, disabling FasterCamera...")
+	DisableAddOn("FasterCamera", true)
+	return
 end
 
 local NAME, S = ...
@@ -111,10 +104,10 @@ local f = CreateFrame("Frame")
 
 function f:OnEvent(event, addon)
 	if addon == NAME then
-		if not MaxCamDB or MaxCamDB.db_version < defaults.db_version then
-			MaxCamDB = CopyTable(defaults)
+		if not FasterCameraDB2 or FasterCameraDB2.db_version < defaults.db_version then
+			FasterCameraDB2 = CopyTable(defaults)
 		end
-		db = MaxCamDB
+		db = FasterCameraDB2
 		
 		ACR:RegisterOptionsTable(NAME, options)
 		ACD:AddToBlizOptions(NAME, NAME)
@@ -137,8 +130,8 @@ f:SetScript("OnEvent", f.OnEvent)
 local function UpdateDistanceACD() -- AceGUI distance
 	ACR:NotifyChange(NAME) -- hide that initial flicker
 	C_Timer.NewTicker(.5, function(self)
-		if ACD.OpenFrames.MaxCam then
-			if not ACD.OpenFrames.MaxCam.frame:IsMouseOver() and not GetCurrentKeyBoardFocus() then
+		if ACD.OpenFrames.FasterCamera then
+			if not ACD.OpenFrames.FasterCamera.frame:IsMouseOver() and not GetCurrentKeyBoardFocus() then
 				ACR:NotifyChange(NAME)
 			end
 		else
@@ -166,15 +159,15 @@ local function UpdateDistancePanel() -- InterfaceOptionsFrame distance
 	end
 end
 
-hooksecurefunc("InterfaceOptionsList_DisplayPanel", UpdateDistancePanel) -- navigating to MaxCam panel
-InterfaceOptionsFrame:HookScript("OnShow", UpdateDistancePanel) -- opening straight to MaxCam panel
+hooksecurefunc("InterfaceOptionsList_DisplayPanel", UpdateDistancePanel) -- navigating to FasterCamera panel
+InterfaceOptionsFrame:HookScript("OnShow", UpdateDistancePanel) -- opening straight to FasterCamera panel
 
-for i, v in pairs({"mc", "maxcam"}) do
-	_G["SLASH_MAXCAM"..i] = "/"..v
+for i, v in pairs({"fc", "fastercam", "fastercamera"}) do
+	_G["SLASH_FASTERCAMERA"..i] = "/"..v
 end
 
-function SlashCmdList.MAXCAM()
-	if not ACD.OpenFrames.MaxCam then
+function SlashCmdList.FASTERCAMERA()
+	if not ACD.OpenFrames.FasterCamera then
 		ACD:Open(NAME)
 		UpdateDistanceACD()
 	end
@@ -185,7 +178,7 @@ local dataobject = {
 	icon = "Interface\\Icons\\inv_misc_spyglass_03",
 	text = NAME,
 	OnClick = function()
-		if ACD.OpenFrames.MaxCam then
+		if ACD.OpenFrames.FasterCamera then
 			ACD:Close(NAME)
 		else
 			ACD:Open(NAME)
