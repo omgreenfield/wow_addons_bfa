@@ -1,0 +1,26 @@
+
+RaiderIO_Config = {
+	["enableKeystoneTooltips"] = true,
+	["disableScoreColors"] = false,
+	["enableWhoTooltips"] = true,
+	["showRaiderIOProfile"] = true,
+	["enableLFGDropdown"] = true,
+	["enableGuildTooltips"] = true,
+	["inverseProfileModifier"] = false,
+	["showScoreInCombat"] = true,
+	["lockProfile"] = false,
+	["alwaysExtendTooltip"] = false,
+	["showMainsScore"] = true,
+	["enableFriendsTooltips"] = true,
+	["enableProfileModifier"] = true,
+	["showDropDownCopyURL"] = true,
+	["showAverageScore"] = true,
+	["enableLFGTooltips"] = true,
+	["enableClientEnhancements"] = true,
+	["positionProfileAuto"] = true,
+	["enableWhoMessages"] = true,
+	["showSimpleScoreColors"] = false,
+	["enableUnitTooltips"] = true,
+	["showClientGuildBest"] = true,
+}
+RaiderIO_LastCharacter = "us-Fistbeavers-kelthuzad"

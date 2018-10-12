@@ -1,34 +1,18 @@
 
-PABDB = {
-	["showTrinket"] = false,
-	["attach"] = false,
-	["showSelf"] = false,
-	["hidden"] = false,
+ATTDB = {
 	["classSelected"] = "WARRIOR",
-	["showIconBorders"] = false,
-	["lock"] = false,
+	["growLeft"] = true,
+	["scale"] = 1,
+	["showSelf"] = false,
+	["dampening"] = true,
+	["arenanumber"] = true,
 	["abilities"] = {
 		["HUNTER"] = {
 			["254"] = {
-				{
-					["ability"] = "Freezing Trap",
-					["cooldown"] = 30,
-					["id"] = 187650,
-				}, -- [1]
 			},
 			["255"] = {
-				{
-					["ability"] = "Freezing Trap",
-					["cooldown"] = 24,
-					["id"] = 187650,
-				}, -- [1]
 			},
 			["253"] = {
-				{
-					["ability"] = "Freezing Trap",
-					["cooldown"] = 30,
-					["id"] = 187650,
-				}, -- [1]
 			},
 			["ALL"] = {
 				{
@@ -36,6 +20,16 @@ PABDB = {
 					["cooldown"] = 180,
 					["id"] = 186265,
 				}, -- [1]
+				{
+					["ability"] = "Freezing Trap",
+					["cooldown"] = 30,
+					["id"] = 187650,
+				}, -- [2]
+				{
+					["ability"] = "Roar of Sacrifice",
+					["cooldown"] = 60,
+					["id"] = 53480,
+				}, -- [3]
 			},
 		},
 		["WARRIOR"] = {
@@ -58,15 +52,11 @@ PABDB = {
 					["id"] = 6552,
 				}, -- [1]
 				{
-					["maxcharges"] = false,
-					["talent"] = "honor",
 					["ability"] = "Disarm",
-					["cooldown"] = 30,
+					["cooldown"] = 45,
 					["id"] = 236077,
 				}, -- [2]
 				{
-					["maxcharges"] = false,
-					["talent"] = "spec",
 					["ability"] = "Storm Bolt",
 					["cooldown"] = 30,
 					["id"] = 107570,
@@ -94,6 +84,11 @@ PABDB = {
 					["cooldown"] = 12,
 					["id"] = 57994,
 				}, -- [2]
+				{
+					["ability"] = "Ascendance",
+					["cooldown"] = 180,
+					["id"] = 114052,
+				}, -- [3]
 			},
 			["264"] = {
 				{
@@ -101,6 +96,11 @@ PABDB = {
 					["cooldown"] = 180,
 					["id"] = 98008,
 				}, -- [1]
+				{
+					["ability"] = "Earthen Wall Totem",
+					["cooldown"] = 60,
+					["id"] = 198838,
+				}, -- [2]
 			},
 			["263"] = {
 			},
@@ -110,8 +110,6 @@ PABDB = {
 		["MAGE"] = {
 			["ALL"] = {
 				{
-					["maxcharges"] = false,
-					["talent"] = "honor",
 					["ability"] = "Temporal Shield",
 					["cooldown"] = 45,
 					["id"] = 198111,
@@ -127,8 +125,6 @@ PABDB = {
 					["id"] = 45438,
 				}, -- [3]
 				{
-					["maxcharges"] = false,
-					["talent"] = "spec",
 					["ability"] = "Ring of Frost",
 					["cooldown"] = 45,
 					["id"] = 113724,
@@ -144,11 +140,6 @@ PABDB = {
 					["cooldown"] = 20,
 					["id"] = 31661,
 				}, -- [1]
-				{
-					["ability"] = "Cauterize",
-					["cooldown"] = 300,
-					["id"] = 86949,
-				}, -- [2]
 			},
 		},
 		["PRIEST"] = {
@@ -157,12 +148,12 @@ PABDB = {
 			["256"] = {
 				{
 					["ability"] = "Psychic Scream",
-					["cooldown"] = 30,
+					["cooldown"] = 60,
 					["id"] = 8122,
 				}, -- [1]
 				{
 					["ability"] = "Pain Suppression",
-					["cooldown"] = 210,
+					["cooldown"] = 180,
 					["id"] = 33206,
 				}, -- [2]
 				{
@@ -179,7 +170,7 @@ PABDB = {
 				}, -- [1]
 				{
 					["ability"] = "Psychic Scream",
-					["cooldown"] = 30,
+					["cooldown"] = 60,
 					["id"] = 8122,
 				}, -- [2]
 				{
@@ -191,17 +182,17 @@ PABDB = {
 			["257"] = {
 				{
 					["ability"] = "Greater Fade",
-					["cooldown"] = 30,
+					["cooldown"] = 45,
 					["id"] = 213602,
 				}, -- [1]
 				{
 					["ability"] = "Ray of Hope",
-					["cooldown"] = 45,
+					["cooldown"] = 60,
 					["id"] = 197268,
 				}, -- [2]
 				{
 					["ability"] = "Guardian Spirit",
-					["cooldown"] = 240,
+					["cooldown"] = 180,
 					["id"] = 47788,
 				}, -- [3]
 			},
@@ -214,11 +205,9 @@ PABDB = {
 					["id"] = 5277,
 				}, -- [1]
 				{
-					["maxcharges"] = false,
-					["talent"] = "honor",
 					["ability"] = "Smoke Bomb",
 					["cooldown"] = 180,
-					["id"] = 76577,
+					["id"] = 212182,
 				}, -- [2]
 			},
 			["260"] = {
@@ -230,15 +219,10 @@ PABDB = {
 					["id"] = 1766,
 				}, -- [1]
 				{
-					["ability"] = "Blind",
-					["cooldown"] = 120,
-					["id"] = 2094,
-				}, -- [2]
-				{
 					["ability"] = "Cloak of Shadows",
-					["cooldown"] = 90,
+					["cooldown"] = 120,
 					["id"] = 31224,
-				}, -- [3]
+				}, -- [2]
 			},
 			["259"] = {
 				{
@@ -246,6 +230,16 @@ PABDB = {
 					["cooldown"] = 120,
 					["id"] = 5277,
 				}, -- [1]
+				{
+					["ability"] = "Blind",
+					["cooldown"] = 120,
+					["id"] = 2094,
+				}, -- [2]
+				{
+					["ability"] = "Smoke Bomb",
+					["cooldown"] = 180,
+					["id"] = 212182,
+				}, -- [3]
 			},
 		},
 		["WARLOCK"] = {
@@ -263,26 +257,15 @@ PABDB = {
 					["id"] = 104773,
 				}, -- [2]
 				{
-					["maxcharges"] = false,
-					["talent"] = "spec",
-					["ability"] = "Mortal Coil",
-					["cooldown"] = 45,
-					["id"] = 6789,
-				}, -- [3]
-				{
-					["maxcharges"] = false,
-					["talent"] = "spec",
 					["ability"] = "Dark Pact",
 					["cooldown"] = 60,
 					["id"] = 108416,
-				}, -- [4]
+				}, -- [3]
 				{
-					["maxcharges"] = false,
-					["talent"] = "honor",
 					["ability"] = "Nether Ward",
 					["cooldown"] = 45,
 					["id"] = 212295,
-				}, -- [5]
+				}, -- [4]
 			},
 			["267"] = {
 			},
@@ -298,21 +281,26 @@ PABDB = {
 				}, -- [1]
 				{
 					["ability"] = "Disrupt",
-					["cooldown"] = 15,
+					["cooldown"] = 10,
 					["id"] = 183752,
 				}, -- [2]
 				{
 					["ability"] = "Imprison",
-					["cooldown"] = 15,
+					["cooldown"] = 45,
 					["id"] = 217832,
 				}, -- [3]
+				{
+					["ability"] = "Metamorphosis",
+					["cooldown"] = 240,
+				}, -- [4]
 			},
 			["581"] = {
 			},
 			["577"] = {
 				{
 					["ability"] = "Darkness",
-					["cooldown"] = 1,
+					["cooldown"] = 180,
+					["id"] = 196718,
 				}, -- [1]
 			},
 		},
@@ -351,7 +339,7 @@ PABDB = {
 			["251"] = {
 				{
 					["ability"] = "Wraith Walk",
-					["cooldown"] = 45,
+					["cooldown"] = 60,
 					["id"] = 212552,
 				}, -- [1]
 			},
@@ -365,14 +353,9 @@ PABDB = {
 				}, -- [1]
 				{
 					["ability"] = "Ironbark",
-					["cooldown"] = 90,
+					["cooldown"] = 60,
 					["id"] = 102342,
 				}, -- [2]
-				{
-					["ability"] = "Overgrowth",
-					["cooldown"] = 45,
-					["id"] = 203651,
-				}, -- [3]
 			},
 			["104"] = {
 			},
@@ -382,10 +365,6 @@ PABDB = {
 					["cooldown"] = 50,
 					["id"] = 5211,
 				}, -- [1]
-				{
-					["ability"] = "Ironbark",
-					["cooldown"] = 1,
-				}, -- [2]
 			},
 			["103"] = {
 				{
@@ -396,7 +375,7 @@ PABDB = {
 				{
 					["maxcharges"] = 2,
 					["ability"] = "Survival Instincts",
-					["cooldown"] = 120,
+					["cooldown"] = 180,
 					["id"] = 61336,
 				}, -- [2]
 			},
@@ -417,7 +396,7 @@ PABDB = {
 			["270"] = {
 				{
 					["ability"] = "Life Cocoon",
-					["cooldown"] = 180,
+					["cooldown"] = 120,
 					["id"] = 116849,
 				}, -- [1]
 			},
@@ -432,55 +411,57 @@ PABDB = {
 					["cooldown"] = 90,
 					["id"] = 122470,
 				}, -- [2]
+				{
+					["ability"] = "Fortifying Brew",
+					["cooldown"] = 90,
+					["id"] = 201318,
+				}, -- [3]
 			},
 			["268"] = {
 			},
 			["ALL"] = {
 				{
-					["ability"] = "Transcendence: Transfer",
-					["cooldown"] = 25,
-					["id"] = 119996,
-				}, -- [1]
-				{
-					["maxcharges"] = false,
-					["talent"] = "spec",
 					["ability"] = "Leg Sweep",
-					["cooldown"] = 45,
+					["cooldown"] = 60,
 					["id"] = 119381,
-				}, -- [2]
+				}, -- [1]
 			},
 		},
 		["PALADIN"] = {
 			["65"] = {
 				{
 					["maxcharges"] = 2,
-					["ability"] = "Hand of Protection",
-					["cooldown"] = 300,
-					["id"] = 150630,
-				}, -- [1]
-				{
-					["maxcharges"] = 2,
 					["ability"] = "Blessing of Sacrifice",
-					["cooldown"] = 150,
+					["cooldown"] = 120,
 					["id"] = 6940,
-				}, -- [2]
+				}, -- [1]
 				{
 					["ability"] = "Divine Shield",
 					["cooldown"] = 300,
 					["id"] = 642,
+				}, -- [2]
+				{
+					["ability"] = "Avenging Crusader",
+					["cooldown"] = 120,
+					["id"] = 216331,
 				}, -- [3]
 				{
-					["maxcharges"] = false,
-					["talent"] = "spec",
-					["ability"] = "Avenging Crusader",
-					["cooldown"] = 60,
-					["id"] = 216331,
+					["maxcharges"] = 2,
+					["ability"] = "Blessing of Protection",
+					["cooldown"] = 300,
+					["id"] = 1022,
 				}, -- [4]
+				{
+					["maxcharges"] = 2,
+					["ability"] = "Blessing of Freedom",
+					["cooldown"] = 25,
+					["id"] = 1044,
+				}, -- [5]
 			},
 			["70"] = {
 				{
 					["ability"] = "Divine Shield",
-					["cooldown"] = 240,
+					["cooldown"] = 300,
 					["id"] = 642,
 				}, -- [1]
 				{
@@ -489,49 +470,66 @@ PABDB = {
 					["id"] = 96231,
 				}, -- [2]
 				{
-					["ability"] = "Hand of Protection",
+					["ability"] = "Blessing of Protection",
 					["cooldown"] = 300,
-					["id"] = 150630,
+					["id"] = 1022,
 				}, -- [3]
+				{
+					["ability"] = "Blessing of Freedom",
+					["cooldown"] = 25,
+					["id"] = 1044,
+				}, -- [4]
+				{
+					["ability"] = "Blessing of Sanctuary",
+					["cooldown"] = 45,
+					["id"] = 210256,
+				}, -- [5]
+				{
+					["ability"] = "Eye for an Eye",
+					["cooldown"] = 60,
+					["id"] = 205191,
+				}, -- [6]
 			},
 			["ALL"] = {
 				{
 					["ability"] = "Hammer of Justice",
-					["cooldown"] = 30,
+					["cooldown"] = 60,
 					["id"] = 853,
 				}, -- [1]
+			},
+			["66"] = {
 				{
-					["ability"] = "Hand of Freedom",
+					["ability"] = "Rebuke",
 					["cooldown"] = 15,
-					["id"] = 66115,
-				}, -- [2]
+					["id"] = 96231,
+				}, -- [1]
 			},
 		},
 	},
-	["showTooltip"] = false,
+	["showTooltip"] = true,
 	["iconOffsetX"] = "0",
-	["arena"] = false,
+	["showTrinket"] = true,
 	["positions"] = {
 		{
-			["y"] = -444.088682628335,
-			["x"] = 222.933403835696,
+			["y"] = -439.821994156964,
+			["x"] = 355.911358444564,
 		}, -- [1]
 		{
-			["y"] = -490.311209789252,
-			["x"] = 225.066910831802,
+			["y"] = -487.466635067594,
+			["x"] = 361.600117262869,
 		}, -- [2]
 		{
-			["y"] = -541.511102522081,
-			["x"] = 226.488981178736,
+			["y"] = -538.666397592087,
+			["x"] = 356.622295961779,
 		}, -- [3]
 		{
-			["y"] = -587.732815880895,
-			["x"] = 223.644623470973,
+			["y"] = -585.599732061883,
+			["x"] = 356.622209156221,
 		}, -- [4]
 		{
-			["y"] = -378.66658903029,
+			["y"] = -378.666415419175,
 			["x"] = 677.333349734545,
 		}, -- [5]
 	},
-	["scale"] = 1,
+	["showIconBorders"] = true,
 }

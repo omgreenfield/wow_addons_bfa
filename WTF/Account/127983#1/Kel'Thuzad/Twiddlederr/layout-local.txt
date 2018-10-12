@@ -36,8 +36,8 @@ W: 600
 H: 318
 Frame: InterfaceOptionsFrame
 FrameLevel: 1
-Anchor: LEFT
-X: 21
-Y: 0
+Anchor: TOPRIGHT
+X: -131
+Y: -13
 W: 858
 H: 660

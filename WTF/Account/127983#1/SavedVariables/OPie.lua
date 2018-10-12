@@ -24,16 +24,16 @@ OneRing_Config = {
 			["XTScaleSpeed"] = 4,
 			["MISpinOnHide"] = false,
 			["XTRotationPeriod"] = 10,
+			["ShowRecharge"] = true,
 			["XTZoomTime"] = 0,
-			["XTPointerSpeed"] = 4,
-			["IndicationOffsetY"] = -150,
+			["IndicationOffsetX"] = 150,
 			["ShowCooldowns"] = true,
 			["CenterAction"] = true,
 			["RingOptions"] = {
 				["RaidSymbols#SliceBinding"] = true,
 			},
-			["IndicationOffsetX"] = 150,
-			["ShowRecharge"] = true,
+			["IndicationOffsetY"] = -150,
+			["XTPointerSpeed"] = 4,
 		},
 	},
 	["PersistentStorage"] = {
@@ -117,8 +117,8 @@ OneRing_Config = {
 					["sliceToken"] = "ABuedpFdSbi",
 				}, -- [4]
 				["save"] = true,
-				["limit"] = "Fistbeavers-Kel'Thuzad",
 				["name"] = "Disarm",
+				["limit"] = "Fistbeavers-Kel'Thuzad",
 			},
 			["Shifts"] = {
 				{
@@ -134,8 +134,8 @@ OneRing_Config = {
 					["id"] = 5487,
 				}, -- [3]
 				{
-					["id"] = 197625,
 					["sliceToken"] = "ABuedablyZd",
+					["id"] = 197625,
 				}, -- [4]
 				{
 					["sliceToken"] = "ABuedablyZ2",
@@ -215,50 +215,6 @@ OneRing_Config = {
 				["name"] = "ConsumeMagic",
 				["save"] = true,
 			},
-			["Buffs"] = {
-				{
-					"item", -- [1]
-					160053, -- [2]
-					["sliceToken"] = "ABuedrxG0nf",
-				}, -- [1]
-				{
-					"item", -- [1]
-					120257, -- [2]
-					["sliceToken"] = "ABuedrxG0nd",
-				}, -- [2]
-				{
-					"item", -- [1]
-					154167, -- [2]
-					["sliceToken"] = "ABued2w6wRe",
-				}, -- [3]
-				{
-					"item", -- [1]
-					142406, -- [2]
-					["sliceToken"] = "ABueda8IHUe",
-				}, -- [4]
-				{
-					"item", -- [1]
-					158201, -- [2]
-					["sliceToken"] = "ABueds3Srxu",
-				}, -- [5]
-				{
-					"item", -- [1]
-					158202, -- [2]
-					["sliceToken"] = "ABueds3Srxy",
-				}, -- [6]
-				{
-					"item", -- [1]
-					158204, -- [2]
-					["sliceToken"] = "ABueds3Srxi",
-				}, -- [7]
-				{
-					"item", -- [1]
-					152639, -- [2]
-					["sliceToken"] = "ABued4la3ie",
-				}, -- [8]
-				["name"] = "Buffs",
-				["save"] = true,
-			},
 			["Res"] = {
 				{
 					["sliceToken"] = "ABueddABZUy",
@@ -303,9 +259,9 @@ OneRing_Config = {
 					["sliceToken"] = "ABuedsRZ0wb",
 					["id"] = 193753,
 				}, -- [4]
-				["name"] = "FuckOff",
-				["save"] = true,
 				["limit"] = "Eyebrowse-Kel'Thuzad",
+				["save"] = true,
+				["name"] = "FuckOff",
 			},
 			["Imprison"] = {
 				{
@@ -333,8 +289,8 @@ OneRing_Config = {
 					["sliceToken"] = "ABue3VjFJrT",
 				}, -- [5]
 				["save"] = true,
-				["name"] = "Imprison",
 				["limit"] = "Twiddlederr-Kel'Thuzad",
+				["name"] = "Imprison",
 			},
 			["Potions"] = {
 				{
@@ -396,7 +352,28 @@ OneRing_Config = {
 					1, -- [2]
 					["sliceToken"] = "ABuedsRZ0wi",
 				}, -- [4]
+				["limit"] = "Eyebrowse-Kel'Thuzad",
+				["save"] = true,
 				["name"] = "Specs",
+			},
+			["Hibernate"] = {
+				{
+					["show"] = "[@arena1, exists]",
+					["sliceToken"] = "ABuedzzY31E",
+					["caption"] = "",
+					["id"] = "/cast [@arena1, exists] {{spell:2637}}",
+				}, -- [1]
+				{
+					["show"] = "[@arena2, exists] ",
+					["sliceToken"] = "ABuedzzY31W",
+					["id"] = "/cast [@arena2, exists] {{spell:2637}}",
+				}, -- [2]
+				{
+					["show"] = "[@arena3, exists] ",
+					["sliceToken"] = "ABuedzzY31Q",
+					["id"] = "/cast [@arena3, exists] {{spell:2637}}",
+				}, -- [3]
+				["name"] = "Hibernate",
 				["save"] = true,
 				["limit"] = "Eyebrowse-Kel'Thuzad",
 			},
@@ -426,8 +403,8 @@ OneRing_Config = {
 					["fastClick"] = true,
 				}, -- [4]
 				["save"] = true,
-				["limit"] = "Fistbeavers-Kel'Thuzad",
 				["name"] = "Incap",
+				["limit"] = "Fistbeavers-Kel'Thuzad",
 			},
 			["Fishing"] = {
 				{
@@ -472,8 +449,8 @@ OneRing_Config = {
 					["sliceToken"] = "ABuedivYhUr",
 				}, -- [2]
 				["save"] = true,
-				["limit"] = "Fistbeavers-Kel'Thuzad",
 				["name"] = "MonkDmg",
+				["limit"] = "Fistbeavers-Kel'Thuzad",
 			},
 			["Profs1"] = {
 				{
@@ -538,55 +515,49 @@ OneRing_Config = {
 				["name"] = "Mounts",
 				["save"] = true,
 			},
-			["RaidSymbols"] = {
+			["Buffs"] = {
 				{
-					"raidmark", -- [1]
-					8, -- [2]
-					["sliceToken"] = "OPCRSw",
+					"item", -- [1]
+					160053, -- [2]
+					["sliceToken"] = "ABuedrxG0nf",
 				}, -- [1]
 				{
-					"raidmark", -- [1]
-					7, -- [2]
-					["sliceToken"] = "OPCRSr",
+					"item", -- [1]
+					120257, -- [2]
+					["sliceToken"] = "ABuedrxG0nd",
 				}, -- [2]
 				{
-					"raidmark", -- [1]
-					2, -- [2]
-					["sliceToken"] = "OPCRSo",
+					"item", -- [1]
+					154167, -- [2]
+					["sliceToken"] = "ABued2w6wRe",
 				}, -- [3]
 				{
-					"raidmark", -- [1]
-					6, -- [2]
-					["sliceToken"] = "OPCRSb",
+					"item", -- [1]
+					142406, -- [2]
+					["sliceToken"] = "ABueda8IHUe",
 				}, -- [4]
 				{
-					"raidmark", -- [1]
-					1, -- [2]
-					["sliceToken"] = "OPCRSy",
+					"item", -- [1]
+					158201, -- [2]
+					["sliceToken"] = "ABueds3Srxu",
 				}, -- [5]
 				{
-					"raidmark", -- [1]
-					3, -- [2]
-					["sliceToken"] = "OPCRSp",
+					"item", -- [1]
+					158202, -- [2]
+					["sliceToken"] = "ABueds3Srxy",
 				}, -- [6]
 				{
-					"raidmark", -- [1]
-					4, -- [2]
-					["sliceToken"] = "OPCRSg",
+					"item", -- [1]
+					158204, -- [2]
+					["sliceToken"] = "ABueds3Srxi",
 				}, -- [7]
 				{
-					"raidmark", -- [1]
-					5, -- [2]
-					["sliceToken"] = "OPCRSs",
+					"item", -- [1]
+					152639, -- [2]
+					["sliceToken"] = "ABued4la3ie",
 				}, -- [8]
-				{
-					"raidmark", -- [1]
-					0, -- [2]
-					["sliceToken"] = "OPCRSc",
-				}, -- [9]
-				["name"] = "Target Markers",
+				["name"] = "Buffs",
 				["save"] = true,
-				["hotkey"] = "ALT-R",
 			},
 			["IslandExp"] = {
 				{
@@ -667,6 +638,56 @@ OneRing_Config = {
 				["name"] = "IslandExp",
 				["save"] = true,
 			},
+			["RaidSymbols"] = {
+				{
+					"raidmark", -- [1]
+					8, -- [2]
+					["sliceToken"] = "OPCRSw",
+				}, -- [1]
+				{
+					"raidmark", -- [1]
+					7, -- [2]
+					["sliceToken"] = "OPCRSr",
+				}, -- [2]
+				{
+					"raidmark", -- [1]
+					2, -- [2]
+					["sliceToken"] = "OPCRSo",
+				}, -- [3]
+				{
+					"raidmark", -- [1]
+					6, -- [2]
+					["sliceToken"] = "OPCRSb",
+				}, -- [4]
+				{
+					"raidmark", -- [1]
+					1, -- [2]
+					["sliceToken"] = "OPCRSy",
+				}, -- [5]
+				{
+					"raidmark", -- [1]
+					3, -- [2]
+					["sliceToken"] = "OPCRSp",
+				}, -- [6]
+				{
+					"raidmark", -- [1]
+					4, -- [2]
+					["sliceToken"] = "OPCRSg",
+				}, -- [7]
+				{
+					"raidmark", -- [1]
+					5, -- [2]
+					["sliceToken"] = "OPCRSs",
+				}, -- [8]
+				{
+					"raidmark", -- [1]
+					0, -- [2]
+					["sliceToken"] = "OPCRSc",
+				}, -- [9]
+				["name"] = "Target Markers",
+				["save"] = true,
+				["hotkey"] = "ALT-R",
+			},
 			["Disrupt"] = {
 				{
 					"macro", -- [1]
@@ -696,32 +717,6 @@ OneRing_Config = {
 				["name"] = "Disrupt",
 				["save"] = true,
 			},
-			["DruidShift"] = {
-				{
-					["show"] = "[known:783]",
-					["sliceToken"] = "OPCDSf",
-					["id"] = "/cancelform [noflyable,noform:moonkin]\n/cast [flyable,outdoors,nocombat,noswimming,nomod][flying] {{spell:783}}; [outpost:corral,nomod,nospec:103/104] {{spell:161691}}; [swimming,nomod][flyable,nomod][flying] {{spell:783}}; [nocombat,outdoors,nomod:alt] {{mount:ground}}; [outdoors] {{spell:783}}",
-				}, -- [1]
-				{
-					["sliceToken"] = "OPCDSk",
-					["c"] = "c74cff",
-					["id"] = 24858,
-				}, -- [2]
-				{
-					["sliceToken"] = "OPCDSc",
-					["c"] = "fff04d",
-					["id"] = 768,
-				}, -- [3]
-				{
-					["sliceToken"] = "OPCDSb",
-					["c"] = "ff0000",
-					["id"] = 5487,
-				}, -- [4]
-				["limit"] = "DRUID",
-				["save"] = true,
-				["hotkey"] = "BUTTON4",
-				["name"] = "Shapeshifts",
-			},
 			["Roots"] = {
 				{
 					"macro", -- [1]
@@ -746,9 +741,35 @@ OneRing_Config = {
 					"rootMo", -- [2]
 					["sliceToken"] = "ABueddIlle3",
 				}, -- [4]
-				["name"] = "Roots",
-				["save"] = true,
 				["limit"] = "Eyebrowse-Kel'Thuzad",
+				["save"] = true,
+				["name"] = "Roots",
+			},
+			["DruidShift"] = {
+				{
+					["show"] = "[known:783]",
+					["sliceToken"] = "OPCDSf",
+					["id"] = "/cancelform [noflyable,noform:moonkin]\n/cast [flyable,outdoors,nocombat,noswimming,nomod][flying] {{spell:783}}; [outpost:corral,nomod,nospec:103/104] {{spell:161691}}; [swimming,nomod][flyable,nomod][flying] {{spell:783}}; [nocombat,outdoors,nomod:alt] {{mount:ground}}; [outdoors] {{spell:783}}",
+				}, -- [1]
+				{
+					["sliceToken"] = "OPCDSk",
+					["c"] = "c74cff",
+					["id"] = 24858,
+				}, -- [2]
+				{
+					["sliceToken"] = "OPCDSc",
+					["c"] = "fff04d",
+					["id"] = 768,
+				}, -- [3]
+				{
+					["sliceToken"] = "OPCDSb",
+					["c"] = "ff0000",
+					["id"] = 5487,
+				}, -- [4]
+				["name"] = "Shapeshifts",
+				["save"] = true,
+				["hotkey"] = "BUTTON4",
+				["limit"] = "DRUID",
 			},
 			["Cyclone"] = {
 				{
@@ -774,9 +795,9 @@ OneRing_Config = {
 					"CCMO", -- [2]
 					["sliceToken"] = "ABuedsG3eki",
 				}, -- [4]
-				["limit"] = "Eyebrowse-Kel'Thuzad",
-				["save"] = true,
 				["name"] = "Cyclone",
+				["save"] = true,
+				["limit"] = "Eyebrowse-Kel'Thuzad",
 			},
 		},
 	},

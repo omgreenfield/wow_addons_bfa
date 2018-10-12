@@ -57,8 +57,8 @@ VER 3 0000000000000017 "Consume Magic" "ABILITY_DEMONHUNTER_CONSUMEMAGIC"
 /cast [nomod,@target] [mod:shift,@arena1] [mod:alt,@arena2] [mod:ctrl,@arena3] Consume Magic;
 END
 VER 3 000000000000002E "CycloneOPIE" "SPELL_NATURE_EARTHBIND"
-/click [@arena1, exists] ORLOpen Cyclone
-/cast [@arena1, noexists] Cyclone
+/click [@arena1, exists][@arena2,exists][@arena3,exists] ORLOpen Cyclone
+/cast Cyclone
 END
 VER 3 0000000000000028 "DisableRBTarget1" "INV_MISC_QUESTIONMARK"
 /run local f=CreateFrame("button","mlook")f:RegisterForClicks("AnyDown","AnyUp")f:SetScript("OnClick",function(s,b,d)if d then MouselookStart()else MouselookStop()end end)SecureStateDriverManager:RegisterEvent("UPDATE_MOUSEOVER_UNIT")
@@ -144,8 +144,8 @@ VER 3 0000000000000050 "rootPi" "INV_MISC_QUESTIONMARK"
 /click ORLOpen Roots
 END
 VER 3 0000000000000052 "rootPi" "136100"
-/click [@arena1, exists] ORLOpen Roots
-/cast  [@arena1, noexists] Entangling Roots
+/click [@arena1, exists][@arena2,exists][@arena3,exists] ORLOpen Roots
+/cast Entangling Roots
 END
 VER 3 0000000000000033 "RootsOrInnervate" "SPELL_NATURE_STRANGLEVINES"
 #showtooltip

@@ -1,0 +1,26 @@
+
+RaiderIO_Config = {
+	["enableKeystoneTooltips"] = true,
+	["disableScoreColors"] = false,
+	["showRaiderIOProfile"] = true,
+	["enableWhoTooltips"] = true,
+	["enableLFGDropdown"] = true,
+	["enableGuildTooltips"] = true,
+	["enableUnitTooltips"] = true,
+	["showSimpleScoreColors"] = false,
+	["enableWhoMessages"] = true,
+	["positionProfileAuto"] = true,
+	["showMainsScore"] = true,
+	["alwaysExtendTooltip"] = false,
+	["enableLFGTooltips"] = true,
+	["showDropDownCopyURL"] = true,
+	["showAverageScore"] = true,
+	["enableProfileModifier"] = true,
+	["enableClientEnhancements"] = true,
+	["enableFriendsTooltips"] = true,
+	["lockProfile"] = false,
+	["showScoreInCombat"] = true,
+	["inverseProfileModifier"] = false,
+	["showClientGuildBest"] = true,
+}
+RaiderIO_LastCharacter = "us-Eyebrowse-kelthuzad"

@@ -1,5 +1,12 @@
 
 Postal3DB = {
+	["profileKeys"] = {
+		["Twiddlederr - Kel'Thuzad"] = "Twiddlederr - Kel'Thuzad",
+		["Suhdrude - Anvilmar"] = "Suhdrude - Anvilmar",
+		["Fistbeavers - Kel'Thuzad"] = "Fistbeavers - Kel'Thuzad",
+		["Twiddlederr - Anvilmar"] = "Twiddlederr - Anvilmar",
+		["Eyebrowse - Kel'Thuzad"] = "Eyebrowse - Kel'Thuzad",
+	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
@@ -10,13 +17,6 @@ Postal3DB = {
 				"Twiddlederr|Kel'Thuzad|Alliance|120|DEMONHUNTER", -- [5]
 			},
 		},
-	},
-	["profileKeys"] = {
-		["Twiddlederr - Kel'Thuzad"] = "Twiddlederr - Kel'Thuzad",
-		["Suhdrude - Anvilmar"] = "Suhdrude - Anvilmar",
-		["Fistbeavers - Kel'Thuzad"] = "Fistbeavers - Kel'Thuzad",
-		["Twiddlederr - Anvilmar"] = "Twiddlederr - Anvilmar",
-		["Eyebrowse - Kel'Thuzad"] = "Eyebrowse - Kel'Thuzad",
 	},
 	["profiles"] = {
 		["Twiddlederr - Kel'Thuzad"] = {

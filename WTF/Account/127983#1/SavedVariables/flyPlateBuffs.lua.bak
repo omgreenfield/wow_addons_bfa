@@ -1,6 +1,5 @@
 
 flyPlateBuffsDB = {
-	["version"] = 2,
 	["profileKeys"] = {
 		["Twiddlederr - Kel'Thuzad"] = "Twiddlederr - Kel'Thuzad",
 		["Suhdrude - Anvilmar"] = "Default",
@@ -8,6 +7,7 @@ flyPlateBuffsDB = {
 		["Twiddlederr - Anvilmar"] = "Default",
 		["Eyebrowse - Kel'Thuzad"] = "Default",
 	},
+	["version"] = 2,
 	["profiles"] = {
 		["Default"] = {
 		},

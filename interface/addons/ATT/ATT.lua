@@ -63,27 +63,27 @@ local defaultAbilities = {
 		},
 		[103] = {	-- Feral
 			{106839, 15}, -- Skull Bash
+			{61336, 180, 2}, -- Survival Instincts
+
 		},
 		[104] = {	-- Guardian
 		},
 		[105] = {	-- Restoration
 			{22812, 60},    -- Barkskin
 			{102342, 60}, -- Ironbark
-			{203651, 45}, -- Overgrowth
 		},
 	},
 	["HUNTER"] = {
 		["ALL"] = {	-- All specs
 			{186265, 180}, 	-- Aspect of the Turtle
+			{187650, 30}, -- Freezing Trap
+			{53480, 60},  -- Roar of Sacrifice
 		},
 		[253] = {	-- Beast Mastery
-			{187650, 30}, -- Freezing Trap
 		},
 		[254] = {	-- Marksmanship
-			{187650, 30}, -- Freezing Trap
 		},
 		[255] = {	-- Survival
-			{187650, 30}, -- Freezing Trap
 		},
 	},
 	["MAGE"] = 	{
@@ -110,11 +110,21 @@ local defaultAbilities = {
 			{6940, 120, 2}, -- Blessing of Sacrifice
 			{642, 300}, -- Divine Shield
 			{216331, 120}, -- Avenging Crusader
+			{1022, 300, 2}, -- Blessing of Protection
+			{1044, 25, 2}, -- Blessing of Freedom
+		},
+		[66] = {	-- Protection
+			{96231, 15}, -- Rebuke
 		},
 		[70] = {	-- Retribution
 			{642, 300}, -- Divine Shield
 			{96231, 15},  -- Rebuke
+			{1022, 300}, -- Blessing of Protection
+			{1044, 25}, -- Blessing of Freedom
+			{210256, 45}, -- Blessing of Sanctuary
+			{205191, 60}, -- Eye for an Eye	
 		},
+
 	},
 	["PRIEST"] = {
 		["ALL"] = {	-- All specs
@@ -139,30 +149,37 @@ local defaultAbilities = {
 	["ROGUE"] = {
 		["ALL"] = {	-- All specs
 			{1766, 15}, 	-- Kick
-			{2094, 120}, 	-- Blind
-			{31224, 120},   	-- Cloak of Shadows
+			{31224, 120},   -- Cloak of Shadows
 		},
 		[259] = {	-- Assassination
 			{5277, 120}, -- Evasion
+			{2094, 120},  -- Blind
+			{212182, 180},  -- Smoke Bomb
+
 		},
 		[260] = {	-- Combat
 		},
 		[261] = {	-- Subtlety
 			{5277, 120}, -- Evasion
-			{76577, 180},  -- Smoke Bomb
+			{212182, 180},  -- Smoke Bomb
 		},
 	},
 	["SHAMAN"] = {
 		["ALL"] = {	-- All specs
 			{108271, 90}, -- Astral Shift
 			{57994, 12}, 	-- Wind Shear
+			{114052, 180},   -- Ascendance
+
 		},
 		[262] = {	-- Elemental
+
 		},
 		[263] = {	-- Enhancement
+		
 		},
 		[264] = {	-- Restoration
 			{98008, 180},   -- Spirit Link Totem
+			{198838, 60},   -- Earthen Wall Totem
 		},
 	},
 	["WARLOCK"] = {
@@ -213,7 +230,6 @@ local defaultAbilities = {
 	},
 	["MONK"] = {
 		["ALL"] = {	-- All specs
-			{119996, 45}, -- Transcendence:Transfer (Monk port)
 			{119381, 60}, -- Leg Sweep
 		},
 		[268] = {	-- Brewmaster
@@ -221,6 +237,7 @@ local defaultAbilities = {
 		[269] = {	-- Windwalker
 			{116705, 15}, -- Spear Hand Strike
 			{122470, 90}, -- Touch of Karma
+			{201318 , 90}, -- Fortifying Brew
 		},
 		[270] = {	-- Mistweaver
 			{116849, 120}, 	-- Life Cocoon
@@ -229,11 +246,11 @@ local defaultAbilities = {
 	["DEMONHUNTER"] = {
 		["ALL"] = {
 			{198589, 60}, -- Blur
-			{183752, 15}, -- Consume Magic
+			{183752, 10}, -- Consume Magic
 			{217832, 45}, -- Imprison
 		},
 		[577] = { -- Havoc
-
+            {196718, 180}, -- Darkness
 		},
 		[581] = { -- Vengeance
 
@@ -468,25 +485,38 @@ local function CreateIcon(anchor)
 	cd:SetHideCountdownNumbers(false)
 	icon.cd = cd
 	
-	icon.Start = function(sentCD, startNextRecharge)
+	icon.Start = function(sentCD , nextcharge)
 		icon.cooldown = tonumber(sentCD)
 		if icon.maxcharges then
 			local charges = tonumber(icon.chargesText:GetText():match("^[0-9]+$"))
-			charges = charges - 1
-			if charges ~= 0 or startNextRecharge then
-				CooldownFrame_Set(cd, GetTime(), icon.cooldown, 1, 1, icon.maxcharges)
+
+			if charges == 2 or nextcharge == icon.maxcharges then
+				CooldownFrame_Set(cd,GetTime(),icon.cooldown, 1, 1, 1)
 				icon.cd:SetDrawEdge(true)
-				icon.cd:SetDrawSwipe(false)
+				icon.cd:SetDrawSwipe(true)
 				icon.starttime = GetTime()
-			elseif charges == 0 and not startNextRecharge then
+				charges = charges - 1
+				icon.chargesText:SetText(charges)
+				-- print("test1 "..charges .. " nextcharge " .. nextcharge)
+
+            elseif charges == 1 and nextcharge == 5 then
+			    CooldownFrame_Set(cd,GetTime(),icon.cooldown, 1)
+				icon.cd:SetDrawEdge(true)
+				icon.cd:SetDrawSwipe(false)    
+				icon.starttime = GetTime()
+				icon.chargesText:SetText(charges)
+				--print("test11 "..charges .. " nextcharge " .. nextcharge  .. "timeleft" .. GetTime())
+			
+			elseif  charges == 1 and nextcharge == 1 and  icon.starttime < GetTime() then
 				CooldownFrame_Set(cd, icon.starttime, icon.cooldown, 1)
 				icon.cd:SetDrawEdge(false)
 				icon.cd:SetDrawSwipe(true)
 				--icon.starttime = GetTime()
+				charges = charges - 1
+				icon.chargesText:SetText(charges)
+             --print("test2 "..charges .. " nextcharge " .. nextcharge )
 			end
-			if not startNextRecharge then
-				icon.chargesText:SetText(charges and charges <= 0 and 0 or charges)
-			end
+			
 		else
 			CooldownFrame_Set(cd,GetTime(),icon.cooldown, 1)
 			icon.starttime = GetTime()
@@ -792,7 +822,7 @@ function ATT:Fnumbers()
 	local ATTU=UnitIsUnit 
     hooksecurefunc("CompactUnitFrame_UpdateName",function(Fnumbers)
     if IsActiveBattlefieldArena()and Fnumbers.unit:find("nameplate") and db.arenanumber then 
-    for i=1,3 do if ATTU(Fnumbers.unit,"arena"..i)then Fnumbers.name:SetText(i)Fnumbers.name:SetTextColor(1,1,0) end end end end)
+    for i=1,3 do if ATTU(Fnumbers.unit,"arena"..i)then Fnumbers.name:SetText(i)Fnumbers.name:SetTextColor(1,1,0)break end end end end)
 end
 
 function ATT:GroupUpdate()
@@ -846,6 +876,8 @@ end
 function ATT:PLAYER_ENTERING_WORLD()
 	self:InspectPlayer()
 	self:EnqueueInspect()
+	local inInstance, instanceType = IsInInstance()
+    if instanceType == "arena" then self:StopAllIcons() end -- Cooldowns reset when joining arena FIX
 	if InArena() then self:StopAllIcons() end -- Cooldowns reset when joining arena
 	if not pGUID then pGUID = UnitGUID("player") end
 	if not pName then pName = UnitName("player") .. "-" .. GetRealmName() end
@@ -948,9 +980,9 @@ function ATT:TrackCooldown(anchor, ability, cooldown)
 	for k,icon in ipairs(anchor.icons) do
 		if cooldown then
 			-- Direct cooldown
-			if icon.ability == ability and (not icon.maxcharges) then
+			if icon.ability == ability then
 				icon.seen = true
-				icon.Start(cooldown)
+				icon.Start(cooldown , 1)
 			end		
 		end
 		-- Cooldown resetters
@@ -999,7 +1031,7 @@ local function ATT_OnUpdate(self,elapsed)
 						charges = math.min(icon.maxcharges, charges+1)
 						icon.chargesText:SetText(charges)
 						if charges < icon.maxcharges then
-							icon.Start(icon.cooldown, true)
+							icon.Start(icon.cooldown, 5)
 						end
 					end
 				end
@@ -1154,15 +1186,13 @@ function ATT:FindAbilityID(ability)
 end
 
 function ATT:FormatAbility(s)
-    locale = GetLocale();
-    if (GetLocale() == "enGB") or (GetLocale() == "enUS") then
-	s = s:gsub("(%a)(%a*)('*)(%a*)", function (a,b,c,d) return a:upper()..b:lower()..c..d:lower() end)
-	s = s:gsub("(The)", string.lower)
-	s = s:gsub("(Of)", string.lower)
-	return s 
-	else 
+   -- locale = GetLocale();
+   -- if (GetLocale() == "enGB") or (GetLocale() == "enUS") then
+--	s = s:gsub("(%a)(%a*)('*)(%a*)", function (a,b,c,d) return a:upper()..b:lower()..c..d:lower() end)
+--	return s 
+--	else 
 	return s
-	end
+--	end
 end
 
 -------------------------------------------------------------
@@ -1217,7 +1247,7 @@ function ATT:CreateOptions()
 	scale:SetPoint("TOPLEFT",subText,"TOPLEFT",16,-32)
 
 	local attach = panel:MakeToggle(
-	     'name', 'Attach to raid frames',
+	     'name', 'Attach raid frames',
 	     'description', 'Attach to Blizzard raid frames',
 	     'default', false,
 	     'getFunc', function() return db.attach end,
@@ -1505,25 +1535,25 @@ function ATT:CreateAbilityEditor()
 	dropdown2:SetPoint("TOPLEFT",dropdown,"BOTTOMLEFT",0,-15)
 	child.dropdown2 = dropdown2
 
-	local addeditbox = CreateEditBox("Ability name",scrollframe,120,25)
+	local addeditbox = CreateEditBox("Ability name",scrollframe,130,25)
 	child.addeditbox = addeditbox
 	addeditbox:SetPoint("TOPLEFT",dropdown2,"BOTTOMLEFT",20,-15)
 
-	local ideditbox = CreateEditBox("Spell ID",scrollframe,50,25)
+	local ideditbox = CreateEditBox("Spell ID",scrollframe,60,25)
 	ideditbox:SetPoint("LEFT",addeditbox,"RIGHT",15,0)
 	child.ideditbox = ideditbox
 
-	local cdeditbox = CreateEditBox("CD (s)",scrollframe,50,25)
+	local cdeditbox = CreateEditBox("CD (s)",scrollframe,40,25)
 	cdeditbox:SetPoint("LEFT",ideditbox,"RIGHT",15,0)
 	child.cdeditbox = cdeditbox
 
-	local maxchargeseditbox = CreateEditBox("Max Charges",scrollframe,50,25)
+	local maxchargeseditbox = CreateEditBox("Charges",scrollframe,40,25)
 	maxchargeseditbox:SetPoint("LEFT",cdeditbox,"RIGHT",15,0)
 	child.maxchargeseditbox = maxchargeseditbox
 
 	local addbutton = panel:MakeButton(
 	     'name', 'Add/Edit',
-	     'description', "Add a new ability with a specified cooldown.(case sensitive)",
+	     'description', "Add a new ability with a specified cooldown  |cffFF4500(case sensitive)|r",
 	     'func', function() 
 	     		local id = ideditbox:GetText():match("^[0-9]+$")
 	     		local spec = dropdown2.value
@@ -1531,7 +1561,8 @@ function ATT:CreateAbilityEditor()
 	     		local iconfound = ATT:FindAbilityIcon(ability, id)
 	     		local cdtext = cdeditbox:GetText():match("^[0-9]+$")
 	     		local maxcharges = maxchargeseditbox:GetText():match("^[0-9]+$")
-	     		if iconfound and cdtext and (not spec or db.abilities[db.classSelected] and db.abilities[db.classSelected][spec]) then
+	     	    chargedeny = tonumber(maxcharges)
+	     		if iconfound and cdtext and (not spec or db.abilities[db.classSelected] and db.abilities[db.classSelected][spec]) and (chargedeny == 2 or chargedeny == nil) then
 	     			print("Added/updated "..ability)
 	     			local abilities = db.abilities[db.classSelected][spec or "ALL"]
 	     			local _ability, _index = self:FindAbilityByName(abilities, ability)
@@ -1546,7 +1577,7 @@ function ATT:CreateAbilityEditor()
 	     			ATT:UpdateScrollBar()
 	     			ATT:UpdateAnchors()
 	     		else
-	     			print("Invalid spell spec/name/cooldown")
+	     			print("Invalid spell spec/name/cooldown or charges(|cff33ff99Empty or 2 *ONLY*|r)")
 	     		end
 	      end
 	)
@@ -1573,17 +1604,12 @@ function ATT:CreateAbilityEditor()
 	removebutton:SetPoint("TOPLEFT",addbutton,"BOTTOMLEFT",0,-5)
 	
 	local description =  panel:CreateFontString(nil,"ARTWORK","GameFontNormal")
-    description:SetText("Add[remove] abilities that you want to track - input correct Ability name + Spell ID + CD. \r\nSpell [Max Charges] is currently in BETA state. More info on < curseforge > addon page.\r\n \r\n")
+    description:SetText("Add[remove] abilities that you want to track - input correct Ability name + Spell ID + CD. \r\nSpell [Charges] is currently in |cffFF4500OPEN BETA|r state. More info on < curseforge > addon page.\r\n \r\n")
 	description:SetJustifyH("LEFT")
-	--description:SetWidth(200)
-	--description:SetHeight(150)
-	--description:SetNonSpaceWrap(true)
-	--description:SetPoint("RIGHT", -12, 0)
-	--description:SetNonSpaceWrap(true)
     description:SetPoint("TOPLEFT",scrollframe,"BOTTOMLEFT",10,-10)
 	
     local authordesc =  panel:CreateFontString(nil,"ARTWORK","GameFontDisable")
-    authordesc:SetText("If you want to help with future development any support for my work is greatly appreciated.\r\nYou can find and support me at: < |cff33ff99http://www.twitch.tv/imedia|r > or < |cff33ff99curseforge|r >.  Enjoy! \r\n  \r\n  |cffffff00Version:|r |cff33ff99v3.5.1|r")
+    authordesc:SetText("If you want to help with future development any support for my work is greatly appreciated.\r\nYou can find and support me at: < |cff33ff99http://www.twitch.tv/imedia|r > or < |cff33ff99curseforge|r >.  Enjoy! \r\n  \r\n  |cffffff00Version:|r |cff33ff99v3.6|r")
    	authordesc:SetJustifyH("LEFT")
     authordesc:SetPoint("TOPLEFT",scrollframe,"BOTTOMLEFT",10,-80)
 	authordesc:SetPoint("RIGHT", -12, 0)

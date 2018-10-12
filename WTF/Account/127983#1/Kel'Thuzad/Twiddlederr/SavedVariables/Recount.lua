@@ -2,3242 +2,98 @@
 RecountPerCharDB = {
 	["version"] = "1.3",
 	["combatants"] = {
-		["Galleon"] = {
-			["GUID"] = "Vehicle-0-3783-870-16-62346-0000233075",
-			["TimeLast"] = {
-				["DeathCount"] = 27243.542,
-				["ActiveTime"] = 27242.542,
-				["TimeDamage"] = 27242.542,
-				["OVERALL"] = 27243.542,
-				["DamageTaken"] = 27243.542,
-				["Damage"] = 27242.542,
-			},
-			["LastEventType"] = {
-				"DAMAGE", -- [1]
-				"DAMAGE", -- [2]
-				"DAMAGE", -- [3]
-				"DAMAGE", -- [4]
-				"MISC", -- [5]
-				"DAMAGE", -- [6]
-				"DAMAGE", -- [7]
-				"DAMAGE", -- [8]
-				"DAMAGE", -- [9]
-				"DAMAGE", -- [10]
-				"DAMAGE", -- [11]
-				"DAMAGE", -- [12]
-				"DAMAGE", -- [13]
-				"DAMAGE", -- [14]
-				"DAMAGE", -- [15]
-				"DAMAGE", -- [16]
-				"DAMAGE", -- [17]
-				"DAMAGE", -- [18]
-				"DAMAGE", -- [19]
-				"DAMAGE", -- [20]
-				"DAMAGE", -- [21]
-				"DAMAGE", -- [22]
-				"DAMAGE", -- [23]
-				"DAMAGE", -- [24]
-				"DAMAGE", -- [25]
-				"DAMAGE", -- [26]
-				"DAMAGE", -- [27]
-				"DAMAGE", -- [28]
-				"DAMAGE", -- [29]
-				"DAMAGE", -- [30]
-				"DAMAGE", -- [31]
-				"DAMAGE", -- [32]
-				"DAMAGE", -- [33]
-				"DAMAGE", -- [34]
-				"DAMAGE", -- [35]
-				"DAMAGE", -- [36]
-				"DAMAGE", -- [37]
-				"DAMAGE", -- [38]
-				"DAMAGE", -- [39]
-				"DAMAGE", -- [40]
-				"DAMAGE", -- [41]
-				"DAMAGE", -- [42]
-				"MISC", -- [43]
-				"DAMAGE", -- [44]
-				"DAMAGE", -- [45]
-				"DAMAGE", -- [46]
-				"DAMAGE", -- [47]
-				"DAMAGE", -- [48]
-				"DAMAGE", -- [49]
-				"DAMAGE", -- [50]
-			},
-			["TimeWindows"] = {
-				["DeathCount"] = {
-					3, -- [1]
-				},
-				["ActiveTime"] = {
-					13.43, -- [1]
-				},
-				["TimeDamage"] = {
-					13.43, -- [1]
-				},
-				["DamageTaken"] = {
-					6392321, -- [1]
-				},
-				["Damage"] = {
-					2145, -- [1]
-				},
-			},
-			["enClass"] = "MOB",
-			["LastDamageTaken"] = 509228,
-			["level"] = -1,
-			["LastDamageAbility"] = "Starsurge",
-			["LastFightIn"] = 11,
-			["type"] = "Boss",
-			["FightsSaved"] = 5,
-			["LastActive"] = 27243.542,
-			["Owner"] = false,
-			["LastEventTimes"] = {
-				10212.444, -- [1]
-				10212.701, -- [2]
-				10212.701, -- [3]
-				10213.007, -- [4]
-				10213.111, -- [5]
-				27236.942, -- [6]
-				27238.032, -- [7]
-				27238.032, -- [8]
-				27238.032, -- [9]
-				27241.292, -- [10]
-				27241.292, -- [11]
-				27241.292, -- [12]
-				27241.292, -- [13]
-				27241.292, -- [14]
-				27241.292, -- [15]
-				27241.292, -- [16]
-				27241.292, -- [17]
-				27241.292, -- [18]
-				27241.292, -- [19]
-				27241.292, -- [20]
-				27241.292, -- [21]
-				27241.562, -- [22]
-				27241.562, -- [23]
-				27241.562, -- [24]
-				27241.572, -- [25]
-				27241.572, -- [26]
-				27241.972, -- [27]
-				27242.102, -- [28]
-				27242.102, -- [29]
-				27242.342, -- [30]
-				27242.462, -- [31]
-				27242.772, -- [32]
-				27242.772, -- [33]
-				27242.772, -- [34]
-				27242.772, -- [35]
-				27242.892, -- [36]
-				27243.012, -- [37]
-				27243.372, -- [38]
-				27243.372, -- [39]
-				27243.372, -- [40]
-				27243.552, -- [41]
-				27243.552, -- [42]
-				27243.652, -- [43]
-				10211.807, -- [44]
-				10211.96, -- [45]
-				10212.349, -- [46]
-				10212.349, -- [47]
-				10212.349, -- [48]
-				10212.349, -- [49]
-				10212.349, -- [50]
-			},
-			["NextEventNum"] = 44,
-			["LastDamageTime"] = 27242.772,
-			["LastEvents"] = {
-				"Luiscro-Illidan Blackout Kick Galleon Hit -204392 (Physical)", -- [1]
-				"Inovardria-Anvilmar Arcane Explosion Galleon Crit -265526 (Arcane)", -- [2]
-				"Inovardria-Anvilmar Gutripper Galleon Hit -60784 (Physical)", -- [3]
-				"Quartrpoundr-Andorhal Stormstrike Galleon Crit -615594 (Physical)", -- [4]
-				"Galleon dies.", -- [5]
-				"Galleon Melee Kurenya-Zul'jin Hit -216 (Physical)", -- [6]
-				"Chupamia-Thunderhorn Sunfire Galleon Crit -1284 (Nature)", -- [7]
-				"Kurenya-Zul'jin Fel Rush Galleon Crit -2642", -- [8]
-				"Kurenya-Zul'jin Searing Zap Galleon Hit -325 (Nature)", -- [9]
-				"Valadøx-Thrall Ice Lance Galleon Crit -1724 (Frost)", -- [10]
-				"Melinkô-Illidan Sunfire Galleon Hit -576 (Nature)", -- [11]
-				"Galleon Melee Kurenya-Zul'jin Crit -440 (Physical)", -- [12]
-				"Chupamia-Thunderhorn Moonfire Galleon Crit -978 (Arcane)", -- [13]
-				"Glademere-Thrall Moonfire Galleon Hit -101 (Arcane)", -- [14]
-				"Chupamia-Thunderhorn Sunfire (DoT) Galleon Crit -978 (Nature)", -- [15]
-				"Valadøx-Thrall Ice Lance Galleon Hit -926 (Frost)", -- [16]
-				"Melinkô-Illidan Moonfire Galleon Crit -1002 (Arcane)", -- [17]
-				"Melinkô-Illidan Sunfire (DoT) Galleon Tick -418 (Nature)", -- [18]
-				"Glademere-Thrall Moonfire Galleon Hit -10080 (Arcane)", -- [19]
-				"Chupamia-Thunderhorn Moonfire (DoT) Galleon Tick -44626 (Arcane)", -- [20]
-				"Galleon Melee Chupamia-Thunderhorn Hit -117 (Physical)", -- [21]
-				"Glademere-Thrall Moonfire (DoT) Galleon Crit -19145 (Arcane)", -- [22]
-				"Chupamia-Thunderhorn Sunfire (DoT) Galleon Tick -47932 (Nature)", -- [23]
-				"Pox-Dalaran Ice Lance Galleon Crit -352159 (Frost)", -- [24]
-				"Melinkô-Illidan Moonfire (DoT) Galleon Tick -46653 (Arcane)", -- [25]
-				"Melinkô-Illidan Gutripper Galleon Hit -58804 (Physical)", -- [26]
-				"Melinkô-Illidan Sunfire (DoT) Galleon Tick -41757 (Nature)", -- [27]
-				"Melinkô-Illidan Starfall Galleon Hit -34558", -- [28]
-				"Kurenya-Zul'jin Throw Glaive Galleon Hit -69660 (Physical)", -- [29]
-				"Chupamia-Thunderhorn Moonfire (DoT) Galleon Tick -44626 (Arcane)", -- [30]
-				"Pox-Dalaran Frozen Orb Galleon Hit -40152 (Frost)", -- [31]
-				"Chupamia-Thunderhorn Sunfire (DoT) Galleon Tick -47931 (Nature)", -- [32]
-				"Galleon Melee Pox-Dalaran Hit -187 (Physical)", -- [33]
-				"Glademere-Thrall Moonfire (DoT) Galleon Tick -9384 (Arcane)", -- [34]
-				"Majunior-Dentarg Garrote (DoT) Galleon Tick -46591 (Physical)", -- [35]
-				"Pox-Dalaran Frozen Orb Galleon Hit -40152 (Frost)", -- [36]
-				"Melinkô-Illidan Starfall Galleon Hit -42848", -- [37]
-				"Pox-Dalaran Frozen Orb Galleon Hit -41586 (Frost)", -- [38]
-				"Glademere-Thrall Rake Galleon Crit -125538 (Physical)", -- [39]
-				"Melinkô-Illidan Moonfire (DoT) Galleon Tick -78092 (Arcane)", -- [40]
-				"Valadøx-Thrall Ebonbolt Galleon Hit -408530 (Frost)", -- [41]
-				"Chupamia-Thunderhorn Starsurge Galleon Hit -509228", -- [42]
-				"Galleon dies.", -- [43]
-				"Galleon Melee Inovardria-Anvilmar Hit -247 (Physical)", -- [44]
-				"Luiscro-Illidan Eye of the Tiger (DoT) Galleon Tick -14133 (Nature)", -- [45]
-				"Huntelsa-Arthas Raptor Strike Galleon Hit -291149 (Physical)", -- [46]
-				"Huntelsa-Arthas Latent Poison Galleon Hit -25697 (Nature)", -- [47]
-				"Vanilawafer-Illidan Stormstrike Galleon Hit -215054 (Physical)", -- [48]
-				"Vanilawafer-Illidan Stormstrike Off-Hand Galleon Hit -108261 (Physical)", -- [49]
-				"Vanilawafer-Illidan Chain Lightning Galleon Crit -235960 (Nature)", -- [50]
-			},
-			["Name"] = "Galleon",
-			["LastEventIncoming"] = {
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				false, -- [6]
-				true, -- [7]
-				true, -- [8]
-				true, -- [9]
-				true, -- [10]
-				true, -- [11]
-				false, -- [12]
-				true, -- [13]
-				true, -- [14]
-				true, -- [15]
-				true, -- [16]
-				true, -- [17]
-				true, -- [18]
-				true, -- [19]
-				true, -- [20]
-				false, -- [21]
-				true, -- [22]
-				true, -- [23]
-				true, -- [24]
-				true, -- [25]
-				true, -- [26]
-				true, -- [27]
-				true, -- [28]
-				true, -- [29]
-				true, -- [30]
-				true, -- [31]
-				true, -- [32]
-				false, -- [33]
-				true, -- [34]
-				true, -- [35]
-				true, -- [36]
-				true, -- [37]
-				true, -- [38]
-				true, -- [39]
-				true, -- [40]
-				true, -- [41]
-				true, -- [42]
-				true, -- [43]
-				false, -- [44]
-				true, -- [45]
-				true, -- [46]
-				true, -- [47]
-				true, -- [48]
-				true, -- [49]
-				true, -- [50]
-			},
-			["Fights"] = {
-				["Fight2"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 2170986,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Nature"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 2,
-								},
-								["Crit"] = {
-									["count"] = 2,
-								},
-								["Tick"] = {
-									["count"] = 4,
-								},
-							},
-							["amount"] = 8,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 2,
-								},
-								["Crit"] = {
-									["count"] = 1,
-								},
-								["Tick"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 4,
-						},
-						["Frost"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 2,
-								},
-								["Hit"] = {
-									["count"] = 5,
-								},
-							},
-							["amount"] = 7,
-						},
-						["Arcane"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 2,
-								},
-								["Crit"] = {
-									["count"] = 3,
-								},
-								["Tick"] = {
-									["count"] = 5,
-								},
-							},
-							["amount"] = 10,
-						},
-					},
-					["DeathCount"] = 1,
-					["HOT_Time"] = 0,
-					["DOT_Time"] = 0,
-					["ManaGain"] = 0,
-					["ElementTaken"] = {
-						["Nature"] = 141201,
-						["Physical"] = 300593,
-						["Frost"] = 885229,
-						["Arcane"] = 254687,
-					},
-					["HOTs"] = {
-					},
-					["ElementTakenBlock"] = {
-					},
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["FDamagedWho"] = {
-					},
-					["FAttacks"] = {
-					},
-					["RageGain"] = 0,
-					["ElementDone"] = {
-						["Melee"] = 960,
-					},
-					["ManaGainedFrom"] = {
-					},
-					["DamagedWho"] = {
-						["Chupamia-Thunderhorn"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 117,
-								},
-							},
-							["amount"] = 117,
-						},
-						["Pox-Dalaran"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 187,
-								},
-							},
-							["amount"] = 187,
-						},
-						["Kurenya-Zul'jin"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 656,
-								},
-							},
-							["amount"] = 656,
-						},
-					},
-					["RageGained"] = {
-					},
-					["WhoDamaged"] = {
-						["Kurenya-Zul'jin"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 2642,
-								},
-								["Throw Glaive"] = {
-									["count"] = 69660,
-								},
-								["Searing Zap"] = {
-									["count"] = 325,
-								},
-							},
-							["amount"] = 72627,
-						},
-						["Glademere-Thrall"] = {
-							["Details"] = {
-								["Moonfire"] = {
-									["count"] = 10181,
-								},
-								["Rake"] = {
-									["count"] = 125538,
-								},
-								["Moonfire (DoT)"] = {
-									["count"] = 28529,
-								},
-							},
-							["amount"] = 164248,
-						},
-						["Majunior-Dentarg"] = {
-							["Details"] = {
-								["Garrote (DoT)"] = {
-									["count"] = 46591,
-								},
-							},
-							["amount"] = 46591,
-						},
-						["Chupamia-Thunderhorn"] = {
-							["Details"] = {
-								["Sunfire (DoT)"] = {
-									["count"] = 96841,
-								},
-								["Moonfire (DoT)"] = {
-									["count"] = 89252,
-								},
-								["Sunfire"] = {
-									["count"] = 1284,
-								},
-								["Moonfire"] = {
-									["count"] = 978,
-								},
-								["Starsurge"] = {
-									["count"] = 509228,
-								},
-							},
-							["amount"] = 697583,
-						},
-						["Valadøx-Thrall"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 2650,
-								},
-								["Ebonbolt"] = {
-									["count"] = 408530,
-								},
-							},
-							["amount"] = 411180,
-						},
-						["Pox-Dalaran"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 352159,
-								},
-								["Frozen Orb"] = {
-									["count"] = 121890,
-								},
-							},
-							["amount"] = 474049,
-						},
-						["Melinkô-Illidan"] = {
-							["Details"] = {
-								["Sunfire (DoT)"] = {
-									["count"] = 42175,
-								},
-								["Moonfire (DoT)"] = {
-									["count"] = 124745,
-								},
-								["Starfall"] = {
-									["count"] = 77406,
-								},
-								["Sunfire"] = {
-									["count"] = 576,
-								},
-								["Moonfire"] = {
-									["count"] = 1002,
-								},
-								["Gutripper"] = {
-									["count"] = 58804,
-								},
-							},
-							["amount"] = 304708,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["OverHeals"] = {
-					},
-					["RunicPowerGained"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["Dispelled"] = 0,
-					["WhoHealed"] = {
-					},
-					["PartialResist"] = {
-						["Sunfire (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 5,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 5,
-						},
-						["Garrote (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Rake"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Fel Rush"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Starfall"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 2,
-						},
-						["Moonfire"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 4,
-						},
-						["Searing Zap"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Gutripper"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Frozen Orb"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 3,
-						},
-						["Throw Glaive"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Moonfire (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 6,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 6,
-						},
-						["Ice Lance"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 3,
-						},
-						["Sunfire"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 2,
-						},
-						["Ebonbolt"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Starsurge"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-					},
-					["CCBreak"] = 0,
-					["FDamage"] = 0,
-					["Interrupts"] = 0,
-					["EnergyGain"] = 0,
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["ActiveTime"] = 4.48,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-						["Kurenya-Zul'jin"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 3,
-								},
-							},
-							["amount"] = 3,
-						},
-						["Pox-Dalaran"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 1.48,
-								},
-							},
-							["amount"] = 1.48,
-						},
-					},
-					["Heals"] = {
-					},
-					["PartialAbsorb"] = {
-						["Sunfire (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 5,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 0,
-						},
-						["Garrote (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Rake"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Fel Rush"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Starfall"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Moonfire"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-						["Searing Zap"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Gutripper"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Frozen Orb"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Throw Glaive"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Moonfire (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 6,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 6,
-							["amount"] = 0,
-						},
-						["Ice Lance"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Sunfire"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Ebonbolt"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Starsurge"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-					},
-					["EnergyGained"] = {
-					},
-					["HealedWho"] = {
-					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
-					},
-					["CCBroken"] = {
-					},
-					["Attacks"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 440,
-									["min"] = 440,
-									["count"] = 1,
-									["amount"] = 440,
-								},
-								["Hit"] = {
-									["max"] = 216,
-									["min"] = 117,
-									["count"] = 3,
-									["amount"] = 520,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 960,
-						},
-					},
-					["HealingTaken"] = 0,
-					["ElementHitsDone"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 1,
-								},
-								["Hit"] = {
-									["count"] = 3,
-								},
-							},
-							["amount"] = 4,
-						},
-					},
-					["TimeDamage"] = 4.48,
-					["TimeDamaging"] = {
-						["Kurenya-Zul'jin"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 3,
-								},
-							},
-							["amount"] = 3,
-						},
-						["Pox-Dalaran"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 1.48,
-								},
-							},
-							["amount"] = 1.48,
-						},
-					},
-					["RunicPowerGain"] = 0,
-					["Damage"] = 960,
-					["DispelledWho"] = {
-					},
-				},
-				["LastFightData"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["DOT_Time"] = 0,
-					["ManaGain"] = 0,
-					["ElementTaken"] = {
-					},
-					["HOTs"] = {
-					},
-					["ElementTakenBlock"] = {
-					},
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["FDamagedWho"] = {
-					},
-					["FAttacks"] = {
-					},
-					["RageGain"] = 0,
-					["ElementDone"] = {
-					},
-					["ManaGainedFrom"] = {
-					},
-					["DamagedWho"] = {
-					},
-					["RageGained"] = {
-					},
-					["WhoDamaged"] = {
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["OverHeals"] = {
-					},
-					["RunicPowerGained"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["Dispelled"] = 0,
-					["WhoHealed"] = {
-					},
-					["PartialResist"] = {
-					},
-					["CCBreak"] = 0,
-					["FDamage"] = 0,
-					["Interrupts"] = 0,
-					["EnergyGain"] = 0,
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-					},
-					["Heals"] = {
-					},
-					["PartialAbsorb"] = {
-					},
-					["EnergyGained"] = {
-					},
-					["HealedWho"] = {
-					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
-					},
-					["CCBroken"] = {
-					},
-					["Attacks"] = {
-					},
-					["HealingTaken"] = 0,
-					["ElementHitsDone"] = {
-					},
-					["TimeDamage"] = 0,
-					["TimeDamaging"] = {
-					},
-					["RunicPowerGain"] = 0,
-					["Damage"] = 0,
-					["DispelledWho"] = {
-					},
-				},
-				["CurrentFightData"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Arcane"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Nature"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["Damage"] = 0,
-					["RunicPowerGain"] = 0,
-					["ElementTaken"] = {
-						["Physical"] = 0,
-						["Arcane"] = 0,
-						["Nature"] = 0,
-					},
-					["DOT_Time"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["ElementDoneAbsorb"] = {
-						["Melee"] = 0,
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["ElementHitsDone"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Absorb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["FAttacks"] = {
-					},
-					["HealingTaken"] = 0,
-					["ElementDone"] = {
-						["Melee"] = 0,
-					},
-					["DamagedWho"] = {
-						["Vanilawafer-Illidan"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Inovardria-Anvilmar"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Quartrpoundr-Andorhal"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGainedFrom"] = {
-					},
-					["CCBroken"] = {
-					},
-					["WhoDamaged"] = {
-						["Huntelsa-Arthas"] = {
-							["Details"] = {
-								["Raptor Strike"] = {
-									["count"] = 0,
-								},
-								["Latent Poison"] = {
-									["count"] = 0,
-								},
-								["Serpent Sting"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Vanilawafer-Illidan"] = {
-							["Details"] = {
-								["Windfury Attack"] = {
-									["count"] = 0,
-								},
-								["Stormstrike Off-Hand"] = {
-									["count"] = 0,
-								},
-								["Rockbiter"] = {
-									["count"] = 0,
-								},
-								["Stormstrike"] = {
-									["count"] = 0,
-								},
-								["Gutripper"] = {
-									["count"] = 0,
-								},
-								["Chain Lightning"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Luiscro-Illidan"] = {
-							["Details"] = {
-								["Blackout Kick"] = {
-									["count"] = 0,
-								},
-								["Eye of the Tiger (DoT)"] = {
-									["count"] = 0,
-								},
-								["Tiger Palm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Inovardria-Anvilmar"] = {
-							["Details"] = {
-								["Arcane Barrage"] = {
-									["count"] = 0,
-								},
-								["Arcane Explosion"] = {
-									["count"] = 0,
-								},
-								["Gutripper"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Quartrpoundr-Andorhal"] = {
-							["Details"] = {
-								["Stormstrike"] = {
-									["count"] = 0,
-								},
-								["Lightning Shield"] = {
-									["count"] = 0,
-								},
-								["Rockbiter"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["RunicPowerGained"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
-					["WhoHealed"] = {
-					},
-					["HealedWho"] = {
-					},
-					["CCBreak"] = 0,
-					["ElementTakenAbsorb"] = {
-					},
-					["PartialAbsorb"] = {
-						["Windfury Attack"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Stormstrike Off-Hand"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Tiger Palm"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Eye of the Tiger (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Raptor Strike"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Arcane Explosion"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Serpent Sting"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Blackout Kick"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Lightning Shield"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Latent Poison"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Gutripper"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Stormstrike"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Arcane Barrage"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Chain Lightning"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Rockbiter"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["PartialResist"] = {
-						["Windfury Attack"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Stormstrike Off-Hand"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Tiger Palm"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Eye of the Tiger (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Raptor Strike"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Arcane Explosion"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Serpent Sting"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Blackout Kick"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Lightning Shield"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Latent Poison"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Gutripper"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Stormstrike"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Arcane Barrage"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Chain Lightning"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Rockbiter"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-					},
-					["FDamage"] = 0,
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["TimeSpent"] = {
-						["Vanilawafer-Illidan"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Inovardria-Anvilmar"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Quartrpoundr-Andorhal"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["WhoDispelled"] = {
-					},
-					["InterruptData"] = {
-					},
-					["ElementTakenResist"] = {
-					},
-					["Heals"] = {
-					},
-					["ActiveTime"] = 0,
-					["EnergyGained"] = {
-					},
-					["EnergyGain"] = 0,
-					["Healing"] = 0,
-					["Dispelled"] = 0,
-					["RageGained"] = {
-					},
-					["Attacks"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["RageGain"] = 0,
-					["FDamagedWho"] = {
-					},
-					["TimeDamage"] = 0,
-					["TimeDamaging"] = {
-						["Vanilawafer-Illidan"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Inovardria-Anvilmar"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Quartrpoundr-Andorhal"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGain"] = 0,
-					["HOTs"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["OverallData"] = {
-					["TimeSpent"] = {
-						["Kurenya-Zul'jin"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 3,
-								},
-							},
-							["amount"] = 3,
-						},
-						["Inovardria-Anvilmar"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 1.5,
-						},
-						["Vanilawafer-Illidan"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 1.45,
-								},
-							},
-							["amount"] = 1.45,
-						},
-						["Pox-Dalaran"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 1.48,
-								},
-							},
-							["amount"] = 1.48,
-						},
-						["Xiya-BleedingHollow"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 4.5,
-								},
-							},
-							["amount"] = 4.5,
-						},
-						["Quartrpoundr-Andorhal"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 1.5,
-						},
-					},
-					["DamageTaken"] = 6392321,
-					["ElementDoneAbsorb"] = {
-						["Melee"] = 362,
-					},
-					["PartialResist"] = {
-						["Sunfire (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 5,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 5,
-						},
-						["Eye of the Tiger (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Festering Wound"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Serpent Sting"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Festering Strike"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Stormstrike"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 3,
-						},
-						["Eye Beam"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 5,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 5,
-						},
-						["Windfury Attack"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 2,
-						},
-						["Tiger Palm"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 2,
-						},
-						["Blade Dance"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 4,
-						},
-						["Moonfire (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 6,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 6,
-						},
-						["Arcane Barrage"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Chain Lightning"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 2,
-						},
-						["Immolation Aura"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 5,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 5,
-						},
-						["Rockbiter"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 4,
-						},
-						["Arcane Explosion"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 3,
-						},
-						["Frozen Orb"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 3,
-						},
-						["Latent Poison"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Ice Lance"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 3,
-						},
-						["Fel Rush"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Raptor Strike"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Demon's Bite"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Rake"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Fathom Fall"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Gutripper"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 4,
-						},
-						["Clawing Shadows"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Blackout Kick"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Moonfire"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 4,
-						},
-						["Searing Zap"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Lightning Shield"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Starfall"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 2,
-						},
-						["Throw Glaive"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Starsurge"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Stormstrike Off-Hand"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 2,
-						},
-						["Sunfire"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 2,
-						},
-						["Garrote (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Ebonbolt"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-					},
-					["DeathCount"] = 3,
-					["PartialAbsorb"] = {
-						["Sunfire (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 5,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 0,
-						},
-						["Eye of the Tiger (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Festering Wound"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Serpent Sting"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Festering Strike"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Stormstrike"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Eye Beam"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 5,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 0,
-						},
-						["Windfury Attack"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Tiger Palm"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Blade Dance"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-						["Moonfire (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 6,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 6,
-							["amount"] = 0,
-						},
-						["Arcane Barrage"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Chain Lightning"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Immolation Aura"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 5,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 0,
-						},
-						["Rockbiter"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-						["Arcane Explosion"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Frozen Orb"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Latent Poison"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Ice Lance"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Fel Rush"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Raptor Strike"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Demon's Bite"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Rake"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Fathom Fall"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Gutripper"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-						["Clawing Shadows"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Blackout Kick"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Moonfire"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-						["Searing Zap"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Lightning Shield"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Starfall"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Throw Glaive"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Starsurge"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Stormstrike Off-Hand"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Sunfire"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Garrote (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Ebonbolt"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 13.43,
-					["ElementTaken"] = {
-						["Shadow"] = 211445,
-						["Arcane"] = 779558,
-						["Frost"] = 885229,
-						["Fire"] = 216066,
-						["Physical"] = 2776039,
-						["Nature"] = 489595,
-					},
-					["Damage"] = 2145,
-					["ElementDone"] = {
-						["Melee"] = 2145,
-					},
-					["ElementHitsDone"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Dodge"] = {
-									["count"] = 1,
-								},
-								["Absorb"] = {
-									["count"] = 2,
-								},
-								["Crit"] = {
-									["count"] = 2,
-								},
-								["Hit"] = {
-									["count"] = 5,
-								},
-							},
-							["amount"] = 10,
-						},
-					},
-					["DamagedWho"] = {
-						["Kurenya-Zul'jin"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 656,
-								},
-							},
-							["amount"] = 656,
-						},
-						["Vanilawafer-Illidan"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 156,
-								},
-							},
-							["amount"] = 156,
-						},
-						["Inovardria-Anvilmar"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 247,
-								},
-							},
-							["amount"] = 247,
-						},
-						["Chupamia-Thunderhorn"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 117,
-								},
-							},
-							["amount"] = 117,
-						},
-						["Xiya-BleedingHollow"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 576,
-								},
-							},
-							["amount"] = 576,
-						},
-						["Pox-Dalaran"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 187,
-								},
-							},
-							["amount"] = 187,
-						},
-						["Quartrpoundr-Andorhal"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 206,
-								},
-							},
-							["amount"] = 206,
-						},
-					},
-					["TimeDamage"] = 13.43,
-					["TimeDamaging"] = {
-						["Kurenya-Zul'jin"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 3,
-								},
-							},
-							["amount"] = 3,
-						},
-						["Inovardria-Anvilmar"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 1.5,
-						},
-						["Vanilawafer-Illidan"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 1.45,
-								},
-							},
-							["amount"] = 1.45,
-						},
-						["Pox-Dalaran"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 1.48,
-								},
-							},
-							["amount"] = 1.48,
-						},
-						["Xiya-BleedingHollow"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 4.5,
-								},
-							},
-							["amount"] = 4.5,
-						},
-						["Quartrpoundr-Andorhal"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 1.5,
-						},
-					},
-					["ElementHitsTaken"] = {
-						["Shadow"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 2,
-						},
-						["Arcane"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 4,
-								},
-								["Crit"] = {
-									["count"] = 5,
-								},
-								["Tick"] = {
-									["count"] = 5,
-								},
-							},
-							["amount"] = 14,
-						},
-						["Frost"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 2,
-								},
-								["Hit"] = {
-									["count"] = 5,
-								},
-							},
-							["amount"] = 7,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 1,
-								},
-								["Hit"] = {
-									["count"] = 4,
-								},
-							},
-							["amount"] = 5,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 18,
-								},
-								["Crit"] = {
-									["count"] = 6,
-								},
-								["Tick"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 25,
-						},
-						["Nature"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 5,
-								},
-								["Crit"] = {
-									["count"] = 5,
-								},
-								["Hit"] = {
-									["count"] = 8,
-								},
-							},
-							["amount"] = 18,
-						},
-					},
-					["Attacks"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Dodge"] = {
-									["count"] = 1,
-									["amount"] = 0,
-								},
-								["Absorb"] = {
-									["max"] = 206,
-									["min"] = 156,
-									["count"] = 2,
-									["amount"] = 362,
-								},
-								["Crit"] = {
-									["max"] = 440,
-									["min"] = 369,
-									["count"] = 2,
-									["amount"] = 809,
-								},
-								["Hit"] = {
-									["max"] = 247,
-									["min"] = 117,
-									["count"] = 5,
-									["amount"] = 974,
-								},
-							},
-							["count"] = 10,
-							["amount"] = 2145,
-						},
-					},
-					["WhoDamaged"] = {
-						["Kurenya-Zul'jin"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 2642,
-								},
-								["Throw Glaive"] = {
-									["count"] = 69660,
-								},
-								["Searing Zap"] = {
-									["count"] = 325,
-								},
-							},
-							["amount"] = 72627,
-						},
-						["Glademere-Thrall"] = {
-							["Details"] = {
-								["Moonfire"] = {
-									["count"] = 10181,
-								},
-								["Rake"] = {
-									["count"] = 125538,
-								},
-								["Moonfire (DoT)"] = {
-									["count"] = 28529,
-								},
-							},
-							["amount"] = 164248,
-						},
-						["Majunior-Dentarg"] = {
-							["Details"] = {
-								["Garrote (DoT)"] = {
-									["count"] = 46591,
-								},
-							},
-							["amount"] = 46591,
-						},
-						["Feetis-Mal'Ganis"] = {
-							["Details"] = {
-								["Clawing Shadows"] = {
-									["count"] = 139562,
-								},
-								["Festering Strike"] = {
-									["count"] = 208945,
-								},
-								["Festering Wound"] = {
-									["count"] = 71883,
-								},
-							},
-							["amount"] = 420390,
-						},
-						["Chupamia-Thunderhorn"] = {
-							["Details"] = {
-								["Sunfire (DoT)"] = {
-									["count"] = 96841,
-								},
-								["Moonfire (DoT)"] = {
-									["count"] = 89252,
-								},
-								["Sunfire"] = {
-									["count"] = 1284,
-								},
-								["Moonfire"] = {
-									["count"] = 978,
-								},
-								["Starsurge"] = {
-									["count"] = 509228,
-								},
-							},
-							["amount"] = 697583,
-						},
-						["Quartrpoundr-Andorhal"] = {
-							["Details"] = {
-								["Stormstrike"] = {
-									["count"] = 615594,
-								},
-								["Lightning Shield"] = {
-									["count"] = 146,
-								},
-								["Rockbiter"] = {
-									["count"] = 67671,
-								},
-							},
-							["amount"] = 683411,
-						},
-						["Huntelsa-Arthas"] = {
-							["Details"] = {
-								["Raptor Strike"] = {
-									["count"] = 291149,
-								},
-								["Latent Poison"] = {
-									["count"] = 25697,
-								},
-								["Serpent Sting"] = {
-									["count"] = 621,
-								},
-							},
-							["amount"] = 317467,
-						},
-						["Xiya-BleedingHollow"] = {
-							["Details"] = {
-								["Blade Dance"] = {
-									["count"] = 512043,
-								},
-								["Fathom Fall"] = {
-									["count"] = 62830,
-								},
-								["Eye Beam"] = {
-									["count"] = 445113,
-								},
-								["Demon's Bite"] = {
-									["count"] = 126675,
-								},
-								["Immolation Aura"] = {
-									["count"] = 216066,
-								},
-							},
-							["amount"] = 1362727,
-						},
-						["Luiscro-Illidan"] = {
-							["Details"] = {
-								["Blackout Kick"] = {
-									["count"] = 204392,
-								},
-								["Eye of the Tiger (DoT)"] = {
-									["count"] = 14133,
-								},
-								["Tiger Palm"] = {
-									["count"] = 2411,
-								},
-							},
-							["amount"] = 220936,
-						},
-						["Inovardria-Anvilmar"] = {
-							["Details"] = {
-								["Arcane Barrage"] = {
-									["count"] = 1475,
-								},
-								["Arcane Explosion"] = {
-									["count"] = 523396,
-								},
-								["Gutripper"] = {
-									["count"] = 121568,
-								},
-							},
-							["amount"] = 646439,
-						},
-						["Vanilawafer-Illidan"] = {
-							["Details"] = {
-								["Windfury Attack"] = {
-									["count"] = 866,
-								},
-								["Stormstrike Off-Hand"] = {
-									["count"] = 109614,
-								},
-								["Rockbiter"] = {
-									["count"] = 3009,
-								},
-								["Stormstrike"] = {
-									["count"] = 217742,
-								},
-								["Gutripper"] = {
-									["count"] = 1617,
-								},
-								["Chain Lightning"] = {
-									["count"] = 237117,
-								},
-							},
-							["amount"] = 569965,
-						},
-						["Valadøx-Thrall"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 2650,
-								},
-								["Ebonbolt"] = {
-									["count"] = 408530,
-								},
-							},
-							["amount"] = 411180,
-						},
-						["Pox-Dalaran"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 352159,
-								},
-								["Frozen Orb"] = {
-									["count"] = 121890,
-								},
-							},
-							["amount"] = 474049,
-						},
-						["Melinkô-Illidan"] = {
-							["Details"] = {
-								["Sunfire (DoT)"] = {
-									["count"] = 42175,
-								},
-								["Moonfire (DoT)"] = {
-									["count"] = 124745,
-								},
-								["Starfall"] = {
-									["count"] = 77406,
-								},
-								["Sunfire"] = {
-									["count"] = 576,
-								},
-								["Moonfire"] = {
-									["count"] = 1002,
-								},
-								["Gutripper"] = {
-									["count"] = 58804,
-								},
-							},
-							["amount"] = 304708,
-						},
-					},
-				},
-			},
+		["Twiddlederr"] = {
 			["DeathLogs"] = {
 				{
 					["MessageIncoming"] = {
-						false, -- [1]
+						true, -- [1]
 						true, -- [2]
 						true, -- [3]
 						true, -- [4]
 						true, -- [5]
 						true, -- [6]
-						false, -- [7]
+						true, -- [7]
 						true, -- [8]
 						true, -- [9]
 						true, -- [10]
-						true, -- [11]
+						false, -- [11]
 						true, -- [12]
 						true, -- [13]
 						true, -- [14]
 						true, -- [15]
-						false, -- [16]
+						true, -- [16]
 						true, -- [17]
-						true, -- [18]
+						false, -- [18]
 						true, -- [19]
-						true, -- [20]
+						false, -- [20]
 						true, -- [21]
 						true, -- [22]
-						true, -- [23]
-						true, -- [24]
-						true, -- [25]
-						true, -- [26]
-						true, -- [27]
+						false, -- [23]
+						false, -- [24]
+						false, -- [25]
+						false, -- [26]
+						false, -- [27]
 						false, -- [28]
 						true, -- [29]
-						true, -- [30]
+						false, -- [30]
 						true, -- [31]
-						true, -- [32]
-						true, -- [33]
-						true, -- [34]
-						true, -- [35]
-						true, -- [36]
-						true, -- [37]
-						true, -- [38]
+						false, -- [32]
+						false, -- [33]
+						false, -- [34]
+						false, -- [35]
+						false, -- [36]
+						false, -- [37]
+						false, -- [38]
+						false, -- [39]
+						false, -- [40]
+						true, -- [41]
+						true, -- [42]
 					},
 					["Messages"] = {
-						"Galleon Melee Kurenya-Zul'jin Hit -216 (Physical)", -- [1]
-						"Chupamia-Thunderhorn Sunfire Galleon Crit -1284 (Nature)", -- [2]
-						"Kurenya-Zul'jin Fel Rush Galleon Crit -2642", -- [3]
-						"Kurenya-Zul'jin Searing Zap Galleon Hit -325 (Nature)", -- [4]
-						"Valadøx-Thrall Ice Lance Galleon Crit -1724 (Frost)", -- [5]
-						"Melinkô-Illidan Sunfire Galleon Hit -576 (Nature)", -- [6]
-						"Galleon Melee Kurenya-Zul'jin Crit -440 (Physical)", -- [7]
-						"Chupamia-Thunderhorn Moonfire Galleon Crit -978 (Arcane)", -- [8]
-						"Glademere-Thrall Moonfire Galleon Hit -101 (Arcane)", -- [9]
-						"Chupamia-Thunderhorn Sunfire (DoT) Galleon Crit -978 (Nature)", -- [10]
-						"Valadøx-Thrall Ice Lance Galleon Hit -926 (Frost)", -- [11]
-						"Melinkô-Illidan Moonfire Galleon Crit -1002 (Arcane)", -- [12]
-						"Melinkô-Illidan Sunfire (DoT) Galleon Tick -418 (Nature)", -- [13]
-						"Glademere-Thrall Moonfire Galleon Hit -10080 (Arcane)", -- [14]
-						"Chupamia-Thunderhorn Moonfire (DoT) Galleon Tick -44626 (Arcane)", -- [15]
-						"Galleon Melee Chupamia-Thunderhorn Hit -117 (Physical)", -- [16]
-						"Glademere-Thrall Moonfire (DoT) Galleon Crit -19145 (Arcane)", -- [17]
-						"Chupamia-Thunderhorn Sunfire (DoT) Galleon Tick -47932 (Nature)", -- [18]
-						"Pox-Dalaran Ice Lance Galleon Crit -352159 (Frost)", -- [19]
-						"Melinkô-Illidan Moonfire (DoT) Galleon Tick -46653 (Arcane)", -- [20]
-						"Melinkô-Illidan Gutripper Galleon Hit -58804 (Physical)", -- [21]
-						"Melinkô-Illidan Sunfire (DoT) Galleon Tick -41757 (Nature)", -- [22]
-						"Melinkô-Illidan Starfall Galleon Hit -34558", -- [23]
-						"Kurenya-Zul'jin Throw Glaive Galleon Hit -69660 (Physical)", -- [24]
-						"Chupamia-Thunderhorn Moonfire (DoT) Galleon Tick -44626 (Arcane)", -- [25]
-						"Pox-Dalaran Frozen Orb Galleon Hit -40152 (Frost)", -- [26]
-						"Chupamia-Thunderhorn Sunfire (DoT) Galleon Tick -47931 (Nature)", -- [27]
-						"Galleon Melee Pox-Dalaran Hit -187 (Physical)", -- [28]
-						"Glademere-Thrall Moonfire (DoT) Galleon Tick -9384 (Arcane)", -- [29]
-						"Majunior-Dentarg Garrote (DoT) Galleon Tick -46591 (Physical)", -- [30]
-						"Pox-Dalaran Frozen Orb Galleon Hit -40152 (Frost)", -- [31]
-						"Melinkô-Illidan Starfall Galleon Hit -42848", -- [32]
-						"Pox-Dalaran Frozen Orb Galleon Hit -41586 (Frost)", -- [33]
-						"Glademere-Thrall Rake Galleon Crit -125538 (Physical)", -- [34]
-						"Melinkô-Illidan Moonfire (DoT) Galleon Tick -78092 (Arcane)", -- [35]
-						"Valadøx-Thrall Ebonbolt Galleon Hit -408530 (Frost)", -- [36]
-						"Chupamia-Thunderhorn Starsurge Galleon Hit -509228", -- [37]
-						"Galleon dies.", -- [38]
+						"Turqleton-Area52 Rampage Twiddlederr Hit -2551 (Physical)", -- [1]
+						"Turqleton-Area52 Rampage Twiddlederr Dodge (Physical)", -- [2]
+						"Turqleton-Area52 Melee Twiddlederr Crit -2780 (Physical)", -- [3]
+						"Turqleton-Area52 Reckless Flurry Twiddlederr Dodge (Physical)", -- [4]
+						"Turqleton-Area52 Raging Blow Twiddlederr Dodge (Physical)", -- [5]
+						"Turqleton-Area52 Melee Twiddlederr Hit -909 (Physical)", -- [6]
+						"Turqleton-Area52 Reckless Flurry Twiddlederr Hit -557 (Physical)", -- [7]
+						"Turqleton-Area52 Melee Twiddlederr Crit -1150 (Physical)", -- [8]
+						"Turqleton-Area52 Reckless Flurry Twiddlederr Hit -459 (Physical)", -- [9]
+						"Turqleton-Area52 Melee Twiddlederr Dodge (1)", -- [10]
+						"Twiddlederr Throw Glaive Turqleton-Area52 Hit -1694 (Physical)", -- [11]
+						"Turqleton-Area52 Raging Blow Twiddlederr Hit -2029 (Physical)", -- [12]
+						"Turqleton-Area52 Raging Blow Twiddlederr Hit -1007 (Physical)", -- [13]
+						"Turqleton-Area52 Fathom Fall Twiddlederr Hit -4668 (Physical)", -- [14]
+						"Turqleton-Area52 Raging Blow Twiddlederr Hit -3130 (Physical)", -- [15]
+						"Turqleton-Area52 Raging Blow Twiddlederr Crit -2330 (Physical)", -- [16]
+						"Turqleton-Area52 Melee Twiddlederr Hit -2209 (Physical)", -- [17]
+						"Twiddlederr Fel Barrage Turqleton-Area52 Hit -2182", -- [18]
+						"Turqleton-Area52 Reckless Flurry Twiddlederr Hit -707 (Physical)", -- [19]
+						"Twiddlederr Fel Barrage Turqleton-Area52 Hit -2181", -- [20]
+						"Turqleton-Area52 Melee Twiddlederr Hit -1181 (Physical)", -- [21]
+						"Turqleton-Area52 Reckless Flurry Twiddlederr Hit -707 (Physical)", -- [22]
+						"Twiddlederr Immolation Aura Turqleton-Area52 Hit -734 (Fire)", -- [23]
+						"Twiddlederr Fel Barrage Turqleton-Area52 Crit -3272", -- [24]
+						"Twiddlederr Fel Barrage Turqleton-Area52 Hit -2181", -- [25]
+						"Twiddlederr Fel Barrage Turqleton-Area52 Hit -2182", -- [26]
+						"Twiddlederr Fel Barrage Turqleton-Area52 Hit -2181", -- [27]
+						"Twiddlederr Fel Barrage Turqleton-Area52 Hit -2181", -- [28]
+						"Turqleton-Area52 Execute Twiddlederr Crit -9415 (Physical)", -- [29]
+						"Twiddlederr Immolation Aura Turqleton-Area52 Hit -734 (Fire)", -- [30]
+						"Turqleton-Area52 Execute Off-Hand Twiddlederr Hit -3504 (Physical)", -- [31]
+						"Twiddlederr Fel Barrage Turqleton-Area52 Hit -2181", -- [32]
+						"Twiddlederr Fel Barrage Turqleton-Area52 Hit -2181", -- [33]
+						"Twiddlederr Fel Barrage Turqleton-Area52 Hit -2181", -- [34]
+						"Twiddlederr Fel Barrage Turqleton-Area52 Crit -3272", -- [35]
+						"Twiddlederr Fel Barrage Turqleton-Area52 Hit -2182", -- [36]
+						"Twiddlederr Immolation Aura Turqleton-Area52 Hit -734 (Fire)", -- [37]
+						"Twiddlederr Fel Barrage Turqleton-Area52 Crit -2845", -- [38]
+						"Twiddlederr Fel Barrage Turqleton-Area52 Hit -1897", -- [39]
+						"Twiddlederr Fel Barrage Turqleton-Area52 Hit -1897", -- [40]
+						"Turqleton-Area52 Bloodthirst Twiddlederr Crit -7818 (Physical)", -- [41]
+						"Twiddlederr dies.", -- [42]
 					},
-					["DeathAt"] = 27245.536,
+					["DeathAt"] = 15227.606,
 					["EventNum"] = {
 						0, -- [1]
 						0, -- [2]
@@ -3277,52 +133,144 @@ RecountPerCharDB = {
 						0, -- [36]
 						0, -- [37]
 						0, -- [38]
+						0, -- [39]
+						0, -- [40]
+						0, -- [41]
+						0, -- [42]
 					},
 					["MessageTimes"] = {
-						-6.71000000000277, -- [1]
-						-5.62000000000262, -- [2]
-						-5.62000000000262, -- [3]
-						-5.62000000000262, -- [4]
-						-2.36000000000058, -- [5]
-						-2.36000000000058, -- [6]
-						-2.36000000000058, -- [7]
-						-2.36000000000058, -- [8]
-						-2.36000000000058, -- [9]
-						-2.36000000000058, -- [10]
-						-2.36000000000058, -- [11]
-						-2.36000000000058, -- [12]
-						-2.36000000000058, -- [13]
-						-2.36000000000058, -- [14]
-						-2.36000000000058, -- [15]
-						-2.36000000000058, -- [16]
-						-2.09000000000015, -- [17]
-						-2.09000000000015, -- [18]
-						-2.09000000000015, -- [19]
-						-2.08000000000175, -- [20]
-						-2.08000000000175, -- [21]
-						-1.68000000000029, -- [22]
-						-1.55000000000291, -- [23]
-						-1.55000000000291, -- [24]
-						-1.31000000000131, -- [25]
-						-1.19000000000233, -- [26]
-						-0.880000000001019, -- [27]
-						-0.880000000001019, -- [28]
-						-0.880000000001019, -- [29]
-						-0.880000000001019, -- [30]
-						-0.760000000002037, -- [31]
-						-0.640000000003056, -- [32]
-						-0.280000000002474, -- [33]
-						-0.280000000002474, -- [34]
-						-0.280000000002474, -- [35]
-						-0.100000000002183, -- [36]
-						-0.100000000002183, -- [37]
-						0, -- [38]
+						-14.9510000000009, -- [1]
+						-14.5300000000007, -- [2]
+						-13.3919999999998, -- [3]
+						-13.2849999999999, -- [4]
+						-13.2420000000002, -- [5]
+						-13.0630000000001, -- [6]
+						-12.9529999999995, -- [7]
+						-8.82500000000073, -- [8]
+						-8.82500000000073, -- [9]
+						-8.71600000000035, -- [10]
+						-8.60599999999977, -- [11]
+						-6.88900000000103, -- [12]
+						-6.88900000000103, -- [13]
+						-5.80199999999968, -- [14]
+						-3.08200000000034, -- [15]
+						-2.97299999999996, -- [16]
+						-2.97299999999996, -- [17]
+						-2.97299999999996, -- [18]
+						-2.88100000000122, -- [19]
+						-2.73700000000099, -- [20]
+						-2.61800000000039, -- [21]
+						-2.61800000000039, -- [22]
+						-2.61800000000039, -- [23]
+						-2.52300000000105, -- [24]
+						-2.30500000000029, -- [25]
+						-2.04100000000108, -- [26]
+						-1.91699999999946, -- [27]
+						-1.69200000000092, -- [28]
+						-1.69200000000092, -- [29]
+						-1.58300000000054, -- [30]
+						-1.58300000000054, -- [31]
+						-1.46000000000095, -- [32]
+						-1.32099999999991, -- [33]
+						-1.1200000000008, -- [34]
+						-0.914000000000669, -- [35]
+						-0.655000000000655, -- [36]
+						-0.655000000000655, -- [37]
+						-0.46100000000115, -- [38]
+						-0.268000000000029, -- [39]
+						-0.0959999999995489, -- [40]
+						-0.0959999999995489, -- [41]
+						0, -- [42]
 					},
 					["HealthMax"] = {
+						117040, -- [1]
+						117040, -- [2]
+						117040, -- [3]
+						117040, -- [4]
+						117040, -- [5]
+						117040, -- [6]
+						117040, -- [7]
+						117040, -- [8]
+						117040, -- [9]
+						117040, -- [10]
+						117040, -- [11]
+						117040, -- [12]
+						117040, -- [13]
+						117040, -- [14]
+						117040, -- [15]
+						117040, -- [16]
+						117040, -- [17]
+						117040, -- [18]
+						117040, -- [19]
+						117040, -- [20]
+						117040, -- [21]
+						117040, -- [22]
+						117040, -- [23]
+						117040, -- [24]
+						117040, -- [25]
+						117040, -- [26]
+						117040, -- [27]
+						117040, -- [28]
+						117040, -- [29]
+						117040, -- [30]
+						117040, -- [31]
+						117040, -- [32]
+						117040, -- [33]
+						117040, -- [34]
+						117040, -- [35]
+						117040, -- [36]
+						117040, -- [37]
+						117040, -- [38]
+						117040, -- [39]
+						117040, -- [40]
+						117040, -- [41]
+						117040, -- [42]
 					},
 					["Health"] = {
+						41661, -- [1]
+						41661, -- [2]
+						41661, -- [3]
+						41661, -- [4]
+						41661, -- [5]
+						38881, -- [6]
+						38324, -- [7]
+						37415, -- [8]
+						36956, -- [9]
+						36956, -- [10]
+						35806, -- [11]
+						33777, -- [12]
+						32770, -- [13]
+						28102, -- [14]
+						24972, -- [15]
+						22642, -- [16]
+						22642, -- [17]
+						22642, -- [18]
+						21935, -- [19]
+						19726, -- [20]
+						19726, -- [21]
+						19019, -- [22]
+						19019, -- [23]
+						17838, -- [24]
+						17838, -- [25]
+						17838, -- [26]
+						17838, -- [27]
+						17838, -- [28]
+						8423, -- [29]
+						8423, -- [30]
+						4919, -- [31]
+						4919, -- [32]
+						4919, -- [33]
+						4919, -- [34]
+						4919, -- [35]
+						4919, -- [36]
+						4919, -- [37]
+						4919, -- [38]
+						4919, -- [39]
+						4919, -- [40]
+						1, -- [41]
+						0, -- [42]
 					},
-					["KilledBy"] = "Chupamia-Thunderhorn",
+					["KilledBy"] = "Turqleton-Area52",
 					["MessageType"] = {
 						"DAMAGE", -- [1]
 						"DAMAGE", -- [2]
@@ -3361,79 +309,119 @@ RecountPerCharDB = {
 						"DAMAGE", -- [35]
 						"DAMAGE", -- [36]
 						"DAMAGE", -- [37]
-						"MISC", -- [38]
+						"DAMAGE", -- [38]
+						"DAMAGE", -- [39]
+						"DAMAGE", -- [40]
+						"DAMAGE", -- [41]
+						"MISC", -- [42]
 					},
 				}, -- [1]
 				{
 					["MessageIncoming"] = {
 						false, -- [1]
-						true, -- [2]
+						false, -- [2]
 						true, -- [3]
-						true, -- [4]
-						true, -- [5]
+						false, -- [4]
+						false, -- [5]
 						false, -- [6]
-						true, -- [7]
-						true, -- [8]
-						true, -- [9]
-						true, -- [10]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
 						true, -- [11]
 						true, -- [12]
-						true, -- [13]
-						true, -- [14]
-						true, -- [15]
-						true, -- [16]
-						true, -- [17]
+						false, -- [13]
+						false, -- [14]
+						false, -- [15]
+						false, -- [16]
+						false, -- [17]
 						true, -- [18]
 						true, -- [19]
 						true, -- [20]
-						false, -- [21]
+						true, -- [21]
 						true, -- [22]
 						true, -- [23]
 						true, -- [24]
-						true, -- [25]
-						true, -- [26]
-						true, -- [27]
-						true, -- [28]
+						false, -- [25]
+						false, -- [26]
+						false, -- [27]
+						false, -- [28]
 						true, -- [29]
-						true, -- [30]
-						true, -- [31]
-						true, -- [32]
+						false, -- [30]
+						false, -- [31]
+						false, -- [32]
+						true, -- [33]
+						false, -- [34]
+						false, -- [35]
+						false, -- [36]
+						true, -- [37]
+						false, -- [38]
+						false, -- [39]
+						false, -- [40]
+						false, -- [41]
+						false, -- [42]
+						false, -- [43]
+						false, -- [44]
+						true, -- [45]
+						false, -- [46]
+						false, -- [47]
+						true, -- [48]
+						true, -- [49]
+						true, -- [50]
 					},
 					["Messages"] = {
-						"Galleon Melee Quartrpoundr-Andorhal Absorb -206 (206 Absorbed) (1)", -- [1]
-						"Quartrpoundr-Andorhal Rockbiter Galleon Hit -670 (Nature)", -- [2]
-						"Quartrpoundr-Andorhal Lightning Shield Galleon Crit -146 (Nature)", -- [3]
-						"Vanilawafer-Illidan Rockbiter Galleon Crit -2019 (Nature)", -- [4]
-						"Vanilawafer-Illidan Rockbiter Galleon Hit -990 (Nature)", -- [5]
-						"Galleon Melee Vanilawafer-Illidan Absorb -156 (156 Absorbed) (1)", -- [6]
-						"Inovardria-Anvilmar Arcane Barrage Galleon Hit -1475 (Arcane)", -- [7]
-						"Luiscro-Illidan Tiger Palm Galleon Crit -1323 (Physical)", -- [8]
-						"Inovardria-Anvilmar Arcane Explosion Galleon Hit -1195 (Arcane)", -- [9]
-						"Vanilawafer-Illidan Stormstrike Galleon Hit -2688 (Physical)", -- [10]
-						"Vanilawafer-Illidan Stormstrike Off-Hand Galleon Hit -1353 (Physical)", -- [11]
-						"Luiscro-Illidan Tiger Palm Galleon Crit -1088 (Physical)", -- [12]
-						"Vanilawafer-Illidan Gutripper Galleon Crit -1617 (Physical)", -- [13]
-						"Vanilawafer-Illidan Chain Lightning Galleon Hit -1157 (Nature)", -- [14]
-						"Vanilawafer-Illidan Windfury Attack Galleon Hit -433 (Physical)", -- [15]
-						"Vanilawafer-Illidan Windfury Attack Galleon Hit -433 (Physical)", -- [16]
-						"Huntelsa-Arthas Serpent Sting Galleon Hit -621 (Nature)", -- [17]
-						"Inovardria-Anvilmar Arcane Explosion Galleon Crit -256675 (Arcane)", -- [18]
-						"Inovardria-Anvilmar Gutripper Galleon Hit -60784 (Physical)", -- [19]
-						"Quartrpoundr-Andorhal Rockbiter Galleon Hit -67001 (Nature)", -- [20]
-						"Galleon Melee Inovardria-Anvilmar Hit -247 (Physical)", -- [21]
-						"Luiscro-Illidan Eye of the Tiger (DoT) Galleon Tick -14133 (Nature)", -- [22]
-						"Huntelsa-Arthas Raptor Strike Galleon Hit -291149 (Physical)", -- [23]
-						"Huntelsa-Arthas Latent Poison Galleon Hit -25697 (Nature)", -- [24]
-						"Vanilawafer-Illidan Stormstrike Galleon Hit -215054 (Physical)", -- [25]
-						"Vanilawafer-Illidan Stormstrike Off-Hand Galleon Hit -108261 (Physical)", -- [26]
-						"Vanilawafer-Illidan Chain Lightning Galleon Crit -235960 (Nature)", -- [27]
-						"Luiscro-Illidan Blackout Kick Galleon Hit -204392 (Physical)", -- [28]
-						"Inovardria-Anvilmar Arcane Explosion Galleon Crit -265526 (Arcane)", -- [29]
-						"Inovardria-Anvilmar Gutripper Galleon Hit -60784 (Physical)", -- [30]
-						"Quartrpoundr-Andorhal Stormstrike Galleon Crit -615594 (Physical)", -- [31]
-						"Galleon dies.", -- [32]
+						"Twiddlederr Eye Beam Turqleton-Area52 Crit -1637", -- [1]
+						"Twiddlederr Eye Beam Turqleton-Area52 Crit -1637", -- [2]
+						"Twiddlederr Leech Twiddlederr Hit +12998", -- [3]
+						"Twiddlederr Eye Beam Turqleton-Area52 Crit -1637", -- [4]
+						"Twiddlederr Eye Beam Turqleton-Area52 Crit -1146", -- [5]
+						"Twiddlederr Eye Beam Turqleton-Area52 Crit -1146", -- [6]
+						"Twiddlederr Eye Beam Turqleton-Area52 Crit -1146", -- [7]
+						"Twiddlederr Eye Beam Turqleton-Area52 Crit -1146", -- [8]
+						"Twiddlederr Eye Beam Turqleton-Area52 Crit -1146", -- [9]
+						"Twiddlederr Immolation Aura Turqleton-Area52 Hit -1346 (Fire)", -- [10]
+						"Turqleton-Area52 Bloodthirst Twiddlederr Crit -6342 (Physical)", -- [11]
+						"Twiddlederr Leech Twiddlederr Hit +2068", -- [12]
+						"Twiddlederr Melee Turqleton-Area52 Hit -1373 (Physical)", -- [13]
+						"Twiddlederr Immolation Aura Turqleton-Area52 Hit -503 (Fire)", -- [14]
+						"Twiddlederr Annihilation Turqleton-Area52 Hit -3194", -- [15]
+						"Twiddlederr Melee Turqleton-Area52 Hit -690 (Physical)", -- [16]
+						"Twiddlederr Annihilation Turqleton-Area52 Hit -2569", -- [17]
+						"Twiddlederr Leech Twiddlederr Hit +1667", -- [18]
+						"Turqleton-Area52 Execute Twiddlederr Hit -5677 (Physical)", -- [19]
+						"Turqleton-Area52 Melee Twiddlederr Hit -2119 (Physical)", -- [20]
+						"Turqleton-Area52 Reckless Flurry Twiddlederr Crit -1060 (Physical)", -- [21]
+						"Turqleton-Area52 Execute Off-Hand Twiddlederr Hit -3169 (Physical)", -- [22]
+						"Turqleton-Area52 Melee Twiddlederr Crit -1517 (Physical)", -- [23]
+						"Turqleton-Area52 Reckless Flurry Twiddlederr Hit -706 (Physical)", -- [24]
+						"Twiddlederr Immolation Aura Turqleton-Area52 Crit -764 (Fire)", -- [25]
+						"Twiddlederr Death Sweep Turqleton-Area52 Hit -1441 (Physical)", -- [26]
+						"Twiddlederr Death Sweep Turqleton-Area52 Hit -1441 (Physical)", -- [27]
+						"Twiddlederr Melee Turqleton-Area52 Crit -2076 (Physical)", -- [28]
+						"Twiddlederr Leech Twiddlederr Hit +1144", -- [29]
+						"Twiddlederr Death Sweep Turqleton-Area52 Hit -1442 (Physical)", -- [30]
+						"Twiddlederr Immolation Aura Turqleton-Area52 Hit -510 (Fire)", -- [31]
+						"Twiddlederr Melee Turqleton-Area52 Miss (1)", -- [32]
+						"Turqleton-Area52 Rampage Twiddlederr Dodge (Physical)", -- [33]
+						"Twiddlederr Death Sweep Turqleton-Area52 Hit -4137 (Physical)", -- [34]
+						"Twiddlederr Fel Eruption Turqleton-Area52 Hit -1696", -- [35]
+						"Twiddlederr Immolation Aura Turqleton-Area52 Crit -638 (Fire)", -- [36]
+						"Twiddlederr Leech Twiddlederr Hit +1686", -- [37]
+						"Twiddlederr Melee Turqleton-Area52 Hit -1195 (Physical)", -- [38]
+						"Twiddlederr Chaos Strike Turqleton-Area52 Hit -2182", -- [39]
+						"Twiddlederr Melee Turqleton-Area52 Crit -936 (Physical)", -- [40]
+						"Twiddlederr Immolation Aura Turqleton-Area52 Hit -453 (Fire)", -- [41]
+						"Twiddlederr Chaos Strike Turqleton-Area52 Crit -2625", -- [42]
+						"Twiddlederr Immolation Aura Turqleton-Area52 Hit -453 (Fire)", -- [43]
+						"Twiddlederr Immolation Aura Turqleton-Area52 Hit -491 (Fire)", -- [44]
+						"Turqleton-Area52 Bloodthirst Twiddlederr Hit -4455 (Physical)", -- [45]
+						"Twiddlederr Melee Turqleton-Area52 Miss (1)", -- [46]
+						"Twiddlederr Melee Turqleton-Area52 Crit -1431 (Physical)", -- [47]
+						"Turqleton-Area52 Melee Twiddlederr Hit -2476 (Physical)", -- [48]
+						"Turqleton-Area52 Reckless Flurry Twiddlederr Hit -818 (Physical)", -- [49]
+						"Twiddlederr dies.", -- [50]
 					},
-					["DeathAt"] = 10215.053,
+					["DeathAt"] = 15155.613,
 					["EventNum"] = {
 						0, -- [1]
 						0, -- [2]
@@ -3467,50 +455,186 @@ RecountPerCharDB = {
 						0, -- [30]
 						0, -- [31]
 						0, -- [32]
+						0, -- [33]
+						0, -- [34]
+						0, -- [35]
+						0, -- [36]
+						0, -- [37]
+						0, -- [38]
+						0, -- [39]
+						0, -- [40]
+						0, -- [41]
+						0, -- [42]
+						0, -- [43]
+						0, -- [44]
+						0, -- [45]
+						0, -- [46]
+						0, -- [47]
+						0, -- [48]
+						0, -- [49]
+						0, -- [50]
 					},
 					["MessageTimes"] = {
-						-4.85699999999997, -- [1]
-						-4.85699999999997, -- [2]
-						-4.85699999999997, -- [3]
-						-4.85699999999997, -- [4]
-						-3.55199999999968, -- [5]
-						-3.40900000000147, -- [6]
-						-2.77300000000105, -- [7]
-						-2.03200000000106, -- [8]
-						-2.03200000000106, -- [9]
-						-2.03200000000106, -- [10]
-						-2.03200000000106, -- [11]
-						-2.03200000000106, -- [12]
-						-2.03200000000106, -- [13]
-						-2.03200000000106, -- [14]
-						-2.03200000000106, -- [15]
-						-1.99700000000121, -- [16]
-						-1.72600000000057, -- [17]
-						-1.72600000000057, -- [18]
-						-1.72600000000057, -- [19]
-						-1.53900000000067, -- [20]
-						-1.30400000000009, -- [21]
-						-1.15099999999984, -- [22]
-						-0.762000000000626, -- [23]
-						-0.762000000000626, -- [24]
-						-0.762000000000626, -- [25]
-						-0.762000000000626, -- [26]
-						-0.762000000000626, -- [27]
-						-0.667000000001281, -- [28]
-						-0.409999999999855, -- [29]
-						-0.409999999999855, -- [30]
-						-0.104000000001179, -- [31]
-						0, -- [32]
+						-8.79999999999927, -- [1]
+						-8.6929999999993, -- [2]
+						-8.54899999999907, -- [3]
+						-8.54899999999907, -- [4]
+						-8.34699999999975, -- [5]
+						-8.2549999999992, -- [6]
+						-8.13299999999981, -- [7]
+						-7.96099999999933, -- [8]
+						-7.84199999999873, -- [9]
+						-7.73699999999917, -- [10]
+						-7.39300000000003, -- [11]
+						-7.28799999999865, -- [12]
+						-7.28799999999865, -- [13]
+						-6.80199999999968, -- [14]
+						-6.60099999999875, -- [15]
+						-6.29099999999926, -- [16]
+						-6.29099999999926, -- [17]
+						-6.12199999999939, -- [18]
+						-5.9989999999998, -- [19]
+						-5.9989999999998, -- [20]
+						-5.9989999999998, -- [21]
+						-5.9989999999998, -- [22]
+						-5.89899999999943, -- [23]
+						-5.89899999999943, -- [24]
+						-5.78499999999986, -- [25]
+						-5.29899999999907, -- [26]
+						-5.1919999999991, -- [27]
+						-5.08799999999974, -- [28]
+						-4.86599999999999, -- [29]
+						-4.86599999999999, -- [30]
+						-4.86599999999999, -- [31]
+						-4.65999999999985, -- [32]
+						-4.63199999999961, -- [33]
+						-4.32999999999993, -- [34]
+						-4.04399999999987, -- [35]
+						-3.77299999999923, -- [36]
+						-3.66200000000026, -- [37]
+						-3.36599999999999, -- [38]
+						-2.94700000000012, -- [39]
+						-2.84699999999975, -- [40]
+						-2.84699999999975, -- [41]
+						-2.628999999999, -- [42]
+						-1.77700000000004, -- [43]
+						-0.793999999999869, -- [44]
+						-0.394000000000233, -- [45]
+						-0.216000000000349, -- [46]
+						-0.216000000000349, -- [47]
+						-0.102999999999156, -- [48]
+						-0.102999999999156, -- [49]
+						0, -- [50]
 					},
 					["HealthMax"] = {
+						117040, -- [1]
+						117040, -- [2]
+						117040, -- [3]
+						117040, -- [4]
+						117040, -- [5]
+						117040, -- [6]
+						117040, -- [7]
+						117040, -- [8]
+						117040, -- [9]
+						117040, -- [10]
+						117040, -- [11]
+						117040, -- [12]
+						117040, -- [13]
+						117040, -- [14]
+						117040, -- [15]
+						117040, -- [16]
+						117040, -- [17]
+						117040, -- [18]
+						117040, -- [19]
+						117040, -- [20]
+						117040, -- [21]
+						117040, -- [22]
+						117040, -- [23]
+						117040, -- [24]
+						117040, -- [25]
+						117040, -- [26]
+						117040, -- [27]
+						117040, -- [28]
+						117040, -- [29]
+						117040, -- [30]
+						117040, -- [31]
+						117040, -- [32]
+						117040, -- [33]
+						117040, -- [34]
+						117040, -- [35]
+						117040, -- [36]
+						117040, -- [37]
+						117040, -- [38]
+						117040, -- [39]
+						117040, -- [40]
+						117040, -- [41]
+						117040, -- [42]
+						117040, -- [43]
+						117040, -- [44]
+						117040, -- [45]
+						117040, -- [46]
+						117040, -- [47]
+						117040, -- [48]
+						117040, -- [49]
+						117040, -- [50]
 					},
 					["Health"] = {
+						8349, -- [1]
+						8349, -- [2]
+						21347, -- [3]
+						21347, -- [4]
+						21347, -- [5]
+						21347, -- [6]
+						21347, -- [7]
+						21347, -- [8]
+						21347, -- [9]
+						21347, -- [10]
+						15005, -- [11]
+						17073, -- [12]
+						17073, -- [13]
+						17073, -- [14]
+						17073, -- [15]
+						17073, -- [16]
+						17073, -- [17]
+						18740, -- [18]
+						13063, -- [19]
+						13063, -- [20]
+						12003, -- [21]
+						8834, -- [22]
+						8834, -- [23]
+						8128, -- [24]
+						8128, -- [25]
+						4492, -- [26]
+						4492, -- [27]
+						4492, -- [28]
+						5636, -- [29]
+						5636, -- [30]
+						5636, -- [31]
+						5636, -- [32]
+						5636, -- [33]
+						5636, -- [34]
+						5636, -- [35]
+						5636, -- [36]
+						7322, -- [37]
+						7322, -- [38]
+						7322, -- [39]
+						7322, -- [40]
+						7322, -- [41]
+						7322, -- [42]
+						7322, -- [43]
+						7322, -- [44]
+						2867, -- [45]
+						2867, -- [46]
+						2867, -- [47]
+						2867, -- [48]
+						2049, -- [49]
+						0, -- [50]
 					},
-					["KilledBy"] = "Quartrpoundr-Andorhal",
+					["KilledBy"] = "Turqleton-Area52",
 					["MessageType"] = {
 						"DAMAGE", -- [1]
 						"DAMAGE", -- [2]
-						"DAMAGE", -- [3]
+						"HEAL", -- [3]
 						"DAMAGE", -- [4]
 						"DAMAGE", -- [5]
 						"DAMAGE", -- [6]
@@ -3519,13 +643,13 @@ RecountPerCharDB = {
 						"DAMAGE", -- [9]
 						"DAMAGE", -- [10]
 						"DAMAGE", -- [11]
-						"DAMAGE", -- [12]
+						"HEAL", -- [12]
 						"DAMAGE", -- [13]
 						"DAMAGE", -- [14]
 						"DAMAGE", -- [15]
 						"DAMAGE", -- [16]
 						"DAMAGE", -- [17]
-						"DAMAGE", -- [18]
+						"HEAL", -- [18]
 						"DAMAGE", -- [19]
 						"DAMAGE", -- [20]
 						"DAMAGE", -- [21]
@@ -3536,151 +660,30 @@ RecountPerCharDB = {
 						"DAMAGE", -- [26]
 						"DAMAGE", -- [27]
 						"DAMAGE", -- [28]
-						"DAMAGE", -- [29]
+						"HEAL", -- [29]
 						"DAMAGE", -- [30]
 						"DAMAGE", -- [31]
-						"MISC", -- [32]
+						"DAMAGE", -- [32]
+						"DAMAGE", -- [33]
+						"DAMAGE", -- [34]
+						"DAMAGE", -- [35]
+						"DAMAGE", -- [36]
+						"HEAL", -- [37]
+						"DAMAGE", -- [38]
+						"DAMAGE", -- [39]
+						"DAMAGE", -- [40]
+						"DAMAGE", -- [41]
+						"DAMAGE", -- [42]
+						"DAMAGE", -- [43]
+						"DAMAGE", -- [44]
+						"DAMAGE", -- [45]
+						"DAMAGE", -- [46]
+						"DAMAGE", -- [47]
+						"DAMAGE", -- [48]
+						"DAMAGE", -- [49]
+						"MISC", -- [50]
 					},
 				}, -- [2]
-				{
-					["MessageIncoming"] = {
-						false, -- [1]
-						true, -- [2]
-						true, -- [3]
-						false, -- [4]
-						true, -- [5]
-						true, -- [6]
-						true, -- [7]
-						true, -- [8]
-						true, -- [9]
-						true, -- [10]
-						true, -- [11]
-						true, -- [12]
-						false, -- [13]
-						true, -- [14]
-						true, -- [15]
-						true, -- [16]
-						true, -- [17]
-						true, -- [18]
-						true, -- [19]
-						true, -- [20]
-						true, -- [21]
-						true, -- [22]
-						true, -- [23]
-					},
-					["Messages"] = {
-						"Galleon Melee Xiya-BleedingHollow Hit -207 (Physical)", -- [1]
-						"Xiya-BleedingHollow Immolation Aura Galleon Hit -74303 (Fire)", -- [2]
-						"Xiya-BleedingHollow Immolation Aura Galleon Hit -27740 (Fire)", -- [3]
-						"Galleon Melee Xiya-BleedingHollow Crit -369 (Physical)", -- [4]
-						"Xiya-BleedingHollow Fathom Fall Galleon Crit -62830 (Physical)", -- [5]
-						"Xiya-BleedingHollow Demon's Bite Galleon Hit -126675 (Physical)", -- [6]
-						"Xiya-BleedingHollow Immolation Aura Galleon Crit -55480 (Fire)", -- [7]
-						"Feetis-Mal'Ganis Festering Strike Galleon Hit -208945 (Physical)", -- [8]
-						"Xiya-BleedingHollow Blade Dance Galleon Hit -95139 (Physical)", -- [9]
-						"Xiya-BleedingHollow Blade Dance Galleon Hit -95138 (Physical)", -- [10]
-						"Xiya-BleedingHollow Immolation Aura Galleon Hit -29959 (Fire)", -- [11]
-						"Xiya-BleedingHollow Blade Dance Galleon Hit -95138 (Physical)", -- [12]
-						"Galleon Melee Xiya-BleedingHollow Dodge (1)", -- [13]
-						"Xiya-BleedingHollow Blade Dance Galleon Hit -226628 (Physical)", -- [14]
-						"Feetis-Mal'Ganis Clawing Shadows Galleon Hit -139562 (Shadow)", -- [15]
-						"Feetis-Mal'Ganis Festering Wound Galleon Hit -71883 (Shadow)", -- [16]
-						"Xiya-BleedingHollow Immolation Aura Galleon Hit -28584 (Fire)", -- [17]
-						"Xiya-BleedingHollow Eye Beam Galleon Crit -86430", -- [18]
-						"Xiya-BleedingHollow Eye Beam Galleon Crit -86430", -- [19]
-						"Xiya-BleedingHollow Eye Beam Galleon Crit -90751", -- [20]
-						"Xiya-BleedingHollow Eye Beam Galleon Crit -90751", -- [21]
-						"Xiya-BleedingHollow Eye Beam Galleon Crit -90751", -- [22]
-						"Galleon dies.", -- [23]
-					},
-					["DeathAt"] = 9307.913,
-					["EventNum"] = {
-						0, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						0, -- [6]
-						0, -- [7]
-						0, -- [8]
-						0, -- [9]
-						0, -- [10]
-						0, -- [11]
-						0, -- [12]
-						0, -- [13]
-						0, -- [14]
-						0, -- [15]
-						0, -- [16]
-						0, -- [17]
-						0, -- [18]
-						0, -- [19]
-						0, -- [20]
-						0, -- [21]
-						0, -- [22]
-						0, -- [23]
-					},
-					["MessageTimes"] = {
-						-4.97099999999955, -- [1]
-						-4.53800000000047, -- [2]
-						-3.65699999999924, -- [3]
-						-3.40699999999924, -- [4]
-						-3.40699999999924, -- [5]
-						-3.40699999999924, -- [6]
-						-2.59100000000035, -- [7]
-						-2.378999999999, -- [8]
-						-2.05600000000049, -- [9]
-						-1.89500000000044, -- [10]
-						-1.64300000000003, -- [11]
-						-1.64300000000003, -- [12]
-						-1.48099999999977, -- [13]
-						-1.33899999999994, -- [14]
-						-1.22699999999895, -- [15]
-						-1.22699999999895, -- [16]
-						-0.680000000000291, -- [17]
-						-0.365999999999985, -- [18]
-						-0.256999999999607, -- [19]
-						-0.159999999999854, -- [20]
-						-0.159999999999854, -- [21]
-						0, -- [22]
-						0, -- [23]
-					},
-					["HealthMax"] = {
-					},
-					["Health"] = {
-					},
-					["KilledBy"] = "Xiya-BleedingHollow",
-					["MessageType"] = {
-						"DAMAGE", -- [1]
-						"DAMAGE", -- [2]
-						"DAMAGE", -- [3]
-						"DAMAGE", -- [4]
-						"DAMAGE", -- [5]
-						"DAMAGE", -- [6]
-						"DAMAGE", -- [7]
-						"DAMAGE", -- [8]
-						"DAMAGE", -- [9]
-						"DAMAGE", -- [10]
-						"DAMAGE", -- [11]
-						"DAMAGE", -- [12]
-						"DAMAGE", -- [13]
-						"DAMAGE", -- [14]
-						"DAMAGE", -- [15]
-						"DAMAGE", -- [16]
-						"DAMAGE", -- [17]
-						"DAMAGE", -- [18]
-						"DAMAGE", -- [19]
-						"DAMAGE", -- [20]
-						"DAMAGE", -- [21]
-						"DAMAGE", -- [22]
-						"MISC", -- [23]
-					},
-				}, -- [3]
-			},
-			["UnitLockout"] = 27243.542,
-			["LastAbility"] = 3831.516,
-		},
-		["Twiddlederr"] = {
-			["DeathLogs"] = {
 				{
 					["MessageIncoming"] = {
 						true, -- [1]
@@ -4048,7 +1051,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [49]
 						"MISC", -- [50]
 					},
-				}, -- [1]
+				}, -- [3]
 				{
 					["MessageIncoming"] = {
 						true, -- [1]
@@ -4318,7 +1321,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [35]
 						"MISC", -- [36]
 					},
-				}, -- [2]
+				}, -- [4]
 				{
 					["MessageIncoming"] = {
 						true, -- [1]
@@ -4686,7 +1689,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [49]
 						"MISC", -- [50]
 					},
-				}, -- [3]
+				}, -- [5]
 				{
 					["MessageIncoming"] = {
 						true, -- [1]
@@ -5054,21 +2057,23 @@ RecountPerCharDB = {
 						"DAMAGE", -- [49]
 						"MISC", -- [50]
 					},
-				}, -- [4]
+				}, -- [6]
 			},
 			["TimeLast"] = {
-				["TimeHeal"] = 27555.534,
-				["OVERALL"] = 7422.263,
-				["DamageTaken"] = 7422.263,
-				["DeathCount"] = 9934.055,
-				["Absorbs"] = 9764.054,
-				["HealingTaken"] = 27555.534,
+				["TimeHeal"] = 15149.612,
+				["FuryGain"] = 6553.797,
+				["DeathCount"] = 15225.602,
+				["OVERALL"] = 673.603,
+				["DamageTaken"] = 26081.288,
+				["FDamage"] = 15015.599,
+				["Absorbs"] = 15125.605,
+				["HealingTaken"] = 15149.612,
 				["Overhealing"] = 27558.535,
-				["TimeDamage"] = 48218.481,
-				["FuryGain"] = 27552.536,
-				["Healing"] = 27555.534,
-				["ActiveTime"] = 48218.481,
-				["Damage"] = 48218.481,
+				["ActiveTime"] = 6549.787,
+				["Healing"] = 15149.612,
+				["TimeDamage"] = 6549.787,
+				["Interrupts"] = 9379.385,
+				["Damage"] = 673.603,
 			},
 			["LastAttackedBy"] = "Environment",
 			["LastEventType"] = {
@@ -5079,43 +2084,43 @@ RecountPerCharDB = {
 				"DAMAGE", -- [5]
 				"DAMAGE", -- [6]
 				"DAMAGE", -- [7]
-				"HEAL", -- [8]
-				"HEAL", -- [9]
-				"HEAL", -- [10]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
 				"DAMAGE", -- [11]
 				"DAMAGE", -- [12]
 				"DAMAGE", -- [13]
 				"DAMAGE", -- [14]
 				"DAMAGE", -- [15]
 				"DAMAGE", -- [16]
-				"HEAL", -- [17]
+				"DAMAGE", -- [17]
 				"DAMAGE", -- [18]
 				"DAMAGE", -- [19]
 				"DAMAGE", -- [20]
 				"DAMAGE", -- [21]
-				"HEAL", -- [22]
+				"DAMAGE", -- [22]
 				"DAMAGE", -- [23]
 				"DAMAGE", -- [24]
-				"HEAL", -- [25]
+				"DAMAGE", -- [25]
 				"DAMAGE", -- [26]
 				"DAMAGE", -- [27]
-				"HEAL", -- [28]
+				"DAMAGE", -- [28]
 				"DAMAGE", -- [29]
 				"DAMAGE", -- [30]
 				"DAMAGE", -- [31]
 				"DAMAGE", -- [32]
-				"HEAL", -- [33]
+				"DAMAGE", -- [33]
 				"DAMAGE", -- [34]
 				"DAMAGE", -- [35]
 				"DAMAGE", -- [36]
 				"DAMAGE", -- [37]
 				"DAMAGE", -- [38]
-				"HEAL", -- [39]
-				"HEAL", -- [40]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
 				"DAMAGE", -- [41]
-				"HEAL", -- [42]
-				"HEAL", -- [43]
-				"HEAL", -- [44]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
 				"DAMAGE", -- [45]
 				"DAMAGE", -- [46]
 				"DAMAGE", -- [47]
@@ -5125,67 +2130,73 @@ RecountPerCharDB = {
 			},
 			["TimeWindows"] = {
 				["TimeHeal"] = {
-					60.86, -- [1]
-				},
-				["Healing"] = {
-					90742, -- [1]
-				},
-				["DamageTaken"] = {
-					590850, -- [1]
-				},
-				["Absorbs"] = {
-					29511, -- [1]
+					79.99, -- [1]
 				},
 				["HealingTaken"] = {
-					120253, -- [1]
+					157278, -- [1]
+				},
+				["Healing"] = {
+					121797, -- [1]
+				},
+				["DamageTaken"] = {
+					1024129, -- [1]
+				},
+				["TimeDamage"] = {
+					294.08, -- [1]
+				},
+				["Absorbs"] = {
+					35481, -- [1]
+				},
+				["DeathCount"] = {
+					6, -- [1]
+				},
+				["FDamage"] = {
+					292331, -- [1]
+				},
+				["Interrupts"] = {
+					1, -- [1]
+				},
+				["FuryGain"] = {
+					1083, -- [1]
+				},
+				["ActiveTime"] = {
+					374.07, -- [1]
 				},
 				["Overhealing"] = {
 					70928, -- [1]
 				},
-				["TimeDamage"] = {
-					115.17, -- [1]
-				},
-				["DeathCount"] = {
-					4, -- [1]
-				},
-				["FuryGain"] = {
-					459, -- [1]
-				},
-				["ActiveTime"] = {
-					176.03, -- [1]
-				},
 				["Damage"] = {
-					4064571, -- [1]
+					12349939, -- [1]
 				},
 			},
-			["LastHealTime"] = 27555.654,
-			["LastDamageTaken"] = 633,
-			["LastActive"] = 32154.216,
+			["LastHealTime"] = 15149.971,
+			["LastDamageTaken"] = 3009,
+			["LastActive"] = 673.603,
 			["LastEventHealthMax"] = {
-				109980, -- [1]
-				109980, -- [2]
-				109980, -- [3]
-				109980, -- [4]
-				109980, -- [5]
-				109980, -- [6]
+				117040, -- [1]
+				117040, -- [2]
+				117040, -- [3]
+				117040, -- [4]
+				117040, -- [5]
+				117040, -- [6]
 				117040, -- [7]
 				117040, -- [8]
 				117040, -- [9]
 				117040, -- [10]
-				109980, -- [11]
-				109980, -- [12]
-				109980, -- [13]
-				109980, -- [14]
-				109980, -- [15]
-				109980, -- [16]
-				109980, -- [17]
-				109980, -- [18]
-				109980, -- [19]
-				109980, -- [20]
-				109980, -- [21]
-				109980, -- [22]
-				109980, -- [23]
-				109980, -- [24]
+				117040, -- [11]
+				117040, -- [12]
+				117040, -- [13]
+				117040, -- [14]
+				117040, -- [15]
+				117040, -- [16]
+				117040, -- [17]
+				117040, -- [18]
+				117040, -- [19]
+				117040, -- [20]
+				117040, -- [21]
+				117040, -- [22]
+				117040, -- [23]
+				117040, -- [24]
 				117040, -- [25]
 				117040, -- [26]
 				117040, -- [27]
@@ -5198,265 +2209,255 @@ RecountPerCharDB = {
 				117040, -- [34]
 				117040, -- [35]
 				117040, -- [36]
-				117040, -- [37]
+				109980, -- [37]
 				117040, -- [38]
 				117040, -- [39]
 				117040, -- [40]
 				117040, -- [41]
 				117040, -- [42]
 				117040, -- [43]
-				117040, -- [44]
+				121364, -- [44]
 				117040, -- [45]
-				109980, -- [46]
-				109980, -- [47]
-				109980, -- [48]
-				109980, -- [49]
-				109980, -- [50]
+				117040, -- [46]
+				117040, -- [47]
+				117040, -- [48]
+				117040, -- [49]
+				117040, -- [50]
 			},
+			["enClass"] = "DEMONHUNTER",
 			["level"] = 120,
 			["LastDamageAbility"] = "Falling",
-			["LastFightIn"] = 13,
-			["enClass"] = "DEMONHUNTER",
+			["LastFightIn"] = 30,
+			["unit"] = "Twiddlederr",
 			["type"] = "Self",
 			["FightsSaved"] = 5,
-			["unit"] = "Twiddlederr",
 			["LastEventHealth"] = {
-				109980, -- [1]
-				109980, -- [2]
-				109980, -- [3]
-				109980, -- [4]
-				109980, -- [5]
-				109980, -- [6]
-				116407, -- [7]
+				117040, -- [1]
+				117040, -- [2]
+				117040, -- [3]
+				117040, -- [4]
+				117040, -- [5]
+				117040, -- [6]
+				117040, -- [7]
 				117040, -- [8]
 				117040, -- [9]
 				117040, -- [10]
-				104660, -- [11]
-				104660, -- [12]
-				104660, -- [13]
-				104660, -- [14]
-				104660, -- [15]
-				104660, -- [16]
-				109980, -- [17]
-				109980, -- [18]
-				109980, -- [19]
-				109980, -- [20]
-				109980, -- [21]
-				109535, -- [22]
-				109535, -- [23]
-				108735, -- [24]
-				115812, -- [25]
-				115812, -- [26]
-				115812, -- [27]
-				115261, -- [28]
-				115261, -- [29]
-				115261, -- [30]
-				115261, -- [31]
-				115261, -- [32]
-				115682, -- [33]
-				115682, -- [34]
-				115682, -- [35]
-				114725, -- [36]
-				114725, -- [37]
-				114725, -- [38]
-				115050, -- [39]
-				115346, -- [40]
-				115346, -- [41]
-				115514, -- [42]
+				117040, -- [11]
+				117040, -- [12]
+				117040, -- [13]
+				117040, -- [14]
+				117040, -- [15]
+				117040, -- [16]
+				117040, -- [17]
+				117040, -- [18]
+				117040, -- [19]
+				117040, -- [20]
+				117040, -- [21]
+				117040, -- [22]
+				117040, -- [23]
+				117040, -- [24]
+				117040, -- [25]
+				117040, -- [26]
+				117040, -- [27]
+				117040, -- [28]
+				117040, -- [29]
+				117040, -- [30]
+				117040, -- [31]
+				117040, -- [32]
+				117040, -- [33]
+				117040, -- [34]
+				117040, -- [35]
+				117040, -- [36]
+				109980, -- [37]
+				63327, -- [38]
+				63327, -- [39]
+				117040, -- [40]
+				117040, -- [41]
+				117040, -- [42]
 				117040, -- [43]
-				117040, -- [44]
-				116779, -- [45]
-				109980, -- [46]
-				109980, -- [47]
-				109980, -- [48]
-				109980, -- [49]
-				109980, -- [50]
+				121364, -- [44]
+				114031, -- [45]
+				117040, -- [46]
+				117040, -- [47]
+				117040, -- [48]
+				117040, -- [49]
+				117040, -- [50]
 			},
-			["Owner"] = false,
 			["LastEventIncoming"] = {
 				false, -- [1]
 				false, -- [2]
 				false, -- [3]
 				false, -- [4]
-				true, -- [5]
+				false, -- [5]
 				false, -- [6]
-				true, -- [7]
-				true, -- [8]
-				true, -- [9]
-				true, -- [10]
+				false, -- [7]
+				false, -- [8]
+				false, -- [9]
+				false, -- [10]
 				false, -- [11]
 				false, -- [12]
-				false, -- [13]
+				true, -- [13]
 				false, -- [14]
 				false, -- [15]
-				true, -- [16]
-				true, -- [17]
-				false, -- [18]
-				true, -- [19]
+				false, -- [16]
+				false, -- [17]
+				true, -- [18]
+				false, -- [19]
 				false, -- [20]
 				false, -- [21]
-				true, -- [22]
-				true, -- [23]
+				false, -- [22]
+				false, -- [23]
 				false, -- [24]
-				true, -- [25]
+				false, -- [25]
 				false, -- [26]
-				true, -- [27]
-				true, -- [28]
+				false, -- [27]
+				false, -- [28]
 				false, -- [29]
 				false, -- [30]
-				false, -- [31]
+				true, -- [31]
 				false, -- [32]
-				true, -- [33]
-				true, -- [34]
-				false, -- [35]
-				false, -- [36]
+				false, -- [33]
+				false, -- [34]
+				true, -- [35]
+				true, -- [36]
 				false, -- [37]
-				false, -- [38]
+				true, -- [38]
 				true, -- [39]
-				true, -- [40]
+				false, -- [40]
 				false, -- [41]
-				true, -- [42]
-				true, -- [43]
-				true, -- [44]
+				false, -- [42]
+				false, -- [43]
+				false, -- [44]
 				true, -- [45]
 				false, -- [46]
 				false, -- [47]
-				true, -- [48]
+				false, -- [48]
 				false, -- [49]
 				false, -- [50]
 			},
-			["NextEventNum"] = 11,
-			["LastDamageTime"] = 48219.322,
+			["Owner"] = false,
+			["Pet"] = {
+				"Frenzied Reef Shark <Twiddlederr>", -- [1]
+			},
+			["NextEventNum"] = 38,
+			["LastDamageTime"] = 674.163,
 			["LastEvents"] = {
-				"Twiddlederr Fel Barrage Riverblade Raider Hit -59581", -- [1]
-				"Twiddlederr Fel Rush Riverblade Raider Hit -62288", -- [2]
-				"Twiddlederr Fel Rush Riverblade Raider Hit -62288", -- [3]
-				"Twiddlederr Throw Glaive Riverblade Raider Hit -68388 (Physical)", -- [4]
-				"Riverblade Raider Melee Twiddlederr Miss (1)", -- [5]
-				"Twiddlederr Vengeful Retreat Riverblade Raider Hit -24476 (Physical)", -- [6]
-				"Environment Falling Twiddlederr Hit -633 (Physical)", -- [7]
-				"Ahkahly-Sargeras Cosmic Ripple Twiddlederr Hit +2359 (2359 Overheal)", -- [8]
-				"Ahkahly-Sargeras Echo of Light Twiddlederr Tick +238 (238 Overheal)", -- [9]
-				"Ahkahly-Sargeras Echo of Light Twiddlederr Tick +239 (239 Overheal)", -- [10]
-				"Twiddlederr Fel Barrage Thunder Cleft Brave Hit -1564", -- [11]
-				"Twiddlederr Fel Barrage Thunder Cleft Brave Hit -1564", -- [12]
-				"Twiddlederr Fel Barrage Thunder Cleft Brave Hit -1564", -- [13]
-				"Twiddlederr Fel Rush Jungle Grub Hit -62288", -- [14]
-				"Twiddlederr Fel Rush Thunder Cleft Brave Hit -1635", -- [15]
-				"Thunder Cleft Brave Melee Twiddlederr Hit -795 (Physical)", -- [16]
-				"Twiddlederr Leech Twiddlederr Hit +7794 (1679 Overheal)", -- [17]
-				"Twiddlederr Throw Glaive Thunder Cleft Brave Hit -1358 (Physical)", -- [18]
-				"Thunder Cleft Brave Melee Twiddlederr Hit -726 (Physical)", -- [19]
-				"Twiddlederr Melee Thunder Cleft Brave Hit -1834 (Physical)", -- [20]
-				"Twiddlederr Kul Tiran Cannonball Runner Thunder Cleft Brave Hit -965 (Fire)", -- [21]
-				"Twiddlederr Leech Twiddlederr Hit +281", -- [22]
-				"Thunder Cleft Brave Melee Twiddlederr Hit -800 (Physical)", -- [23]
-				"Twiddlederr Kul Tiran Cannonball Runner Thunder Cleft Brave Hit -964 (Fire)", -- [24]
-				"Twiddlederr Leech Twiddlederr Hit +97", -- [25]
-				"Twiddlederr Demon's Bite Thunder Cleft Brave Hit -2275 (Physical)", -- [26]
-				"Thunder Cleft Brave Melee Twiddlederr Hit -779 (Physical)", -- [27]
-				"Twiddlederr Leech Twiddlederr Hit +228", -- [28]
-				"Twiddlederr Kul Tiran Cannonball Runner Thunder Cleft Brave Hit -971 (Fire)", -- [29]
-				"Twiddlederr Melee Thunder Cleft Brave Hit -958 (Physical)", -- [30]
-				"Twiddlederr Melee Thunder Cleft Brave Miss (1)", -- [31]
-				"Twiddlederr Demon's Bite Thunder Cleft Brave Hit -2275 (Physical)", -- [32]
-				"Twiddlederr Leech Twiddlederr Hit +421", -- [33]
-				"Thunder Cleft Brave Melee Twiddlederr Hit -957 (Physical)", -- [34]
-				"Twiddlederr Kul Tiran Cannonball Runner Thunder Cleft Brave Hit -970 (Fire)", -- [35]
-				"Twiddlederr Demon's Bite Thunder Cleft Brave Hit -2275 (Physical)", -- [36]
-				"Twiddlederr Melee Thunder Cleft Brave Hit -971 (Physical)", -- [37]
-				"Twiddlederr Melee Thunder Cleft Brave Hit -1995 (Physical)", -- [38]
-				"Twiddlederr Leech Twiddlederr Hit +325", -- [39]
-				"Twiddlederr Leech Twiddlederr Hit +296", -- [40]
-				"Twiddlederr Throw Glaive Thunder Cleft Brave Hit -1675 (Physical)", -- [41]
-				"Twiddlederr Leech Twiddlederr Hit +168", -- [42]
-				"Twiddlederr Consume Soul Twiddlederr Hit +23408 (21882 Overheal)", -- [43]
-				"Twiddlederr Consume Soul Twiddlederr Hit +23408 (23408 Overheal)", -- [44]
-				"Environment Falling Twiddlederr Hit -261 (Physical)", -- [45]
-				"Twiddlederr Fel Rush Shore Crab Hit -124577", -- [46]
-				"Twiddlederr Throw Glaive Riverblade Raider Hit -68388 (Physical)", -- [47]
-				"Riverblade Raider Melee Twiddlederr Miss (1)", -- [48]
-				"Twiddlederr Fel Barrage Riverblade Raider Hit -59580", -- [49]
-				"Twiddlederr Fel Barrage Riverblade Raider Hit -59581", -- [50]
+				"Twiddlederr Throw Glaive Armored Carp Hit -90105 (Physical)", -- [1]
+				"Twiddlederr Fel Rush Armored Carp Hit -89551", -- [2]
+				"Twiddlederr Throw Glaive Armored Carp Hit -90205 (Physical)", -- [3]
+				"Twiddlederr Throw Glaive Armored Carp Hit -90247 (Physical)", -- [4]
+				"Twiddlederr Throw Glaive Armored Carp Hit -90106 (Physical)", -- [5]
+				"Twiddlederr Throw Glaive Armored Carp Hit -90248 (Physical)", -- [6]
+				"Twiddlederr Throw Glaive Wandering Sea Hatchlet Hit -85222 (Physical)", -- [7]
+				"Twiddlederr Throw Glaive Wandering Sea Hatchlet Hit -84495 (Physical)", -- [8]
+				"Twiddlederr Throw Glaive Armored Carp Hit -103654 (Physical)", -- [9]
+				"Twiddlederr Throw Glaive Armored Carp Crit -207243 (Physical)", -- [10]
+				"Twiddlederr Throw Glaive Armored Carp Hit -103654 (Physical)", -- [11]
+				"Twiddlederr Melee Viseclaw Scuttler Hit -97992 (Physical)", -- [12]
+				"Viseclaw Scuttler Melee Twiddlederr Miss (1)", -- [13]
+				"Twiddlederr Throw Glaive Riverblade Raider Hit -84907 (Physical)", -- [14]
+				"Twiddlederr Throw Glaive Riverblade Raider Hit -84907 (Physical)", -- [15]
+				"Twiddlederr Fel Rush Riverblade Raider Hit -89550", -- [16]
+				"Twiddlederr Melee Riverblade Raider Crit -227199 (Physical)", -- [17]
+				"Riverblade Raider Melee Twiddlederr Miss (1)", -- [18]
+				"Twiddlederr Fel Rush Riverblade Thief Hit -89550", -- [19]
+				"Twiddlederr Throw Glaive Viseclaw Fisher Hit -97644 (Physical)", -- [20]
+				"Twiddlederr Throw Glaive Riverblade Raider Hit -84907 (Physical)", -- [21]
+				"Twiddlederr Fel Rush Riverblade Raider Hit -89550", -- [22]
+				"Twiddlederr Melee Riverblade Raider Hit -115453 (Physical)", -- [23]
+				"Twiddlederr Immolation Aura Riverblade Raider Hit -28822 (Fire)", -- [24]
+				"Twiddlederr Immolation Aura Riverblade Raider Hit -28822 (Fire)", -- [25]
+				"Twiddlederr Throw Glaive Viseclaw Fisher Hit -84907 (Physical)", -- [26]
+				"Twiddlederr Throw Glaive Viseclaw Scuttler Hit -84907 (Physical)", -- [27]
+				"Twiddlederr Throw Glaive Elder Viseclaw Crit -169815 (Physical)", -- [28]
+				"Twiddlederr Fel Rush Viseclaw Fry Hit -89550", -- [29]
+				"Twiddlederr Melee Viseclaw Scuttler Hit -112765 (Physical)", -- [30]
+				"Viseclaw Fry Melee Twiddlederr Miss (1)", -- [31]
+				"Twiddlederr Immolation Aura Viseclaw Fry Hit -77200 (Fire)", -- [32]
+				"Twiddlederr Fel Rush Elder Viseclaw Hit -89549", -- [33]
+				"Twiddlederr Throw Glaive Viseclaw Scuttler Crit -195287 (Physical)", -- [34]
+				"Krasari Huntress Melee Twiddlederr Miss (1)", -- [35]
+				"Krasari Huntress Claw Twiddlederr Miss (Physical)", -- [36]
+				"Twiddlederr Throw Glaive Narjon the Gulper Hit -68457 (Physical)", -- [37]
+				"Turqleton-Area52 Melee Twiddlederr Immune (1)", -- [38]
+				"Turqleton-Area52 Melee Twiddlederr Immune (1)", -- [39]
+				"Twiddlederr Throw Glaive Riverblade Chieftain Hit -86079 (Physical)", -- [40]
+				"Twiddlederr Fel Rush Riverblade Thief Hit -89550", -- [41]
+				"Twiddlederr Fel Barrage Riverblade Raider Crit -171314", -- [42]
+				"Twiddlederr Throw Glaive Riverblade Raider Crit -169815 (Physical)", -- [43]
+				"Twiddlederr Throw Glaive Riverblade Raider Hit -84908 (Physical)", -- [44]
+				"Environment Falling Twiddlederr Hit -3009 (Physical)", -- [45]
+				"Twiddlederr Fel Rush Spiny Terrapin Hit -89550", -- [46]
+				"Twiddlederr Throw Glaive Narjon the Gulper Hit -84495 (Physical)", -- [47]
+				"Twiddlederr Throw Glaive Fallstrider Hit -84907 (Physical)", -- [48]
+				"Twiddlederr Throw Glaive Armored Carp Crit -180211 (Physical)", -- [49]
+				"Twiddlederr Throw Glaive Armored Carp Hit -90176 (Physical)", -- [50]
 			},
 			["Name"] = "Twiddlederr",
 			["LastEventTimes"] = {
-				48207.634, -- [1]
-				48211.049, -- [2]
-				48211.049, -- [3]
-				48214.715, -- [4]
-				48218.762, -- [5]
-				48219.322, -- [6]
-				7422.629, -- [7]
-				32148.746, -- [8]
-				32151.848, -- [9]
-				32154.724, -- [10]
-				27543.807, -- [11]
-				27543.973, -- [12]
-				27543.973, -- [13]
-				27543.973, -- [14]
-				27543.973, -- [15]
-				27544.298, -- [16]
-				27544.786, -- [17]
-				27545.893, -- [18]
-				27546.403, -- [19]
-				27546.403, -- [20]
-				27546.504, -- [21]
-				27547.238, -- [22]
-				27548.404, -- [23]
-				27548.515, -- [24]
-				27548.876, -- [25]
-				27550.28, -- [26]
-				27550.404, -- [27]
-				27550.505, -- [28]
-				27550.505, -- [29]
-				27550.729, -- [30]
-				27550.729, -- [31]
-				27551.531, -- [32]
-				27551.684, -- [33]
-				27552.414, -- [34]
-				27552.414, -- [35]
-				27552.806, -- [36]
-				27552.899, -- [37]
-				27552.899, -- [38]
-				27552.899, -- [39]
-				27554.169, -- [40]
-				27554.169, -- [41]
-				27555.333, -- [42]
-				27555.654, -- [43]
-				27558.795, -- [44]
-				27894.871, -- [45]
-				47912.484, -- [46]
-				48206.661, -- [47]
-				48206.661, -- [48]
-				48207.634, -- [49]
-				48207.634, -- [50]
+				6405.655, -- [1]
+				6406.483, -- [2]
+				6415.502, -- [3]
+				6415.633, -- [4]
+				6415.808, -- [5]
+				6424.022, -- [6]
+				6424.274, -- [7]
+				6424.396, -- [8]
+				6431.985, -- [9]
+				6432.113, -- [10]
+				6432.274, -- [11]
+				6460.147, -- [12]
+				6460.147, -- [13]
+				6472.848, -- [14]
+				6473.115, -- [15]
+				6475.758, -- [16]
+				6478.956, -- [17]
+				6478.956, -- [18]
+				6479.192, -- [19]
+				6481.4, -- [20]
+				6489.912, -- [21]
+				6490.949, -- [22]
+				6492.016, -- [23]
+				6494.007, -- [24]
+				6501.952, -- [25]
+				6517.907, -- [26]
+				6529.217, -- [27]
+				6541.144, -- [28]
+				6542.246, -- [29]
+				6543.679, -- [30]
+				6543.823, -- [31]
+				6544.128, -- [32]
+				6545.727, -- [33]
+				6550.138, -- [34]
+				407.837, -- [35]
+				407.837, -- [36]
+				674.163, -- [37]
+				15284.849, -- [38]
+				15285.153, -- [39]
+				15348.399, -- [40]
+				15350.295, -- [41]
+				15355.877, -- [42]
+				15359.293, -- [43]
+				15359.758, -- [44]
+				26082.289, -- [45]
+				26630.43, -- [46]
+				26678.916, -- [47]
+				26679.382, -- [48]
+				6405.448, -- [49]
+				6405.655, -- [50]
 			},
 			["Fights"] = {
 				["Fight3"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
 					["ElementHitsTaken"] = {
 						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Melee"] = {
 							["Details"] = {
 								["Dodge"] = {
 									["count"] = 0,
 								},
-								["Miss"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
 									["count"] = 0,
 								},
 							},
@@ -5473,3339 +2474,22 @@ RecountPerCharDB = {
 							},
 							["amount"] = 0,
 						},
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["Damage"] = 498250,
-					["RunicPowerGain"] = 0,
-					["ElementTaken"] = {
-						["Physical"] = 0,
-						["Shadow"] = 0,
-					},
-					["DOT_Time"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["ElementHitsDone"] = {
 						["Melee"] = {
 							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
 								["Hit"] = {
 									["count"] = 0,
 								},
-							},
-							["amount"] = 0,
-						},
-						["Physical"] = {
-							["Details"] = {
 								["Crit"] = {
 									["count"] = 0,
 								},
-								["Hit"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 2,
-						},
-					},
-					["FAttacks"] = {
-					},
-					["HealingTaken"] = 0,
-					["ElementDone"] = {
-						["Melee"] = 0,
-						["Physical"] = 175797,
-					},
-					["DamagedWho"] = {
-						["Viseclaw Fry"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 87899,
-								},
-								["Fel Rush"] = {
-									["count"] = 241840,
-								},
-							},
-							["amount"] = 329739,
-						},
-						["Sting Ray"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Viseclaw Scuttler"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-								["Fel Rush"] = {
-									["count"] = 80613,
-								},
-							},
-							["amount"] = 80613,
-						},
-						["Elder Viseclaw"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Viseclaw Fisher"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 87898,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 87898,
-						},
-						["Flesh-Eating Sandsnapper"] = {
-							["Details"] = {
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Spiny Terrapin"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGainedFrom"] = {
-					},
-					["CCBroken"] = {
-					},
-					["WhoDamaged"] = {
-						["Thaenatosx-BleedingHollow"] = {
-							["Details"] = {
-								["Corruption (DoT)"] = {
-									["count"] = 0,
-								},
-								["Gutripper"] = {
-									["count"] = 0,
-								},
-								["Agony (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["RunicPowerGained"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
-					["WhoHealed"] = {
-					},
-					["HealedWho"] = {
-					},
-					["CCBreak"] = 0,
-					["ElementTakenAbsorb"] = {
-					},
-					["PartialAbsorb"] = {
-						["Gutripper"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Corruption (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Agony (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["PartialResist"] = {
-						["Gutripper"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Corruption (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Agony (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-					},
-					["FDamage"] = 0,
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["TimeSpent"] = {
-						["Viseclaw Fry"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 1.5,
-								},
-								["Fel Rush"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 3,
-						},
-						["Sting Ray"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Viseclaw Scuttler"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Elder Viseclaw"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Viseclaw Fisher"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0.17,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0.17,
-						},
-						["Flesh-Eating Sandsnapper"] = {
-							["Details"] = {
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Spiny Terrapin"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["WhoDispelled"] = {
-					},
-					["InterruptData"] = {
-					},
-					["ElementTakenResist"] = {
-					},
-					["Heals"] = {
-					},
-					["ActiveTime"] = 3.17,
-					["EnergyGained"] = {
-					},
-					["EnergyGain"] = 0,
-					["Healing"] = 0,
-					["Dispelled"] = 0,
-					["RageGained"] = {
-					},
-					["Attacks"] = {
-						["Throw Glaive"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 87899,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 175797,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 175797,
-						},
-						["Fel Barrage"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Fel Rush"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 161227,
-									["min"] = 161227,
-									["count"] = 1,
-									["amount"] = 161227,
-								},
-								["Hit"] = {
-									["max"] = 80613,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 161226,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 322453,
-						},
-					},
-					["RageGain"] = 0,
-					["FDamagedWho"] = {
-					},
-					["TimeDamage"] = 3.17,
-					["TimeDamaging"] = {
-						["Viseclaw Fry"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 1.5,
-								},
-								["Fel Rush"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 3,
-						},
-						["Sting Ray"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Viseclaw Scuttler"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Elder Viseclaw"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Viseclaw Fisher"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0.17,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0.17,
-						},
-						["Flesh-Eating Sandsnapper"] = {
-							["Details"] = {
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Spiny Terrapin"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGain"] = 0,
-					["HOTs"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["Fight5"] = {
-					["FuryGain"] = 0,
-					["PartialBlock"] = {
-					},
-					["TimeSpent"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Darkness"] = {
-									["count"] = 0,
-								},
-								["Leech"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Helgrave"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 0,
-								},
-								["Immolation Aura"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Sting Ray"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 1.5,
-						},
-						["Thaenatosx-BleedingHollow"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 0,
-								},
-								["Metamorphosis"] = {
-									["count"] = 0,
-								},
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["WhoHealed"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Darkness"] = {
-									["count"] = 0,
-								},
-								["Leech"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementDoneAbsorb"] = {
-						["Physical"] = 0,
-						["Melee"] = 0,
-						["Fire"] = 0,
-					},
-					["Absorbs"] = 0,
-					["DeathCount"] = 0,
-					["FDamagedWho"] = {
-					},
-					["ElementTaken"] = {
-						["Shadow"] = 0,
-						["Melee"] = 0,
-						["Physical"] = 0,
-					},
-					["HOTs"] = {
-					},
-					["Damage"] = 63309,
-					["Dispels"] = 0,
-					["ElementDone"] = {
-						["Physical"] = 63309,
-						["Melee"] = 0,
-						["Fire"] = 0,
-					},
-					["ManaGainedFrom"] = {
-					},
-					["WhoDamaged"] = {
-						["Helgrave"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Consuming Shadows"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Thaenatosx-BleedingHollow"] = {
-							["Details"] = {
-								["Gutripper"] = {
-									["count"] = 0,
-								},
-								["Corruption (DoT)"] = {
-									["count"] = 0,
-								},
-								["Deathbolt"] = {
-									["count"] = 0,
-								},
-								["Siphon Life (DoT)"] = {
-									["count"] = 0,
-								},
-								["Haunt"] = {
-									["count"] = 0,
-								},
-								["Phantom Singularity (DoT)"] = {
-									["count"] = 0,
-								},
-								["Unstable Affliction (DoT)"] = {
-									["count"] = 0,
-								},
-								["Agony (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["TimeHealing"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Darkness"] = {
-									["count"] = 0,
-								},
-								["Leech"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["OverHeals"] = {
-					},
-					["CCBreak"] = 0,
-					["PartialResist"] = {
-						["Corruption (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Gutripper"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Agony (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Deathbolt"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Siphon Life (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Haunt"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Phantom Singularity (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Unstable Affliction (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Consuming Shadows"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-					},
-					["PartialAbsorb"] = {
-						["Corruption (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Gutripper"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Agony (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Deathbolt"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Siphon Life (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Haunt"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Phantom Singularity (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Unstable Affliction (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Consuming Shadows"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 1.5,
-					["EnergyGained"] = {
-					},
-					["Healing"] = 0,
-					["TimeDamage"] = 1.5,
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["HealedWho"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Darkness"] = {
-									["count"] = 0,
-								},
-								["Leech"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["RageGainedFrom"] = {
-					},
-					["RageGained"] = {
-					},
-					["ElementTakenBlock"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["FAttacks"] = {
-					},
-					["DamagedWho"] = {
-						["Helgrave"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 0,
-								},
-								["Metamorphosis"] = {
-									["count"] = 0,
-								},
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 0,
-								},
-								["Immolation Aura"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Sting Ray"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 63309,
-								},
-							},
-							["amount"] = 63309,
-						},
-						["Thaenatosx-BleedingHollow"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 0,
-								},
-								["Metamorphosis"] = {
-									["count"] = 0,
-								},
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["RunicPowerGained"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["Dispelled"] = 0,
-					["FuryGained"] = {
-						["Immolation Aura"] = {
-							["Details"] = {
-								["Twiddlederr"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Absorbed"] = {
-						["Darkness"] = {
-							["Details"] = {
-								["Twiddlederr"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["EnergyGain"] = 0,
-					["RunicPowerGain"] = 0,
-					["FDamage"] = 0,
-					["Interrupts"] = 0,
-					["DOTs"] = {
-					},
-					["DamageTaken"] = 0,
-					["HOT_Time"] = 0,
-					["InterruptData"] = {
-					},
-					["RageGain"] = 0,
-					["FuryGainedFrom"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Immolation Aura"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementHitsDone"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
+								["Miss"] = {
 									["count"] = 1,
 								},
 							},
 							["amount"] = 1,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Absorb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementTakenAbsorb"] = {
-						["Melee"] = 0,
-						["Shadow"] = 0,
-					},
-					["DOT_Time"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["CCBroken"] = {
-					},
-					["Overhealing"] = 0,
-					["Attacks"] = {
-						["Vengeful Retreat"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Metamorphosis"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Throw Glaive"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 63309,
-									["min"] = 63309,
-									["count"] = 1,
-									["amount"] = 63309,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 63309,
-						},
-						["Fel Rush"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Kul Tiran Cannonball Runner"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Immolation Aura"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["HealingTaken"] = 0,
-					["Heals"] = {
-						["Darkness"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Leech"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeDamaging"] = {
-						["Helgrave"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 0,
-								},
-								["Immolation Aura"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Sting Ray"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 1.5,
-						},
-						["Thaenatosx-BleedingHollow"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 0,
-								},
-								["Metamorphosis"] = {
-									["count"] = 0,
-								},
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGain"] = 0,
-					["ElementHitsTaken"] = {
-						["Shadow"] = {
-							["Details"] = {
-								["Immune"] = {
-									["count"] = 0,
-								},
-								["Tick"] = {
-									["count"] = 0,
-								},
-								["Absorb"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["CurrentFightData"] = {
-					["ElementHitsTaken"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 0,
-								},
-								["Dodge"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Miss"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Tick"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["FuryGain"] = 0,
-					["DOTs"] = {
-					},
-					["DamageTaken"] = 0,
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["FuryGained"] = {
-						["Chaos Strike"] = {
-							["Details"] = {
-								["Twiddlederr"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Demon's Bite"] = {
-							["Details"] = {
-								["Twiddlederr"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Immolation Aura"] = {
-							["Details"] = {
-								["Twiddlederr"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementTakenResist"] = {
-					},
-					["RunicPowerGain"] = 0,
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["ElementDoneAbsorb"] = {
-						["Fire"] = 0,
-					},
-					["DOT_Time"] = 0,
-					["ElementTaken"] = {
-						["Physical"] = 0,
-						["Melee"] = 0,
-						["Shadow"] = 0,
-					},
-					["HOTs"] = {
-					},
-					["Damage"] = 0,
-					["FDamagedWho"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["HealingTaken"] = 0,
-					["RageGained"] = {
-					},
-					["FAttacks"] = {
-					},
-					["WhoHealed"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Leech"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementDone"] = {
-						["Physical"] = 0,
-						["Melee"] = 0,
-						["Fire"] = 0,
-					},
-					["DamagedWho"] = {
-						["Snapclaw"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Shore Crab"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Sting Ray"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Riverblade Raider"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Lazerz-Eonar"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Parren-BleedingHollow"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-								["Death Sweep"] = {
-									["count"] = 0,
-								},
-								["Fel Eruption"] = {
-									["count"] = 0,
-								},
-								["Annihilation"] = {
-									["count"] = 0,
-								},
-								["Demon's Bite"] = {
-									["count"] = 0,
-								},
-								["Eye Beam"] = {
-									["count"] = 0,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 0,
-								},
-								["Immolation Aura"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Bluetip Reef Shark"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Helgrave"] = {
-							["Details"] = {
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 0,
-								},
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGainedFrom"] = {
-					},
-					["CCBroken"] = {
-					},
-					["WhoDamaged"] = {
-						["Thaenatosx-BleedingHollow"] = {
-							["Details"] = {
-								["Corruption (DoT)"] = {
-									["count"] = 0,
-								},
-								["Haunt"] = {
-									["count"] = 0,
-								},
-								["Deathbolt"] = {
-									["count"] = 0,
-								},
-								["Unstable Affliction (DoT)"] = {
-									["count"] = 0,
-								},
-								["Agony (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Darkglare"] = {
-							["Details"] = {
-								["Eye Beam"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Parren-BleedingHollow"] = {
-							["Details"] = {
-								["Charge"] = {
-									["count"] = 0,
-								},
-								["Fathom Fall"] = {
-									["count"] = 0,
-								},
-								["Warbreaker"] = {
-									["count"] = 0,
-								},
-								["Execute"] = {
-									["count"] = 0,
-								},
-								["Mortal Strike"] = {
-									["count"] = 0,
-								},
-								["Storm Bolt"] = {
-									["count"] = 0,
-								},
-								["Bladestorm"] = {
-									["count"] = 0,
-								},
-								["Overpower"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Deep Wounds (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Environment"] = {
-							["Details"] = {
-								["Falling"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Helgrave"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Consuming Shadows"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["RunicPowerGained"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Leech"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Dispelled"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["PartialResist"] = {
-						["Charge"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Slam"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Agony (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Mortal Strike"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Haunt"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Overpower"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Unstable Affliction (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Eye Beam"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Deep Wounds (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Storm Bolt"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Consuming Shadows"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Falling"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Corruption (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Fathom Fall"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Warbreaker"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Bladestorm"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Execute"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Deathbolt"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["CCBreak"] = 0,
-					["FuryGainedFrom"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Chaos Strike"] = {
-									["count"] = 0,
-								},
-								["Demon's Bite"] = {
-									["count"] = 0,
-								},
-								["Immolation Aura"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["FDamage"] = 0,
-					["EnergyGain"] = 0,
-					["ManaGained"] = {
-					},
-					["PartialAbsorb"] = {
-						["Charge"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Slam"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Agony (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Mortal Strike"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Haunt"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Overpower"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Unstable Affliction (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Eye Beam"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Deep Wounds (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Storm Bolt"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Consuming Shadows"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Falling"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Corruption (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Fathom Fall"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Warbreaker"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Bladestorm"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Execute"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Deathbolt"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["Interrupts"] = 0,
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-						["Sting Ray"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Snapclaw"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Shore Crab"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Bluetip Reef Shark"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Riverblade Raider"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Leech"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Parren-BleedingHollow"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Death Sweep"] = {
-									["count"] = 0,
-								},
-								["Fel Eruption"] = {
-									["count"] = 0,
-								},
-								["Annihilation"] = {
-									["count"] = 0,
-								},
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-								["Eye Beam"] = {
-									["count"] = 0,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-								["Demon's Bite"] = {
-									["count"] = 0,
-								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 0,
-								},
-								["Immolation Aura"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Lazerz-Eonar"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Helgrave"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Overhealing"] = 0,
-					["InterruptData"] = {
-					},
-					["ActiveTime"] = 0,
-					["Heals"] = {
-						["Leech"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["EnergyGained"] = {
-					},
-					["OverHeals"] = {
-						["Leech"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["Healing"] = 0,
-					["ElementHitsDone"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Miss"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["HealedWho"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Leech"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Attacks"] = {
-						["Vengeful Retreat"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Miss"] = {
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Fel Rush"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Death Sweep"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Fel Eruption"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Annihilation"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Demon's Bite"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Eye Beam"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Fel Barrage"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Throw Glaive"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Kul Tiran Cannonball Runner"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Immolation Aura"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["RageGain"] = 0,
-					["PartialBlock"] = {
-					},
-					["TimeDamage"] = 0,
-					["TimeDamaging"] = {
-						["Snapclaw"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Shore Crab"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Sting Ray"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Riverblade Raider"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Lazerz-Eonar"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Parren-BleedingHollow"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Death Sweep"] = {
-									["count"] = 0,
-								},
-								["Fel Eruption"] = {
-									["count"] = 0,
-								},
-								["Annihilation"] = {
-									["count"] = 0,
-								},
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-								["Eye Beam"] = {
-									["count"] = 0,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-								["Demon's Bite"] = {
-									["count"] = 0,
-								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 0,
-								},
-								["Immolation Aura"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Bluetip Reef Shark"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Helgrave"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGain"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["Fight2"] = {
-					["Ressed"] = 0,
-					["FuryGain"] = 71,
-					["DOTs"] = {
-					},
-					["ElementDoneAbsorb"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Shadow"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Tick"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Miss"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 13,
-								},
-							},
-							["amount"] = 13,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 4,
-								},
-							},
-							["amount"] = 4,
-						},
-					},
-					["FuryGained"] = {
-						["Demon's Bite"] = {
-							["Details"] = {
-								["Twiddlederr"] = {
-									["count"] = 71,
-								},
-							},
-							["amount"] = 71,
-						},
-					},
-					["RageGainedFrom"] = {
-					},
-					["RunicPowerGain"] = 0,
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["DOT_Time"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["ElementTaken"] = {
-						["Shadow"] = 0,
-						["Melee"] = 10469,
-						["Physical"] = 3430,
-					},
-					["HOTs"] = {
-					},
-					["Damage"] = 142618,
-					["FDamagedWho"] = {
-					},
-					["TimeHeal"] = 14.78,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["HealingTaken"] = 13979,
-					["HealedWho"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Leech"] = {
-									["count"] = 12453,
-								},
-								["Consume Soul"] = {
-									["count"] = 1526,
-								},
-							},
-							["amount"] = 13979,
-						},
-					},
-					["FAttacks"] = {
-					},
-					["RageGained"] = {
-					},
-					["ElementDone"] = {
-						["Physical"] = 9858,
-						["Melee"] = 5758,
-						["Fire"] = 3870,
-					},
-					["ManaGainedFrom"] = {
-					},
-					["ElementHitsDone"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 5,
-								},
-							},
-							["amount"] = 5,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 4,
-								},
-								["Miss"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 5,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 4,
-								},
-							},
-							["amount"] = 4,
-						},
-					},
-					["RunicPowerGained"] = {
-					},
-					["WhoDamaged"] = {
-						["Thunder Cleft Brave"] = {
-							["Details"] = {
-								["Shoot"] = {
-									["count"] = 3430,
-								},
-								["Melee"] = {
-									["count"] = 10469,
-								},
-							},
-							["amount"] = 13899,
-						},
-						["Thaenatosx-BleedingHollow"] = {
-							["Details"] = {
-								["Agony (DoT)"] = {
-									["count"] = 0,
-								},
-								["Corruption (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["CCBroken"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Leech"] = {
-									["count"] = 14.46,
-								},
-								["Consume Soul"] = {
-									["count"] = 0.32,
-								},
-							},
-							["amount"] = 14.78,
-						},
-					},
-					["OverHeals"] = {
-						["Leech"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1679,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 1679,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 1679,
-						},
-						["Consume Soul"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 23408,
-									["min"] = 21882,
-									["count"] = 2,
-									["amount"] = 45290,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 45290,
-						},
-					},
-					["TimeSpent"] = {
-						["Thunder Cleft Brave"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 2.77,
-								},
-								["Melee"] = {
-									["count"] = 0.82,
-								},
-								["Fel Barrage"] = {
-									["count"] = 4.41,
-								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 2.71,
-								},
-								["Demon's Bite"] = {
-									["count"] = 2.69,
-								},
-							},
-							["amount"] = 13.4,
-						},
-						["Protektor-BleedingHollow"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Leech"] = {
-									["count"] = 14.46,
-								},
-								["Consume Soul"] = {
-									["count"] = 0.32,
-								},
-							},
-							["amount"] = 14.78,
-						},
-						["Cave Crawler"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Snapclaw"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["Heals"] = {
-						["Leech"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 6115,
-									["min"] = 0,
-									["count"] = 11,
-									["amount"] = 12453,
-								},
-							},
-							["count"] = 11,
-							["amount"] = 12453,
-						},
-						["Consume Soul"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1526,
-									["min"] = 1526,
-									["count"] = 1,
-									["amount"] = 1526,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 1526,
-						},
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["PartialResist"] = {
-						["Shoot"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 4,
-						},
-						["Corruption (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 13,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 13,
-						},
-						["Agony (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-					},
-					["FDamage"] = 0,
-					["Interrupts"] = 0,
-					["WhoDispelled"] = {
-					},
-					["Overhealing"] = 46969,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["ActiveTime"] = 28.18,
-					["FuryGainedFrom"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Demon's Bite"] = {
-									["count"] = 71,
-								},
-							},
-							["amount"] = 71,
-						},
-					},
-					["PartialAbsorb"] = {
-						["Shoot"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-						["Corruption (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 13,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 13,
-							["amount"] = 0,
-						},
-						["Agony (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["EnergyGained"] = {
-					},
-					["Dispelled"] = 0,
-					["Healing"] = 13979,
-					["DamagedWho"] = {
-						["Jungle Grub"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 62288,
-								},
-							},
-							["amount"] = 62288,
-						},
-						["Thunder Cleft Brave"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 3033,
-								},
-								["Fel Rush"] = {
-									["count"] = 1635,
-								},
-								["Melee"] = {
-									["count"] = 5758,
-								},
-								["Fel Barrage"] = {
-									["count"] = 59209,
-								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 3870,
-								},
-								["Demon's Bite"] = {
-									["count"] = 6825,
-								},
-							},
-							["amount"] = 80330,
-						},
-						["Protektor-BleedingHollow"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Cave Crawler"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Snapclaw"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["WhoHealed"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Leech"] = {
-									["count"] = 12453,
-								},
-								["Consume Soul"] = {
-									["count"] = 1526,
-								},
-							},
-							["amount"] = 13979,
-						},
-					},
-					["Attacks"] = {
-						["Throw Glaive"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 1675,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 3033,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 3033,
-						},
-						["Fel Rush"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 62288,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 63923,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 63923,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1995,
-									["min"] = 958,
-									["count"] = 4,
-									["amount"] = 5758,
-								},
-								["Miss"] = {
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 5758,
-						},
-						["Fel Barrage"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 3128,
-									["min"] = 3128,
-									["count"] = 6,
-									["amount"] = 18768,
-								},
-								["Hit"] = {
-									["max"] = 1564,
-									["min"] = 1489,
-									["count"] = 26,
-									["amount"] = 40441,
-								},
-							},
-							["count"] = 32,
-							["amount"] = 59209,
-						},
-						["Kul Tiran Cannonball Runner"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 971,
-									["min"] = 964,
-									["count"] = 4,
-									["amount"] = 3870,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 3870,
-						},
-						["Demon's Bite"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 2275,
-									["min"] = 2275,
-									["count"] = 3,
-									["amount"] = 6825,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 6825,
-						},
-					},
-					["RageGain"] = 0,
-					["PartialBlock"] = {
-					},
-					["TimeDamage"] = 13.4,
-					["TimeDamaging"] = {
-						["Protektor-BleedingHollow"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Cave Crawler"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Thunder Cleft Brave"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 2.77,
-								},
-								["Melee"] = {
-									["count"] = 0.82,
-								},
-								["Fel Barrage"] = {
-									["count"] = 4.41,
-								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 2.71,
-								},
-								["Demon's Bite"] = {
-									["count"] = 2.69,
-								},
-							},
-							["amount"] = 13.4,
-						},
-						["Snapclaw"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGain"] = 0,
-					["DamageTaken"] = 13899,
-					["DispelledWho"] = {
-					},
-				},
-				["Fight4"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Tick"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
 						},
 						["Nature"] = {
 							["Details"] = {
@@ -8822,51 +2506,126 @@ RecountPerCharDB = {
 							["amount"] = 0,
 						},
 					},
+					["FuryGain"] = 10,
+					["DOTs"] = {
+					},
+					["DamageTaken"] = 0,
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["FuryGained"] = {
+						["Immolation Aura"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["RunicPowerGain"] = 0,
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["Damage"] = 146728,
-					["RunicPowerGain"] = 0,
+					["DOT_Time"] = 0,
+					["Damage"] = 449330,
 					["ElementTaken"] = {
 						["Physical"] = 0,
 						["Shadow"] = 0,
 						["Melee"] = 0,
 						["Nature"] = 0,
 					},
-					["DOT_Time"] = 0,
+					["HOTs"] = {
+					},
 					["ElementTakenBlock"] = {
 					},
-					["ElementDoneAbsorb"] = {
+					["PartialBlock"] = {
 					},
 					["TimeHeal"] = 0,
 					["RessedWho"] = {
 					},
 					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["ElementHitsDone"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
+					["HealingTaken"] = 0,
+					["RageGained"] = {
 					},
 					["FAttacks"] = {
 					},
-					["HealingTaken"] = 0,
-					["ElementDone"] = {
-						["Melee"] = 146728,
-					},
 					["DamagedWho"] = {
+						["Viseclaw Fry"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 89550,
+								},
+								["Immolation Aura"] = {
+									["count"] = 77200,
+								},
+							},
+							["amount"] = 166750,
+						},
+						["Turqleton-Area52"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+								["Chaos Nova"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Fel Eruption"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
 						["Sting Ray"] = {
 							["Details"] = {
 								["Melee"] = {
-									["count"] = 146728,
+									["count"] = 0,
 								},
 							},
-							["amount"] = 146728,
+							["amount"] = 0,
+						},
+						["Viseclaw Scuttler"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 112765,
+								},
+							},
+							["amount"] = 112765,
+						},
+						["Elder Viseclaw"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 169815,
+								},
+							},
+							["amount"] = 169815,
+						},
+						["Riverblade Raider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
 						},
 						["Parren-BleedingHollow"] = {
 							["Details"] = {
@@ -8876,32 +2635,129 @@ RecountPerCharDB = {
 							},
 							["amount"] = 0,
 						},
-					},
-					["ManaGainedFrom"] = {
-					},
-					["CCBroken"] = {
-					},
-					["WhoDamaged"] = {
-						["Vanquished Tendril of G'huun"] = {
+						["Viseclaw Fisher"] = {
 							["Details"] = {
-								["Bloody Bile"] = {
+								["Throw Glaive"] = {
 									["count"] = 0,
 								},
 							},
 							["amount"] = 0,
 						},
-						["Parren-BleedingHollow"] = {
+					},
+					["ElementDone"] = {
+						["Fire"] = 77200,
+						["Melee"] = 112765,
+						["Physical"] = 169815,
+					},
+					["WhoHealed"] = {
+						["Twiddlederr"] = {
 							["Details"] = {
-								["Fathom Fall"] = {
+								["Leech"] = {
 									["count"] = 0,
 								},
-								["Charge"] = {
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["HealedWho"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Leech"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDamaged"] = {
+						["Turqleton-Area52"] = {
+							["Details"] = {
+								["Reckless Flurry"] = {
 									["count"] = 0,
 								},
 								["Melee"] = {
 									["count"] = 0,
 								},
-								["Warbreaker"] = {
+								["Storm Bolt"] = {
+									["count"] = 0,
+								},
+								["Execute"] = {
+									["count"] = 0,
+								},
+								["Whirlwind"] = {
+									["count"] = 0,
+								},
+								["Rampage"] = {
+									["count"] = 0,
+								},
+								["Execute Off-Hand"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Bloodthirst"] = {
+									["count"] = 0,
+								},
+								["Bladestorm Off-Hand"] = {
+									["count"] = 0,
+								},
+								["Heroic Leap"] = {
+									["count"] = 0,
+								},
+								["Bladestorm"] = {
+									["count"] = 0,
+								},
+								["Raging Blow"] = {
+									["count"] = 0,
+								},
+								["Whirlwind Off-Hand"] = {
+									["count"] = 0,
+								},
+								["Fathom Fall"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Keladron-Icecrown"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
 									["count"] = 0,
 								},
 							},
@@ -8930,12 +2786,36 @@ RecountPerCharDB = {
 							},
 							["amount"] = 0,
 						},
+						["Vanquished Tendril of G'huun"] = {
+							["Details"] = {
+								["Bloody Bile"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Parren-BleedingHollow"] = {
+							["Details"] = {
+								["Fathom Fall"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Warbreaker"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
 					},
 					["EnergyGainedFrom"] = {
 					},
+					["Dispelled"] = 0,
 					["RunicPowerGainedFrom"] = {
-					},
-					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
@@ -8951,30 +2831,567 @@ RecountPerCharDB = {
 					},
 					["OverHeals"] = {
 					},
-					["WhoHealed"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Leech"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
+					["ElementTakenResist"] = {
 					},
-					["HealedWho"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Leech"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
+					["FDamage"] = 0,
 					["CCBreak"] = 0,
+					["FuryGainedFrom"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Immolation Aura"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+					},
 					["ElementTakenAbsorb"] = {
 					},
+					["PartialResist"] = {
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Execute"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Whirlwind"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Agony (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bloodthirst"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Raging Blow"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Whirlwind Off-Hand"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Suffocating Squall (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Storm Bolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Rampage"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Warbreaker"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bladestorm Off-Hand"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bladestorm"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Gutripper"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Execute Off-Hand"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Reckless Flurry"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bloody Bile"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Throw Glaive"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Siphon Life (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Heroic Leap"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fathom Fall"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Drain Life (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+					},
 					["PartialAbsorb"] = {
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Execute"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Whirlwind"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Agony (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bloodthirst"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Raging Blow"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Whirlwind Off-Hand"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Suffocating Squall (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Storm Bolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Rampage"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Warbreaker"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bladestorm Off-Hand"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bladestorm"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Gutripper"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Execute Off-Hand"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Reckless Flurry"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bloody Bile"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Throw Glaive"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Siphon Life (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Heroic Leap"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
 						["Charge"] = {
 							["Details"] = {
 								["No Absorb"] = {
@@ -8999,66 +3416,6 @@ RecountPerCharDB = {
 							["count"] = 0,
 							["amount"] = 0,
 						},
-						["Warbreaker"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Gutripper"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Agony (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Bloody Bile"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Siphon Life (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
 						["Drain Life (DoT)"] = {
 							["Details"] = {
 								["No Absorb"] = {
@@ -9071,9 +3428,143 @@ RecountPerCharDB = {
 							["count"] = 0,
 							["amount"] = 0,
 						},
-						["Corruption (DoT)"] = {
+					},
+					["Interrupts"] = 0,
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+						["Sting Ray"] = {
 							["Details"] = {
-								["No Absorb"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Scuttler"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 1.43,
+								},
+							},
+							["amount"] = 1.43,
+						},
+						["Elder Viseclaw"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Viseclaw Fry"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 1.1,
+								},
+								["Immolation Aura"] = {
+									["count"] = 0.45,
+								},
+							},
+							["amount"] = 1.55,
+						},
+						["Turqleton-Area52"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+								["Chaos Nova"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Fel Eruption"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Leech"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Parren-BleedingHollow"] = {
+							["Details"] = {
+								["Chaos Nova"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Fisher"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Raider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Overhealing"] = 0,
+					["InterruptData"] = {
+					},
+					["ActiveTime"] = 4.48,
+					["Heals"] = {
+						["Leech"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["EnergyGain"] = 0,
+					["EnergyGained"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["Healing"] = 0,
+					["CCBroken"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["Attacks"] = {
+						["Vengeful Retreat"] = {
+							["Details"] = {
+								["Hit"] = {
 									["max"] = 0,
 									["min"] = 0,
 									["count"] = 0,
@@ -9085,19 +3576,65 @@ RecountPerCharDB = {
 						},
 						["Melee"] = {
 							["Details"] = {
-								["No Absorb"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
 									["max"] = 0,
 									["min"] = 0,
 									["count"] = 0,
 									["amount"] = 0,
 								},
+								["Hit"] = {
+									["max"] = 112765,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 112765,
+								},
 							},
-							["count"] = 0,
-							["amount"] = 0,
+							["count"] = 1,
+							["amount"] = 112765,
 						},
-						["Suffocating Squall (DoT)"] = {
+						["Throw Glaive"] = {
 							["Details"] = {
-								["No Absorb"] = {
+								["Crit"] = {
+									["max"] = 169815,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 169815,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 169815,
+						},
+						["Fel Rush"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 89550,
+									["min"] = 89550,
+									["count"] = 1,
+									["amount"] = 89550,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 89550,
+						},
+						["Chaos Nova"] = {
+							["Details"] = {
+								["Hit"] = {
 									["max"] = 0,
 									["min"] = 0,
 									["count"] = 0,
@@ -9107,6 +3644,605 @@ RecountPerCharDB = {
 							["count"] = 0,
 							["amount"] = 0,
 						},
+						["Fel Barrage"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fel Eruption"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Immolation Aura"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 77200,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 77200,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 77200,
+						},
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 4.48,
+					["TimeDamaging"] = {
+						["Viseclaw Fry"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 1.1,
+								},
+								["Immolation Aura"] = {
+									["count"] = 0.45,
+								},
+							},
+							["amount"] = 1.55,
+						},
+						["Turqleton-Area52"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+								["Chaos Nova"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Fel Eruption"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Sting Ray"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Scuttler"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 1.43,
+								},
+							},
+							["amount"] = 1.43,
+						},
+						["Elder Viseclaw"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Riverblade Raider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Parren-BleedingHollow"] = {
+							["Details"] = {
+								["Chaos Nova"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Fisher"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight5"] = {
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["FuryGain"] = 56,
+					["DOTs"] = {
+					},
+					["DamageTaken"] = 0,
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["FuryGained"] = {
+						["Chaos Strike"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Immolation Aura"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 56,
+								},
+							},
+							["amount"] = 56,
+						},
+					},
+					["ElementTakenResist"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementDoneAbsorb"] = {
+						["Fire"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["ElementTaken"] = {
+						["Physical"] = 0,
+						["Shadow"] = 0,
+						["Melee"] = 0,
+						["Arcane"] = 0,
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 28822,
+					["FDamagedWho"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["HealingTaken"] = 0,
+					["RageGained"] = {
+					},
+					["FAttacks"] = {
+					},
+					["WhoHealed"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Leech"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementDone"] = {
+						["Physical"] = 0,
+						["Melee"] = 0,
+						["Fire"] = 28822,
+					},
+					["DamagedWho"] = {
+						["Fallstrider"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Scuttler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Armored Carp"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Raider"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
+									["count"] = 28822,
+								},
+							},
+							["amount"] = 28822,
+						},
+						["Helgrave"] = {
+							["Details"] = {
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Thief"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Sting Ray"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Spiny Terrapin"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Wandering Sea Hatchlet"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Chieftain"] = {
+							["Details"] = {
+								["Immolation Aura"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Snapclaw"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bluetip Reef Shark"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Parren-BleedingHollow"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+								["Death Sweep"] = {
+									["count"] = 0,
+								},
+								["Fel Eruption"] = {
+									["count"] = 0,
+								},
+								["Annihilation"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Lazerz-Eonar"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Narjon the Gulper"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shore Crab"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Fisher"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
+					},
+					["WhoDamaged"] = {
+						["Darkglare"] = {
+							["Details"] = {
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thaenatosx-BleedingHollow"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 0,
+								},
+								["Haunt"] = {
+									["count"] = 0,
+								},
+								["Deathbolt"] = {
+									["count"] = 0,
+								},
+								["Unstable Affliction (DoT)"] = {
+									["count"] = 0,
+								},
+								["Agony (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Parren-BleedingHollow"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Fathom Fall"] = {
+									["count"] = 0,
+								},
+								["Warbreaker"] = {
+									["count"] = 0,
+								},
+								["Execute"] = {
+									["count"] = 0,
+								},
+								["Mortal Strike"] = {
+									["count"] = 0,
+								},
+								["Storm Bolt"] = {
+									["count"] = 0,
+								},
+								["Bladestorm"] = {
+									["count"] = 0,
+								},
+								["Overpower"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Deep Wounds (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Badaboop-BleedingHollow"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 0,
+								},
+								["Laser Matrix"] = {
+									["count"] = 0,
+								},
+								["Haunt"] = {
+									["count"] = 0,
+								},
+								["Deathbolt"] = {
+									["count"] = 0,
+								},
+								["Agony (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Helgrave"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Consuming Shadows"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Leech"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Dispelled"] = 0,
+					["ElementTakenBlock"] = {
 					},
 					["PartialResist"] = {
 						["Charge"] = {
@@ -9121,6 +4257,150 @@ RecountPerCharDB = {
 							["count"] = 0,
 							["amount"] = 0,
 						},
+						["Slam"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Agony (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Haunt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Overpower"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Unstable Affliction (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Eye Beam"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Deep Wounds (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Storm Bolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Consuming Shadows"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
 						["Fathom Fall"] = {
 							["Details"] = {
 								["No Resist"] = {
@@ -9133,7 +4413,2985 @@ RecountPerCharDB = {
 							["count"] = 0,
 							["amount"] = 0,
 						},
+						["Execute"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
 						["Warbreaker"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bladestorm"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Deathbolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Laser Matrix"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBreak"] = 0,
+					["FuryGainedFrom"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
+									["count"] = 56,
+								},
+							},
+							["amount"] = 56,
+						},
+					},
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+						["Charge"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Slam"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Agony (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Haunt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Overpower"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Unstable Affliction (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Eye Beam"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Deep Wounds (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Storm Bolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Consuming Shadows"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fathom Fall"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Execute"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Warbreaker"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bladestorm"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Deathbolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Laser Matrix"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Interrupts"] = 0,
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+						["Fallstrider"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Scuttler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Armored Carp"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Leech"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Parren-BleedingHollow"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Death Sweep"] = {
+									["count"] = 0,
+								},
+								["Fel Eruption"] = {
+									["count"] = 0,
+								},
+								["Annihilation"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Helgrave"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Thief"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shore Crab"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Spiny Terrapin"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Wandering Sea Hatchlet"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Chieftain"] = {
+							["Details"] = {
+								["Immolation Aura"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Snapclaw"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bluetip Reef Shark"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Narjon the Gulper"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Raider"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Lazerz-Eonar"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Sting Ray"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Fisher"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Overhealing"] = 0,
+					["InterruptData"] = {
+					},
+					["ActiveTime"] = 1.5,
+					["Heals"] = {
+						["Leech"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["OverHeals"] = {
+						["Leech"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 0,
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["HealedWho"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Leech"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Attacks"] = {
+						["Vengeful Retreat"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fel Rush"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Death Sweep"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fel Eruption"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Annihilation"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Eye Beam"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fel Barrage"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Throw Glaive"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Kul Tiran Cannonball Runner"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Immolation Aura"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 28822,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 28822,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 28822,
+						},
+					},
+					["RageGain"] = 0,
+					["PartialBlock"] = {
+					},
+					["TimeDamage"] = 1.5,
+					["TimeDamaging"] = {
+						["Fallstrider"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Scuttler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Armored Carp"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Raider"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Helgrave"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Thief"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Sting Ray"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Spiny Terrapin"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Wandering Sea Hatchlet"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Chieftain"] = {
+							["Details"] = {
+								["Immolation Aura"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Snapclaw"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bluetip Reef Shark"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Parren-BleedingHollow"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Death Sweep"] = {
+									["count"] = 0,
+								},
+								["Fel Eruption"] = {
+									["count"] = 0,
+								},
+								["Annihilation"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Lazerz-Eonar"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Narjon the Gulper"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shore Crab"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Fisher"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["FuryGain"] = 0,
+					["TimeSpent"] = {
+						["Riverblade Thief"] = {
+							["Details"] = {
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shore Crab"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thaenatosx-BleedingHollow"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Chieftain"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Snapclaw"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Cave Crawler"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Landroz-BleedingHollow"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Parren-BleedingHollow"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+								["Death Sweep"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Annihilation"] = {
+									["count"] = 0,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Eruption"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Darkness"] = {
+									["count"] = 0,
+								},
+								["Leech"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Raider"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Frenzied Reef Shark <Twiddlederr>"] = {
+							["Details"] = {
+								["Shark Jab"] = {
+									["count"] = 0,
+								},
+								["Eye Gouge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Helgrave"] = {
+							["Details"] = {
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamageTaken"] = 0,
+					["ElementDoneAbsorb"] = {
+						["Physical"] = 0,
+					},
+					["Absorbs"] = 0,
+					["DeathCount"] = 0,
+					["Overhealing"] = 0,
+					["ElementTaken"] = {
+						["Physical"] = 0,
+						["Melee"] = 0,
+						["Shadow"] = 0,
+					},
+					["Damage"] = 0,
+					["TimeHeal"] = 0,
+					["FAttacks"] = {
+						["Shark Jab"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Eye Gouge"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ElementDone"] = {
+						["Physical"] = 0,
+						["Melee"] = 0,
+						["Fire"] = 0,
+					},
+					["DamagedWho"] = {
+						["Riverblade Thief"] = {
+							["Details"] = {
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shore Crab"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thaenatosx-BleedingHollow"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Chieftain"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Snapclaw"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Landroz-BleedingHollow"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Narjon the Gulper"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Cave Crawler"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Parren-BleedingHollow"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+								["Death Sweep"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Annihilation"] = {
+									["count"] = 0,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Eruption"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Raider"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Helgrave"] = {
+							["Details"] = {
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDamaged"] = {
+						["Thaenatosx-BleedingHollow"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 0,
+								},
+								["Gutripper"] = {
+									["count"] = 0,
+								},
+								["Agony (DoT)"] = {
+									["count"] = 0,
+								},
+								["Deathbolt"] = {
+									["count"] = 0,
+								},
+								["Siphon Life (DoT)"] = {
+									["count"] = 0,
+								},
+								["Haunt"] = {
+									["count"] = 0,
+								},
+								["Phantom Singularity (DoT)"] = {
+									["count"] = 0,
+								},
+								["Unstable Affliction (DoT)"] = {
+									["count"] = 0,
+								},
+								["Drain Life (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Darkglare"] = {
+							["Details"] = {
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Parren-BleedingHollow"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Storm Bolt"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Whirlwind"] = {
+									["count"] = 0,
+								},
+								["Mortal Strike"] = {
+									["count"] = 0,
+								},
+								["Fathom Fall"] = {
+									["count"] = 0,
+								},
+								["Execute"] = {
+									["count"] = 0,
+								},
+								["Hamstring"] = {
+									["count"] = 0,
+								},
+								["Bladestorm"] = {
+									["count"] = 0,
+								},
+								["Overpower"] = {
+									["count"] = 0,
+								},
+								["Warbreaker"] = {
+									["count"] = 0,
+								},
+								["Deep Wounds (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Helgrave"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Consuming Shadows"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Absorbed"] = {
+						["Darkness"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["TimeHealing"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Darkness"] = {
+									["count"] = 0,
+								},
+								["Leech"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Leech"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Execute"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Whirlwind"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Agony (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Haunt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Overpower"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Unstable Affliction (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Eye Beam"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Drain Life (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Deep Wounds (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Hamstring"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Warbreaker"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Phantom Singularity (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Slam"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Gutripper"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Storm Bolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Siphon Life (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bladestorm"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fathom Fall"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Deathbolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Consuming Shadows"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["ActiveTime"] = 0,
+					["Heals"] = {
+						["Darkness"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Leech"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["FDamagedWho"] = {
+						["Frenzied Reef Shark <Twiddlederr>"] = {
+							["Details"] = {
+								["Shark Jab"] = {
+									["count"] = 0,
+								},
+								["Eye Gouge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["FDamage"] = 0,
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Immune"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 0,
+					["PartialAbsorb"] = {
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Execute"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Whirlwind"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Agony (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Haunt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Overpower"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Unstable Affliction (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Eye Beam"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Drain Life (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Deep Wounds (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Hamstring"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Warbreaker"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Phantom Singularity (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Slam"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Gutripper"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Storm Bolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Siphon Life (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bladestorm"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fathom Fall"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Deathbolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Consuming Shadows"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["FuryGained"] = {
+						["Immolation Aura"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Attacks"] = {
+						["Vengeful Retreat"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fel Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Death Sweep"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fel Barrage"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Annihilation"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Metamorphosis"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Throw Glaive"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fel Eruption"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Immolation Aura"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["FuryGainedFrom"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Immolation Aura"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Riverblade Thief"] = {
+							["Details"] = {
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shore Crab"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thaenatosx-BleedingHollow"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Chieftain"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Snapclaw"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Landroz-BleedingHollow"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Raider"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Cave Crawler"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Parren-BleedingHollow"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+								["Death Sweep"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Annihilation"] = {
+									["count"] = 0,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Eruption"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Frenzied Reef Shark <Twiddlederr>"] = {
+							["Details"] = {
+								["Shark Jab"] = {
+									["count"] = 0,
+								},
+								["Eye Gouge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Helgrave"] = {
+							["Details"] = {
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["HealedWho"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Darkness"] = {
+									["count"] = 0,
+								},
+								["Leech"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Darkness"] = {
+									["count"] = 0,
+								},
+								["Leech"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+				},
+				["Fight2"] = {
+					["DamageTaken"] = 0,
+					["FuryGain"] = 21,
+					["DOTs"] = {
+					},
+					["Damage"] = 89549,
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["FuryGained"] = {
+						["Immolation Aura"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 21,
+								},
+							},
+							["amount"] = 21,
+						},
+					},
+					["RageGainedFrom"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["HOTs"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Shadow"] = 0,
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["HealingTaken"] = 0,
+					["FDamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoDamaged"] = {
+						["Turqleton-Area52"] = {
+							["Details"] = {
+								["Bloodthirst"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Storm Bolt"] = {
+									["count"] = 0,
+								},
+								["Fathom Fall"] = {
+									["count"] = 0,
+								},
+								["Raging Blow"] = {
+									["count"] = 0,
+								},
+								["Reckless Flurry"] = {
+									["count"] = 0,
+								},
+								["Rampage"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thaenatosx-BleedingHollow"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 0,
+								},
+								["Gutripper"] = {
+									["count"] = 0,
+								},
+								["Agony (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["HealedWho"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["EnergyGain"] = 0,
+					["PartialAbsorb"] = {
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fathom Fall"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Storm Bolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Gutripper"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Agony (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bloodthirst"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Rampage"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Raging Blow"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Reckless Flurry"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBreak"] = 0,
+					["Heals"] = {
+					},
+					["TimeSpent"] = {
+						["Prickly Puffer"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Sting Ray"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Spiny Terrapin"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Elder Viseclaw"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Flesh-Eating Sandsnapper"] = {
+							["Details"] = {
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Fry"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Fisher"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Scuttler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Armored Carp"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fathom Fall"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Storm Bolt"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
@@ -9169,7 +7427,7 @@ RecountPerCharDB = {
 							["count"] = 0,
 							["amount"] = 0,
 						},
-						["Bloody Bile"] = {
+						["Bloodthirst"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
@@ -9181,7 +7439,7 @@ RecountPerCharDB = {
 							["count"] = 0,
 							["amount"] = 0,
 						},
-						["Siphon Life (DoT)"] = {
+						["Rampage"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
@@ -9193,7 +7451,7 @@ RecountPerCharDB = {
 							["count"] = 0,
 							["amount"] = 0,
 						},
-						["Drain Life (DoT)"] = {
+						["Raging Blow"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
@@ -9205,7 +7463,7 @@ RecountPerCharDB = {
 							["count"] = 0,
 							["amount"] = 0,
 						},
-						["Corruption (DoT)"] = {
+						["Reckless Flurry"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
@@ -9218,18 +7476,6 @@ RecountPerCharDB = {
 							["amount"] = 0,
 						},
 						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Suffocating Squall (DoT)"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
@@ -9246,19 +7492,40 @@ RecountPerCharDB = {
 					},
 					["FDamage"] = 0,
 					["Interrupts"] = 0,
+					["WhoDispelled"] = {
+					},
 					["Overhealing"] = 0,
-					["TimeSpent"] = {
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ActiveTime"] = 1.5,
+					["FuryGainedFrom"] = {
 						["Twiddlederr"] = {
 							["Details"] = {
-								["Leech"] = {
-									["count"] = 0,
+								["Immolation Aura"] = {
+									["count"] = 21,
 								},
 							},
-							["amount"] = 0,
+							["amount"] = 21,
 						},
-						["Parren-BleedingHollow"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["Healing"] = 0,
+					["RageGained"] = {
+					},
+					["DamagedWho"] = {
+						["Prickly Puffer"] = {
 							["Details"] = {
-								["Chaos Nova"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
 									["count"] = 0,
 								},
 							},
@@ -9266,23 +7533,1468 @@ RecountPerCharDB = {
 						},
 						["Sting Ray"] = {
 							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Spiny Terrapin"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Elder Viseclaw"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 89549,
+								},
+							},
+							["amount"] = 89549,
+						},
+						["Flesh-Eating Sandsnapper"] = {
+							["Details"] = {
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Fry"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Fisher"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
 								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Scuttler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Armored Carp"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Attacks"] = {
+						["Throw Glaive"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fel Barrage"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fel Rush"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 89549,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 89549,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 89549,
+						},
+					},
+					["RageGain"] = 0,
+					["PartialBlock"] = {
+					},
+					["TimeDamage"] = 1.5,
+					["TimeDamaging"] = {
+						["Prickly Puffer"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Sting Ray"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Spiny Terrapin"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Elder Viseclaw"] = {
+							["Details"] = {
+								["Fel Rush"] = {
 									["count"] = 1.5,
 								},
 							},
 							["amount"] = 1.5,
 						},
-					},
-					["WhoDispelled"] = {
-					},
-					["InterruptData"] = {
-					},
-					["ElementTakenResist"] = {
-					},
-					["Heals"] = {
-						["Leech"] = {
+						["Flesh-Eating Sandsnapper"] = {
 							["Details"] = {
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Fry"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Fisher"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Scuttler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Armored Carp"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
 								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight4"] = {
+					["FuryGain"] = 14,
+					["PartialBlock"] = {
+					},
+					["TimeSpent"] = {
+						["Sting Ray"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thaenatosx-BleedingHollow"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Carp Hunter"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Krasari Huntress"] = {
+							["Details"] = {
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Turqleton-Area52"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Chaos Nova"] = {
+									["count"] = 0,
+								},
+								["Fel Eruption"] = {
+									["count"] = 0,
+								},
+								["Annihilation"] = {
+									["count"] = 0,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+								["Chaos Strike"] = {
+									["count"] = 0,
+								},
+								["Death Sweep"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Gzaadhun"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Scuttler"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Darkness"] = {
+									["count"] = 0,
+								},
+								["Leech"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Raider"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Badaboop-BleedingHollow"] = {
+							["Details"] = {
+								["Annihilation"] = {
+									["count"] = 0,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Death Sweep"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Helgrave"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Darkness"] = {
+									["count"] = 0,
+								},
+								["Leech"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementDoneAbsorb"] = {
+						["Physical"] = 0,
+						["Melee"] = 0,
+						["Fire"] = 0,
+					},
+					["Absorbs"] = 0,
+					["DeathCount"] = 0,
+					["FDamagedWho"] = {
+					},
+					["ElementTaken"] = {
+						["Shadow"] = 0,
+						["Melee"] = 0,
+						["Arcane"] = 0,
+						["Physical"] = 0,
+						["Holy"] = 0,
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 28822,
+					["Dispels"] = 0,
+					["ElementDone"] = {
+						["Physical"] = 0,
+						["Melee"] = 0,
+						["Fire"] = 28822,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["WhoDamaged"] = {
+						["Turqleton-Area52"] = {
+							["Details"] = {
+								["Reckless Flurry"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Storm Bolt"] = {
+									["count"] = 0,
+								},
+								["Execute"] = {
+									["count"] = 0,
+								},
+								["Siegebreaker"] = {
+									["count"] = 0,
+								},
+								["Rampage"] = {
+									["count"] = 0,
+								},
+								["Bloodthirst"] = {
+									["count"] = 0,
+								},
+								["Execute Off-Hand"] = {
+									["count"] = 0,
+								},
+								["Bladestorm Off-Hand"] = {
+									["count"] = 0,
+								},
+								["Heroic Leap"] = {
+									["count"] = 0,
+								},
+								["Raging Blow"] = {
+									["count"] = 0,
+								},
+								["Fathom Fall"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Keladron-Icecrown"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thaenatosx-BleedingHollow"] = {
+							["Details"] = {
+								["Gutripper"] = {
+									["count"] = 0,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 0,
+								},
+								["Deathbolt"] = {
+									["count"] = 0,
+								},
+								["Siphon Life (DoT)"] = {
+									["count"] = 0,
+								},
+								["Haunt"] = {
+									["count"] = 0,
+								},
+								["Phantom Singularity (DoT)"] = {
+									["count"] = 0,
+								},
+								["Unstable Affliction (DoT)"] = {
+									["count"] = 0,
+								},
+								["Agony (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Badaboop-BleedingHollow"] = {
+							["Details"] = {
+								["Volatile Blood Explosion"] = {
+									["count"] = 0,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 0,
+								},
+								["Agony (DoT)"] = {
+									["count"] = 0,
+								},
+								["Deathbolt"] = {
+									["count"] = 0,
+								},
+								["Laser Matrix"] = {
+									["count"] = 0,
+								},
+								["Phantom Singularity (DoT)"] = {
+									["count"] = 0,
+								},
+								["Gutripper"] = {
+									["count"] = 0,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Aleyna-Aggramar"] = {
+							["Details"] = {
+								["Holy Fire"] = {
+									["count"] = 0,
+								},
+								["Holy Fire (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Gzaadhun"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Shadow Bite"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Helgrave"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Consuming Shadows"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["TimeHealing"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Darkness"] = {
+									["count"] = 0,
+								},
+								["Leech"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+					},
+					["CCBreak"] = 0,
+					["PartialResist"] = {
+						["Volatile Blood Explosion"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Consuming Shadows"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Laser Matrix"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Execute"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Siegebreaker"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Agony (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Rampage"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bloodthirst"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bladestorm Off-Hand"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Holy Fire (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Haunt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Phantom Singularity (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Unstable Affliction (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Reckless Flurry"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Holy Fire"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fathom Fall"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fel Rush"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Storm Bolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Execute Off-Hand"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Gutripper"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Raging Blow"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Shadow Bite"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Throw Glaive"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Siphon Life (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Heroic Leap"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bladestorm"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Deathbolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+						["Volatile Blood Explosion"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Consuming Shadows"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Laser Matrix"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Execute"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Siegebreaker"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Agony (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Rampage"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bloodthirst"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bladestorm Off-Hand"] = {
+							["Details"] = {
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Holy Fire (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Haunt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Phantom Singularity (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Unstable Affliction (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Reckless Flurry"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Holy Fire"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fathom Fall"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fel Rush"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Storm Bolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Execute Off-Hand"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Gutripper"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Raging Blow"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Shadow Bite"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Throw Glaive"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Siphon Life (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Heroic Leap"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bladestorm"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Deathbolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
 									["max"] = 0,
 									["min"] = 0,
 									["count"] = 0,
@@ -9296,12 +9008,566 @@ RecountPerCharDB = {
 					["ActiveTime"] = 1.5,
 					["EnergyGained"] = {
 					},
-					["EnergyGain"] = 0,
 					["Healing"] = 0,
-					["Dispelled"] = 0,
+					["TimeDamage"] = 1.5,
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["HealedWho"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Darkness"] = {
+									["count"] = 0,
+								},
+								["Leech"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RageGainedFrom"] = {
+					},
 					["RageGained"] = {
 					},
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["DamagedWho"] = {
+						["Redscale Cranefish"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thaenatosx-BleedingHollow"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Carp Hunter"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Krasari Huntress"] = {
+							["Details"] = {
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Turqleton-Area52"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Chaos Nova"] = {
+									["count"] = 0,
+								},
+								["Fel Eruption"] = {
+									["count"] = 0,
+								},
+								["Annihilation"] = {
+									["count"] = 0,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+								["Chaos Strike"] = {
+									["count"] = 0,
+								},
+								["Death Sweep"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Gzaadhun"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Death Sweep"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Scuttler"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Sting Ray"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Raider"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
+									["count"] = 28822,
+								},
+							},
+							["amount"] = 28822,
+						},
+						["Badaboop-BleedingHollow"] = {
+							["Details"] = {
+								["Annihilation"] = {
+									["count"] = 0,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Death Sweep"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Helgrave"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["Dispelled"] = 0,
+					["FuryGained"] = {
+						["Disrupt"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Chaos Strike"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Immolation Aura"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 14,
+								},
+							},
+							["amount"] = 14,
+						},
+					},
+					["Absorbed"] = {
+						["Darkness"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["EnergyGain"] = 0,
+					["RunicPowerGain"] = 0,
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["DOTs"] = {
+					},
+					["DamageTaken"] = 0,
+					["HOT_Time"] = 0,
+					["InterruptData"] = {
+						["Badaboop-BleedingHollow"] = {
+							["Details"] = {
+								["Haunt (Disrupt)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RageGain"] = 0,
+					["FuryGainedFrom"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Disrupt"] = {
+									["count"] = 0,
+								},
+								["Chaos Strike"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
+									["count"] = 14,
+								},
+							},
+							["amount"] = 14,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+						["Shadow"] = 0,
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["Overhealing"] = 0,
 					["Attacks"] = {
+						["Vengeful Retreat"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fel Rush"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Death Sweep"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Eye Beam"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fel Barrage"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Chaos Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Annihilation"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Metamorphosis"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Throw Glaive"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
 						["Chaos Nova"] = {
 							["Details"] = {
 								["Hit"] = {
@@ -9314,35 +9580,265 @@ RecountPerCharDB = {
 							["count"] = 0,
 							["amount"] = 0,
 						},
-						["Melee"] = {
+						["Fel Eruption"] = {
 							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
 								["Crit"] = {
-									["max"] = 146728,
-									["min"] = 146728,
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Kul Tiran Cannonball Runner"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Immolation Aura"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 28822,
+									["min"] = 0,
 									["count"] = 1,
-									["amount"] = 146728,
+									["amount"] = 28822,
 								},
 							},
 							["count"] = 1,
-							["amount"] = 146728,
+							["amount"] = 28822,
 						},
 					},
-					["RageGain"] = 0,
-					["FDamagedWho"] = {
+					["HealingTaken"] = 0,
+					["Heals"] = {
+						["Darkness"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Leech"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
 					},
-					["TimeDamage"] = 1.5,
+					["WhoDispelled"] = {
+					},
 					["TimeDamaging"] = {
 						["Sting Ray"] = {
 							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thaenatosx-BleedingHollow"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 0,
+								},
 								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Carp Hunter"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Turqleton-Area52"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Chaos Nova"] = {
+									["count"] = 0,
+								},
+								["Fel Eruption"] = {
+									["count"] = 0,
+								},
+								["Annihilation"] = {
+									["count"] = 0,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+								["Chaos Strike"] = {
+									["count"] = 0,
+								},
+								["Death Sweep"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Krasari Huntress"] = {
+							["Details"] = {
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Gzaadhun"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Scuttler"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Raider"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
 									["count"] = 1.5,
 								},
 							},
 							["amount"] = 1.5,
 						},
-						["Parren-BleedingHollow"] = {
+						["Badaboop-BleedingHollow"] = {
 							["Details"] = {
-								["Chaos Nova"] = {
+								["Annihilation"] = {
+									["count"] = 0,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Death Sweep"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Helgrave"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
 									["count"] = 0,
 								},
 							},
@@ -9350,2850 +9846,1747 @@ RecountPerCharDB = {
 						},
 					},
 					["ManaGain"] = 0,
-					["HOTs"] = {
+					["ElementHitsTaken"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Immune"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Immune"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Immune"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Holy"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
 					},
 					["DispelledWho"] = {
 					},
 				},
 				["LastFightData"] = {
-					["TimeHealing"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Darkness"] = {
-									["count"] = 0,
-								},
-								["Leech"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
+					["Ressed"] = 0,
+					["FuryGain"] = 21,
+					["DOTs"] = {
 					},
-					["FuryGain"] = 0,
-					["OverHeals"] = {
-						["Leech"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
+					["ElementDoneAbsorb"] = {
+					},
+					["ElementDoneResist"] = {
 					},
 					["ElementHitsTaken"] = {
-						["Physical"] = {
+						["Shadow"] = {
 							["Details"] = {
-								["Absorb"] = {
+								["Crit"] = {
 									["count"] = 0,
 								},
-								["Hit"] = {
+								["Tick"] = {
 									["count"] = 0,
 								},
-								["Dodge"] = {
-									["count"] = 0,
-								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
 								["Immune"] = {
 									["count"] = 0,
 								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Tick"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
 								["Miss"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Dodge"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Tick"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementTakenAbsorb"] = {
-						["Melee"] = 0,
-						["Physical"] = 0,
-					},
-					["TimeSpent"] = {
-						["Shore Crab"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Thaenatosx-BleedingHollow"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Darkness"] = {
-									["count"] = 0,
-								},
-								["Leech"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Parren-BleedingHollow"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-								["Death Sweep"] = {
-									["count"] = 0,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-								["Annihilation"] = {
-									["count"] = 0,
-								},
-								["Metamorphosis"] = {
-									["count"] = 0,
-								},
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-								["Fel Eruption"] = {
-									["count"] = 0,
-								},
-								["Immolation Aura"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Riverblade Raider"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 1.5,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-								["Fel Rush"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 3,
-						},
-						["Helgrave"] = {
-							["Details"] = {
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["FuryGained"] = {
-						["Immolation Aura"] = {
-							["Details"] = {
-								["Twiddlederr"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementDoneAbsorb"] = {
-						["Physical"] = 0,
-					},
-					["PartialResist"] = {
-						["Corruption (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Execute"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Whirlwind"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Agony (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Mortal Strike"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Haunt"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Overpower"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Unstable Affliction (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Eye Beam"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Drain Life (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Deep Wounds (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Hamstring"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Warbreaker"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Phantom Singularity (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Slam"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Gutripper"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Storm Bolt"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Falling"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Charge"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Siphon Life (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Bladestorm"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Fathom Fall"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Deathbolt"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Consuming Shadows"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["DeathCount"] = 0,
-					["PartialAbsorb"] = {
-						["Corruption (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Execute"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Whirlwind"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Agony (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Mortal Strike"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Haunt"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Overpower"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Unstable Affliction (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Eye Beam"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Drain Life (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Deep Wounds (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Hamstring"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Warbreaker"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Phantom Singularity (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Slam"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Gutripper"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Storm Bolt"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Falling"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Charge"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Siphon Life (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Bladestorm"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Fathom Fall"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Deathbolt"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Consuming Shadows"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 3,
-					["TimeDamaging"] = {
-						["Shore Crab"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Thaenatosx-BleedingHollow"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Parren-BleedingHollow"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-								["Death Sweep"] = {
-									["count"] = 0,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-								["Annihilation"] = {
-									["count"] = 0,
-								},
-								["Metamorphosis"] = {
-									["count"] = 0,
-								},
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-								["Fel Eruption"] = {
-									["count"] = 0,
-								},
-								["Immolation Aura"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Riverblade Raider"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 1.5,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-								["Fel Rush"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 3,
-						},
-						["Helgrave"] = {
-							["Details"] = {
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementTaken"] = {
-						["Physical"] = 0,
-						["Melee"] = 0,
-						["Shadow"] = 0,
-					},
-					["FuryGainedFrom"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Immolation Aura"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Damage"] = 192964,
-					["ElementHitsDone"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
 									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 0,
 								},
 							},
 							["amount"] = 1,
 						},
-						["Melee"] = {
-							["Details"] = {
-								["Parry"] = {
-									["count"] = 0,
-								},
-								["Miss"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Heals"] = {
-						["Darkness"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Leech"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["TimeHeal"] = 0,
-					["ElementDone"] = {
-						["Physical"] = 68388,
-						["Melee"] = 0,
-						["Fire"] = 0,
-					},
-					["Absorbs"] = 0,
-					["Healing"] = 0,
-					["HealedWho"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Darkness"] = {
-									["count"] = 0,
-								},
-								["Leech"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["WhoHealed"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Darkness"] = {
-									["count"] = 0,
-								},
-								["Leech"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Attacks"] = {
-						["Vengeful Retreat"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Parry"] = {
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Miss"] = {
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Fel Rush"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 62288,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 124576,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 124576,
-						},
-						["Death Sweep"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Fel Barrage"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Annihilation"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Metamorphosis"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Throw Glaive"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 68388,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 68388,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 68388,
-						},
-						["Fel Eruption"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Immolation Aura"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
-						["Shore Crab"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Thaenatosx-BleedingHollow"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Parren-BleedingHollow"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-								["Death Sweep"] = {
-									["count"] = 0,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-								["Annihilation"] = {
-									["count"] = 0,
-								},
-								["Metamorphosis"] = {
-									["count"] = 0,
-								},
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-								["Fel Eruption"] = {
-									["count"] = 0,
-								},
-								["Immolation Aura"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Riverblade Raider"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 68388,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-								["Fel Rush"] = {
-									["count"] = 124576,
-								},
-							},
-							["amount"] = 192964,
-						},
-						["Helgrave"] = {
-							["Details"] = {
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["TimeDamage"] = 3,
-					["WhoDamaged"] = {
-						["Thaenatosx-BleedingHollow"] = {
-							["Details"] = {
-								["Corruption (DoT)"] = {
-									["count"] = 0,
-								},
-								["Gutripper"] = {
-									["count"] = 0,
-								},
-								["Agony (DoT)"] = {
-									["count"] = 0,
-								},
-								["Deathbolt"] = {
-									["count"] = 0,
-								},
-								["Siphon Life (DoT)"] = {
-									["count"] = 0,
-								},
-								["Haunt"] = {
-									["count"] = 0,
-								},
-								["Phantom Singularity (DoT)"] = {
-									["count"] = 0,
-								},
-								["Unstable Affliction (DoT)"] = {
-									["count"] = 0,
-								},
-								["Drain Life (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Darkglare"] = {
-							["Details"] = {
-								["Eye Beam"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Parren-BleedingHollow"] = {
-							["Details"] = {
-								["Charge"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Storm Bolt"] = {
-									["count"] = 0,
-								},
-								["Slam"] = {
-									["count"] = 0,
-								},
-								["Whirlwind"] = {
-									["count"] = 0,
-								},
-								["Mortal Strike"] = {
-									["count"] = 0,
-								},
-								["Fathom Fall"] = {
-									["count"] = 0,
-								},
-								["Execute"] = {
-									["count"] = 0,
-								},
-								["Hamstring"] = {
-									["count"] = 0,
-								},
-								["Bladestorm"] = {
-									["count"] = 0,
-								},
-								["Overpower"] = {
-									["count"] = 0,
-								},
-								["Warbreaker"] = {
-									["count"] = 0,
-								},
-								["Deep Wounds (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Environment"] = {
-							["Details"] = {
-								["Falling"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Helgrave"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Consuming Shadows"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Overhealing"] = 0,
-					["DamageTaken"] = 0,
-					["Absorbed"] = {
-						["Darkness"] = {
-							["Details"] = {
-								["Twiddlederr"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-				},
-				["Fight1"] = {
-					["TimeHealing"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Darkness"] = {
-									["count"] = 0,
-								},
-								["Leech"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["FuryGain"] = 0,
-					["OverHeals"] = {
-						["Leech"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ElementHitsTaken"] = {
 						["Physical"] = {
 							["Details"] = {
-								["Absorb"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Dodge"] = {
-									["count"] = 0,
-								},
 								["Immune"] = {
 									["count"] = 0,
 								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Tick"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
 								["Miss"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Dodge"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Tick"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementTakenAbsorb"] = {
-						["Melee"] = 0,
-						["Physical"] = 0,
-					},
-					["TimeSpent"] = {
-						["Shore Crab"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Thaenatosx-BleedingHollow"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Darkness"] = {
-									["count"] = 0,
-								},
-								["Leech"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Parren-BleedingHollow"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-								["Death Sweep"] = {
-									["count"] = 0,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-								["Annihilation"] = {
-									["count"] = 0,
-								},
-								["Metamorphosis"] = {
-									["count"] = 0,
-								},
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-								["Fel Eruption"] = {
-									["count"] = 0,
-								},
-								["Immolation Aura"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Riverblade Raider"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 1.5,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-								["Fel Rush"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 3,
-						},
-						["Helgrave"] = {
-							["Details"] = {
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["FuryGained"] = {
-						["Immolation Aura"] = {
-							["Details"] = {
-								["Twiddlederr"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementDoneAbsorb"] = {
-						["Physical"] = 0,
-					},
-					["PartialResist"] = {
-						["Corruption (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Execute"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Whirlwind"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Agony (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Mortal Strike"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Haunt"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Overpower"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Unstable Affliction (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Eye Beam"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Drain Life (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Deep Wounds (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Hamstring"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Warbreaker"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Phantom Singularity (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Slam"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Gutripper"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Storm Bolt"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Falling"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Charge"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Siphon Life (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Bladestorm"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Fathom Fall"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Deathbolt"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Consuming Shadows"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["DeathCount"] = 0,
-					["PartialAbsorb"] = {
-						["Corruption (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Execute"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Whirlwind"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Agony (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Mortal Strike"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Haunt"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Overpower"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Unstable Affliction (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Eye Beam"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Drain Life (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Deep Wounds (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Hamstring"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Warbreaker"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Phantom Singularity (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Slam"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Gutripper"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Storm Bolt"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Falling"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Charge"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Siphon Life (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Bladestorm"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Fathom Fall"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Deathbolt"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Consuming Shadows"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 3,
-					["TimeDamaging"] = {
-						["Shore Crab"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Thaenatosx-BleedingHollow"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Parren-BleedingHollow"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-								["Death Sweep"] = {
-									["count"] = 0,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-								["Annihilation"] = {
-									["count"] = 0,
-								},
-								["Metamorphosis"] = {
-									["count"] = 0,
-								},
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-								["Fel Eruption"] = {
-									["count"] = 0,
-								},
-								["Immolation Aura"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Riverblade Raider"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 1.5,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-								["Fel Rush"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 3,
-						},
-						["Helgrave"] = {
-							["Details"] = {
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementTaken"] = {
-						["Physical"] = 0,
-						["Melee"] = 0,
-						["Shadow"] = 0,
-					},
-					["FuryGainedFrom"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Immolation Aura"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Damage"] = 192964,
-					["ElementHitsDone"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
 									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 0,
 								},
 							},
 							["amount"] = 1,
 						},
-						["Melee"] = {
-							["Details"] = {
-								["Parry"] = {
-									["count"] = 0,
-								},
-								["Miss"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
 					},
-					["Heals"] = {
-						["Darkness"] = {
+					["FuryGained"] = {
+						["Demon's Bite"] = {
 							["Details"] = {
-								["Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Leech"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["TimeHeal"] = 0,
-					["ElementDone"] = {
-						["Physical"] = 68388,
-						["Melee"] = 0,
-						["Fire"] = 0,
-					},
-					["Absorbs"] = 0,
-					["Healing"] = 0,
-					["HealedWho"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Darkness"] = {
-									["count"] = 0,
-								},
-								["Leech"] = {
+								["Twiddlederr"] = {
 									["count"] = 0,
 								},
 							},
-							["amount"] = 0,
-						},
-					},
-					["WhoHealed"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Darkness"] = {
-									["count"] = 0,
-								},
-								["Leech"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Attacks"] = {
-						["Vengeful Retreat"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Parry"] = {
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Miss"] = {
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Fel Rush"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 62288,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 124576,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 124576,
-						},
-						["Death Sweep"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Fel Barrage"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Annihilation"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Metamorphosis"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Throw Glaive"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 68388,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 68388,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 68388,
-						},
-						["Fel Eruption"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
 							["amount"] = 0,
 						},
 						["Immolation Aura"] = {
 							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
-						["Shore Crab"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Thaenatosx-BleedingHollow"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Parren-BleedingHollow"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Fel Rush"] = {
-									["count"] = 0,
-								},
-								["Death Sweep"] = {
-									["count"] = 0,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-								["Annihilation"] = {
-									["count"] = 0,
-								},
-								["Metamorphosis"] = {
-									["count"] = 0,
-								},
-								["Throw Glaive"] = {
-									["count"] = 0,
-								},
-								["Fel Eruption"] = {
-									["count"] = 0,
-								},
-								["Immolation Aura"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Riverblade Raider"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 68388,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-								["Fel Rush"] = {
-									["count"] = 124576,
-								},
-							},
-							["amount"] = 192964,
-						},
-						["Helgrave"] = {
-							["Details"] = {
-								["Fel Barrage"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["TimeDamage"] = 3,
-					["WhoDamaged"] = {
-						["Thaenatosx-BleedingHollow"] = {
-							["Details"] = {
-								["Corruption (DoT)"] = {
-									["count"] = 0,
-								},
-								["Gutripper"] = {
-									["count"] = 0,
-								},
-								["Agony (DoT)"] = {
-									["count"] = 0,
-								},
-								["Deathbolt"] = {
-									["count"] = 0,
-								},
-								["Siphon Life (DoT)"] = {
-									["count"] = 0,
-								},
-								["Haunt"] = {
-									["count"] = 0,
-								},
-								["Phantom Singularity (DoT)"] = {
-									["count"] = 0,
-								},
-								["Unstable Affliction (DoT)"] = {
-									["count"] = 0,
-								},
-								["Drain Life (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Darkglare"] = {
-							["Details"] = {
-								["Eye Beam"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Parren-BleedingHollow"] = {
-							["Details"] = {
-								["Charge"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Storm Bolt"] = {
-									["count"] = 0,
-								},
-								["Slam"] = {
-									["count"] = 0,
-								},
-								["Whirlwind"] = {
-									["count"] = 0,
-								},
-								["Mortal Strike"] = {
-									["count"] = 0,
-								},
-								["Fathom Fall"] = {
-									["count"] = 0,
-								},
-								["Execute"] = {
-									["count"] = 0,
-								},
-								["Hamstring"] = {
-									["count"] = 0,
-								},
-								["Bladestorm"] = {
-									["count"] = 0,
-								},
-								["Overpower"] = {
-									["count"] = 0,
-								},
-								["Warbreaker"] = {
-									["count"] = 0,
-								},
-								["Deep Wounds (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Environment"] = {
-							["Details"] = {
-								["Falling"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Helgrave"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Consuming Shadows"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Overhealing"] = 0,
-					["DamageTaken"] = 0,
-					["Absorbed"] = {
-						["Darkness"] = {
-							["Details"] = {
 								["Twiddlederr"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
+									["count"] = 21,
 								},
 							},
-							["count"] = 0,
-							["amount"] = 0,
+							["amount"] = 21,
 						},
 					},
-				},
-				["OverallData"] = {
-					["TimeHealing"] = {
+					["RageGainedFrom"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["DOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["ElementTaken"] = {
+						["Shadow"] = 0,
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["HealingTaken"] = 0,
+					["HealedWho"] = {
 						["Twiddlederr"] = {
 							["Details"] = {
+								["Leech"] = {
+									["count"] = 0,
+								},
 								["Consume Soul"] = {
-									["count"] = 0.32,
-								},
-								["Darkness"] = {
-									["count"] = 9.12,
-								},
-								["Leech"] = {
-									["count"] = 51.42,
+									["count"] = 0,
 								},
 							},
-							["amount"] = 60.86,
+							["amount"] = 0,
 						},
 					},
-					["FuryGain"] = 459,
+					["FAttacks"] = {
+					},
+					["RageGained"] = {
+					},
+					["ElementDone"] = {
+						["Physical"] = 0,
+						["Melee"] = 0,
+						["Fire"] = 0,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGained"] = {
+					},
+					["WhoDamaged"] = {
+						["Thaenatosx-BleedingHollow"] = {
+							["Details"] = {
+								["Agony (DoT)"] = {
+									["count"] = 0,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thunder Cleft Brave"] = {
+							["Details"] = {
+								["Shoot"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Talgin-Skullcrusher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["CCBroken"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Leech"] = {
+									["count"] = 0,
+								},
+								["Consume Soul"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
 					["OverHeals"] = {
 						["Leech"] = {
 							["Details"] = {
 								["Hit"] = {
-									["max"] = 9647,
-									["min"] = 1679,
-									["count"] = 4,
-									["amount"] = 25638,
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
 								},
 							},
-							["count"] = 4,
-							["amount"] = 25638,
+							["count"] = 0,
+							["amount"] = 0,
 						},
 						["Consume Soul"] = {
 							["Details"] = {
 								["Hit"] = {
-									["max"] = 23408,
-									["min"] = 21882,
-									["count"] = 2,
-									["amount"] = 45290,
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
 								},
 							},
-							["count"] = 2,
-							["amount"] = 45290,
+							["count"] = 0,
+							["amount"] = 0,
 						},
+					},
+					["TimeSpent"] = {
+						["Snapclaw"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Protektor-BleedingHollow"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thunder Cleft Brave"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Scuttler"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Leech"] = {
+									["count"] = 0,
+								},
+								["Consume Soul"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Cave Crawler"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Pathstalker"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Greenscale Cranefish"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGain"] = 0,
+					["CCBreak"] = 0,
+					["Heals"] = {
+						["Leech"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Consume Soul"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["PartialResist"] = {
+						["Shoot"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Claw"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Agony (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["WhoDispelled"] = {
+					},
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ActiveTime"] = 0,
+					["FuryGainedFrom"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
+									["count"] = 21,
+								},
+							},
+							["amount"] = 21,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Shoot"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Claw"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Agony (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["Dispelled"] = 0,
+					["Healing"] = 0,
+					["DamagedWho"] = {
+						["Snapclaw"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Jungle Grub"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thunder Cleft Brave"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Scuttler"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Protektor-BleedingHollow"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Cave Crawler"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Pathstalker"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Greenscale Cranefish"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Leech"] = {
+									["count"] = 0,
+								},
+								["Consume Soul"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Attacks"] = {
+						["Throw Glaive"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fel Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fel Barrage"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Kul Tiran Cannonball Runner"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["RageGain"] = 0,
+					["PartialBlock"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Snapclaw"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thunder Cleft Brave"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Scuttler"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Protektor-BleedingHollow"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Cave Crawler"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Pathstalker"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Greenscale Cranefish"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["DamageTaken"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["Ressed"] = 0,
+					["FuryGain"] = 21,
+					["DOTs"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["ElementDoneResist"] = {
 					},
 					["ElementHitsTaken"] = {
 						["Shadow"] = {
 							["Details"] = {
-								["Immune"] = {
-									["count"] = 2,
+								["Crit"] = {
+									["count"] = 0,
 								},
 								["Tick"] = {
-									["count"] = 141,
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Immune"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Immune"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["FuryGained"] = {
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Immolation Aura"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 21,
+								},
+							},
+							["amount"] = 21,
+						},
+					},
+					["RageGainedFrom"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["DOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["ElementTaken"] = {
+						["Shadow"] = 0,
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["HealingTaken"] = 0,
+					["HealedWho"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Leech"] = {
+									["count"] = 0,
+								},
+								["Consume Soul"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["FAttacks"] = {
+					},
+					["RageGained"] = {
+					},
+					["ElementDone"] = {
+						["Physical"] = 0,
+						["Melee"] = 0,
+						["Fire"] = 0,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGained"] = {
+					},
+					["WhoDamaged"] = {
+						["Thaenatosx-BleedingHollow"] = {
+							["Details"] = {
+								["Agony (DoT)"] = {
+									["count"] = 0,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thunder Cleft Brave"] = {
+							["Details"] = {
+								["Shoot"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Talgin-Skullcrusher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["CCBroken"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Leech"] = {
+									["count"] = 0,
+								},
+								["Consume Soul"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Leech"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Consume Soul"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["TimeSpent"] = {
+						["Snapclaw"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Protektor-BleedingHollow"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thunder Cleft Brave"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Scuttler"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Leech"] = {
+									["count"] = 0,
+								},
+								["Consume Soul"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Cave Crawler"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Pathstalker"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Greenscale Cranefish"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGain"] = 0,
+					["CCBreak"] = 0,
+					["Heals"] = {
+						["Leech"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Consume Soul"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["PartialResist"] = {
+						["Shoot"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Claw"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Agony (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["WhoDispelled"] = {
+					},
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ActiveTime"] = 0,
+					["FuryGainedFrom"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Immolation Aura"] = {
+									["count"] = 21,
+								},
+							},
+							["amount"] = 21,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Shoot"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Claw"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Agony (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["Dispelled"] = 0,
+					["Healing"] = 0,
+					["DamagedWho"] = {
+						["Snapclaw"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Jungle Grub"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thunder Cleft Brave"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Scuttler"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Protektor-BleedingHollow"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Cave Crawler"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Pathstalker"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Greenscale Cranefish"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Leech"] = {
+									["count"] = 0,
+								},
+								["Consume Soul"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Attacks"] = {
+						["Throw Glaive"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fel Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fel Barrage"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Kul Tiran Cannonball Runner"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["RageGain"] = 0,
+					["PartialBlock"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Snapclaw"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thunder Cleft Brave"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Viseclaw Scuttler"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Protektor-BleedingHollow"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Cave Crawler"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Riverblade Pathstalker"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Greenscale Cranefish"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["DamageTaken"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["FuryGain"] = 1083,
+					["ElementHitsTaken"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Immune"] = {
+									["count"] = 3,
+								},
+								["Tick"] = {
+									["count"] = 199,
 								},
 								["Absorb"] = {
+									["count"] = 10,
+								},
+								["Crit"] = {
+									["count"] = 36,
+								},
+								["Hit"] = {
+									["count"] = 49,
+								},
+							},
+							["amount"] = 297,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 65,
+								},
+								["Immune"] = {
+									["count"] = 4,
+								},
+								["Dodge"] = {
 									["count"] = 8,
 								},
 								["Crit"] = {
-									["count"] = 28,
+									["count"] = 17,
 								},
-								["Hit"] = {
-									["count"] = 37,
+								["Miss"] = {
+									["count"] = 21,
 								},
 							},
-							["amount"] = 216,
+							["amount"] = 117,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Holy"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Tick"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 9,
 						},
 						["Physical"] = {
 							["Details"] = {
 								["Absorb"] = {
-									["count"] = 4,
+									["count"] = 7,
+								},
+								["Miss"] = {
+									["count"] = 1,
 								},
 								["Hit"] = {
-									["count"] = 44,
+									["count"] = 124,
 								},
 								["Dodge"] = {
-									["count"] = 3,
+									["count"] = 13,
 								},
 								["Immune"] = {
-									["count"] = 2,
+									["count"] = 6,
 								},
 								["Crit"] = {
-									["count"] = 9,
+									["count"] = 38,
 								},
 								["Tick"] = {
 									["count"] = 17,
 								},
 							},
-							["amount"] = 79,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 2,
-								},
-								["Hit"] = {
-									["count"] = 34,
-								},
-								["Dodge"] = {
-									["count"] = 5,
-								},
-								["Crit"] = {
-									["count"] = 8,
-								},
-								["Miss"] = {
-									["count"] = 6,
-								},
-							},
-							["amount"] = 55,
+							["amount"] = 206,
 						},
 						["Nature"] = {
 							["Details"] = {
@@ -12210,1397 +11603,6 @@ RecountPerCharDB = {
 							["amount"] = 5,
 						},
 					},
-					["ElementTakenAbsorb"] = {
-						["Physical"] = 16871,
-						["Melee"] = 4719,
-						["Shadow"] = 7227,
-					},
-					["TimeSpent"] = {
-						["Viseclaw Scuttler"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 1.5,
-								},
-								["Throw Glaive"] = {
-									["count"] = 1.5,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0.42,
-								},
-							},
-							["amount"] = 3.42,
-						},
-						["Elder Viseclaw"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 1.5,
-						},
-						["Flesh-Eating Sandsnapper"] = {
-							["Details"] = {
-								["Fel Barrage"] = {
-									["count"] = 1.31,
-								},
-							},
-							["amount"] = 1.31,
-						},
-						["Viseclaw Fry"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 1.64,
-								},
-								["Fel Rush"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 3.14,
-						},
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Consume Soul"] = {
-									["count"] = 0.32,
-								},
-								["Darkness"] = {
-									["count"] = 9.12,
-								},
-								["Leech"] = {
-									["count"] = 51.42,
-								},
-							},
-							["amount"] = 60.86,
-						},
-						["Parren-BleedingHollow"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 1.93,
-								},
-								["Melee"] = {
-									["count"] = 8.34,
-								},
-								["Fel Rush"] = {
-									["count"] = 1.65,
-								},
-								["Death Sweep"] = {
-									["count"] = 3.29,
-								},
-								["Fel Barrage"] = {
-									["count"] = 2.36,
-								},
-								["Eye Beam"] = {
-									["count"] = 1.52,
-								},
-								["Annihilation"] = {
-									["count"] = 2.56,
-								},
-								["Metamorphosis"] = {
-									["count"] = 0.92,
-								},
-								["Throw Glaive"] = {
-									["count"] = 2.14,
-								},
-								["Fel Eruption"] = {
-									["count"] = 1.05,
-								},
-								["Chaos Nova"] = {
-									["count"] = 1.5,
-								},
-								["Demon's Bite"] = {
-									["count"] = 0.67,
-								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 0.82,
-								},
-								["Immolation Aura"] = {
-									["count"] = 5.66,
-								},
-							},
-							["amount"] = 34.41,
-						},
-						["Helgrave"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0.26,
-								},
-								["Fel Rush"] = {
-									["count"] = 1.5,
-								},
-								["Fel Barrage"] = {
-									["count"] = 2.95,
-								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 2.52,
-								},
-								["Immolation Aura"] = {
-									["count"] = 2.85,
-								},
-							},
-							["amount"] = 10.08,
-						},
-						["Sting Ray"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 4.5,
-								},
-								["Melee"] = {
-									["count"] = 4.5,
-								},
-							},
-							["amount"] = 9,
-						},
-						["Protektor-BleedingHollow"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0.28,
-								},
-							},
-							["amount"] = 0.28,
-						},
-						["Riverblade Raider"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 1.5,
-								},
-								["Throw Glaive"] = {
-									["count"] = 3,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0.97,
-								},
-								["Fel Rush"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 6.97,
-						},
-						["Snapclaw"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 3,
-								},
-							},
-							["amount"] = 3,
-						},
-						["Thaenatosx-BleedingHollow"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 0.41,
-								},
-								["Metamorphosis"] = {
-									["count"] = 0.28,
-								},
-								["Throw Glaive"] = {
-									["count"] = 3.19,
-								},
-								["Fel Rush"] = {
-									["count"] = 1.5,
-								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 0.74,
-								},
-								["Melee"] = {
-									["count"] = 6.56,
-								},
-							},
-							["amount"] = 12.68,
-						},
-						["Lazerz-Eonar"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0.85,
-								},
-							},
-							["amount"] = 0.85,
-						},
-						["Bluetip Reef Shark"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 1.5,
-						},
-						["Viseclaw Fisher"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 1.67,
-								},
-								["Melee"] = {
-									["count"] = 1.5,
-								},
-								["Fel Barrage"] = {
-									["count"] = 1.46,
-								},
-							},
-							["amount"] = 4.63,
-						},
-						["Shore Crab"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 6,
-								},
-							},
-							["amount"] = 6,
-						},
-						["Cave Crawler"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 1.5,
-						},
-						["Thunder Cleft Brave"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 2.77,
-								},
-								["Melee"] = {
-									["count"] = 0.82,
-								},
-								["Fel Barrage"] = {
-									["count"] = 4.41,
-								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 2.71,
-								},
-								["Demon's Bite"] = {
-									["count"] = 2.69,
-								},
-							},
-							["amount"] = 13.4,
-						},
-						["Spiny Terrapin"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 1.5,
-						},
-					},
-					["FuryGained"] = {
-						["Chaos Strike"] = {
-							["Details"] = {
-								["Twiddlederr"] = {
-									["count"] = 20,
-								},
-							},
-							["amount"] = 20,
-						},
-						["Demon's Bite"] = {
-							["Details"] = {
-								["Twiddlederr"] = {
-									["count"] = 119,
-								},
-							},
-							["amount"] = 119,
-						},
-						["Immolation Aura"] = {
-							["Details"] = {
-								["Twiddlederr"] = {
-									["count"] = 320,
-								},
-							},
-							["amount"] = 320,
-						},
-					},
-					["ElementDoneAbsorb"] = {
-						["Fire"] = 4868,
-						["Melee"] = 11267,
-						["Physical"] = 6282,
-					},
-					["PartialResist"] = {
-						["Corruption (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 41,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 41,
-						},
-						["Execute"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 3,
-						},
-						["Whirlwind"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 3,
-						},
-						["Agony (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 62,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 62,
-						},
-						["Mortal Strike"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 6,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 6,
-						},
-						["Shoot"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 4,
-						},
-						["Slam"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 4,
-						},
-						["Eye Beam"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 8,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 8,
-						},
-						["Haunt"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 3,
-						},
-						["Overpower"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 2,
-						},
-						["Unstable Affliction (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 25,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 25,
-						},
-						["Drain Life (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 3,
-						},
-						["Deep Wounds (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 23,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 23,
-						},
-						["Storm Bolt"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 3,
-						},
-						["Hamstring"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 1,
-						},
-						["Warbreaker"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 5,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 5,
-						},
-						["Fathom Fall"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 8,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 8,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 55,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 55,
-						},
-						["Gutripper"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 6,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 6,
-						},
-						["Charge"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 4,
-						},
-						["Falling"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 2,
-						},
-						["Bloody Bile"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 2,
-						},
-						["Phantom Singularity (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 21,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 21,
-						},
-						["Siphon Life (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 23,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 23,
-						},
-						["Bladestorm"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 5,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 5,
-						},
-						["Suffocating Squall (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 3,
-						},
-						["Deathbolt"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 3,
-						},
-						["Consuming Shadows"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 27,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 27,
-						},
-					},
-					["DeathCount"] = 4,
-					["PartialAbsorb"] = {
-						["Corruption (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 41,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 41,
-							["amount"] = 0,
-						},
-						["Execute"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Whirlwind"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Agony (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 60,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 994,
-									["min"] = 663,
-									["count"] = 2,
-									["amount"] = 1657,
-								},
-							},
-							["count"] = 62,
-							["amount"] = 1657,
-						},
-						["Mortal Strike"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 5,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 10710,
-									["min"] = 10710,
-									["count"] = 1,
-									["amount"] = 10710,
-								},
-							},
-							["count"] = 6,
-							["amount"] = 10710,
-						},
-						["Shoot"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-						["Slam"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-						["Eye Beam"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 8,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 8,
-							["amount"] = 0,
-						},
-						["Haunt"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Overpower"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Unstable Affliction (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 25,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 25,
-							["amount"] = 0,
-						},
-						["Drain Life (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Deep Wounds (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 20,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 2229,
-									["min"] = 1910,
-									["count"] = 3,
-									["amount"] = 6161,
-								},
-							},
-							["count"] = 23,
-							["amount"] = 6161,
-						},
-						["Storm Bolt"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Hamstring"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Warbreaker"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 5,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 0,
-						},
-						["Fathom Fall"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 8,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 8,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 53,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 4028,
-									["min"] = 691,
-									["count"] = 2,
-									["amount"] = 4719,
-								},
-							},
-							["count"] = 55,
-							["amount"] = 4719,
-						},
-						["Gutripper"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 6,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 6,
-							["amount"] = 0,
-						},
-						["Charge"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-						["Falling"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Bloody Bile"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Phantom Singularity (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 17,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 1145,
-									["min"] = 1142,
-									["count"] = 4,
-									["amount"] = 4576,
-								},
-							},
-							["count"] = 21,
-							["amount"] = 4576,
-						},
-						["Siphon Life (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 22,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 763,
-									["min"] = 763,
-									["count"] = 1,
-									["amount"] = 763,
-								},
-							},
-							["count"] = 23,
-							["amount"] = 763,
-						},
-						["Bladestorm"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 5,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 0,
-						},
-						["Suffocating Squall (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Deathbolt"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Consuming Shadows"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 26,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 231,
-									["min"] = 231,
-									["count"] = 1,
-									["amount"] = 231,
-								},
-							},
-							["count"] = 27,
-							["amount"] = 231,
-						},
-					},
-					["ActiveTime"] = 176.03,
-					["TimeDamaging"] = {
-						["Thaenatosx-BleedingHollow"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 0.41,
-								},
-								["Metamorphosis"] = {
-									["count"] = 0.28,
-								},
-								["Throw Glaive"] = {
-									["count"] = 3.19,
-								},
-								["Fel Rush"] = {
-									["count"] = 1.5,
-								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 0.74,
-								},
-								["Melee"] = {
-									["count"] = 6.56,
-								},
-							},
-							["amount"] = 12.68,
-						},
-						["Elder Viseclaw"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 1.5,
-						},
-						["Flesh-Eating Sandsnapper"] = {
-							["Details"] = {
-								["Fel Barrage"] = {
-									["count"] = 1.31,
-								},
-							},
-							["amount"] = 1.31,
-						},
-						["Viseclaw Fry"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 1.64,
-								},
-								["Fel Rush"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 3.14,
-						},
-						["Parren-BleedingHollow"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 1.93,
-								},
-								["Melee"] = {
-									["count"] = 8.34,
-								},
-								["Fel Rush"] = {
-									["count"] = 1.65,
-								},
-								["Death Sweep"] = {
-									["count"] = 3.29,
-								},
-								["Fel Barrage"] = {
-									["count"] = 2.36,
-								},
-								["Eye Beam"] = {
-									["count"] = 1.52,
-								},
-								["Annihilation"] = {
-									["count"] = 2.56,
-								},
-								["Metamorphosis"] = {
-									["count"] = 0.92,
-								},
-								["Throw Glaive"] = {
-									["count"] = 2.14,
-								},
-								["Fel Eruption"] = {
-									["count"] = 1.05,
-								},
-								["Chaos Nova"] = {
-									["count"] = 1.5,
-								},
-								["Demon's Bite"] = {
-									["count"] = 0.67,
-								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 0.82,
-								},
-								["Immolation Aura"] = {
-									["count"] = 5.66,
-								},
-							},
-							["amount"] = 34.41,
-						},
-						["Helgrave"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0.26,
-								},
-								["Fel Rush"] = {
-									["count"] = 1.5,
-								},
-								["Fel Barrage"] = {
-									["count"] = 2.95,
-								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 2.52,
-								},
-								["Immolation Aura"] = {
-									["count"] = 2.85,
-								},
-							},
-							["amount"] = 10.08,
-						},
-						["Sting Ray"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 4.5,
-								},
-								["Melee"] = {
-									["count"] = 4.5,
-								},
-							},
-							["amount"] = 9,
-						},
-						["Protektor-BleedingHollow"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 0.28,
-								},
-							},
-							["amount"] = 0.28,
-						},
-						["Riverblade Raider"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 1.5,
-								},
-								["Throw Glaive"] = {
-									["count"] = 3,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0.97,
-								},
-								["Fel Rush"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 6.97,
-						},
-						["Snapclaw"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 3,
-								},
-							},
-							["amount"] = 3,
-						},
-						["Viseclaw Fisher"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 1.67,
-								},
-								["Melee"] = {
-									["count"] = 1.5,
-								},
-								["Fel Barrage"] = {
-									["count"] = 1.46,
-								},
-							},
-							["amount"] = 4.63,
-						},
-						["Lazerz-Eonar"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 0.85,
-								},
-							},
-							["amount"] = 0.85,
-						},
-						["Bluetip Reef Shark"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 1.5,
-						},
-						["Spiny Terrapin"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 1.5,
-						},
-						["Shore Crab"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 6,
-								},
-							},
-							["amount"] = 6,
-						},
-						["Cave Crawler"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 1.5,
-								},
-							},
-							["amount"] = 1.5,
-						},
-						["Thunder Cleft Brave"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 2.77,
-								},
-								["Melee"] = {
-									["count"] = 0.82,
-								},
-								["Fel Barrage"] = {
-									["count"] = 4.41,
-								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 2.71,
-								},
-								["Demon's Bite"] = {
-									["count"] = 2.69,
-								},
-							},
-							["amount"] = 13.4,
-						},
-						["Viseclaw Scuttler"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 1.5,
-								},
-								["Throw Glaive"] = {
-									["count"] = 1.5,
-								},
-								["Fel Barrage"] = {
-									["count"] = 0.42,
-								},
-							},
-							["amount"] = 3.42,
-						},
-					},
-					["ElementTaken"] = {
-						["Shadow"] = 252597,
-						["Physical"] = 258314,
-						["Melee"] = 75563,
-						["Nature"] = 4376,
-					},
-					["FuryGainedFrom"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Chaos Strike"] = {
-									["count"] = 20,
-								},
-								["Demon's Bite"] = {
-									["count"] = 119,
-								},
-								["Immolation Aura"] = {
-									["count"] = 320,
-								},
-							},
-							["amount"] = 459,
-						},
-					},
-					["Damage"] = 4064571,
-					["ElementHitsDone"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 7,
-								},
-								["Crit"] = {
-									["count"] = 5,
-								},
-								["Hit"] = {
-									["count"] = 30,
-								},
-							},
-							["amount"] = 42,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 6,
-								},
-								["Hit"] = {
-									["count"] = 24,
-								},
-								["Miss"] = {
-									["count"] = 4,
-								},
-								["Crit"] = {
-									["count"] = 3,
-								},
-								["Parry"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 39,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 8,
-								},
-								["Crit"] = {
-									["count"] = 3,
-								},
-								["Hit"] = {
-									["count"] = 18,
-								},
-							},
-							["amount"] = 29,
-						},
-					},
-					["Heals"] = {
-						["Consume Soul"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1526,
-									["min"] = 1526,
-									["count"] = 1,
-									["amount"] = 1526,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 1526,
-						},
-						["Darkness"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 10710,
-									["min"] = 231,
-									["count"] = 14,
-									["amount"] = 29511,
-								},
-							},
-							["count"] = 14,
-							["amount"] = 29511,
-						},
-						["Leech"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 22673,
-									["min"] = 35,
-									["count"] = 39,
-									["amount"] = 89216,
-								},
-							},
-							["count"] = 39,
-							["amount"] = 89216,
-						},
-					},
-					["TimeHeal"] = 60.86,
-					["ElementDone"] = {
-						["Physical"] = 1439800,
-						["Melee"] = 523219,
-						["Fire"] = 22132,
-					},
-					["Absorbs"] = 29511,
-					["Healing"] = 90742,
 					["HealedWho"] = {
 						["Twiddlederr"] = {
 							["Details"] = {
@@ -13608,573 +11610,161 @@ RecountPerCharDB = {
 									["count"] = 1526,
 								},
 								["Darkness"] = {
-									["count"] = 29511,
+									["count"] = 35481,
 								},
 								["Leech"] = {
-									["count"] = 89216,
+									["count"] = 120271,
 								},
 							},
-							["amount"] = 120253,
+							["amount"] = 157278,
 						},
 					},
-					["WhoHealed"] = {
-						["Twiddlederr"] = {
-							["Details"] = {
-								["Consume Soul"] = {
-									["count"] = 1526,
-								},
-								["Darkness"] = {
-									["count"] = 29511,
-								},
-								["Leech"] = {
-									["count"] = 89216,
-								},
-							},
-							["amount"] = 120253,
-						},
+					["ElementDoneAbsorb"] = {
+						["Fire"] = 4868,
+						["Melee"] = 25629,
+						["Physical"] = 25313,
 					},
-					["Attacks"] = {
-						["Vengeful Retreat"] = {
+					["Absorbs"] = 35481,
+					["DeathCount"] = 6,
+					["Overhealing"] = 70928,
+					["ElementTaken"] = {
+						["Shadow"] = 353924,
+						["Melee"] = 142814,
+						["Arcane"] = 9362,
+						["Holy"] = 5861,
+						["Physical"] = 506391,
+						["Nature"] = 4376,
+					},
+					["Damage"] = 12349939,
+					["TimeHeal"] = 79.99,
+					["FAttacks"] = {
+						["Shark Jab"] = {
 							["Details"] = {
-								["Absorb"] = {
-									["max"] = 838,
-									["min"] = 59,
-									["count"] = 2,
-									["amount"] = 897,
-								},
 								["Hit"] = {
-									["max"] = 24476,
-									["min"] = 504,
-									["count"] = 3,
-									["amount"] = 25500,
+									["max"] = 6443,
+									["min"] = 6436,
+									["count"] = 33,
+									["amount"] = 212479,
+								},
+							},
+							["count"] = 33,
+							["amount"] = 212479,
+						},
+						["Eye Gouge"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 16747,
+									["min"] = 15029,
+									["count"] = 5,
+									["amount"] = 79852,
 								},
 							},
 							["count"] = 5,
-							["amount"] = 26397,
+							["amount"] = 79852,
+						},
+					},
+					["ElementDone"] = {
+						["Physical"] = 6187823,
+						["Melee"] = 1502098,
+						["Fire"] = 228252,
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 23,
+								},
+								["Crit"] = {
+									["count"] = 18,
+								},
+								["Hit"] = {
+									["count"] = 78,
+								},
+							},
+							["amount"] = 119,
 						},
 						["Melee"] = {
 							["Details"] = {
 								["Absorb"] = {
-									["max"] = 2111,
-									["min"] = 1110,
-									["count"] = 6,
-									["amount"] = 11267,
+									["count"] = 17,
 								},
 								["Hit"] = {
-									["max"] = 99965,
-									["min"] = 767,
-									["count"] = 24,
-									["amount"] = 360314,
+									["count"] = 50,
 								},
 								["Miss"] = {
-									["count"] = 4,
-									["amount"] = 0,
+									["count"] = 13,
 								},
 								["Crit"] = {
-									["max"] = 146728,
-									["min"] = 2335,
-									["count"] = 3,
-									["amount"] = 151638,
+									["count"] = 10,
 								},
 								["Parry"] = {
 									["count"] = 2,
-									["amount"] = 0,
 								},
 							},
-							["count"] = 39,
-							["amount"] = 523219,
+							["amount"] = 92,
 						},
-						["Fel Rush"] = {
+						["Fire"] = {
 							["Details"] = {
 								["Absorb"] = {
-									["max"] = 1529,
-									["min"] = 381,
-									["count"] = 3,
-									["amount"] = 2405,
-								},
-								["Crit"] = {
-									["max"] = 294916,
-									["min"] = 161227,
-									["count"] = 2,
-									["amount"] = 456143,
-								},
-								["Hit"] = {
-									["max"] = 124578,
-									["min"] = 1320,
-									["count"] = 16,
-									["amount"] = 1008956,
-								},
-							},
-							["count"] = 21,
-							["amount"] = 1467504,
-						},
-						["Death Sweep"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 7988,
-									["min"] = 7988,
-									["count"] = 1,
-									["amount"] = 7988,
-								},
-								["Hit"] = {
-									["max"] = 3490,
-									["min"] = 1167,
-									["count"] = 7,
-									["amount"] = 12335,
-								},
-							},
-							["count"] = 8,
-							["amount"] = 20323,
-						},
-						["Fel Barrage"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 715,
-									["min"] = 454,
 									["count"] = 8,
-									["amount"] = 4030,
 								},
 								["Crit"] = {
-									["max"] = 3128,
-									["min"] = 2801,
-									["count"] = 9,
-									["amount"] = 27173,
-								},
-								["Hit"] = {
-									["max"] = 77108,
-									["min"] = 1489,
-									["count"] = 36,
-									["amount"] = 527084,
-								},
-							},
-							["count"] = 53,
-							["amount"] = 558287,
-						},
-						["Eye Beam"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 1421,
-									["min"] = 1420,
-									["count"] = 9,
-									["amount"] = 12782,
-								},
-							},
-							["count"] = 9,
-							["amount"] = 12782,
-						},
-						["Annihilation"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 4840,
-									["min"] = 4840,
-									["count"] = 1,
-									["amount"] = 4840,
-								},
-								["Hit"] = {
-									["max"] = 4065,
-									["min"] = 3060,
 									["count"] = 7,
-									["amount"] = 25355,
-								},
-							},
-							["count"] = 8,
-							["amount"] = 30195,
-						},
-						["Metamorphosis"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 2074,
-									["min"] = 519,
-									["count"] = 2,
-									["amount"] = 2593,
 								},
 								["Hit"] = {
-									["max"] = 2649,
-									["min"] = 2649,
-									["count"] = 1,
-									["amount"] = 2649,
+									["count"] = 39,
 								},
 							},
-							["count"] = 3,
-							["amount"] = 5242,
-						},
-						["Throw Glaive"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 2008,
-									["min"] = 159,
-									["count"] = 5,
-									["amount"] = 5385,
-								},
-								["Crit"] = {
-									["max"] = 168824,
-									["min"] = 136112,
-									["count"] = 4,
-									["amount"] = 642583,
-								},
-								["Hit"] = {
-									["max"] = 87899,
-									["min"] = 952,
-									["count"] = 15,
-									["amount"] = 734301,
-								},
-							},
-							["count"] = 24,
-							["amount"] = 1382269,
-						},
-						["Fel Eruption"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 2386,
-									["min"] = 1693,
-									["count"] = 2,
-									["amount"] = 4079,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 4079,
-						},
-						["Chaos Nova"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1331,
-									["min"] = 1331,
-									["count"] = 1,
-									["amount"] = 1331,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 1331,
-						},
-						["Demon's Bite"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 2275,
-									["min"] = 1993,
-									["count"] = 5,
-									["amount"] = 10811,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 10811,
-						},
-						["Kul Tiran Cannonball Runner"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 947,
-									["min"] = 476,
-									["count"] = 5,
-									["amount"] = 4262,
-								},
-								["Hit"] = {
-									["max"] = 971,
-									["min"] = 466,
-									["count"] = 5,
-									["amount"] = 4336,
-								},
-							},
-							["count"] = 10,
-							["amount"] = 8598,
-						},
-						["Immolation Aura"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 348,
-									["min"] = 129,
-									["count"] = 3,
-									["amount"] = 606,
-								},
-								["Crit"] = {
-									["max"] = 982,
-									["min"] = 898,
-									["count"] = 3,
-									["amount"] = 2839,
-								},
-								["Hit"] = {
-									["max"] = 1684,
-									["min"] = 424,
-									["count"] = 13,
-									["amount"] = 10089,
-								},
-							},
-							["count"] = 19,
-							["amount"] = 13534,
+							["amount"] = 54,
 						},
 					},
-					["HealingTaken"] = 120253,
-					["DamagedWho"] = {
-						["Jungle Grub"] = {
+					["WhoDamaged"] = {
+						["Keladron-Icecrown"] = {
 							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 4020,
+								},
 								["Fel Rush"] = {
-									["count"] = 62288,
+									["count"] = 1401,
 								},
 							},
-							["amount"] = 62288,
+							["amount"] = 5421,
 						},
 						["Thaenatosx-BleedingHollow"] = {
 							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 838,
+								["Corruption (DoT)"] = {
+									["count"] = 34863,
 								},
-								["Metamorphosis"] = {
-									["count"] = 2074,
+								["Gutripper"] = {
+									["count"] = 8153,
 								},
-								["Throw Glaive"] = {
-									["count"] = 5059,
+								["Agony (DoT)"] = {
+									["count"] = 52909,
 								},
-								["Fel Rush"] = {
-									["count"] = 1529,
+								["Drain Life (DoT)"] = {
+									["count"] = 6687,
 								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 946,
+								["Deathbolt"] = {
+									["count"] = 24306,
 								},
-								["Melee"] = {
-									["count"] = 12168,
+								["Siphon Life (DoT)"] = {
+									["count"] = 26137,
 								},
-							},
-							["amount"] = 22614,
-						},
-						["Elder Viseclaw"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 77414,
+								["Haunt"] = {
+									["count"] = 10819,
 								},
-							},
-							["amount"] = 77414,
-						},
-						["Flesh-Eating Sandsnapper"] = {
-							["Details"] = {
-								["Fel Barrage"] = {
-									["count"] = 74048,
+								["Phantom Singularity (DoT)"] = {
+									["count"] = 30889,
+								},
+								["Unstable Affliction (DoT)"] = {
+									["count"] = 40204,
+								},
+								["Suffocating Squall (DoT)"] = {
+									["count"] = 3028,
 								},
 							},
-							["amount"] = 74048,
+							["amount"] = 237995,
 						},
-						["Viseclaw Fry"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 256721,
-								},
-								["Fel Rush"] = {
-									["count"] = 241840,
-								},
-							},
-							["amount"] = 498561,
-						},
-						["Parren-BleedingHollow"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 1024,
-								},
-								["Melee"] = {
-									["count"] = 23397,
-								},
-								["Fel Rush"] = {
-									["count"] = 4588,
-								},
-								["Death Sweep"] = {
-									["count"] = 20323,
-								},
-								["Fel Barrage"] = {
-									["count"] = 13993,
-								},
-								["Eye Beam"] = {
-									["count"] = 12782,
-								},
-								["Annihilation"] = {
-									["count"] = 30195,
-								},
-								["Metamorphosis"] = {
-									["count"] = 2649,
-								},
-								["Throw Glaive"] = {
-									["count"] = 2294,
-								},
-								["Fel Eruption"] = {
-									["count"] = 4079,
-								},
-								["Chaos Nova"] = {
-									["count"] = 1331,
-								},
-								["Demon's Bite"] = {
-									["count"] = 3986,
-								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 466,
-								},
-								["Immolation Aura"] = {
-									["count"] = 12928,
-								},
-							},
-							["amount"] = 134035,
-						},
-						["Helgrave"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 59,
-								},
-								["Metamorphosis"] = {
-									["count"] = 519,
-								},
-								["Throw Glaive"] = {
-									["count"] = 326,
-								},
-								["Fel Rush"] = {
-									["count"] = 876,
-								},
-								["Fel Barrage"] = {
-									["count"] = 4030,
-								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 3316,
-								},
-								["Immolation Aura"] = {
-									["count"] = 606,
-								},
-							},
-							["amount"] = 9732,
-						},
-						["Sting Ray"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 177909,
-								},
-								["Melee"] = {
-									["count"] = 285443,
-								},
-							},
-							["amount"] = 463352,
-						},
-						["Protektor-BleedingHollow"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 1614,
-								},
-							},
-							["amount"] = 1614,
-						},
-						["Riverblade Raider"] = {
-							["Details"] = {
-								["Vengeful Retreat"] = {
-									["count"] = 24476,
-								},
-								["Throw Glaive"] = {
-									["count"] = 136776,
-								},
-								["Fel Barrage"] = {
-									["count"] = 178742,
-								},
-								["Fel Rush"] = {
-									["count"] = 124576,
-								},
-							},
-							["amount"] = 464570,
-						},
-						["Snapclaw"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 204168,
-								},
-							},
-							["amount"] = 204168,
-						},
-						["Viseclaw Fisher"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 256722,
-								},
-								["Melee"] = {
-									["count"] = 99965,
-								},
-								["Fel Barrage"] = {
-									["count"] = 151157,
-								},
-							},
-							["amount"] = 507844,
-						},
-						["Lazerz-Eonar"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 1504,
-								},
-							},
-							["amount"] = 1504,
-						},
-						["Bluetip Reef Shark"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 168824,
-								},
-							},
-							["amount"] = 168824,
-						},
-						["Spiny Terrapin"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 77415,
-								},
-							},
-							["amount"] = 77415,
-						},
-						["Shore Crab"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 668648,
-								},
-							},
-							["amount"] = 668648,
-						},
-						["Cave Crawler"] = {
-							["Details"] = {
-								["Fel Rush"] = {
-									["count"] = 124578,
-								},
-							},
-							["amount"] = 124578,
-						},
-						["Thunder Cleft Brave"] = {
-							["Details"] = {
-								["Throw Glaive"] = {
-									["count"] = 3033,
-								},
-								["Fel Rush"] = {
-									["count"] = 1635,
-								},
-								["Melee"] = {
-									["count"] = 5758,
-								},
-								["Fel Barrage"] = {
-									["count"] = 59209,
-								},
-								["Kul Tiran Cannonball Runner"] = {
-									["count"] = 3870,
-								},
-								["Demon's Bite"] = {
-									["count"] = 6825,
-								},
-							},
-							["amount"] = 80330,
-						},
-						["Viseclaw Scuttler"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 96488,
-								},
-								["Throw Glaive"] = {
-									["count"] = 168823,
-								},
-								["Fel Barrage"] = {
-									["count"] = 77108,
-								},
-								["Fel Rush"] = {
-									["count"] = 80613,
-								},
-							},
-							["amount"] = 423032,
-						},
-					},
-					["TimeDamage"] = 115.17,
-					["WhoDamaged"] = {
 						["Darkglare"] = {
 							["Details"] = {
 								["Eye Beam"] = {
@@ -14182,6 +11772,110 @@ RecountPerCharDB = {
 								},
 							},
 							["amount"] = 17449,
+						},
+						["Aleyna-Aggramar"] = {
+							["Details"] = {
+								["Holy Fire"] = {
+									["count"] = 2186,
+								},
+								["Holy Fire (DoT)"] = {
+									["count"] = 3675,
+								},
+							},
+							["amount"] = 5861,
+						},
+						["Talgin-Skullcrusher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2285,
+								},
+							},
+							["amount"] = 2285,
+						},
+						["Badaboop-BleedingHollow"] = {
+							["Details"] = {
+								["Volatile Blood Explosion"] = {
+									["count"] = 7678,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 38142,
+								},
+								["Laser Matrix"] = {
+									["count"] = 9362,
+								},
+								["Gutripper"] = {
+									["count"] = 4613,
+								},
+								["Agony (DoT)"] = {
+									["count"] = 18708,
+								},
+								["Haunt"] = {
+									["count"] = 3590,
+								},
+								["Phantom Singularity (DoT)"] = {
+									["count"] = 9544,
+								},
+								["Deathbolt"] = {
+									["count"] = 7021,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 4804,
+								},
+							},
+							["amount"] = 103462,
+						},
+						["Turqleton-Area52"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 55990,
+								},
+								["Reckless Flurry"] = {
+									["count"] = 22327,
+								},
+								["Fathom Fall"] = {
+									["count"] = 19005,
+								},
+								["Storm Bolt"] = {
+									["count"] = 2494,
+								},
+								["Execute"] = {
+									["count"] = 22040,
+								},
+								["Whirlwind"] = {
+									["count"] = 2443,
+								},
+								["Siegebreaker"] = {
+									["count"] = 6428,
+								},
+								["Rampage"] = {
+									["count"] = 56975,
+								},
+								["Execute Off-Hand"] = {
+									["count"] = 10552,
+								},
+								["Bloodthirst"] = {
+									["count"] = 33319,
+								},
+								["Bladestorm Off-Hand"] = {
+									["count"] = 7657,
+								},
+								["Heroic Leap"] = {
+									["count"] = 1419,
+								},
+								["Bladestorm"] = {
+									["count"] = 9143,
+								},
+								["Raging Blow"] = {
+									["count"] = 39586,
+								},
+								["Whirlwind Off-Hand"] = {
+									["count"] = 1299,
+								},
+								["Charge"] = {
+									["count"] = 929,
+								},
+							},
+							["amount"] = 291606,
 						},
 						["Thunder Cleft Brave"] = {
 							["Details"] = {
@@ -14197,10 +11891,10 @@ RecountPerCharDB = {
 						["Environment"] = {
 							["Details"] = {
 								["Falling"] = {
-									["count"] = 894,
+									["count"] = 4722,
 								},
 							},
-							["amount"] = 894,
+							["amount"] = 4722,
 						},
 						["Vanquished Tendril of G'huun"] = {
 							["Details"] = {
@@ -14254,40 +11948,16 @@ RecountPerCharDB = {
 							},
 							["amount"] = 297764,
 						},
-						["Thaenatosx-BleedingHollow"] = {
+						["Gzaadhun"] = {
 							["Details"] = {
-								["Corruption (DoT)"] = {
-									["count"] = 34863,
+								["Melee"] = {
+									["count"] = 8976,
 								},
-								["Gutripper"] = {
-									["count"] = 8153,
-								},
-								["Agony (DoT)"] = {
-									["count"] = 52909,
-								},
-								["Drain Life (DoT)"] = {
-									["count"] = 6687,
-								},
-								["Deathbolt"] = {
-									["count"] = 24306,
-								},
-								["Siphon Life (DoT)"] = {
-									["count"] = 26137,
-								},
-								["Haunt"] = {
-									["count"] = 10819,
-								},
-								["Phantom Singularity (DoT)"] = {
-									["count"] = 30889,
-								},
-								["Unstable Affliction (DoT)"] = {
-									["count"] = 40204,
-								},
-								["Suffocating Squall (DoT)"] = {
-									["count"] = 3028,
+								["Shadow Bite"] = {
+									["count"] = 11840,
 								},
 							},
-							["amount"] = 237995,
+							["amount"] = 20816,
 						},
 						["Helgrave"] = {
 							["Details"] = {
@@ -14301,30 +11971,10886 @@ RecountPerCharDB = {
 							["amount"] = 21501,
 						},
 					},
-					["Overhealing"] = 70928,
-					["DamageTaken"] = 590850,
 					["Absorbed"] = {
 						["Darkness"] = {
 							["Details"] = {
 								["Twiddlederr"] = {
 									["max"] = 10710,
 									["min"] = 231,
-									["count"] = 14,
-									["amount"] = 29511,
+									["count"] = 19,
+									["amount"] = 35481,
 								},
 							},
-							["count"] = 14,
-							["amount"] = 29511,
+							["count"] = 19,
+							["amount"] = 35481,
 						},
 					},
+					["TimeHealing"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Consume Soul"] = {
+									["count"] = 0.32,
+								},
+								["Darkness"] = {
+									["count"] = 11.82,
+								},
+								["Leech"] = {
+									["count"] = 67.85,
+								},
+							},
+							["amount"] = 79.99,
+						},
+					},
+					["OverHeals"] = {
+						["Leech"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 9647,
+									["min"] = 1679,
+									["count"] = 4,
+									["amount"] = 25638,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 25638,
+						},
+						["Consume Soul"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 23408,
+									["min"] = 21882,
+									["count"] = 2,
+									["amount"] = 45290,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 45290,
+						},
+					},
+					["PartialResist"] = {
+						["Charge"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 8,
+						},
+						["Slam"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Whirlwind"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 9,
+						},
+						["Agony (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 84,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 84,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Haunt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Phantom Singularity (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 28,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 28,
+						},
+						["Eye Beam"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 8,
+						},
+						["Warbreaker"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 5,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Bloody Bile"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Bladestorm"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 10,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 10,
+						},
+						["Claw"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Deathbolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 5,
+						},
+						["Volatile Blood Explosion"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Consuming Shadows"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 27,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 27,
+						},
+						["Rampage"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 19,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 19,
+						},
+						["Shadow Bite"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 8,
+						},
+						["Laser Matrix"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Reckless Flurry"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 28,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 28,
+						},
+						["Siegebreaker"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Bladestorm Off-Hand"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 5,
+						},
+						["Shoot"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Bloodthirst"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 7,
+						},
+						["Execute"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Holy Fire (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 8,
+						},
+						["Whirlwind Off-Hand"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Raging Blow"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 16,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 16,
+						},
+						["Unstable Affliction (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 25,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 25,
+						},
+						["Drain Life (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Fathom Fall"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 18,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 18,
+						},
+						["Holy Fire"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 117,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 117,
+						},
+						["Storm Bolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Hamstring"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Execute Off-Hand"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Gutripper"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 10,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 10,
+						},
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Overpower"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Deep Wounds (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 23,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 23,
+						},
+						["Throw Glaive"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Siphon Life (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 23,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 23,
+						},
+						["Heroic Leap"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 80,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 80,
+						},
+						["Fel Rush"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Suffocating Squall (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Charge"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+						["Slam"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Whirlwind"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+						["Agony (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 82,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 994,
+									["min"] = 663,
+									["count"] = 2,
+									["amount"] = 1657,
+								},
+							},
+							["count"] = 84,
+							["amount"] = 1657,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 10710,
+									["min"] = 10710,
+									["count"] = 1,
+									["amount"] = 10710,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 10710,
+						},
+						["Haunt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Phantom Singularity (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 23,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 1199,
+									["min"] = 1142,
+									["count"] = 5,
+									["amount"] = 5775,
+								},
+							},
+							["count"] = 28,
+							["amount"] = 5775,
+						},
+						["Eye Beam"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+						["Warbreaker"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Bloody Bile"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Bladestorm"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 10,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 0,
+						},
+						["Claw"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Deathbolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+						["Volatile Blood Explosion"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Consuming Shadows"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 26,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 231,
+									["min"] = 231,
+									["count"] = 1,
+									["amount"] = 231,
+								},
+							},
+							["count"] = 27,
+							["amount"] = 231,
+						},
+						["Rampage"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 19,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 19,
+							["amount"] = 0,
+						},
+						["Shadow Bite"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+						["Laser Matrix"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Reckless Flurry"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 28,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 28,
+							["amount"] = 0,
+						},
+						["Siegebreaker"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Bladestorm Off-Hand"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 1708,
+									["min"] = 1411,
+									["count"] = 2,
+									["amount"] = 3119,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 3119,
+						},
+						["Shoot"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Bloodthirst"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 0,
+						},
+						["Execute"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Holy Fire (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+						["Whirlwind Off-Hand"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Raging Blow"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 16,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 16,
+							["amount"] = 0,
+						},
+						["Unstable Affliction (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 25,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 25,
+							["amount"] = 0,
+						},
+						["Drain Life (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Fathom Fall"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 18,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 18,
+							["amount"] = 0,
+						},
+						["Holy Fire"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 115,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 4028,
+									["min"] = 691,
+									["count"] = 2,
+									["amount"] = 4719,
+								},
+							},
+							["count"] = 117,
+							["amount"] = 4719,
+						},
+						["Storm Bolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Hamstring"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Execute Off-Hand"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Gutripper"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 963,
+									["min"] = 963,
+									["count"] = 1,
+									["amount"] = 963,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 963,
+						},
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Overpower"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Deep Wounds (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 20,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 2229,
+									["min"] = 1910,
+									["count"] = 3,
+									["amount"] = 6161,
+								},
+							},
+							["count"] = 23,
+							["amount"] = 6161,
+						},
+						["Throw Glaive"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Siphon Life (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 22,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 763,
+									["min"] = 763,
+									["count"] = 1,
+									["amount"] = 763,
+								},
+							},
+							["count"] = 23,
+							["amount"] = 763,
+						},
+						["Heroic Leap"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 79,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 689,
+									["min"] = 689,
+									["count"] = 1,
+									["amount"] = 689,
+								},
+							},
+							["count"] = 80,
+							["amount"] = 689,
+						},
+						["Fel Rush"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Suffocating Squall (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 374.07,
+					["InterruptData"] = {
+						["Badaboop-BleedingHollow"] = {
+							["Details"] = {
+								["Haunt (Disrupt)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["FDamagedWho"] = {
+						["Frenzied Reef Shark <Twiddlederr>"] = {
+							["Details"] = {
+								["Shark Jab"] = {
+									["count"] = 212479,
+								},
+								["Eye Gouge"] = {
+									["count"] = 79852,
+								},
+							},
+							["amount"] = 292331,
+						},
+					},
+					["FuryGainedFrom"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 60,
+								},
+								["Disrupt"] = {
+									["count"] = 15,
+								},
+								["Demon's Bite"] = {
+									["count"] = 189,
+								},
+								["Immolation Aura"] = {
+									["count"] = 819,
+								},
+							},
+							["amount"] = 1083,
+						},
+					},
+					["FDamage"] = 292331,
+					["WhoHealed"] = {
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Consume Soul"] = {
+									["count"] = 1526,
+								},
+								["Darkness"] = {
+									["count"] = 35481,
+								},
+								["Leech"] = {
+									["count"] = 120271,
+								},
+							},
+							["amount"] = 157278,
+						},
+					},
+					["DamagedWho"] = {
+						["Prickly Puffer"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 726777,
+								},
+								["Fel Barrage"] = {
+									["count"] = 170314,
+								},
+							},
+							["amount"] = 897091,
+						},
+						["Jungle Grub"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 62288,
+								},
+							},
+							["amount"] = 62288,
+						},
+						["Thaenatosx-BleedingHollow"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 838,
+								},
+								["Metamorphosis"] = {
+									["count"] = 2074,
+								},
+								["Throw Glaive"] = {
+									["count"] = 5059,
+								},
+								["Fel Rush"] = {
+									["count"] = 1529,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 946,
+								},
+								["Melee"] = {
+									["count"] = 12168,
+								},
+							},
+							["amount"] = 22614,
+						},
+						["Carp Hunter"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 89027,
+								},
+							},
+							["amount"] = 89027,
+						},
+						["Turqleton-Area52"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 1570,
+								},
+								["Melee"] = {
+									["count"] = 28149,
+								},
+								["Fel Rush"] = {
+									["count"] = 3258,
+								},
+								["Chaos Nova"] = {
+									["count"] = 3796,
+								},
+								["Fel Eruption"] = {
+									["count"] = 7639,
+								},
+								["Annihilation"] = {
+									["count"] = 21348,
+								},
+								["Metamorphosis"] = {
+									["count"] = 2690,
+								},
+								["Throw Glaive"] = {
+									["count"] = 5377,
+								},
+								["Eye Beam"] = {
+									["count"] = 17189,
+								},
+								["Chaos Strike"] = {
+									["count"] = 4807,
+								},
+								["Fel Barrage"] = {
+									["count"] = 34996,
+								},
+								["Death Sweep"] = {
+									["count"] = 19927,
+								},
+								["Immolation Aura"] = {
+									["count"] = 13969,
+								},
+							},
+							["amount"] = 164715,
+						},
+						["Landroz-BleedingHollow"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 2206,
+								},
+								["Fel Barrage"] = {
+									["count"] = 9587,
+								},
+							},
+							["amount"] = 11793,
+						},
+						["Viseclaw Fisher"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 439273,
+								},
+								["Melee"] = {
+									["count"] = 99965,
+								},
+								["Fel Barrage"] = {
+									["count"] = 151157,
+								},
+							},
+							["amount"] = 690395,
+						},
+						["Gzaadhun"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 95,
+								},
+								["Melee"] = {
+									["count"] = 10392,
+								},
+								["Death Sweep"] = {
+									["count"] = 1202,
+								},
+								["Throw Glaive"] = {
+									["count"] = 653,
+								},
+								["Fel Barrage"] = {
+									["count"] = 5514,
+								},
+								["Demon's Bite"] = {
+									["count"] = 9251,
+								},
+							},
+							["amount"] = 27107,
+						},
+						["Helgrave"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 59,
+								},
+								["Metamorphosis"] = {
+									["count"] = 519,
+								},
+								["Throw Glaive"] = {
+									["count"] = 326,
+								},
+								["Fel Rush"] = {
+									["count"] = 876,
+								},
+								["Fel Barrage"] = {
+									["count"] = 4030,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 3316,
+								},
+								["Immolation Aura"] = {
+									["count"] = 606,
+								},
+							},
+							["amount"] = 9732,
+						},
+						["Riverblade Thief"] = {
+							["Details"] = {
+								["Fel Barrage"] = {
+									["count"] = 170313,
+								},
+								["Fel Rush"] = {
+									["count"] = 179100,
+								},
+							},
+							["amount"] = 349413,
+						},
+						["Shore Crab"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 811912,
+								},
+							},
+							["amount"] = 811912,
+						},
+						["Spiny Terrapin"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 166965,
+								},
+							},
+							["amount"] = 166965,
+						},
+						["Riverblade Chieftain"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 86079,
+								},
+								["Immolation Aura"] = {
+									["count"] = 57307,
+								},
+							},
+							["amount"] = 143386,
+						},
+						["Snapclaw"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 105739,
+								},
+								["Throw Glaive"] = {
+									["count"] = 204168,
+								},
+								["Fel Rush"] = {
+									["count"] = 71632,
+								},
+							},
+							["amount"] = 381539,
+						},
+						["Lazerz-Eonar"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 1504,
+								},
+							},
+							["amount"] = 1504,
+						},
+						["Riverblade Pathstalker"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 78646,
+								},
+							},
+							["amount"] = 78646,
+						},
+						["Krasari Huntress"] = {
+							["Details"] = {
+								["Eye Beam"] = {
+									["count"] = 56810,
+								},
+							},
+							["amount"] = 56810,
+						},
+						["Viseclaw Scuttler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 307245,
+								},
+								["Throw Glaive"] = {
+									["count"] = 533429,
+								},
+								["Fel Barrage"] = {
+									["count"] = 77108,
+								},
+								["Fel Rush"] = {
+									["count"] = 169640,
+								},
+							},
+							["amount"] = 1087422,
+						},
+						["Armored Carp"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 1673665,
+								},
+								["Fel Rush"] = {
+									["count"] = 178579,
+								},
+							},
+							["amount"] = 1852244,
+						},
+						["Flesh-Eating Sandsnapper"] = {
+							["Details"] = {
+								["Fel Barrage"] = {
+									["count"] = 74048,
+								},
+							},
+							["amount"] = 74048,
+						},
+						["Viseclaw Fry"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 420416,
+								},
+								["Throw Glaive"] = {
+									["count"] = 256721,
+								},
+								["Immolation Aura"] = {
+									["count"] = 77200,
+								},
+							},
+							["amount"] = 754337,
+						},
+						["Parren-BleedingHollow"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 1024,
+								},
+								["Melee"] = {
+									["count"] = 23397,
+								},
+								["Fel Rush"] = {
+									["count"] = 4588,
+								},
+								["Death Sweep"] = {
+									["count"] = 20323,
+								},
+								["Fel Barrage"] = {
+									["count"] = 13993,
+								},
+								["Eye Beam"] = {
+									["count"] = 12782,
+								},
+								["Annihilation"] = {
+									["count"] = 30195,
+								},
+								["Metamorphosis"] = {
+									["count"] = 2649,
+								},
+								["Throw Glaive"] = {
+									["count"] = 2294,
+								},
+								["Fel Eruption"] = {
+									["count"] = 4079,
+								},
+								["Chaos Nova"] = {
+									["count"] = 1331,
+								},
+								["Demon's Bite"] = {
+									["count"] = 3986,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 466,
+								},
+								["Immolation Aura"] = {
+									["count"] = 12928,
+								},
+							},
+							["amount"] = 134035,
+						},
+						["Badaboop-BleedingHollow"] = {
+							["Details"] = {
+								["Annihilation"] = {
+									["count"] = 6896,
+								},
+								["Metamorphosis"] = {
+									["count"] = 2916,
+								},
+								["Throw Glaive"] = {
+									["count"] = 2075,
+								},
+								["Death Sweep"] = {
+									["count"] = 13245,
+								},
+								["Melee"] = {
+									["count"] = 12636,
+								},
+								["Demon's Bite"] = {
+									["count"] = 2816,
+								},
+							},
+							["amount"] = 40584,
+						},
+						["Sting Ray"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 177909,
+								},
+								["Melee"] = {
+									["count"] = 285443,
+								},
+							},
+							["amount"] = 463352,
+						},
+						["Protektor-BleedingHollow"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 1614,
+								},
+							},
+							["amount"] = 1614,
+						},
+						["Wandering Sea Hatchlet"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 169717,
+								},
+							},
+							["amount"] = 169717,
+						},
+						["Greenscale Cranefish"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 143264,
+								},
+							},
+							["amount"] = 143264,
+						},
+						["Elder Viseclaw"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 169815,
+								},
+								["Fel Rush"] = {
+									["count"] = 166963,
+								},
+							},
+							["amount"] = 336778,
+						},
+						["Bluetip Reef Shark"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 168824,
+								},
+							},
+							["amount"] = 168824,
+						},
+						["Thunder Cleft Brave"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 3033,
+								},
+								["Fel Rush"] = {
+									["count"] = 1635,
+								},
+								["Melee"] = {
+									["count"] = 5758,
+								},
+								["Fel Barrage"] = {
+									["count"] = 59209,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 3870,
+								},
+								["Demon's Bite"] = {
+									["count"] = 6825,
+								},
+							},
+							["amount"] = 80330,
+						},
+						["Riverblade Raider"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 24476,
+								},
+								["Throw Glaive"] = {
+									["count"] = 1136667,
+								},
+								["Fel Rush"] = {
+									["count"] = 303676,
+								},
+								["Melee"] = {
+									["count"] = 611206,
+								},
+								["Fel Barrage"] = {
+									["count"] = 350056,
+								},
+								["Immolation Aura"] = {
+									["count"] = 57644,
+								},
+							},
+							["amount"] = 2483725,
+						},
+						["Cave Crawler"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 267842,
+								},
+							},
+							["amount"] = 267842,
+						},
+						["Narjon the Gulper"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 152952,
+								},
+							},
+							["amount"] = 152952,
+						},
+						["Redscale Cranefish"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 89027,
+								},
+							},
+							["amount"] = 89027,
+						},
+						["Fallstrider"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 84907,
+								},
+							},
+							["amount"] = 84907,
+						},
+					},
+					["Healing"] = 121797,
+					["Heals"] = {
+						["Consume Soul"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1526,
+									["min"] = 1526,
+									["count"] = 1,
+									["amount"] = 1526,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 1526,
+						},
+						["Darkness"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 10710,
+									["min"] = 231,
+									["count"] = 19,
+									["amount"] = 35481,
+								},
+							},
+							["count"] = 19,
+							["amount"] = 35481,
+						},
+						["Leech"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 22673,
+									["min"] = 35,
+									["count"] = 53,
+									["amount"] = 120271,
+								},
+							},
+							["count"] = 53,
+							["amount"] = 120271,
+						},
+					},
+					["DamageTaken"] = 1024129,
+					["Attacks"] = {
+						["Vengeful Retreat"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 838,
+									["min"] = 59,
+									["count"] = 3,
+									["amount"] = 992,
+								},
+								["Hit"] = {
+									["max"] = 24476,
+									["min"] = 504,
+									["count"] = 6,
+									["amount"] = 27070,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 28062,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 2452,
+									["min"] = 53,
+									["count"] = 17,
+									["amount"] = 25629,
+								},
+								["Hit"] = {
+									["max"] = 115453,
+									["min"] = 690,
+									["count"] = 50,
+									["amount"] = 874998,
+								},
+								["Miss"] = {
+									["count"] = 13,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 227199,
+									["min"] = 936,
+									["count"] = 10,
+									["amount"] = 601471,
+								},
+								["Parry"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 92,
+							["amount"] = 1502098,
+						},
+						["Fel Rush"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 1529,
+									["min"] = 381,
+									["count"] = 3,
+									["amount"] = 2405,
+								},
+								["Crit"] = {
+									["max"] = 294916,
+									["min"] = 3258,
+									["count"] = 3,
+									["amount"] = 459401,
+								},
+								["Hit"] = {
+									["max"] = 143264,
+									["min"] = 1320,
+									["count"] = 34,
+									["amount"] = 2671915,
+								},
+							},
+							["count"] = 40,
+							["amount"] = 3133721,
+						},
+						["Death Sweep"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 2212,
+									["min"] = 184,
+									["count"] = 7,
+									["amount"] = 6102,
+								},
+								["Crit"] = {
+									["max"] = 7988,
+									["min"] = 2650,
+									["count"] = 2,
+									["amount"] = 10638,
+								},
+								["Hit"] = {
+									["max"] = 6610,
+									["min"] = 1167,
+									["count"] = 16,
+									["amount"] = 37957,
+								},
+							},
+							["count"] = 25,
+							["amount"] = 54697,
+						},
+						["Eye Beam"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 56810,
+									["min"] = 1146,
+									["count"] = 22,
+									["amount"] = 86781,
+								},
+							},
+							["count"] = 22,
+							["amount"] = 86781,
+						},
+						["Fel Barrage"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 715,
+									["min"] = 71,
+									["count"] = 20,
+									["amount"] = 9544,
+								},
+								["Crit"] = {
+									["max"] = 171314,
+									["min"] = 2801,
+									["count"] = 16,
+									["amount"] = 551595,
+								},
+								["Hit"] = {
+									["max"] = 77108,
+									["min"] = 1489,
+									["count"] = 51,
+									["amount"] = 559186,
+								},
+							},
+							["count"] = 87,
+							["amount"] = 1120325,
+						},
+						["Chaos Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2625,
+									["min"] = 2625,
+									["count"] = 1,
+									["amount"] = 2625,
+								},
+								["Hit"] = {
+									["max"] = 2182,
+									["min"] = 2182,
+									["count"] = 1,
+									["amount"] = 2182,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 4807,
+						},
+						["Annihilation"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 727,
+									["min"] = 727,
+									["count"] = 1,
+									["amount"] = 727,
+								},
+								["Crit"] = {
+									["max"] = 4840,
+									["min"] = 4660,
+									["count"] = 2,
+									["amount"] = 9500,
+								},
+								["Hit"] = {
+									["max"] = 4065,
+									["min"] = 2347,
+									["count"] = 14,
+									["amount"] = 48212,
+								},
+							},
+							["count"] = 17,
+							["amount"] = 58439,
+						},
+						["Metamorphosis"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 2916,
+									["min"] = 519,
+									["count"] = 3,
+									["amount"] = 5509,
+								},
+								["Hit"] = {
+									["max"] = 2690,
+									["min"] = 2649,
+									["count"] = 2,
+									["amount"] = 5339,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 10848,
+						},
+						["Throw Glaive"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 2075,
+									["min"] = 159,
+									["count"] = 8,
+									["amount"] = 8563,
+								},
+								["Crit"] = {
+									["max"] = 207243,
+									["min"] = 2210,
+									["count"] = 15,
+									["amount"] = 2524079,
+								},
+								["Hit"] = {
+									["max"] = 107509,
+									["min"] = 952,
+									["count"] = 50,
+									["amount"] = 3549544,
+								},
+							},
+							["count"] = 73,
+							["amount"] = 6082186,
+						},
+						["Fel Eruption"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 3635,
+									["min"] = 3635,
+									["count"] = 1,
+									["amount"] = 3635,
+								},
+								["Hit"] = {
+									["max"] = 2386,
+									["min"] = 1693,
+									["count"] = 4,
+									["amount"] = 8083,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 11718,
+						},
+						["Chaos Nova"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2031,
+									["min"] = 1331,
+									["count"] = 3,
+									["amount"] = 5127,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 5127,
+						},
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 2816,
+									["min"] = 860,
+									["count"] = 5,
+									["amount"] = 9656,
+								},
+								["Crit"] = {
+									["max"] = 1215,
+									["min"] = 1215,
+									["count"] = 1,
+									["amount"] = 1215,
+								},
+								["Hit"] = {
+									["max"] = 2275,
+									["min"] = 1196,
+									["count"] = 6,
+									["amount"] = 12007,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 22878,
+						},
+						["Kul Tiran Cannonball Runner"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 947,
+									["min"] = 476,
+									["count"] = 5,
+									["amount"] = 4262,
+								},
+								["Hit"] = {
+									["max"] = 971,
+									["min"] = 466,
+									["count"] = 5,
+									["amount"] = 4336,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 8598,
+						},
+						["Immolation Aura"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 348,
+									["min"] = 129,
+									["count"] = 3,
+									["amount"] = 606,
+								},
+								["Crit"] = {
+									["max"] = 57307,
+									["min"] = 638,
+									["count"] = 7,
+									["amount"] = 62505,
+								},
+								["Hit"] = {
+									["max"] = 77200,
+									["min"] = 424,
+									["count"] = 34,
+									["amount"] = 156543,
+								},
+							},
+							["count"] = 44,
+							["amount"] = 219654,
+						},
+					},
+					["HealingTaken"] = 157278,
+					["ElementTakenAbsorb"] = {
+						["Physical"] = 20953,
+						["Melee"] = 4719,
+						["Shadow"] = 9115,
+					},
+					["TimeDamage"] = 294.08,
+					["TimeDamaging"] = {
+						["Prickly Puffer"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 3.29,
+								},
+								["Fel Barrage"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 4.79,
+						},
+						["Thaenatosx-BleedingHollow"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0.41,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0.28,
+								},
+								["Throw Glaive"] = {
+									["count"] = 3.19,
+								},
+								["Fel Rush"] = {
+									["count"] = 1.5,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 0.74,
+								},
+								["Melee"] = {
+									["count"] = 6.56,
+								},
+							},
+							["amount"] = 12.68,
+						},
+						["Carp Hunter"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0.59,
+								},
+							},
+							["amount"] = 0.59,
+						},
+						["Turqleton-Area52"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 1.81,
+								},
+								["Melee"] = {
+									["count"] = 13.07,
+								},
+								["Fel Rush"] = {
+									["count"] = 0.12,
+								},
+								["Chaos Nova"] = {
+									["count"] = 1.6,
+								},
+								["Fel Eruption"] = {
+									["count"] = 2.49,
+								},
+								["Annihilation"] = {
+									["count"] = 1.56,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0.68,
+								},
+								["Throw Glaive"] = {
+									["count"] = 3.14,
+								},
+								["Eye Beam"] = {
+									["count"] = 1.23,
+								},
+								["Chaos Strike"] = {
+									["count"] = 0.64,
+								},
+								["Fel Barrage"] = {
+									["count"] = 4.13,
+								},
+								["Death Sweep"] = {
+									["count"] = 2.25,
+								},
+								["Immolation Aura"] = {
+									["count"] = 12.74,
+								},
+							},
+							["amount"] = 45.46,
+						},
+						["Landroz-BleedingHollow"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 1.5,
+								},
+								["Fel Barrage"] = {
+									["count"] = 2.17,
+								},
+							},
+							["amount"] = 3.67,
+						},
+						["Viseclaw Fisher"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 4.67,
+								},
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+								["Fel Barrage"] = {
+									["count"] = 1.46,
+								},
+							},
+							["amount"] = 7.63,
+						},
+						["Frenzied Reef Shark <Twiddlederr>"] = {
+							["Details"] = {
+								["Shark Jab"] = {
+									["count"] = 33.93,
+								},
+								["Eye Gouge"] = {
+									["count"] = 3.24,
+								},
+							},
+							["amount"] = 37.17,
+						},
+						["Helgrave"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0.26,
+								},
+								["Fel Rush"] = {
+									["count"] = 1.5,
+								},
+								["Fel Barrage"] = {
+									["count"] = 2.95,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 2.52,
+								},
+								["Immolation Aura"] = {
+									["count"] = 2.85,
+								},
+							},
+							["amount"] = 10.08,
+						},
+						["Riverblade Thief"] = {
+							["Details"] = {
+								["Fel Barrage"] = {
+									["count"] = 1.5,
+								},
+								["Fel Rush"] = {
+									["count"] = 1.74,
+								},
+							},
+							["amount"] = 3.24,
+						},
+						["Shore Crab"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 7.5,
+								},
+							},
+							["amount"] = 7.5,
+						},
+						["Spiny Terrapin"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Riverblade Chieftain"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 1.5,
+								},
+								["Immolation Aura"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Greenscale Cranefish"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Lazerz-Eonar"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0.85,
+								},
+							},
+							["amount"] = 0.85,
+						},
+						["Riverblade Pathstalker"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Krasari Huntress"] = {
+							["Details"] = {
+								["Eye Beam"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Viseclaw Scuttler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 4.43,
+								},
+								["Throw Glaive"] = {
+									["count"] = 4.73,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0.42,
+								},
+							},
+							["amount"] = 9.58,
+						},
+						["Armored Carp"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 8.47,
+								},
+								["Fel Rush"] = {
+									["count"] = 2.33,
+								},
+							},
+							["amount"] = 10.8,
+						},
+						["Flesh-Eating Sandsnapper"] = {
+							["Details"] = {
+								["Fel Barrage"] = {
+									["count"] = 1.31,
+								},
+							},
+							["amount"] = 1.31,
+						},
+						["Viseclaw Fry"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 4.1,
+								},
+								["Throw Glaive"] = {
+									["count"] = 1.64,
+								},
+								["Immolation Aura"] = {
+									["count"] = 0.45,
+								},
+							},
+							["amount"] = 6.19,
+						},
+						["Riverblade Raider"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 1.5,
+								},
+								["Throw Glaive"] = {
+									["count"] = 13.07,
+								},
+								["Fel Rush"] = {
+									["count"] = 4.04,
+								},
+								["Melee"] = {
+									["count"] = 4.62,
+								},
+								["Fel Barrage"] = {
+									["count"] = 2.47,
+								},
+								["Immolation Aura"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 28.7,
+						},
+						["Badaboop-BleedingHollow"] = {
+							["Details"] = {
+								["Annihilation"] = {
+									["count"] = 1.01,
+								},
+								["Metamorphosis"] = {
+									["count"] = 1.5,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0.3,
+								},
+								["Death Sweep"] = {
+									["count"] = 1.42,
+								},
+								["Melee"] = {
+									["count"] = 2.25,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0.93,
+								},
+							},
+							["amount"] = 7.41,
+						},
+						["Sting Ray"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 4.5,
+								},
+								["Melee"] = {
+									["count"] = 4.5,
+								},
+							},
+							["amount"] = 9,
+						},
+						["Protektor-BleedingHollow"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0.28,
+								},
+							},
+							["amount"] = 0.28,
+						},
+						["Wandering Sea Hatchlet"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0.37,
+								},
+							},
+							["amount"] = 0.37,
+						},
+						["Snapclaw"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 3,
+								},
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 4.5,
+						},
+						["Elder Viseclaw"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 1.5,
+								},
+								["Fel Rush"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 4.5,
+						},
+						["Bluetip Reef Shark"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Thunder Cleft Brave"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 2.77,
+								},
+								["Melee"] = {
+									["count"] = 0.82,
+								},
+								["Fel Barrage"] = {
+									["count"] = 4.41,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 2.71,
+								},
+								["Demon's Bite"] = {
+									["count"] = 2.69,
+								},
+							},
+							["amount"] = 13.4,
+						},
+						["Cave Crawler"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Gzaadhun"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0.11,
+								},
+								["Melee"] = {
+									["count"] = 6.82,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0.16,
+								},
+								["Fel Barrage"] = {
+									["count"] = 3.52,
+								},
+								["Demon's Bite"] = {
+									["count"] = 2.39,
+								},
+							},
+							["amount"] = 13,
+						},
+						["Narjon the Gulper"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Parren-BleedingHollow"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 1.93,
+								},
+								["Melee"] = {
+									["count"] = 8.34,
+								},
+								["Fel Rush"] = {
+									["count"] = 1.65,
+								},
+								["Death Sweep"] = {
+									["count"] = 3.29,
+								},
+								["Fel Barrage"] = {
+									["count"] = 2.36,
+								},
+								["Eye Beam"] = {
+									["count"] = 1.52,
+								},
+								["Annihilation"] = {
+									["count"] = 2.56,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0.92,
+								},
+								["Throw Glaive"] = {
+									["count"] = 2.14,
+								},
+								["Fel Eruption"] = {
+									["count"] = 1.05,
+								},
+								["Chaos Nova"] = {
+									["count"] = 1.5,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0.67,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 0.82,
+								},
+								["Immolation Aura"] = {
+									["count"] = 5.66,
+								},
+							},
+							["amount"] = 34.41,
+						},
+						["Fallstrider"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0.47,
+								},
+							},
+							["amount"] = 0.47,
+						},
+					},
+					["TimeSpent"] = {
+						["Prickly Puffer"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 3.29,
+								},
+								["Fel Barrage"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 4.79,
+						},
+						["Thaenatosx-BleedingHollow"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0.41,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0.28,
+								},
+								["Throw Glaive"] = {
+									["count"] = 3.19,
+								},
+								["Fel Rush"] = {
+									["count"] = 1.5,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 0.74,
+								},
+								["Melee"] = {
+									["count"] = 6.56,
+								},
+							},
+							["amount"] = 12.68,
+						},
+						["Carp Hunter"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0.59,
+								},
+							},
+							["amount"] = 0.59,
+						},
+						["Turqleton-Area52"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 1.81,
+								},
+								["Melee"] = {
+									["count"] = 13.07,
+								},
+								["Fel Rush"] = {
+									["count"] = 0.12,
+								},
+								["Chaos Nova"] = {
+									["count"] = 1.6,
+								},
+								["Fel Eruption"] = {
+									["count"] = 2.49,
+								},
+								["Annihilation"] = {
+									["count"] = 1.56,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0.68,
+								},
+								["Throw Glaive"] = {
+									["count"] = 3.14,
+								},
+								["Eye Beam"] = {
+									["count"] = 1.23,
+								},
+								["Chaos Strike"] = {
+									["count"] = 0.64,
+								},
+								["Fel Barrage"] = {
+									["count"] = 4.13,
+								},
+								["Death Sweep"] = {
+									["count"] = 2.25,
+								},
+								["Immolation Aura"] = {
+									["count"] = 12.74,
+								},
+							},
+							["amount"] = 45.46,
+						},
+						["Landroz-BleedingHollow"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 1.5,
+								},
+								["Fel Barrage"] = {
+									["count"] = 2.17,
+								},
+							},
+							["amount"] = 3.67,
+						},
+						["Viseclaw Fisher"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 4.67,
+								},
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+								["Fel Barrage"] = {
+									["count"] = 1.46,
+								},
+							},
+							["amount"] = 7.63,
+						},
+						["Frenzied Reef Shark <Twiddlederr>"] = {
+							["Details"] = {
+								["Shark Jab"] = {
+									["count"] = 33.93,
+								},
+								["Eye Gouge"] = {
+									["count"] = 3.24,
+								},
+							},
+							["amount"] = 37.17,
+						},
+						["Helgrave"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0.26,
+								},
+								["Fel Rush"] = {
+									["count"] = 1.5,
+								},
+								["Fel Barrage"] = {
+									["count"] = 2.95,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 2.52,
+								},
+								["Immolation Aura"] = {
+									["count"] = 2.85,
+								},
+							},
+							["amount"] = 10.08,
+						},
+						["Riverblade Thief"] = {
+							["Details"] = {
+								["Fel Barrage"] = {
+									["count"] = 1.5,
+								},
+								["Fel Rush"] = {
+									["count"] = 1.74,
+								},
+							},
+							["amount"] = 3.24,
+						},
+						["Shore Crab"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 7.5,
+								},
+							},
+							["amount"] = 7.5,
+						},
+						["Spiny Terrapin"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Riverblade Chieftain"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 1.5,
+								},
+								["Immolation Aura"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Greenscale Cranefish"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Lazerz-Eonar"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 0.85,
+								},
+							},
+							["amount"] = 0.85,
+						},
+						["Riverblade Pathstalker"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Krasari Huntress"] = {
+							["Details"] = {
+								["Eye Beam"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Viseclaw Scuttler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 4.43,
+								},
+								["Throw Glaive"] = {
+									["count"] = 4.73,
+								},
+								["Fel Barrage"] = {
+									["count"] = 0.42,
+								},
+							},
+							["amount"] = 9.58,
+						},
+						["Elder Viseclaw"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 1.5,
+								},
+								["Fel Rush"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 4.5,
+						},
+						["Flesh-Eating Sandsnapper"] = {
+							["Details"] = {
+								["Fel Barrage"] = {
+									["count"] = 1.31,
+								},
+							},
+							["amount"] = 1.31,
+						},
+						["Viseclaw Fry"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 4.1,
+								},
+								["Throw Glaive"] = {
+									["count"] = 1.64,
+								},
+								["Immolation Aura"] = {
+									["count"] = 0.45,
+								},
+							},
+							["amount"] = 6.19,
+						},
+						["Twiddlederr"] = {
+							["Details"] = {
+								["Consume Soul"] = {
+									["count"] = 0.32,
+								},
+								["Darkness"] = {
+									["count"] = 11.82,
+								},
+								["Leech"] = {
+									["count"] = 67.85,
+								},
+							},
+							["amount"] = 79.99,
+						},
+						["Riverblade Raider"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 1.5,
+								},
+								["Throw Glaive"] = {
+									["count"] = 13.07,
+								},
+								["Fel Rush"] = {
+									["count"] = 4.04,
+								},
+								["Melee"] = {
+									["count"] = 4.62,
+								},
+								["Fel Barrage"] = {
+									["count"] = 2.47,
+								},
+								["Immolation Aura"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 28.7,
+						},
+						["Badaboop-BleedingHollow"] = {
+							["Details"] = {
+								["Annihilation"] = {
+									["count"] = 1.01,
+								},
+								["Metamorphosis"] = {
+									["count"] = 1.5,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0.3,
+								},
+								["Death Sweep"] = {
+									["count"] = 1.42,
+								},
+								["Melee"] = {
+									["count"] = 2.25,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0.93,
+								},
+							},
+							["amount"] = 7.41,
+						},
+						["Sting Ray"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 4.5,
+								},
+								["Melee"] = {
+									["count"] = 4.5,
+								},
+							},
+							["amount"] = 9,
+						},
+						["Protektor-BleedingHollow"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0.28,
+								},
+							},
+							["amount"] = 0.28,
+						},
+						["Wandering Sea Hatchlet"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0.37,
+								},
+							},
+							["amount"] = 0.37,
+						},
+						["Snapclaw"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 3,
+								},
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 4.5,
+						},
+						["Armored Carp"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 8.47,
+								},
+								["Fel Rush"] = {
+									["count"] = 2.33,
+								},
+							},
+							["amount"] = 10.8,
+						},
+						["Bluetip Reef Shark"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Thunder Cleft Brave"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 2.77,
+								},
+								["Melee"] = {
+									["count"] = 0.82,
+								},
+								["Fel Barrage"] = {
+									["count"] = 4.41,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 2.71,
+								},
+								["Demon's Bite"] = {
+									["count"] = 2.69,
+								},
+							},
+							["amount"] = 13.4,
+						},
+						["Cave Crawler"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Gzaadhun"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 0.11,
+								},
+								["Melee"] = {
+									["count"] = 6.82,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0.16,
+								},
+								["Fel Barrage"] = {
+									["count"] = 3.52,
+								},
+								["Demon's Bite"] = {
+									["count"] = 2.39,
+								},
+							},
+							["amount"] = 13,
+						},
+						["Narjon the Gulper"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Parren-BleedingHollow"] = {
+							["Details"] = {
+								["Vengeful Retreat"] = {
+									["count"] = 1.93,
+								},
+								["Melee"] = {
+									["count"] = 8.34,
+								},
+								["Fel Rush"] = {
+									["count"] = 1.65,
+								},
+								["Death Sweep"] = {
+									["count"] = 3.29,
+								},
+								["Fel Barrage"] = {
+									["count"] = 2.36,
+								},
+								["Eye Beam"] = {
+									["count"] = 1.52,
+								},
+								["Annihilation"] = {
+									["count"] = 2.56,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0.92,
+								},
+								["Throw Glaive"] = {
+									["count"] = 2.14,
+								},
+								["Fel Eruption"] = {
+									["count"] = 1.05,
+								},
+								["Chaos Nova"] = {
+									["count"] = 1.5,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0.67,
+								},
+								["Kul Tiran Cannonball Runner"] = {
+									["count"] = 0.82,
+								},
+								["Immolation Aura"] = {
+									["count"] = 5.66,
+								},
+							},
+							["amount"] = 34.41,
+						},
+						["Fallstrider"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0.47,
+								},
+							},
+							["amount"] = 0.47,
+						},
+					},
+					["FuryGained"] = {
+						["Chaos Strike"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 60,
+								},
+							},
+							["amount"] = 60,
+						},
+						["Disrupt"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 15,
+						},
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 189,
+								},
+							},
+							["amount"] = 189,
+						},
+						["Immolation Aura"] = {
+							["Details"] = {
+								["Twiddlederr"] = {
+									["count"] = 819,
+								},
+							},
+							["amount"] = 819,
+						},
+					},
+					["Interrupts"] = 1,
 				},
 			},
 			["GUID"] = "Player-3693-09F3D953",
 			["UnitLockout"] = 9518.905,
-			["LastAbility"] = 3831.516,
+			["LastAbility"] = 222.2,
+		},
+		["Galleon"] = {
+			["GUID"] = "Vehicle-0-3783-870-16-62346-0000233075",
+			["TimeLast"] = {
+				["DeathCount"] = 1119.607,
+				["ActiveTime"] = 1118.6,
+				["TimeDamage"] = 1118.6,
+				["OVERALL"] = 1119.607,
+				["DamageTaken"] = 1119.607,
+				["Damage"] = 1118.6,
+			},
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"MISC", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"MISC", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["DeathCount"] = {
+					8, -- [1]
+				},
+				["ActiveTime"] = {
+					36.43, -- [1]
+				},
+				["TimeDamage"] = {
+					36.43, -- [1]
+				},
+				["DamageTaken"] = {
+					16084866, -- [1]
+				},
+				["Damage"] = {
+					4912, -- [1]
+				},
+			},
+			["enClass"] = "MOB",
+			["LastDamageTaken"] = 221729,
+			["level"] = -1,
+			["LastDamageAbility"] = "Bite",
+			["LastFightIn"] = 30,
+			["type"] = "Boss",
+			["FightsSaved"] = 5,
+			["LastActive"] = 1119.607,
+			["Owner"] = false,
+			["LastEventTimes"] = {
+				1108.201, -- [1]
+				1108.201, -- [2]
+				1109.053, -- [3]
+				1111.06, -- [4]
+				1113.117, -- [5]
+				1115.141, -- [6]
+				1118.091, -- [7]
+				1118.091, -- [8]
+				1118.091, -- [9]
+				1118.091, -- [10]
+				1118.091, -- [11]
+				1118.131, -- [12]
+				1118.39, -- [13]
+				1118.912, -- [14]
+				1118.912, -- [15]
+				1119.035, -- [16]
+				1119.205, -- [17]
+				1119.413, -- [18]
+				1119.758, -- [19]
+				1120.156, -- [20]
+				1120.156, -- [21]
+				26705.34, -- [22]
+				26705.34, -- [23]
+				26705.34, -- [24]
+				26705.34, -- [25]
+				26705.34, -- [26]
+				26705.34, -- [27]
+				26705.34, -- [28]
+				26705.34, -- [29]
+				26705.34, -- [30]
+				26705.34, -- [31]
+				26705.34, -- [32]
+				26705.34, -- [33]
+				26705.34, -- [34]
+				26705.34, -- [35]
+				26705.34, -- [36]
+				26705.384, -- [37]
+				26705.384, -- [38]
+				26705.384, -- [39]
+				26705.384, -- [40]
+				26705.384, -- [41]
+				26705.384, -- [42]
+				26705.384, -- [43]
+				26705.494, -- [44]
+				26705.494, -- [45]
+				1101.569, -- [46]
+				1103.019, -- [47]
+				1103.081, -- [48]
+				1103.543, -- [49]
+				1108.201, -- [50]
+			},
+			["NextEventNum"] = 22,
+			["LastDamageTime"] = 1119.205,
+			["LastEvents"] = {
+				"Legendish-Doomhammer Zeal Galleon Hit -18060 (Holy)", -- [1]
+				"Galleon Melee Legendish-Doomhammer Absorb -132 (132 Absorbed) (1)", -- [2]
+				"Galleon Melee Legendish-Doomhammer Absorb -128 (128 Absorbed) (1)", -- [3]
+				"Galleon Melee Legendish-Doomhammer Absorb -119 (119 Absorbed) (1)", -- [4]
+				"Galleon Melee Legendish-Doomhammer Absorb -122 (122 Absorbed) (1)", -- [5]
+				"Galleon Melee Legendish-Doomhammer Absorb -125 (125 Absorbed) (1)", -- [6]
+				"Notamoose-Turalyon Auto Shot Galleon Hit -122541 (Physical)", -- [7]
+				"Bat Bite Galleon Crit -446378 (Physical)", -- [8]
+				"Galleon Melee Bat Hit -88 (Physical)", -- [9]
+				"Notamoose-Turalyon A Murder of Crows Galleon Hit -70815 (Physical)", -- [10]
+				"Notamoose-Turalyon Cobra Shot Galleon Hit -127676 (Physical)", -- [11]
+				"Legendish-Doomhammer Zeal Galleon Hit -18060 (Holy)", -- [12]
+				"Notamoose-Turalyon A Murder of Crows Galleon Hit -71148 (Physical)", -- [13]
+				"Legendish-Doomhammer Judgment Galleon Hit -193772 (Holy)", -- [14]
+				"Legendish-Doomhammer Lawbringer Galleon Hit -5785 (Holy)", -- [15]
+				"Notamoose-Turalyon Auto Shot Galleon Hit -122771 (Physical)", -- [16]
+				"Galleon Melee Legendish-Doomhammer Absorb -122 (122 Absorbed) (1)", -- [17]
+				"Notamoose-Turalyon A Murder of Crows Galleon Crit -142297 (Physical)", -- [18]
+				"Notamoose-Turalyon Chimaera Shot Galleon Hit -197330 (Frost)", -- [19]
+				"Bat Bite Galleon Hit -221729 (Physical)", -- [20]
+				"Galleon dies.", -- [21]
+				"Potatocakes-Azgalor Judgment Galleon Hit -384 (Holy)", -- [22]
+				"Brokingar-Blackhand Raging Blow Galleon Hit -1756 (Physical)", -- [23]
+				"Brokingar-Blackhand Raging Blow Galleon Hit -855 (Physical)", -- [24]
+				"Punybanner-Blackhand Battlefield Focus Galleon Hit -340 (Physical)", -- [25]
+				"Brokingar-Blackhand Voided Sectors Galleon Hit -2389 (Shadow)", -- [26]
+				"Potatocakes-Azgalor Blade of Justice Galleon Hit -356 (Physical)", -- [27]
+				"Ashack-Malfurion Overpower Galleon Crit -5750 (Physical)", -- [28]
+				"Maetherial-Trollbane Blackout Kick Galleon Hit -2379 (Physical)", -- [29]
+				"Ashack-Malfurion Seismic Wave Galleon Hit -765 (Physical)", -- [30]
+				"Potatocakes-Azgalor Zeal Galleon Crit -73 (Holy)", -- [31]
+				"Tanarì-Deathwing Barbed Shot (DoT) Galleon Tick -477 (Physical)", -- [32]
+				"Punybanner-Blackhand Battlefield Focus Galleon Hit -341 (Physical)", -- [33]
+				"Tanarì-Deathwing Auto Shot Galleon Crit -2178 (Physical)", -- [34]
+				"Ashack-Malfurion Deep Wounds (DoT) Galleon Tick -133900 (Physical)", -- [35]
+				"Punybanner-Blackhand Battlefield Focus Galleon Hit -34032 (Physical)", -- [36]
+				"Punybanner-Blackhand Blood Boil Galleon Hit -125355 (Shadow)", -- [37]
+				"Narcoleptic-Dalaran Eviscerate Galleon Crit -976194 (Physical)", -- [38]
+				"Punybanner-Blackhand Wasting Infection (DoT) Galleon Tick -16459 (Shadow)", -- [39]
+				"Punybanner-Blackhand Battlefield Focus Galleon Hit -34032 (Physical)", -- [40]
+				"Gotowe-Skullcrusher Obliterate Galleon Hit -146434 (Physical)", -- [41]
+				"Gotowe-Skullcrusher Razorice Galleon Hit -3685 (Frost)", -- [42]
+				"Galleon Melee Punybanner-Blackhand Hit -75 (Physical)", -- [43]
+				"Gotowe-Skullcrusher Obliterate Off-Hand Galleon Hit -73217 (Physical)", -- [44]
+				"Galleon dies.", -- [45]
+				"Galleon Melee Legendish-Doomhammer Absorb -133 (133 Absorbed) (1)", -- [46]
+				"Legendish-Doomhammer Judgment Galleon Hit -1938 (Holy)", -- [47]
+				"Galleon Melee Legendish-Doomhammer Absorb -120 (120 Absorbed) (1)", -- [48]
+				"Legendish-Doomhammer Zeal Galleon Hit -18060 (Holy)", -- [49]
+				"Galleon Melee Legendish-Doomhammer Absorb -132 (132 Absorbed) (1)", -- [50]
+			},
+			["Name"] = "Galleon",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				false, -- [5]
+				false, -- [6]
+				true, -- [7]
+				true, -- [8]
+				false, -- [9]
+				true, -- [10]
+				true, -- [11]
+				true, -- [12]
+				true, -- [13]
+				true, -- [14]
+				true, -- [15]
+				true, -- [16]
+				false, -- [17]
+				true, -- [18]
+				true, -- [19]
+				true, -- [20]
+				true, -- [21]
+				true, -- [22]
+				true, -- [23]
+				true, -- [24]
+				true, -- [25]
+				true, -- [26]
+				true, -- [27]
+				true, -- [28]
+				true, -- [29]
+				true, -- [30]
+				true, -- [31]
+				true, -- [32]
+				true, -- [33]
+				true, -- [34]
+				true, -- [35]
+				true, -- [36]
+				true, -- [37]
+				true, -- [38]
+				true, -- [39]
+				true, -- [40]
+				true, -- [41]
+				true, -- [42]
+				false, -- [43]
+				true, -- [44]
+				true, -- [45]
+				false, -- [46]
+				true, -- [47]
+				false, -- [48]
+				true, -- [49]
+				false, -- [50]
+			},
+			["Fights"] = {
+				["Fight5"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Block"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Holy"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["Damage"] = 0,
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Shadow"] = 0,
+						["Frost"] = 0,
+						["Physical"] = 0,
+						["Holy"] = 0,
+						["Nature"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+						["Physical"] = 0,
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+						["Rising Sun Kick"] = {
+							["Details"] = {
+								["Blocked"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Parry"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+						["Melee"] = 0,
+					},
+					["DamagedWho"] = {
+						["Maetherial-Trollbane"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Punybanner-Blackhand"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["WhoDamaged"] = {
+						["Potatocakes-Azgalor"] = {
+							["Details"] = {
+								["Judgment"] = {
+									["count"] = 0,
+								},
+								["Blade of Justice"] = {
+									["count"] = 0,
+								},
+								["Zeal"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Maetherial-Trollbane"] = {
+							["Details"] = {
+								["Frenetic Blow"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+								["Rising Sun Kick"] = {
+									["count"] = 0,
+								},
+								["Eye of the Tiger (DoT)"] = {
+									["count"] = 0,
+								},
+								["Blackout Kick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kadisandre-Sargeras"] = {
+							["Details"] = {
+								["Holy Word: Chastise"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcturis"] = {
+							["Details"] = {
+								["Claw"] = {
+									["count"] = 0,
+								},
+								["Stomp"] = {
+									["count"] = 0,
+								},
+								["Kill Command"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Brokingar-Blackhand"] = {
+							["Details"] = {
+								["Voided Sectors"] = {
+									["count"] = 0,
+								},
+								["Whirlwind"] = {
+									["count"] = 0,
+								},
+								["Whirlwind Off-Hand"] = {
+									["count"] = 0,
+								},
+								["Raging Blow"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Gotowe-Skullcrusher"] = {
+							["Details"] = {
+								["Obliterate Off-Hand"] = {
+									["count"] = 0,
+								},
+								["Razorice"] = {
+									["count"] = 0,
+								},
+								["Obliterate"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Narcoleptic-Dalaran"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Shuriken Storm"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tanarì-Deathwing"] = {
+							["Details"] = {
+								["Auto Shot"] = {
+									["count"] = 0,
+								},
+								["Barbed Shot (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ashack-Malfurion"] = {
+							["Details"] = {
+								["Mortal Strike"] = {
+									["count"] = 0,
+								},
+								["Deep Wounds (DoT)"] = {
+									["count"] = 0,
+								},
+								["Warbreaker"] = {
+									["count"] = 0,
+								},
+								["Overpower"] = {
+									["count"] = 0,
+								},
+								["Seismic Wave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Punybanner-Blackhand"] = {
+							["Details"] = {
+								["Blood Boil"] = {
+									["count"] = 0,
+								},
+								["Wasting Infection (DoT)"] = {
+									["count"] = 0,
+								},
+								["Battlefield Focus"] = {
+									["count"] = 0,
+								},
+								["Marrowrend"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["CCBroken"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["PartialAbsorb"] = {
+						["Barbed Shot (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Eye of the Tiger (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Obliterate Off-Hand"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Whirlwind"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Voided Sectors"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Zeal"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Battlefield Focus"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Warbreaker"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Obliterate"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Shuriken Storm"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Holy Word: Chastise"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Rising Sun Kick"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Backstab"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Auto Shot"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Kill Command"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Razorice"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Marrowrend"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Eviscerate"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Raging Blow"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Whirlwind Off-Hand"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Deep Wounds (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Seismic Wave"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Tiger Palm"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Blood Boil"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Stomp"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frenetic Blow"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Blackout Kick"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Claw"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Blade of Justice"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Wasting Infection (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Judgment"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Overpower"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Barbed Shot (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Eye of the Tiger (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Obliterate Off-Hand"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Whirlwind"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Voided Sectors"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Zeal"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Battlefield Focus"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Warbreaker"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Obliterate"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Shuriken Storm"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Holy Word: Chastise"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Rising Sun Kick"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Backstab"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Auto Shot"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Kill Command"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Razorice"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Marrowrend"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Eviscerate"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Raging Blow"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Whirlwind Off-Hand"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Deep Wounds (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Seismic Wave"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Tiger Palm"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Blood Boil"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Stomp"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frenetic Blow"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Blackout Kick"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Claw"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Blade of Justice"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Wasting Infection (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Judgment"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Overpower"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Maetherial-Trollbane"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Punybanner-Blackhand"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["ActiveTime"] = 0,
+					["EnergyGained"] = {
+					},
+					["EnergyGain"] = 0,
+					["Healing"] = 0,
+					["Dispelled"] = 0,
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Parry"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Maetherial-Trollbane"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Punybanner-Blackhand"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 1778360,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Holy"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 6,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 8,
+						},
+					},
+					["DeathCount"] = 1,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+								["Absorb"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 10,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Holy"] = 255675,
+						["Frost"] = 197330,
+						["Physical"] = 1325355,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 1221,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+						["Melee"] = 1133,
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 1221,
+					},
+					["PartialAbsorb"] = {
+						["Bite"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Chimaera Shot"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Cobra Shot"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["A Murder of Crows"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Auto Shot"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Lawbringer"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Judgment"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Zeal"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Bat"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 88,
+								},
+							},
+							["amount"] = 88,
+						},
+						["Legendish-Doomhammer"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1133,
+								},
+							},
+							["amount"] = 1133,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Legendish-Doomhammer"] = {
+							["Details"] = {
+								["Judgment"] = {
+									["count"] = 195710,
+								},
+								["Lawbringer"] = {
+									["count"] = 5785,
+								},
+								["Zeal"] = {
+									["count"] = 54180,
+								},
+							},
+							["amount"] = 255675,
+						},
+						["Notamoose-Turalyon"] = {
+							["Details"] = {
+								["Auto Shot"] = {
+									["count"] = 245312,
+								},
+								["Chimaera Shot"] = {
+									["count"] = 197330,
+								},
+								["Cobra Shot"] = {
+									["count"] = 127676,
+								},
+								["A Murder of Crows"] = {
+									["count"] = 284260,
+								},
+							},
+							["amount"] = 854578,
+						},
+						["Bat"] = {
+							["Details"] = {
+								["Bite"] = {
+									["count"] = 668107,
+								},
+							},
+							["amount"] = 668107,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Bite"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Chimaera Shot"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Cobra Shot"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["A Murder of Crows"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Auto Shot"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Lawbringer"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Judgment"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Zeal"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Bat"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Legendish-Doomhammer"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 9.46,
+								},
+							},
+							["amount"] = 9.46,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 10.96,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 88,
+									["min"] = 88,
+									["count"] = 1,
+									["amount"] = 88,
+								},
+								["Absorb"] = {
+									["max"] = 133,
+									["min"] = 119,
+									["count"] = 9,
+									["amount"] = 1133,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 1221,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 10.96,
+					["TimeDamaging"] = {
+						["Bat"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Legendish-Doomhammer"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 9.46,
+								},
+							},
+							["amount"] = 9.46,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["HOTs"] = {
+					},
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialAbsorb"] = {
+					},
+					["RageGain"] = 0,
+					["FAttacks"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["ElementDone"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementHitsDone"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["CCBreak"] = 0,
+					["EnergyGain"] = 0,
+					["WhoHealed"] = {
+					},
+					["PartialResist"] = {
+					},
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+					},
+					["Heals"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["Healing"] = 0,
+					["RunicPowerGained"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["DamagedWho"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["PartialBlock"] = {
+						["Blackout Kick"] = {
+							["Details"] = {
+								["Blocked"] = {
+									["max"] = 123762,
+									["min"] = 123762,
+									["count"] = 1,
+									["amount"] = 123762,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 123762,
+						},
+						["Rising Sun Kick"] = {
+							["Details"] = {
+								["Blocked"] = {
+									["max"] = 3295,
+									["min"] = 3295,
+									["count"] = 1,
+									["amount"] = 3295,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 3295,
+						},
+					},
+					["TimeSpent"] = {
+						["Kurenya-Zul'jin"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Lemillion"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Maetherial-Trollbane"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Vintsön-Area52"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Inovardria-Anvilmar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Ezpk-Turalyon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Quartrpoundr-Andorhal"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Legendish-Doomhammer"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 9.46,
+								},
+							},
+							["amount"] = 9.46,
+						},
+						["Mahini-Skullcrusher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Xiya-BleedingHollow"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 4.5,
+								},
+							},
+							["amount"] = 4.5,
+						},
+						["Bat"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Vanilawafer-Illidan"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.45,
+								},
+							},
+							["amount"] = 1.45,
+						},
+						["Variona-Mal'Ganis"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Pox-Dalaran"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.48,
+								},
+							},
+							["amount"] = 1.48,
+						},
+						["Punybanner-Blackhand"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.54,
+								},
+							},
+							["amount"] = 1.54,
+						},
+					},
+					["DamageTaken"] = 16084866,
+					["ElementDoneAbsorb"] = {
+						["Melee"] = 2315,
+					},
+					["PartialResist"] = {
+						["Sunfire (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 7,
+						},
+						["Barbed Shot (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Eye of the Tiger (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Lawbringer"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Power Word: Solace"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Shadowstrike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Ray of Frost (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Voided Sectors"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Purge the Wicked"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Raptor Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Tiger Palm"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Lightning Shield"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Holy Word: Chastise"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Shadow Word: Void"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Chain Lightning"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Backstab"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Kill Command"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Razorice"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Frozen Orb"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 9,
+						},
+						["Demon's Bite"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Deadly Poison (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Raging Blow"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Whirlwind Off-Hand"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Rake"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Seismic Wave"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Starfall"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Starsurge"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Sunfire"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Chimaera Shot"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Stormstrike Off-Hand"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Deadly Poison"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Judgment"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Whirlwind"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Festering Wound"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Agony (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Mutilate"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Festering Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Comet Storm"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 15,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 15,
+						},
+						["Stormstrike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["A Murder of Crows"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Bite"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Eye Beam"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 5,
+						},
+						["Wake of Ashes"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Ebonbolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Searing Zap"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Fel Rush"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Zeal"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Ice Lance"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Obliterate"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Expurgation (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Fathom Fall"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Blade Dance"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Blackout Kick"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 9,
+						},
+						["Shadow Word: Pain (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Arcane Barrage"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Clawing Shadows"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Immolation Aura"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 5,
+						},
+						["Arcane Blast"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Consuming Shadows"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Cobra Shot"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Rockbiter"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Auto Shot"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Stomp"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Arcane Explosion"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Conflagrate"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Eviscerate"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Gutripper"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Latent Poison"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Blade of Justice"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Waterbolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Templar's Verdict"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Warbreaker"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Crusader Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Windfury Attack"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Serpent Sting"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Deep Wounds (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Frenetic Blow"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Rising Sun Kick"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Obliterate Off-Hand"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Moonfire"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 8,
+						},
+						["Blood Boil"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Shuriken Storm"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Marrowrend"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Throw Glaive"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Battlefield Focus"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 5,
+						},
+						["Overpower"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Wasting Infection (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Claw"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Garrote (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+					},
+					["DeathCount"] = 8,
+					["PartialAbsorb"] = {
+						["Sunfire (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 0,
+						},
+						["Barbed Shot (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Eye of the Tiger (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Lawbringer"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Power Word: Solace"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Shadowstrike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Ray of Frost (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Voided Sectors"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Purge the Wicked"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Raptor Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Tiger Palm"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Lightning Shield"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Holy Word: Chastise"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Shadow Word: Void"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Chain Lightning"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Backstab"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Kill Command"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Razorice"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Frozen Orb"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+						["Demon's Bite"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Deadly Poison (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Raging Blow"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Whirlwind Off-Hand"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Rake"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Seismic Wave"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Starfall"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Starsurge"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Sunfire"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Chimaera Shot"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Stormstrike Off-Hand"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Deadly Poison"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Judgment"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Whirlwind"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Festering Wound"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Agony (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Mutilate"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Festering Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Comet Storm"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 15,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 0,
+						},
+						["Stormstrike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["A Murder of Crows"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Bite"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Eye Beam"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+						["Wake of Ashes"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Ebonbolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Searing Zap"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Fel Rush"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Zeal"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Ice Lance"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Obliterate"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Expurgation (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Fathom Fall"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Blade Dance"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Blackout Kick"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+						["Shadow Word: Pain (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Arcane Barrage"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Clawing Shadows"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Immolation Aura"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+						["Arcane Blast"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Consuming Shadows"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Cobra Shot"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Rockbiter"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Auto Shot"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Stomp"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Arcane Explosion"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Conflagrate"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Eviscerate"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Gutripper"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Latent Poison"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Blade of Justice"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Waterbolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Templar's Verdict"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Warbreaker"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Crusader Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Windfury Attack"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Serpent Sting"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Deep Wounds (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Frenetic Blow"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Rising Sun Kick"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Obliterate Off-Hand"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Moonfire"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+						["Blood Boil"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Shuriken Storm"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Marrowrend"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Throw Glaive"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Battlefield Focus"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+						["Overpower"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Wasting Infection (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Claw"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Garrote (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 36.43,
+					["ElementTaken"] = {
+						["Shadow"] = 847988,
+						["Holy"] = 484237,
+						["Arcane"] = 1755656,
+						["Physical"] = 6572011,
+						["Fire"] = 298396,
+						["Frost"] = 3865082,
+						["Nature"] = 633352,
+					},
+					["Damage"] = 4912,
+					["ElementHitsTaken"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 10,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Tick"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 17,
+						},
+						["Holy"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 14,
+								},
+							},
+							["amount"] = 17,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 7,
+								},
+								["Crit"] = {
+									["count"] = 8,
+								},
+								["Tick"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 23,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 67,
+								},
+								["Block"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 25,
+								},
+								["Tick"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 97,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 30,
+								},
+								["Crit"] = {
+									["count"] = 6,
+								},
+								["Tick"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 38,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 7,
+								},
+								["Crit"] = {
+									["count"] = 10,
+								},
+								["Hit"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 25,
+						},
+					},
+					["ElementDone"] = {
+						["Melee"] = 4912,
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 16,
+								},
+								["Dodge"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 10,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Parry"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 31,
+						},
+					},
+					["DamagedWho"] = {
+						["Kurenya-Zul'jin"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 656,
+								},
+							},
+							["amount"] = 656,
+						},
+						["Inovardria-Anvilmar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 247,
+								},
+							},
+							["amount"] = 247,
+						},
+						["Lemillion"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 187,
+								},
+							},
+							["amount"] = 187,
+						},
+						["Maetherial-Trollbane"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 200,
+								},
+							},
+							["amount"] = 200,
+						},
+						["Chupamia-Thunderhorn"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 117,
+								},
+							},
+							["amount"] = 117,
+						},
+						["Legendish-Doomhammer"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1133,
+								},
+							},
+							["amount"] = 1133,
+						},
+						["Ezpk-Turalyon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 442,
+								},
+							},
+							["amount"] = 442,
+						},
+						["Quartrpoundr-Andorhal"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 206,
+								},
+							},
+							["amount"] = 206,
+						},
+						["Vintsön-Area52"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 109,
+								},
+							},
+							["amount"] = 109,
+						},
+						["Mahini-Skullcrusher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 264,
+								},
+							},
+							["amount"] = 264,
+						},
+						["Mageycapn-Mal'Ganis"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 269,
+								},
+							},
+							["amount"] = 269,
+						},
+						["Bat"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 88,
+								},
+							},
+							["amount"] = 88,
+						},
+						["Vanilawafer-Illidan"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 156,
+								},
+							},
+							["amount"] = 156,
+						},
+						["Pox-Dalaran"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 187,
+								},
+							},
+							["amount"] = 187,
+						},
+						["Xiya-BleedingHollow"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 576,
+								},
+							},
+							["amount"] = 576,
+						},
+						["Punybanner-Blackhand"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 75,
+								},
+							},
+							["amount"] = 75,
+						},
+					},
+					["TimeDamage"] = 36.43,
+					["TimeDamaging"] = {
+						["Kurenya-Zul'jin"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Lemillion"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Maetherial-Trollbane"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Vintsön-Area52"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Inovardria-Anvilmar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Ezpk-Turalyon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Quartrpoundr-Andorhal"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Legendish-Doomhammer"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 9.46,
+								},
+							},
+							["amount"] = 9.46,
+						},
+						["Mahini-Skullcrusher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Xiya-BleedingHollow"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 4.5,
+								},
+							},
+							["amount"] = 4.5,
+						},
+						["Bat"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Vanilawafer-Illidan"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.45,
+								},
+							},
+							["amount"] = 1.45,
+						},
+						["Variona-Mal'Ganis"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Pox-Dalaran"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.48,
+								},
+							},
+							["amount"] = 1.48,
+						},
+						["Punybanner-Blackhand"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.54,
+								},
+							},
+							["amount"] = 1.54,
+						},
+					},
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 269,
+									["min"] = 105,
+									["count"] = 16,
+									["amount"] = 2315,
+								},
+								["Dodge"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 264,
+									["min"] = 75,
+									["count"] = 10,
+									["amount"] = 1788,
+								},
+								["Crit"] = {
+									["max"] = 440,
+									["min"] = 369,
+									["count"] = 2,
+									["amount"] = 809,
+								},
+								["Parry"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 31,
+							["amount"] = 4912,
+						},
+					},
+					["WhoDamaged"] = {
+						["Potatocakes-Azgalor"] = {
+							["Details"] = {
+								["Judgment"] = {
+									["count"] = 384,
+								},
+								["Blade of Justice"] = {
+									["count"] = 356,
+								},
+								["Zeal"] = {
+									["count"] = 73,
+								},
+							},
+							["amount"] = 813,
+						},
+						["Vintsön-Area52"] = {
+							["Details"] = {
+								["Judgment"] = {
+									["count"] = 2618,
+								},
+							},
+							["amount"] = 2618,
+						},
+						["Kadisandre-Sargeras"] = {
+							["Details"] = {
+								["Holy Word: Chastise"] = {
+									["count"] = 3547,
+								},
+							},
+							["amount"] = 3547,
+						},
+						["Water Elemental"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 44055,
+								},
+							},
+							["amount"] = 44055,
+						},
+						["Narcoleptic-Dalaran"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 976194,
+								},
+								["Shuriken Storm"] = {
+									["count"] = 937,
+								},
+								["Backstab"] = {
+									["count"] = 3224,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 1112,
+								},
+							},
+							["amount"] = 981467,
+						},
+						["Shakurr-Illidan"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 85752,
+								},
+								["Comet Storm"] = {
+									["count"] = 759955,
+								},
+							},
+							["amount"] = 845707,
+						},
+						["Jcehdo-BleedingHollow"] = {
+							["Details"] = {
+								["Ray of Frost (DoT)"] = {
+									["count"] = 826993,
+								},
+							},
+							["amount"] = 826993,
+						},
+						["Magro-Doomhammer"] = {
+							["Details"] = {
+								["Agony (DoT)"] = {
+									["count"] = 11472,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 48890,
+								},
+							},
+							["amount"] = 60362,
+						},
+						["Kraggore"] = {
+							["Details"] = {
+								["Consuming Shadows"] = {
+									["count"] = 16675,
+								},
+							},
+							["amount"] = 16675,
+						},
+						["Snutzr-Illidan"] = {
+							["Details"] = {
+								["Mutilate"] = {
+									["count"] = 3386,
+								},
+								["Fathom Fall"] = {
+									["count"] = 319,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 689,
+								},
+							},
+							["amount"] = 4394,
+						},
+						["Notamoose-Turalyon"] = {
+							["Details"] = {
+								["Auto Shot"] = {
+									["count"] = 245312,
+								},
+								["Chimaera Shot"] = {
+									["count"] = 197330,
+								},
+								["Cobra Shot"] = {
+									["count"] = 127676,
+								},
+								["A Murder of Crows"] = {
+									["count"] = 284260,
+								},
+							},
+							["amount"] = 854578,
+						},
+						["Legendish-Doomhammer"] = {
+							["Details"] = {
+								["Judgment"] = {
+									["count"] = 195710,
+								},
+								["Lawbringer"] = {
+									["count"] = 5785,
+								},
+								["Zeal"] = {
+									["count"] = 54180,
+								},
+							},
+							["amount"] = 255675,
+						},
+						["Vanilawafer-Illidan"] = {
+							["Details"] = {
+								["Windfury Attack"] = {
+									["count"] = 866,
+								},
+								["Stormstrike Off-Hand"] = {
+									["count"] = 109614,
+								},
+								["Rockbiter"] = {
+									["count"] = 3009,
+								},
+								["Stormstrike"] = {
+									["count"] = 217742,
+								},
+								["Gutripper"] = {
+									["count"] = 1617,
+								},
+								["Chain Lightning"] = {
+									["count"] = 237117,
+								},
+							},
+							["amount"] = 569965,
+						},
+						["Valadøx-Thrall"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 2650,
+								},
+								["Ebonbolt"] = {
+									["count"] = 408530,
+								},
+							},
+							["amount"] = 411180,
+						},
+						["Pox-Dalaran"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 352159,
+								},
+								["Frozen Orb"] = {
+									["count"] = 121890,
+								},
+							},
+							["amount"] = 474049,
+						},
+						["Punybanner-Blackhand"] = {
+							["Details"] = {
+								["Blood Boil"] = {
+									["count"] = 127907,
+								},
+								["Wasting Infection (DoT)"] = {
+									["count"] = 16459,
+								},
+								["Battlefield Focus"] = {
+									["count"] = 69085,
+								},
+								["Marrowrend"] = {
+									["count"] = 1521,
+								},
+							},
+							["amount"] = 214972,
+						},
+						["Kurenya-Zul'jin"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 2642,
+								},
+								["Throw Glaive"] = {
+									["count"] = 69660,
+								},
+								["Searing Zap"] = {
+									["count"] = 325,
+								},
+							},
+							["amount"] = 72627,
+						},
+						["Glademere-Thrall"] = {
+							["Details"] = {
+								["Moonfire"] = {
+									["count"] = 10181,
+								},
+								["Rake"] = {
+									["count"] = 125538,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 28529,
+								},
+							},
+							["amount"] = 164248,
+						},
+						["Lemillion"] = {
+							["Details"] = {
+								["Blackout Kick"] = {
+									["count"] = 537479,
+								},
+								["Tiger Palm"] = {
+									["count"] = 1281,
+								},
+							},
+							["amount"] = 538760,
+						},
+						["Feetis-Mal'Ganis"] = {
+							["Details"] = {
+								["Clawing Shadows"] = {
+									["count"] = 139562,
+								},
+								["Festering Strike"] = {
+									["count"] = 208945,
+								},
+								["Festering Wound"] = {
+									["count"] = 71883,
+								},
+							},
+							["amount"] = 420390,
+						},
+						["Chupamia-Thunderhorn"] = {
+							["Details"] = {
+								["Sunfire (DoT)"] = {
+									["count"] = 96841,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 89252,
+								},
+								["Sunfire"] = {
+									["count"] = 1284,
+								},
+								["Moonfire"] = {
+									["count"] = 978,
+								},
+								["Starsurge"] = {
+									["count"] = 509228,
+								},
+							},
+							["amount"] = 697583,
+						},
+						["Ashack-Malfurion"] = {
+							["Details"] = {
+								["Mortal Strike"] = {
+									["count"] = 4430,
+								},
+								["Deep Wounds (DoT)"] = {
+									["count"] = 133900,
+								},
+								["Warbreaker"] = {
+									["count"] = 4646,
+								},
+								["Overpower"] = {
+									["count"] = 5750,
+								},
+								["Seismic Wave"] = {
+									["count"] = 765,
+								},
+							},
+							["amount"] = 149491,
+						},
+						["Mageycapn-Mal'Ganis"] = {
+							["Details"] = {
+								["Arcane Blast"] = {
+									["count"] = 872492,
+								},
+							},
+							["amount"] = 872492,
+						},
+						["Quartrpoundr-Andorhal"] = {
+							["Details"] = {
+								["Stormstrike"] = {
+									["count"] = 615594,
+								},
+								["Lightning Shield"] = {
+									["count"] = 146,
+								},
+								["Rockbiter"] = {
+									["count"] = 67671,
+								},
+							},
+							["amount"] = 683411,
+						},
+						["Arcturis"] = {
+							["Details"] = {
+								["Claw"] = {
+									["count"] = 1926,
+								},
+								["Stomp"] = {
+									["count"] = 812,
+								},
+								["Kill Command"] = {
+									["count"] = 4961,
+								},
+							},
+							["amount"] = 7699,
+						},
+						["Maetherial-Trollbane"] = {
+							["Details"] = {
+								["Frenetic Blow"] = {
+									["count"] = 4657,
+								},
+								["Tiger Palm"] = {
+									["count"] = 1484,
+								},
+								["Rising Sun Kick"] = {
+									["count"] = 7689,
+								},
+								["Eye of the Tiger (DoT)"] = {
+									["count"] = 162,
+								},
+								["Blackout Kick"] = {
+									["count"] = 2379,
+								},
+							},
+							["amount"] = 16371,
+						},
+						["Gotowe-Skullcrusher"] = {
+							["Details"] = {
+								["Obliterate Off-Hand"] = {
+									["count"] = 76204,
+								},
+								["Razorice"] = {
+									["count"] = 3789,
+								},
+								["Obliterate"] = {
+									["count"] = 149363,
+								},
+							},
+							["amount"] = 229356,
+						},
+						["Bat"] = {
+							["Details"] = {
+								["Bite"] = {
+									["count"] = 668107,
+								},
+							},
+							["amount"] = 668107,
+						},
+						["Dannyaa-Illidan"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 516,
+								},
+								["Demon's Bite"] = {
+									["count"] = 70060,
+								},
+							},
+							["amount"] = 70576,
+						},
+						["Variona-Mal'Ganis"] = {
+							["Details"] = {
+								["Judgment"] = {
+									["count"] = 2381,
+								},
+								["Templar's Verdict"] = {
+									["count"] = 6331,
+								},
+								["Crusader Strike"] = {
+									["count"] = 160568,
+								},
+								["Blade of Justice"] = {
+									["count"] = 2899,
+								},
+							},
+							["amount"] = 172179,
+						},
+						["Xiya-BleedingHollow"] = {
+							["Details"] = {
+								["Blade Dance"] = {
+									["count"] = 512043,
+								},
+								["Fathom Fall"] = {
+									["count"] = 62830,
+								},
+								["Eye Beam"] = {
+									["count"] = 445113,
+								},
+								["Demon's Bite"] = {
+									["count"] = 126675,
+								},
+								["Immolation Aura"] = {
+									["count"] = 216066,
+								},
+							},
+							["amount"] = 1362727,
+						},
+						["Melinkô-Illidan"] = {
+							["Details"] = {
+								["Sunfire (DoT)"] = {
+									["count"] = 42175,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 124745,
+								},
+								["Starfall"] = {
+									["count"] = 77406,
+								},
+								["Sunfire"] = {
+									["count"] = 576,
+								},
+								["Moonfire"] = {
+									["count"] = 1002,
+								},
+								["Gutripper"] = {
+									["count"] = 58804,
+								},
+							},
+							["amount"] = 304708,
+						},
+						["Réquíem-Area52"] = {
+							["Details"] = {
+								["Deadly Poison (DoT)"] = {
+									["count"] = 56413,
+								},
+								["Garrote (DoT)"] = {
+									["count"] = 662,
+								},
+								["Mutilate"] = {
+									["count"] = 1221,
+								},
+								["Deadly Poison"] = {
+									["count"] = 616,
+								},
+							},
+							["amount"] = 58912,
+						},
+						["Swtnsoursoup-Area52"] = {
+							["Details"] = {
+								["Conflagrate"] = {
+									["count"] = 3432,
+								},
+							},
+							["amount"] = 3432,
+						},
+						["Majunior-Dentarg"] = {
+							["Details"] = {
+								["Garrote (DoT)"] = {
+									["count"] = 46591,
+								},
+							},
+							["amount"] = 46591,
+						},
+						["Healzornah-ShatteredHalls"] = {
+							["Details"] = {
+								["Power Word: Solace"] = {
+									["count"] = 2629,
+								},
+								["Purge the Wicked"] = {
+									["count"] = 78898,
+								},
+							},
+							["amount"] = 81527,
+						},
+						["Founders-Thrall"] = {
+							["Details"] = {
+								["Sunfire (DoT)"] = {
+									["count"] = 86566,
+								},
+								["Moonfire"] = {
+									["count"] = 917,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 42685,
+								},
+							},
+							["amount"] = 130168,
+						},
+						["Prtzls-Mal'Ganis"] = {
+							["Details"] = {
+								["Frozen Orb"] = {
+									["count"] = 150504,
+								},
+								["Comet Storm"] = {
+									["count"] = 93893,
+								},
+							},
+							["amount"] = 244397,
+						},
+						["Gharruk-Thunderlord"] = {
+							["Details"] = {
+								["Shadowstrike"] = {
+									["count"] = 229154,
+								},
+							},
+							["amount"] = 229154,
+						},
+						["Baconswap-Area52"] = {
+							["Details"] = {
+								["Moonfire"] = {
+									["count"] = 22437,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 37567,
+								},
+							},
+							["amount"] = 60004,
+						},
+						["Inovardria-Anvilmar"] = {
+							["Details"] = {
+								["Arcane Barrage"] = {
+									["count"] = 1475,
+								},
+								["Arcane Explosion"] = {
+									["count"] = 523396,
+								},
+								["Gutripper"] = {
+									["count"] = 121568,
+								},
+							},
+							["amount"] = 646439,
+						},
+						["Mahini-Skullcrusher"] = {
+							["Details"] = {
+								["Comet Storm"] = {
+									["count"] = 817582,
+								},
+							},
+							["amount"] = 817582,
+						},
+						["Ezpk-Turalyon"] = {
+							["Details"] = {
+								["Wake of Ashes"] = {
+									["count"] = 593755,
+								},
+								["Judgment"] = {
+									["count"] = 2578,
+								},
+								["Templar's Verdict"] = {
+									["count"] = 6857,
+								},
+								["Blade of Justice"] = {
+									["count"] = 5555,
+								},
+								["Expurgation (DoT)"] = {
+									["count"] = 201164,
+								},
+							},
+							["amount"] = 809909,
+						},
+						["Brokingar-Blackhand"] = {
+							["Details"] = {
+								["Voided Sectors"] = {
+									["count"] = 2389,
+								},
+								["Whirlwind"] = {
+									["count"] = 578,
+								},
+								["Whirlwind Off-Hand"] = {
+									["count"] = 302,
+								},
+								["Raging Blow"] = {
+									["count"] = 2611,
+								},
+							},
+							["amount"] = 5880,
+						},
+						["Kumorishihai-Turalyon"] = {
+							["Details"] = {
+								["Shadow Word: Pain (DoT)"] = {
+									["count"] = 46173,
+								},
+								["Shadow Word: Void"] = {
+									["count"] = 303160,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 61617,
+								},
+							},
+							["amount"] = 410950,
+						},
+						["Luiscro-Illidan"] = {
+							["Details"] = {
+								["Blackout Kick"] = {
+									["count"] = 204392,
+								},
+								["Eye of the Tiger (DoT)"] = {
+									["count"] = 14133,
+								},
+								["Tiger Palm"] = {
+									["count"] = 2411,
+								},
+							},
+							["amount"] = 220936,
+						},
+						["Huntelsa-Arthas"] = {
+							["Details"] = {
+								["Raptor Strike"] = {
+									["count"] = 291149,
+								},
+								["Latent Poison"] = {
+									["count"] = 25697,
+								},
+								["Serpent Sting"] = {
+									["count"] = 621,
+								},
+							},
+							["amount"] = 317467,
+						},
+						["Tanarì-Deathwing"] = {
+							["Details"] = {
+								["Auto Shot"] = {
+									["count"] = 3266,
+								},
+								["Barbed Shot (DoT)"] = {
+									["count"] = 477,
+								},
+							},
+							["amount"] = 3743,
+						},
+					},
+					["ElementTakenBlock"] = {
+						["Physical"] = 127057,
+					},
+				},
+			},
+			["DeathLogs"] = {
+				{
+					["MessageIncoming"] = {
+						true, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						true, -- [6]
+						true, -- [7]
+						true, -- [8]
+						true, -- [9]
+						true, -- [10]
+						true, -- [11]
+						true, -- [12]
+						true, -- [13]
+						true, -- [14]
+						true, -- [15]
+						true, -- [16]
+						true, -- [17]
+						true, -- [18]
+						true, -- [19]
+						true, -- [20]
+						true, -- [21]
+						false, -- [22]
+						true, -- [23]
+						true, -- [24]
+						false, -- [25]
+						true, -- [26]
+						false, -- [27]
+						false, -- [28]
+						false, -- [29]
+						false, -- [30]
+						false, -- [31]
+						true, -- [32]
+						true, -- [33]
+						false, -- [34]
+						true, -- [35]
+						true, -- [36]
+						true, -- [37]
+						true, -- [38]
+						true, -- [39]
+						true, -- [40]
+						true, -- [41]
+						false, -- [42]
+						true, -- [43]
+						true, -- [44]
+						true, -- [45]
+						true, -- [46]
+					},
+					["Messages"] = {
+						"Potatocakes-Azgalor Judgment Galleon Hit -384 (Holy)", -- [1]
+						"Brokingar-Blackhand Raging Blow Galleon Hit -1756 (Physical)", -- [2]
+						"Brokingar-Blackhand Raging Blow Galleon Hit -855 (Physical)", -- [3]
+						"Punybanner-Blackhand Battlefield Focus Galleon Hit -340 (Physical)", -- [4]
+						"Brokingar-Blackhand Voided Sectors Galleon Hit -2389 (Shadow)", -- [5]
+						"Potatocakes-Azgalor Blade of Justice Galleon Hit -356 (Physical)", -- [6]
+						"Ashack-Malfurion Overpower Galleon Crit -5750 (Physical)", -- [7]
+						"Maetherial-Trollbane Blackout Kick Galleon Hit -2379 (Physical)", -- [8]
+						"Ashack-Malfurion Seismic Wave Galleon Hit -765 (Physical)", -- [9]
+						"Potatocakes-Azgalor Zeal Galleon Crit -73 (Holy)", -- [10]
+						"Tanarì-Deathwing Barbed Shot (DoT) Galleon Tick -477 (Physical)", -- [11]
+						"Punybanner-Blackhand Battlefield Focus Galleon Hit -341 (Physical)", -- [12]
+						"Tanarì-Deathwing Auto Shot Galleon Crit -2178 (Physical)", -- [13]
+						"Ashack-Malfurion Deep Wounds (DoT) Galleon Tick -133900 (Physical)", -- [14]
+						"Punybanner-Blackhand Battlefield Focus Galleon Hit -34032 (Physical)", -- [15]
+						"Punybanner-Blackhand Blood Boil Galleon Hit -125355 (Shadow)", -- [16]
+						"Narcoleptic-Dalaran Eviscerate Galleon Crit -976194 (Physical)", -- [17]
+						"Punybanner-Blackhand Wasting Infection (DoT) Galleon Tick -16459 (Shadow)", -- [18]
+						"Punybanner-Blackhand Battlefield Focus Galleon Hit -34032 (Physical)", -- [19]
+						"Gotowe-Skullcrusher Obliterate Galleon Hit -146434 (Physical)", -- [20]
+						"Gotowe-Skullcrusher Razorice Galleon Hit -3685 (Frost)", -- [21]
+						"Galleon Melee Punybanner-Blackhand Hit -75 (Physical)", -- [22]
+						"Gotowe-Skullcrusher Obliterate Off-Hand Galleon Hit -73217 (Physical)", -- [23]
+						"Galleon dies.", -- [24]
+						"Galleon Melee Legendish-Doomhammer Absorb -132 (132 Absorbed) (1)", -- [25]
+						"Legendish-Doomhammer Zeal Galleon Hit -18060 (Holy)", -- [26]
+						"Galleon Melee Legendish-Doomhammer Absorb -132 (132 Absorbed) (1)", -- [27]
+						"Galleon Melee Legendish-Doomhammer Absorb -128 (128 Absorbed) (1)", -- [28]
+						"Galleon Melee Legendish-Doomhammer Absorb -119 (119 Absorbed) (1)", -- [29]
+						"Galleon Melee Legendish-Doomhammer Absorb -122 (122 Absorbed) (1)", -- [30]
+						"Galleon Melee Legendish-Doomhammer Absorb -125 (125 Absorbed) (1)", -- [31]
+						"Notamoose-Turalyon Auto Shot Galleon Hit -122541 (Physical)", -- [32]
+						"Bat Bite Galleon Crit -446378 (Physical)", -- [33]
+						"Galleon Melee Bat Hit -88 (Physical)", -- [34]
+						"Notamoose-Turalyon A Murder of Crows Galleon Hit -70815 (Physical)", -- [35]
+						"Notamoose-Turalyon Cobra Shot Galleon Hit -127676 (Physical)", -- [36]
+						"Legendish-Doomhammer Zeal Galleon Hit -18060 (Holy)", -- [37]
+						"Notamoose-Turalyon A Murder of Crows Galleon Hit -71148 (Physical)", -- [38]
+						"Legendish-Doomhammer Judgment Galleon Hit -193772 (Holy)", -- [39]
+						"Legendish-Doomhammer Lawbringer Galleon Hit -5785 (Holy)", -- [40]
+						"Notamoose-Turalyon Auto Shot Galleon Hit -122771 (Physical)", -- [41]
+						"Galleon Melee Legendish-Doomhammer Absorb -122 (122 Absorbed) (1)", -- [42]
+						"Notamoose-Turalyon A Murder of Crows Galleon Crit -142297 (Physical)", -- [43]
+						"Notamoose-Turalyon Chimaera Shot Galleon Hit -197330 (Frost)", -- [44]
+						"Bat Bite Galleon Hit -221729 (Physical)", -- [45]
+						"Galleon dies.", -- [46]
+					},
+					["DeathAt"] = 1121.603,
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+						0, -- [7]
+						0, -- [8]
+						0, -- [9]
+						0, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						0, -- [15]
+						0, -- [16]
+						0, -- [17]
+						0, -- [18]
+						0, -- [19]
+						0, -- [20]
+						0, -- [21]
+						0, -- [22]
+						0, -- [23]
+						0, -- [24]
+						0, -- [25]
+						0, -- [26]
+						0, -- [27]
+						0, -- [28]
+						0, -- [29]
+						0, -- [30]
+						0, -- [31]
+						0, -- [32]
+						0, -- [33]
+						0, -- [34]
+						0, -- [35]
+						0, -- [36]
+						0, -- [37]
+						0, -- [38]
+						0, -- [39]
+						0, -- [40]
+						0, -- [41]
+						0, -- [42]
+						0, -- [43]
+						0, -- [44]
+						0, -- [45]
+						0, -- [46]
+					},
+					["MessageTimes"] = {
+						25585.184, -- [1]
+						25585.184, -- [2]
+						25585.184, -- [3]
+						25585.184, -- [4]
+						25585.184, -- [5]
+						25585.184, -- [6]
+						25585.184, -- [7]
+						25585.184, -- [8]
+						25585.184, -- [9]
+						25585.184, -- [10]
+						25585.184, -- [11]
+						25585.184, -- [12]
+						25585.184, -- [13]
+						25585.184, -- [14]
+						25585.184, -- [15]
+						25585.228, -- [16]
+						25585.228, -- [17]
+						25585.228, -- [18]
+						25585.228, -- [19]
+						25585.228, -- [20]
+						25585.228, -- [21]
+						25585.228, -- [22]
+						25585.338, -- [23]
+						25585.338, -- [24]
+						-11.9549999999999, -- [25]
+						-11.9549999999999, -- [26]
+						-11.9549999999999, -- [27]
+						-11.1029999999998, -- [28]
+						-9.096, -- [29]
+						-7.03899999999999, -- [30]
+						-5.01499999999987, -- [31]
+						-2.06499999999983, -- [32]
+						-2.06499999999983, -- [33]
+						-2.06499999999983, -- [34]
+						-2.06499999999983, -- [35]
+						-2.06499999999983, -- [36]
+						-2.02499999999986, -- [37]
+						-1.76599999999985, -- [38]
+						-1.24399999999991, -- [39]
+						-1.24399999999991, -- [40]
+						-1.12099999999987, -- [41]
+						-0.951000000000022, -- [42]
+						-0.742999999999938, -- [43]
+						-0.397999999999911, -- [44]
+						0, -- [45]
+						0, -- [46]
+					},
+					["HealthMax"] = {
+					},
+					["Health"] = {
+					},
+					["KilledBy"] = "Bat",
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"MISC", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"DAMAGE", -- [29]
+						"DAMAGE", -- [30]
+						"DAMAGE", -- [31]
+						"DAMAGE", -- [32]
+						"DAMAGE", -- [33]
+						"DAMAGE", -- [34]
+						"DAMAGE", -- [35]
+						"DAMAGE", -- [36]
+						"DAMAGE", -- [37]
+						"DAMAGE", -- [38]
+						"DAMAGE", -- [39]
+						"DAMAGE", -- [40]
+						"DAMAGE", -- [41]
+						"DAMAGE", -- [42]
+						"DAMAGE", -- [43]
+						"DAMAGE", -- [44]
+						"DAMAGE", -- [45]
+						"MISC", -- [46]
+					},
+				}, -- [1]
+				{
+					["MessageIncoming"] = {
+						true, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						true, -- [6]
+						true, -- [7]
+						true, -- [8]
+						true, -- [9]
+						true, -- [10]
+						true, -- [11]
+						true, -- [12]
+						true, -- [13]
+						false, -- [14]
+						true, -- [15]
+						true, -- [16]
+						true, -- [17]
+						true, -- [18]
+						true, -- [19]
+						true, -- [20]
+						true, -- [21]
+						true, -- [22]
+						true, -- [23]
+						true, -- [24]
+						true, -- [25]
+						true, -- [26]
+						true, -- [27]
+						true, -- [28]
+						true, -- [29]
+						true, -- [30]
+						true, -- [31]
+						true, -- [32]
+						true, -- [33]
+						true, -- [34]
+						true, -- [35]
+						true, -- [36]
+						true, -- [37]
+						true, -- [38]
+						true, -- [39]
+						true, -- [40]
+						true, -- [41]
+						true, -- [42]
+						true, -- [43]
+						true, -- [44]
+						true, -- [45]
+						true, -- [46]
+						true, -- [47]
+						false, -- [48]
+						true, -- [49]
+						true, -- [50]
+					},
+					["Messages"] = {
+						"Brokingar-Blackhand Whirlwind Galleon Hit -193 (Physical)", -- [1]
+						"Brokingar-Blackhand Whirlwind Off-Hand Galleon Hit -101 (Physical)", -- [2]
+						"Maetherial-Trollbane Frenetic Blow Galleon Crit -4657 (Physical)", -- [3]
+						"Maetherial-Trollbane Rising Sun Kick Galleon Crit -7689 (Physical)", -- [4]
+						"Brokingar-Blackhand Whirlwind Off-Hand Galleon Hit -100 (Physical)", -- [5]
+						"Brokingar-Blackhand Whirlwind Galleon Hit -192 (Physical)", -- [6]
+						"Gotowe-Skullcrusher Obliterate Galleon Hit -1464 (Physical)", -- [7]
+						"Gotowe-Skullcrusher Razorice Galleon Hit -33 (Frost)", -- [8]
+						"Gotowe-Skullcrusher Obliterate Off-Hand Galleon Crit -1493 (Physical)", -- [9]
+						"Kadisandre-Sargeras Holy Word: Chastise Galleon Hit -3547 (Holy)", -- [10]
+						"Punybanner-Blackhand Blood Boil Galleon Crit -2552 (Shadow)", -- [11]
+						"Arcturis Claw Galleon Hit -1926 (Physical)", -- [12]
+						"Arcturis Stomp Galleon Hit -812 (Physical)", -- [13]
+						"Galleon Melee Punybanner-Blackhand Parry (1)", -- [14]
+						"Maetherial-Trollbane Eye of the Tiger (DoT) Galleon Tick -162 (Nature)", -- [15]
+						"Ashack-Malfurion Mortal Strike Galleon Hit -4430 (Physical)", -- [16]
+						"Gotowe-Skullcrusher Razorice Galleon Hit -35 (Frost)", -- [17]
+						"Arcturis Kill Command Galleon Crit -4961 (Physical)", -- [18]
+						"Maetherial-Trollbane Tiger Palm Galleon Hit -760 (Physical)", -- [19]
+						"Narcoleptic-Dalaran Shuriken Storm Galleon Crit -937 (Physical)", -- [20]
+						"Gotowe-Skullcrusher Obliterate Galleon Hit -1465 (Physical)", -- [21]
+						"Gotowe-Skullcrusher Razorice Galleon Hit -36 (Frost)", -- [22]
+						"Gotowe-Skullcrusher Obliterate Off-Hand Galleon Crit -1494 (Physical)", -- [23]
+						"Punybanner-Blackhand Marrowrend Galleon Hit -1521 (Physical)", -- [24]
+						"Punybanner-Blackhand Battlefield Focus Galleon Hit -340 (Physical)", -- [25]
+						"Narcoleptic-Dalaran Backstab Galleon Crit -2149 (Physical)", -- [26]
+						"Potatocakes-Azgalor Judgment Galleon Hit -384 (Holy)", -- [27]
+						"Brokingar-Blackhand Raging Blow Galleon Hit -1756 (Physical)", -- [28]
+						"Brokingar-Blackhand Raging Blow Galleon Hit -855 (Physical)", -- [29]
+						"Punybanner-Blackhand Battlefield Focus Galleon Hit -340 (Physical)", -- [30]
+						"Brokingar-Blackhand Voided Sectors Galleon Hit -2389 (Shadow)", -- [31]
+						"Potatocakes-Azgalor Blade of Justice Galleon Hit -356 (Physical)", -- [32]
+						"Ashack-Malfurion Overpower Galleon Crit -5750 (Physical)", -- [33]
+						"Maetherial-Trollbane Blackout Kick Galleon Hit -2379 (Physical)", -- [34]
+						"Ashack-Malfurion Seismic Wave Galleon Hit -765 (Physical)", -- [35]
+						"Potatocakes-Azgalor Zeal Galleon Crit -73 (Holy)", -- [36]
+						"Tanarì-Deathwing Barbed Shot (DoT) Galleon Tick -477 (Physical)", -- [37]
+						"Punybanner-Blackhand Battlefield Focus Galleon Hit -341 (Physical)", -- [38]
+						"Tanarì-Deathwing Auto Shot Galleon Crit -2178 (Physical)", -- [39]
+						"Ashack-Malfurion Deep Wounds (DoT) Galleon Tick -133900 (Physical)", -- [40]
+						"Punybanner-Blackhand Battlefield Focus Galleon Hit -34032 (Physical)", -- [41]
+						"Punybanner-Blackhand Blood Boil Galleon Hit -125355 (Shadow)", -- [42]
+						"Narcoleptic-Dalaran Eviscerate Galleon Crit -976194 (Physical)", -- [43]
+						"Punybanner-Blackhand Wasting Infection (DoT) Galleon Tick -16459 (Shadow)", -- [44]
+						"Punybanner-Blackhand Battlefield Focus Galleon Hit -34032 (Physical)", -- [45]
+						"Gotowe-Skullcrusher Obliterate Galleon Hit -146434 (Physical)", -- [46]
+						"Gotowe-Skullcrusher Razorice Galleon Hit -3685 (Frost)", -- [47]
+						"Galleon Melee Punybanner-Blackhand Hit -75 (Physical)", -- [48]
+						"Gotowe-Skullcrusher Obliterate Off-Hand Galleon Hit -73217 (Physical)", -- [49]
+						"Galleon dies.", -- [50]
+					},
+					["DeathAt"] = 26707.061,
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+						0, -- [7]
+						0, -- [8]
+						0, -- [9]
+						0, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						0, -- [15]
+						0, -- [16]
+						0, -- [17]
+						0, -- [18]
+						0, -- [19]
+						0, -- [20]
+						0, -- [21]
+						0, -- [22]
+						0, -- [23]
+						0, -- [24]
+						0, -- [25]
+						0, -- [26]
+						0, -- [27]
+						0, -- [28]
+						0, -- [29]
+						0, -- [30]
+						0, -- [31]
+						0, -- [32]
+						0, -- [33]
+						0, -- [34]
+						0, -- [35]
+						0, -- [36]
+						0, -- [37]
+						0, -- [38]
+						0, -- [39]
+						0, -- [40]
+						0, -- [41]
+						0, -- [42]
+						0, -- [43]
+						0, -- [44]
+						0, -- [45]
+						0, -- [46]
+						0, -- [47]
+						0, -- [48]
+						0, -- [49]
+						0, -- [50]
+					},
+					["MessageTimes"] = {
+						-0.153999999998632, -- [1]
+						-0.153999999998632, -- [2]
+						-0.153999999998632, -- [3]
+						-0.153999999998632, -- [4]
+						-0.153999999998632, -- [5]
+						-0.153999999998632, -- [6]
+						-0.153999999998632, -- [7]
+						-0.153999999998632, -- [8]
+						-0.153999999998632, -- [9]
+						-0.153999999998632, -- [10]
+						-0.153999999998632, -- [11]
+						-0.153999999998632, -- [12]
+						-0.153999999998632, -- [13]
+						-0.153999999998632, -- [14]
+						-0.153999999998632, -- [15]
+						-0.153999999998632, -- [16]
+						-0.153999999998632, -- [17]
+						-0.153999999998632, -- [18]
+						-0.153999999998632, -- [19]
+						-0.153999999998632, -- [20]
+						-0.153999999998632, -- [21]
+						-0.153999999998632, -- [22]
+						-0.153999999998632, -- [23]
+						-0.153999999998632, -- [24]
+						-0.153999999998632, -- [25]
+						-0.153999999998632, -- [26]
+						-0.153999999998632, -- [27]
+						-0.153999999998632, -- [28]
+						-0.153999999998632, -- [29]
+						-0.153999999998632, -- [30]
+						-0.153999999998632, -- [31]
+						-0.153999999998632, -- [32]
+						-0.153999999998632, -- [33]
+						-0.153999999998632, -- [34]
+						-0.153999999998632, -- [35]
+						-0.153999999998632, -- [36]
+						-0.153999999998632, -- [37]
+						-0.153999999998632, -- [38]
+						-0.153999999998632, -- [39]
+						-0.153999999998632, -- [40]
+						-0.153999999998632, -- [41]
+						-0.109999999996944, -- [42]
+						-0.109999999996944, -- [43]
+						-0.109999999996944, -- [44]
+						-0.109999999996944, -- [45]
+						-0.109999999996944, -- [46]
+						-0.109999999996944, -- [47]
+						-0.109999999996944, -- [48]
+						0, -- [49]
+						0, -- [50]
+					},
+					["HealthMax"] = {
+					},
+					["Health"] = {
+					},
+					["KilledBy"] = "Gotowe-Skullcrusher",
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"DAMAGE", -- [29]
+						"DAMAGE", -- [30]
+						"DAMAGE", -- [31]
+						"DAMAGE", -- [32]
+						"DAMAGE", -- [33]
+						"DAMAGE", -- [34]
+						"DAMAGE", -- [35]
+						"DAMAGE", -- [36]
+						"DAMAGE", -- [37]
+						"DAMAGE", -- [38]
+						"DAMAGE", -- [39]
+						"DAMAGE", -- [40]
+						"DAMAGE", -- [41]
+						"DAMAGE", -- [42]
+						"DAMAGE", -- [43]
+						"DAMAGE", -- [44]
+						"DAMAGE", -- [45]
+						"DAMAGE", -- [46]
+						"DAMAGE", -- [47]
+						"DAMAGE", -- [48]
+						"DAMAGE", -- [49]
+						"MISC", -- [50]
+					},
+				}, -- [2]
+				{
+					["MessageIncoming"] = {
+						true, -- [1]
+						false, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						true, -- [6]
+						true, -- [7]
+						true, -- [8]
+						true, -- [9]
+						true, -- [10]
+						true, -- [11]
+						true, -- [12]
+						true, -- [13]
+						true, -- [14]
+						true, -- [15]
+						false, -- [16]
+						true, -- [17]
+						true, -- [18]
+						true, -- [19]
+						true, -- [20]
+						true, -- [21]
+						true, -- [22]
+					},
+					["Messages"] = {
+						"Founders-Thrall Moonfire Galleon Crit -917 (Arcane)", -- [1]
+						"Galleon Melee Mahini-Skullcrusher Hit -264 (Physical)", -- [2]
+						"Founders-Thrall Sunfire (DoT) Galleon Tick -382 (Nature)", -- [3]
+						"Dannyaa-Illidan Throw Glaive Galleon Hit -516 (Physical)", -- [4]
+						"Mahini-Skullcrusher Comet Storm Galleon Hit -908 (Frost)", -- [5]
+						"Mahini-Skullcrusher Comet Storm Galleon Hit -90742 (Frost)", -- [6]
+						"Kumorishihai-Turalyon Shadow Word: Pain (DoT) Galleon Tick -46173 (Shadow)", -- [7]
+						"Kumorishihai-Turalyon Touch of the Grave Galleon Hit -61617 (Shadow)", -- [8]
+						"Mahini-Skullcrusher Comet Storm Galleon Hit -90741 (Frost)", -- [9]
+						"Mageycapn-Mal'Ganis Arcane Blast Galleon Hit -436246 (Arcane)", -- [10]
+						"Founders-Thrall Moonfire (DoT) Galleon Tick -42685 (Arcane)", -- [11]
+						"Mahini-Skullcrusher Comet Storm Galleon Hit -90741 (Frost)", -- [12]
+						"Kumorishihai-Turalyon Shadow Word: Void Galleon Hit -303160 (Shadow)", -- [13]
+						"Dannyaa-Illidan Demon's Bite Galleon Hit -70060 (Physical)", -- [14]
+						"Mahini-Skullcrusher Comet Storm Galleon Crit -181483 (Frost)", -- [15]
+						"Galleon Melee Mageycapn-Mal'Ganis Absorb -269 (269 Absorbed) (1)", -- [16]
+						"Mahini-Skullcrusher Comet Storm Galleon Crit -181483 (Frost)", -- [17]
+						"Founders-Thrall Sunfire (DoT) Galleon Crit -86184 (Nature)", -- [18]
+						"Water Elemental Waterbolt Galleon Hit -44055 (Frost)", -- [19]
+						"Mahini-Skullcrusher Comet Storm Galleon Crit -181484 (Frost)", -- [20]
+						"Mageycapn-Mal'Ganis Arcane Blast Galleon Hit -436246 (Arcane)", -- [21]
+						"Galleon dies.", -- [22]
+					},
+					["DeathAt"] = 14922.607,
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+						0, -- [7]
+						0, -- [8]
+						0, -- [9]
+						0, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						0, -- [15]
+						0, -- [16]
+						0, -- [17]
+						0, -- [18]
+						0, -- [19]
+						0, -- [20]
+						0, -- [21]
+						0, -- [22]
+					},
+					["MessageTimes"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+						0, -- [7]
+						0, -- [8]
+						0, -- [9]
+						0, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						0, -- [15]
+						0, -- [16]
+						0, -- [17]
+						0, -- [18]
+						0, -- [19]
+						0, -- [20]
+						0, -- [21]
+						0, -- [22]
+					},
+					["HealthMax"] = {
+					},
+					["Health"] = {
+					},
+					["KilledBy"] = "Mageycapn-Mal'Ganis",
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"MISC", -- [22]
+					},
+				}, -- [3]
+				{
+					["MessageIncoming"] = {
+						false, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						true, -- [6]
+						true, -- [7]
+						true, -- [8]
+						true, -- [9]
+						true, -- [10]
+						true, -- [11]
+						true, -- [12]
+						false, -- [13]
+						true, -- [14]
+						true, -- [15]
+						true, -- [16]
+						true, -- [17]
+						true, -- [18]
+						true, -- [19]
+						true, -- [20]
+						true, -- [21]
+						true, -- [22]
+						true, -- [23]
+						true, -- [24]
+						true, -- [25]
+						true, -- [26]
+						true, -- [27]
+						true, -- [28]
+						true, -- [29]
+						false, -- [30]
+						true, -- [31]
+						true, -- [32]
+						true, -- [33]
+						true, -- [34]
+						true, -- [35]
+						true, -- [36]
+						true, -- [37]
+					},
+					["Messages"] = {
+						"Galleon Melee Variona-Mal'Ganis Parry (1)", -- [1]
+						"Variona-Mal'Ganis Judgment Galleon Hit -2381 (Holy)", -- [2]
+						"Baconswap-Area52 Moonfire Galleon Crit -432 (Arcane)", -- [3]
+						"Variona-Mal'Ganis Blade of Justice Galleon Hit -2899 (Physical)", -- [4]
+						"Lemillion Tiger Palm Galleon Hit -625 (Physical)", -- [5]
+						"Réquíem-Area52 Mutilate Galleon Crit -814 (Physical)", -- [6]
+						"Réquíem-Area52 Deadly Poison Galleon Crit -308 (Nature)", -- [7]
+						"Réquíem-Area52 Mutilate Galleon Crit -407 (Physical)", -- [8]
+						"Réquíem-Area52 Deadly Poison Galleon Crit -308 (Nature)", -- [9]
+						"Prtzls-Mal'Ganis Frozen Orb Galleon Hit -430 (Frost)", -- [10]
+						"Vintsön-Area52 Judgment Galleon Hit -2618 (Holy)", -- [11]
+						"Jcehdo-BleedingHollow Ray of Frost (DoT) Galleon Tick -3182 (Frost)", -- [12]
+						"Galleon Melee Vintsön-Area52 Absorb -109 (109 Absorbed) (1)", -- [13]
+						"Prtzls-Mal'Ganis Frozen Orb Galleon Hit -467 (Frost)", -- [14]
+						"Réquíem-Area52 Deadly Poison (DoT) Galleon Crit -430 (Nature)", -- [15]
+						"Lemillion Tiger Palm Galleon Hit -656 (Physical)", -- [16]
+						"Réquíem-Area52 Garrote (DoT) Galleon Crit -662 (Physical)", -- [17]
+						"Healzornah-ShatteredHalls Power Word: Solace Galleon Hit -2629 (Holy)", -- [18]
+						"Baconswap-Area52 Moonfire (DoT) Galleon Tick -371 (Arcane)", -- [19]
+						"Variona-Mal'Ganis Templar's Verdict Galleon Hit -6331 (Holy)", -- [20]
+						"Prtzls-Mal'Ganis Frozen Orb Galleon Hit -470 (Frost)", -- [21]
+						"Jcehdo-BleedingHollow Ray of Frost (DoT) Galleon Tick -3629 (Frost)", -- [22]
+						"Baconswap-Area52 Moonfire Galleon Crit -431 (Arcane)", -- [23]
+						"Prtzls-Mal'Ganis Frozen Orb Galleon Hit -48884 (Frost)", -- [24]
+						"Healzornah-ShatteredHalls Purge the Wicked Galleon Hit -78898 (Fire)", -- [25]
+						"Lemillion Blackout Kick Galleon Hit -248701 (Physical)", -- [26]
+						"Prtzls-Mal'Ganis Frozen Orb Galleon Hit -49124 (Frost)", -- [27]
+						"Jcehdo-BleedingHollow Ray of Frost (DoT) Galleon Crit -820182 (Frost)", -- [28]
+						"Variona-Mal'Ganis Crusader Strike Galleon Hit -160568 (Physical)", -- [29]
+						"Galleon Melee Lemillion Hit -187 (Physical)", -- [30]
+						"Prtzls-Mal'Ganis Comet Storm Galleon Hit -93893 (Frost)", -- [31]
+						"Prtzls-Mal'Ganis Frozen Orb Galleon Hit -51129 (Frost)", -- [32]
+						"Baconswap-Area52 Moonfire Galleon Hit -21574 (Arcane)", -- [33]
+						"Réquíem-Area52 Deadly Poison (DoT) Galleon Crit -55983 (Nature)", -- [34]
+						"Baconswap-Area52 Moonfire (DoT) Galleon Tick -37196 (Arcane)", -- [35]
+						"Lemillion Blackout Kick Galleon Crit -288778 (Physical)", -- [36]
+						"Galleon dies.", -- [37]
+					},
+					["DeathAt"] = 10155.387,
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+						0, -- [7]
+						0, -- [8]
+						0, -- [9]
+						0, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						0, -- [15]
+						0, -- [16]
+						0, -- [17]
+						0, -- [18]
+						0, -- [19]
+						0, -- [20]
+						0, -- [21]
+						0, -- [22]
+						0, -- [23]
+						0, -- [24]
+						0, -- [25]
+						0, -- [26]
+						0, -- [27]
+						0, -- [28]
+						0, -- [29]
+						0, -- [30]
+						0, -- [31]
+						0, -- [32]
+						0, -- [33]
+						0, -- [34]
+						0, -- [35]
+						0, -- [36]
+						0, -- [37]
+					},
+					["MessageTimes"] = {
+						-4.10000000000036, -- [1]
+						-3.80000000000109, -- [2]
+						-3.53299999999945, -- [3]
+						-3.13299999999981, -- [4]
+						-2.83300000000054, -- [5]
+						-2.83300000000054, -- [6]
+						-2.83300000000054, -- [7]
+						-2.83300000000054, -- [8]
+						-2.83300000000054, -- [9]
+						-2.46600000000035, -- [10]
+						-2.46600000000035, -- [11]
+						-2.46600000000035, -- [12]
+						-2.36599999999999, -- [13]
+						-2.26599999999962, -- [14]
+						-2.10000000000036, -- [15]
+						-2.10000000000036, -- [16]
+						-2, -- [17]
+						-1.63299999999981, -- [18]
+						-1.63299999999981, -- [19]
+						-1.63299999999981, -- [20]
+						-1.63299999999981, -- [21]
+						-1.60000000000036, -- [22]
+						-1.60000000000036, -- [23]
+						-1.23300000000017, -- [24]
+						-1.23300000000017, -- [25]
+						-1.13299999999981, -- [26]
+						-0.700000000000728, -- [27]
+						-0.700000000000728, -- [28]
+						-0.433000000000902, -- [29]
+						-0.333000000000538, -- [30]
+						-0.333000000000538, -- [31]
+						-0.333000000000538, -- [32]
+						-0.233000000000175, -- [33]
+						-0.233000000000175, -- [34]
+						-0.100000000000364, -- [35]
+						-0.100000000000364, -- [36]
+						0, -- [37]
+					},
+					["HealthMax"] = {
+					},
+					["Health"] = {
+					},
+					["KilledBy"] = "Lemillion",
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"DAMAGE", -- [29]
+						"DAMAGE", -- [30]
+						"DAMAGE", -- [31]
+						"DAMAGE", -- [32]
+						"DAMAGE", -- [33]
+						"DAMAGE", -- [34]
+						"DAMAGE", -- [35]
+						"DAMAGE", -- [36]
+						"MISC", -- [37]
+					},
+				}, -- [4]
+				{
+					["MessageIncoming"] = {
+						true, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						false, -- [5]
+						true, -- [6]
+						true, -- [7]
+						true, -- [8]
+						true, -- [9]
+						true, -- [10]
+						true, -- [11]
+						true, -- [12]
+						true, -- [13]
+						true, -- [14]
+						true, -- [15]
+						false, -- [16]
+						true, -- [17]
+						true, -- [18]
+						true, -- [19]
+						true, -- [20]
+						true, -- [21]
+						true, -- [22]
+						true, -- [23]
+						true, -- [24]
+						true, -- [25]
+						true, -- [26]
+						true, -- [27]
+						false, -- [28]
+						true, -- [29]
+						true, -- [30]
+						true, -- [31]
+						true, -- [32]
+						true, -- [33]
+						true, -- [34]
+						true, -- [35]
+						true, -- [36]
+						true, -- [37]
+						true, -- [38]
+						true, -- [39]
+						true, -- [40]
+						true, -- [41]
+						true, -- [42]
+						true, -- [43]
+						true, -- [44]
+						false, -- [45]
+						true, -- [46]
+						true, -- [47]
+						true, -- [48]
+						true, -- [49]
+						true, -- [50]
+					},
+					["Messages"] = {
+						"Kurenya-Zul'jin Throw Glaive Galleon Hit -69660 (Physical)", -- [1]
+						"Chupamia-Thunderhorn Moonfire (DoT) Galleon Tick -44626 (Arcane)", -- [2]
+						"Pox-Dalaran Frozen Orb Galleon Hit -40152 (Frost)", -- [3]
+						"Chupamia-Thunderhorn Sunfire (DoT) Galleon Tick -47931 (Nature)", -- [4]
+						"Galleon Melee Pox-Dalaran Hit -187 (Physical)", -- [5]
+						"Glademere-Thrall Moonfire (DoT) Galleon Tick -9384 (Arcane)", -- [6]
+						"Majunior-Dentarg Garrote (DoT) Galleon Tick -46591 (Physical)", -- [7]
+						"Pox-Dalaran Frozen Orb Galleon Hit -40152 (Frost)", -- [8]
+						"Melinkô-Illidan Starfall Galleon Hit -42848", -- [9]
+						"Pox-Dalaran Frozen Orb Galleon Hit -41586 (Frost)", -- [10]
+						"Glademere-Thrall Rake Galleon Crit -125538 (Physical)", -- [11]
+						"Melinkô-Illidan Moonfire (DoT) Galleon Tick -78092 (Arcane)", -- [12]
+						"Valadøx-Thrall Ebonbolt Galleon Hit -408530 (Frost)", -- [13]
+						"Chupamia-Thunderhorn Starsurge Galleon Hit -509228", -- [14]
+						"Galleon dies.", -- [15]
+						"Galleon Melee Ezpk-Turalyon Absorb -115 (115 Absorbed) (1)", -- [16]
+						"Ezpk-Turalyon Blade of Justice Galleon Crit -5555 (Physical)", -- [17]
+						"Gharruk-Thunderlord Shadowstrike Galleon Hit -2853 (Physical)", -- [18]
+						"Kraggore Consuming Shadows Galleon Hit -164 (Shadow)", -- [19]
+						"Snutzr-Illidan Mutilate Galleon Hit -1135 (Physical)", -- [20]
+						"Snutzr-Illidan Mutilate Galleon Hit -559 (Physical)", -- [21]
+						"Snutzr-Illidan Touch of the Grave Galleon Hit -689 (Shadow)", -- [22]
+						"Gharruk-Thunderlord Shadowstrike Galleon Crit -3803 (Physical)", -- [23]
+						"Snutzr-Illidan Fathom Fall Galleon Hit -319 (Physical)", -- [24]
+						"Ezpk-Turalyon Judgment Galleon Hit -2578 (Holy)", -- [25]
+						"Snutzr-Illidan Mutilate Galleon Hit -1134 (Physical)", -- [26]
+						"Snutzr-Illidan Mutilate Galleon Hit -558 (Physical)", -- [27]
+						"Galleon Melee Ezpk-Turalyon Absorb -105 (105 Absorbed) (1)", -- [28]
+						"Ezpk-Turalyon Expurgation (DoT) Galleon Crit -1991 (Holy)", -- [29]
+						"Gharruk-Thunderlord Shadowstrike Galleon Crit -3803 (Physical)", -- [30]
+						"Kraggore Consuming Shadows Galleon Hit -164 (Shadow)", -- [31]
+						"Magro-Doomhammer Agony (DoT) Galleon Crit -135 (Shadow)", -- [32]
+						"Swtnsoursoup-Area52 Conflagrate Galleon Hit -3432 (Fire)", -- [33]
+						"Ezpk-Turalyon Templar's Verdict Galleon Hit -6857 (Holy)", -- [34]
+						"Shakurr-Illidan Comet Storm Galleon Hit -106315 (Frost)", -- [35]
+						"Shakurr-Illidan Comet Storm Galleon Hit -106315 (Frost)", -- [36]
+						"Shakurr-Illidan Comet Storm Galleon Hit -106315 (Frost)", -- [37]
+						"Shakurr-Illidan Comet Storm Galleon Hit -110252 (Frost)", -- [38]
+						"Ezpk-Turalyon Wake of Ashes Galleon Hit -593755", -- [39]
+						"Magro-Doomhammer Corruption (DoT) Galleon Tick -48890 (Shadow)", -- [40]
+						"Shakurr-Illidan Comet Storm Galleon Hit -110253 (Frost)", -- [41]
+						"Kraggore Consuming Shadows Galleon Hit -16347 (Shadow)", -- [42]
+						"Shakurr-Illidan Comet Storm Galleon Hit -110253 (Frost)", -- [43]
+						"Ezpk-Turalyon Expurgation (DoT) Galleon Crit -199173 (Holy)", -- [44]
+						"Galleon Melee Ezpk-Turalyon Absorb -222 (222 Absorbed) (1)", -- [45]
+						"Magro-Doomhammer Agony (DoT) Galleon Tick -11337 (Shadow)", -- [46]
+						"Shakurr-Illidan Ice Lance Galleon Hit -85752 (Frost)", -- [47]
+						"Gharruk-Thunderlord Shadowstrike Galleon Hit -218695 (Physical)", -- [48]
+						"Shakurr-Illidan Comet Storm Galleon Hit -110252 (Frost)", -- [49]
+						"Galleon dies.", -- [50]
+					},
+					["DeathAt"] = 9249.382,
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+						0, -- [7]
+						0, -- [8]
+						0, -- [9]
+						0, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						0, -- [15]
+						0, -- [16]
+						0, -- [17]
+						0, -- [18]
+						0, -- [19]
+						0, -- [20]
+						0, -- [21]
+						0, -- [22]
+						0, -- [23]
+						0, -- [24]
+						0, -- [25]
+						0, -- [26]
+						0, -- [27]
+						0, -- [28]
+						0, -- [29]
+						0, -- [30]
+						0, -- [31]
+						0, -- [32]
+						0, -- [33]
+						0, -- [34]
+						0, -- [35]
+						0, -- [36]
+						0, -- [37]
+						0, -- [38]
+						0, -- [39]
+						0, -- [40]
+						0, -- [41]
+						0, -- [42]
+						0, -- [43]
+						0, -- [44]
+						0, -- [45]
+						0, -- [46]
+						0, -- [47]
+						0, -- [48]
+						0, -- [49]
+						0, -- [50]
+					},
+					["MessageTimes"] = {
+						17994.042, -- [1]
+						17994.282, -- [2]
+						17994.402, -- [3]
+						17994.712, -- [4]
+						17994.712, -- [5]
+						17994.712, -- [6]
+						17994.712, -- [7]
+						17994.832, -- [8]
+						17994.952, -- [9]
+						17995.312, -- [10]
+						17995.312, -- [11]
+						17995.312, -- [12]
+						17995.492, -- [13]
+						17995.492, -- [14]
+						17995.592, -- [15]
+						-4.03600000000006, -- [16]
+						-4.03600000000006, -- [17]
+						-4.03600000000006, -- [18]
+						-3.66699999999946, -- [19]
+						-3.30699999999888, -- [20]
+						-3.30699999999888, -- [21]
+						-3.30699999999888, -- [22]
+						-3.1979999999985, -- [23]
+						-2.86599999999999, -- [24]
+						-2.65699999999924, -- [25]
+						-2.49099999999999, -- [26]
+						-2.49099999999999, -- [27]
+						-2.36199999999917, -- [28]
+						-2.36199999999917, -- [29]
+						-2.23599999999897, -- [30]
+						-2.07999999999993, -- [31]
+						-2.07999999999993, -- [32]
+						-1.79399999999987, -- [33]
+						-1.79399999999987, -- [34]
+						-1.08199999999852, -- [35]
+						-1.08199999999852, -- [36]
+						-0.953999999999724, -- [37]
+						-0.759000000000015, -- [38]
+						-0.597999999999956, -- [39]
+						-0.597999999999956, -- [40]
+						-0.597999999999956, -- [41]
+						-0.412999999998647, -- [42]
+						-0.412999999998647, -- [43]
+						-0.412999999998647, -- [44]
+						-0.286999999998443, -- [45]
+						-0.286999999998443, -- [46]
+						-0.173999999999069, -- [47]
+						-0.173999999999069, -- [48]
+						-0.173999999999069, -- [49]
+						0, -- [50]
+					},
+					["HealthMax"] = {
+					},
+					["Health"] = {
+					},
+					["KilledBy"] = "Shakurr-Illidan",
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"MISC", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"DAMAGE", -- [29]
+						"DAMAGE", -- [30]
+						"DAMAGE", -- [31]
+						"DAMAGE", -- [32]
+						"DAMAGE", -- [33]
+						"DAMAGE", -- [34]
+						"DAMAGE", -- [35]
+						"DAMAGE", -- [36]
+						"DAMAGE", -- [37]
+						"DAMAGE", -- [38]
+						"DAMAGE", -- [39]
+						"DAMAGE", -- [40]
+						"DAMAGE", -- [41]
+						"DAMAGE", -- [42]
+						"DAMAGE", -- [43]
+						"DAMAGE", -- [44]
+						"DAMAGE", -- [45]
+						"DAMAGE", -- [46]
+						"DAMAGE", -- [47]
+						"DAMAGE", -- [48]
+						"DAMAGE", -- [49]
+						"MISC", -- [50]
+					},
+				}, -- [5]
+				{
+					["MessageIncoming"] = {
+						false, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						true, -- [6]
+						false, -- [7]
+						true, -- [8]
+						true, -- [9]
+						true, -- [10]
+						true, -- [11]
+						true, -- [12]
+						true, -- [13]
+						true, -- [14]
+						true, -- [15]
+						false, -- [16]
+						true, -- [17]
+						true, -- [18]
+						true, -- [19]
+						true, -- [20]
+						true, -- [21]
+						true, -- [22]
+						true, -- [23]
+						true, -- [24]
+						true, -- [25]
+						true, -- [26]
+						true, -- [27]
+						false, -- [28]
+						true, -- [29]
+						true, -- [30]
+						true, -- [31]
+						true, -- [32]
+						true, -- [33]
+						true, -- [34]
+						true, -- [35]
+						true, -- [36]
+						true, -- [37]
+						true, -- [38]
+					},
+					["Messages"] = {
+						"Galleon Melee Kurenya-Zul'jin Hit -216 (Physical)", -- [1]
+						"Chupamia-Thunderhorn Sunfire Galleon Crit -1284 (Nature)", -- [2]
+						"Kurenya-Zul'jin Fel Rush Galleon Crit -2642", -- [3]
+						"Kurenya-Zul'jin Searing Zap Galleon Hit -325 (Nature)", -- [4]
+						"Valadøx-Thrall Ice Lance Galleon Crit -1724 (Frost)", -- [5]
+						"Melinkô-Illidan Sunfire Galleon Hit -576 (Nature)", -- [6]
+						"Galleon Melee Kurenya-Zul'jin Crit -440 (Physical)", -- [7]
+						"Chupamia-Thunderhorn Moonfire Galleon Crit -978 (Arcane)", -- [8]
+						"Glademere-Thrall Moonfire Galleon Hit -101 (Arcane)", -- [9]
+						"Chupamia-Thunderhorn Sunfire (DoT) Galleon Crit -978 (Nature)", -- [10]
+						"Valadøx-Thrall Ice Lance Galleon Hit -926 (Frost)", -- [11]
+						"Melinkô-Illidan Moonfire Galleon Crit -1002 (Arcane)", -- [12]
+						"Melinkô-Illidan Sunfire (DoT) Galleon Tick -418 (Nature)", -- [13]
+						"Glademere-Thrall Moonfire Galleon Hit -10080 (Arcane)", -- [14]
+						"Chupamia-Thunderhorn Moonfire (DoT) Galleon Tick -44626 (Arcane)", -- [15]
+						"Galleon Melee Chupamia-Thunderhorn Hit -117 (Physical)", -- [16]
+						"Glademere-Thrall Moonfire (DoT) Galleon Crit -19145 (Arcane)", -- [17]
+						"Chupamia-Thunderhorn Sunfire (DoT) Galleon Tick -47932 (Nature)", -- [18]
+						"Pox-Dalaran Ice Lance Galleon Crit -352159 (Frost)", -- [19]
+						"Melinkô-Illidan Moonfire (DoT) Galleon Tick -46653 (Arcane)", -- [20]
+						"Melinkô-Illidan Gutripper Galleon Hit -58804 (Physical)", -- [21]
+						"Melinkô-Illidan Sunfire (DoT) Galleon Tick -41757 (Nature)", -- [22]
+						"Melinkô-Illidan Starfall Galleon Hit -34558", -- [23]
+						"Kurenya-Zul'jin Throw Glaive Galleon Hit -69660 (Physical)", -- [24]
+						"Chupamia-Thunderhorn Moonfire (DoT) Galleon Tick -44626 (Arcane)", -- [25]
+						"Pox-Dalaran Frozen Orb Galleon Hit -40152 (Frost)", -- [26]
+						"Chupamia-Thunderhorn Sunfire (DoT) Galleon Tick -47931 (Nature)", -- [27]
+						"Galleon Melee Pox-Dalaran Hit -187 (Physical)", -- [28]
+						"Glademere-Thrall Moonfire (DoT) Galleon Tick -9384 (Arcane)", -- [29]
+						"Majunior-Dentarg Garrote (DoT) Galleon Tick -46591 (Physical)", -- [30]
+						"Pox-Dalaran Frozen Orb Galleon Hit -40152 (Frost)", -- [31]
+						"Melinkô-Illidan Starfall Galleon Hit -42848", -- [32]
+						"Pox-Dalaran Frozen Orb Galleon Hit -41586 (Frost)", -- [33]
+						"Glademere-Thrall Rake Galleon Crit -125538 (Physical)", -- [34]
+						"Melinkô-Illidan Moonfire (DoT) Galleon Tick -78092 (Arcane)", -- [35]
+						"Valadøx-Thrall Ebonbolt Galleon Hit -408530 (Frost)", -- [36]
+						"Chupamia-Thunderhorn Starsurge Galleon Hit -509228", -- [37]
+						"Galleon dies.", -- [38]
+					},
+					["DeathAt"] = 27245.536,
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+						0, -- [7]
+						0, -- [8]
+						0, -- [9]
+						0, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						0, -- [15]
+						0, -- [16]
+						0, -- [17]
+						0, -- [18]
+						0, -- [19]
+						0, -- [20]
+						0, -- [21]
+						0, -- [22]
+						0, -- [23]
+						0, -- [24]
+						0, -- [25]
+						0, -- [26]
+						0, -- [27]
+						0, -- [28]
+						0, -- [29]
+						0, -- [30]
+						0, -- [31]
+						0, -- [32]
+						0, -- [33]
+						0, -- [34]
+						0, -- [35]
+						0, -- [36]
+						0, -- [37]
+						0, -- [38]
+					},
+					["MessageTimes"] = {
+						-6.71000000000277, -- [1]
+						-5.62000000000262, -- [2]
+						-5.62000000000262, -- [3]
+						-5.62000000000262, -- [4]
+						-2.36000000000058, -- [5]
+						-2.36000000000058, -- [6]
+						-2.36000000000058, -- [7]
+						-2.36000000000058, -- [8]
+						-2.36000000000058, -- [9]
+						-2.36000000000058, -- [10]
+						-2.36000000000058, -- [11]
+						-2.36000000000058, -- [12]
+						-2.36000000000058, -- [13]
+						-2.36000000000058, -- [14]
+						-2.36000000000058, -- [15]
+						-2.36000000000058, -- [16]
+						-2.09000000000015, -- [17]
+						-2.09000000000015, -- [18]
+						-2.09000000000015, -- [19]
+						-2.08000000000175, -- [20]
+						-2.08000000000175, -- [21]
+						-1.68000000000029, -- [22]
+						-1.55000000000291, -- [23]
+						-1.55000000000291, -- [24]
+						-1.31000000000131, -- [25]
+						-1.19000000000233, -- [26]
+						-0.880000000001019, -- [27]
+						-0.880000000001019, -- [28]
+						-0.880000000001019, -- [29]
+						-0.880000000001019, -- [30]
+						-0.760000000002037, -- [31]
+						-0.640000000003056, -- [32]
+						-0.280000000002474, -- [33]
+						-0.280000000002474, -- [34]
+						-0.280000000002474, -- [35]
+						-0.100000000002183, -- [36]
+						-0.100000000002183, -- [37]
+						0, -- [38]
+					},
+					["HealthMax"] = {
+					},
+					["Health"] = {
+					},
+					["KilledBy"] = "Chupamia-Thunderhorn",
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"DAMAGE", -- [29]
+						"DAMAGE", -- [30]
+						"DAMAGE", -- [31]
+						"DAMAGE", -- [32]
+						"DAMAGE", -- [33]
+						"DAMAGE", -- [34]
+						"DAMAGE", -- [35]
+						"DAMAGE", -- [36]
+						"DAMAGE", -- [37]
+						"MISC", -- [38]
+					},
+				}, -- [6]
+				{
+					["MessageIncoming"] = {
+						false, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						false, -- [6]
+						true, -- [7]
+						true, -- [8]
+						true, -- [9]
+						true, -- [10]
+						true, -- [11]
+						true, -- [12]
+						true, -- [13]
+						true, -- [14]
+						true, -- [15]
+						true, -- [16]
+						true, -- [17]
+						true, -- [18]
+						true, -- [19]
+						true, -- [20]
+						false, -- [21]
+						true, -- [22]
+						true, -- [23]
+						true, -- [24]
+						true, -- [25]
+						true, -- [26]
+						true, -- [27]
+						true, -- [28]
+						true, -- [29]
+						true, -- [30]
+						true, -- [31]
+						true, -- [32]
+					},
+					["Messages"] = {
+						"Galleon Melee Quartrpoundr-Andorhal Absorb -206 (206 Absorbed) (1)", -- [1]
+						"Quartrpoundr-Andorhal Rockbiter Galleon Hit -670 (Nature)", -- [2]
+						"Quartrpoundr-Andorhal Lightning Shield Galleon Crit -146 (Nature)", -- [3]
+						"Vanilawafer-Illidan Rockbiter Galleon Crit -2019 (Nature)", -- [4]
+						"Vanilawafer-Illidan Rockbiter Galleon Hit -990 (Nature)", -- [5]
+						"Galleon Melee Vanilawafer-Illidan Absorb -156 (156 Absorbed) (1)", -- [6]
+						"Inovardria-Anvilmar Arcane Barrage Galleon Hit -1475 (Arcane)", -- [7]
+						"Luiscro-Illidan Tiger Palm Galleon Crit -1323 (Physical)", -- [8]
+						"Inovardria-Anvilmar Arcane Explosion Galleon Hit -1195 (Arcane)", -- [9]
+						"Vanilawafer-Illidan Stormstrike Galleon Hit -2688 (Physical)", -- [10]
+						"Vanilawafer-Illidan Stormstrike Off-Hand Galleon Hit -1353 (Physical)", -- [11]
+						"Luiscro-Illidan Tiger Palm Galleon Crit -1088 (Physical)", -- [12]
+						"Vanilawafer-Illidan Gutripper Galleon Crit -1617 (Physical)", -- [13]
+						"Vanilawafer-Illidan Chain Lightning Galleon Hit -1157 (Nature)", -- [14]
+						"Vanilawafer-Illidan Windfury Attack Galleon Hit -433 (Physical)", -- [15]
+						"Vanilawafer-Illidan Windfury Attack Galleon Hit -433 (Physical)", -- [16]
+						"Huntelsa-Arthas Serpent Sting Galleon Hit -621 (Nature)", -- [17]
+						"Inovardria-Anvilmar Arcane Explosion Galleon Crit -256675 (Arcane)", -- [18]
+						"Inovardria-Anvilmar Gutripper Galleon Hit -60784 (Physical)", -- [19]
+						"Quartrpoundr-Andorhal Rockbiter Galleon Hit -67001 (Nature)", -- [20]
+						"Galleon Melee Inovardria-Anvilmar Hit -247 (Physical)", -- [21]
+						"Luiscro-Illidan Eye of the Tiger (DoT) Galleon Tick -14133 (Nature)", -- [22]
+						"Huntelsa-Arthas Raptor Strike Galleon Hit -291149 (Physical)", -- [23]
+						"Huntelsa-Arthas Latent Poison Galleon Hit -25697 (Nature)", -- [24]
+						"Vanilawafer-Illidan Stormstrike Galleon Hit -215054 (Physical)", -- [25]
+						"Vanilawafer-Illidan Stormstrike Off-Hand Galleon Hit -108261 (Physical)", -- [26]
+						"Vanilawafer-Illidan Chain Lightning Galleon Crit -235960 (Nature)", -- [27]
+						"Luiscro-Illidan Blackout Kick Galleon Hit -204392 (Physical)", -- [28]
+						"Inovardria-Anvilmar Arcane Explosion Galleon Crit -265526 (Arcane)", -- [29]
+						"Inovardria-Anvilmar Gutripper Galleon Hit -60784 (Physical)", -- [30]
+						"Quartrpoundr-Andorhal Stormstrike Galleon Crit -615594 (Physical)", -- [31]
+						"Galleon dies.", -- [32]
+					},
+					["DeathAt"] = 10215.053,
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+						0, -- [7]
+						0, -- [8]
+						0, -- [9]
+						0, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						0, -- [15]
+						0, -- [16]
+						0, -- [17]
+						0, -- [18]
+						0, -- [19]
+						0, -- [20]
+						0, -- [21]
+						0, -- [22]
+						0, -- [23]
+						0, -- [24]
+						0, -- [25]
+						0, -- [26]
+						0, -- [27]
+						0, -- [28]
+						0, -- [29]
+						0, -- [30]
+						0, -- [31]
+						0, -- [32]
+					},
+					["MessageTimes"] = {
+						-4.85699999999997, -- [1]
+						-4.85699999999997, -- [2]
+						-4.85699999999997, -- [3]
+						-4.85699999999997, -- [4]
+						-3.55199999999968, -- [5]
+						-3.40900000000147, -- [6]
+						-2.77300000000105, -- [7]
+						-2.03200000000106, -- [8]
+						-2.03200000000106, -- [9]
+						-2.03200000000106, -- [10]
+						-2.03200000000106, -- [11]
+						-2.03200000000106, -- [12]
+						-2.03200000000106, -- [13]
+						-2.03200000000106, -- [14]
+						-2.03200000000106, -- [15]
+						-1.99700000000121, -- [16]
+						-1.72600000000057, -- [17]
+						-1.72600000000057, -- [18]
+						-1.72600000000057, -- [19]
+						-1.53900000000067, -- [20]
+						-1.30400000000009, -- [21]
+						-1.15099999999984, -- [22]
+						-0.762000000000626, -- [23]
+						-0.762000000000626, -- [24]
+						-0.762000000000626, -- [25]
+						-0.762000000000626, -- [26]
+						-0.762000000000626, -- [27]
+						-0.667000000001281, -- [28]
+						-0.409999999999855, -- [29]
+						-0.409999999999855, -- [30]
+						-0.104000000001179, -- [31]
+						0, -- [32]
+					},
+					["HealthMax"] = {
+					},
+					["Health"] = {
+					},
+					["KilledBy"] = "Quartrpoundr-Andorhal",
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"DAMAGE", -- [29]
+						"DAMAGE", -- [30]
+						"DAMAGE", -- [31]
+						"MISC", -- [32]
+					},
+				}, -- [7]
+				{
+					["MessageIncoming"] = {
+						false, -- [1]
+						true, -- [2]
+						true, -- [3]
+						false, -- [4]
+						true, -- [5]
+						true, -- [6]
+						true, -- [7]
+						true, -- [8]
+						true, -- [9]
+						true, -- [10]
+						true, -- [11]
+						true, -- [12]
+						false, -- [13]
+						true, -- [14]
+						true, -- [15]
+						true, -- [16]
+						true, -- [17]
+						true, -- [18]
+						true, -- [19]
+						true, -- [20]
+						true, -- [21]
+						true, -- [22]
+						true, -- [23]
+					},
+					["Messages"] = {
+						"Galleon Melee Xiya-BleedingHollow Hit -207 (Physical)", -- [1]
+						"Xiya-BleedingHollow Immolation Aura Galleon Hit -74303 (Fire)", -- [2]
+						"Xiya-BleedingHollow Immolation Aura Galleon Hit -27740 (Fire)", -- [3]
+						"Galleon Melee Xiya-BleedingHollow Crit -369 (Physical)", -- [4]
+						"Xiya-BleedingHollow Fathom Fall Galleon Crit -62830 (Physical)", -- [5]
+						"Xiya-BleedingHollow Demon's Bite Galleon Hit -126675 (Physical)", -- [6]
+						"Xiya-BleedingHollow Immolation Aura Galleon Crit -55480 (Fire)", -- [7]
+						"Feetis-Mal'Ganis Festering Strike Galleon Hit -208945 (Physical)", -- [8]
+						"Xiya-BleedingHollow Blade Dance Galleon Hit -95139 (Physical)", -- [9]
+						"Xiya-BleedingHollow Blade Dance Galleon Hit -95138 (Physical)", -- [10]
+						"Xiya-BleedingHollow Immolation Aura Galleon Hit -29959 (Fire)", -- [11]
+						"Xiya-BleedingHollow Blade Dance Galleon Hit -95138 (Physical)", -- [12]
+						"Galleon Melee Xiya-BleedingHollow Dodge (1)", -- [13]
+						"Xiya-BleedingHollow Blade Dance Galleon Hit -226628 (Physical)", -- [14]
+						"Feetis-Mal'Ganis Clawing Shadows Galleon Hit -139562 (Shadow)", -- [15]
+						"Feetis-Mal'Ganis Festering Wound Galleon Hit -71883 (Shadow)", -- [16]
+						"Xiya-BleedingHollow Immolation Aura Galleon Hit -28584 (Fire)", -- [17]
+						"Xiya-BleedingHollow Eye Beam Galleon Crit -86430", -- [18]
+						"Xiya-BleedingHollow Eye Beam Galleon Crit -86430", -- [19]
+						"Xiya-BleedingHollow Eye Beam Galleon Crit -90751", -- [20]
+						"Xiya-BleedingHollow Eye Beam Galleon Crit -90751", -- [21]
+						"Xiya-BleedingHollow Eye Beam Galleon Crit -90751", -- [22]
+						"Galleon dies.", -- [23]
+					},
+					["DeathAt"] = 9307.913,
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+						0, -- [7]
+						0, -- [8]
+						0, -- [9]
+						0, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						0, -- [15]
+						0, -- [16]
+						0, -- [17]
+						0, -- [18]
+						0, -- [19]
+						0, -- [20]
+						0, -- [21]
+						0, -- [22]
+						0, -- [23]
+					},
+					["MessageTimes"] = {
+						-4.97099999999955, -- [1]
+						-4.53800000000047, -- [2]
+						-3.65699999999924, -- [3]
+						-3.40699999999924, -- [4]
+						-3.40699999999924, -- [5]
+						-3.40699999999924, -- [6]
+						-2.59100000000035, -- [7]
+						-2.378999999999, -- [8]
+						-2.05600000000049, -- [9]
+						-1.89500000000044, -- [10]
+						-1.64300000000003, -- [11]
+						-1.64300000000003, -- [12]
+						-1.48099999999977, -- [13]
+						-1.33899999999994, -- [14]
+						-1.22699999999895, -- [15]
+						-1.22699999999895, -- [16]
+						-0.680000000000291, -- [17]
+						-0.365999999999985, -- [18]
+						-0.256999999999607, -- [19]
+						-0.159999999999854, -- [20]
+						-0.159999999999854, -- [21]
+						0, -- [22]
+						0, -- [23]
+					},
+					["HealthMax"] = {
+					},
+					["Health"] = {
+					},
+					["KilledBy"] = "Xiya-BleedingHollow",
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"MISC", -- [23]
+					},
+				}, -- [8]
+			},
+			["UnitLockout"] = 1119.607,
+			["LastAbility"] = 222.2,
+		},
+		["Frenzied Reef Shark <Twiddlederr>"] = {
+			["GUID"] = "Vehicle-0-3023-870-15953-60408-00003E5FDC",
+			["LastEventHealth"] = {
+				42685, -- [1]
+				40196, -- [2]
+				39214, -- [3]
+				38232, -- [4]
+				37250, -- [5]
+				36268, -- [6]
+				35285, -- [7]
+				34302, -- [8]
+				33320, -- [9]
+				32338, -- [10]
+				29915, -- [11]
+				28932, -- [12]
+				27949, -- [13]
+				26967, -- [14]
+				25984, -- [15]
+				25002, -- [16]
+				24020, -- [17]
+				23038, -- [18]
+				20483, -- [19]
+				19501, -- [20]
+				18519, -- [21]
+				17537, -- [22]
+				16554, -- [23]
+				15572, -- [24]
+				14590, -- [25]
+				13607, -- [26]
+				12625, -- [27]
+				10332, -- [28]
+				9350, -- [29]
+				8368, -- [30]
+				7385, -- [31]
+				6402, -- [32]
+				5419, -- [33]
+				4436, -- [34]
+				3453, -- [35]
+				2471, -- [36]
+				1488, -- [37]
+				1, -- [38]
+			},
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"MISC", -- [39]
+			},
+			["TimeWindows"] = {
+				["DeathCount"] = {
+					1, -- [1]
+				},
+			},
+			["enClass"] = "PET",
+			["level"] = 1,
+			["LastFightIn"] = 18,
+			["type"] = "Pet",
+			["FightsSaved"] = 5,
+			["ownerName"] = "Twiddlederr",
+			["DeathLogs"] = {
+				{
+					["MessageTimes"] = {
+						-14.1310000000012, -- [1]
+						-13.0680000000011, -- [2]
+						-12.0220000000008, -- [3]
+						-10.9279999999999, -- [4]
+						-9.88800000000083, -- [5]
+						-9.2440000000006, -- [6]
+						-8.87800000000061, -- [7]
+						-7.74799999999959, -- [8]
+						-6.67000000000007, -- [9]
+						-5.66300000000047, -- [10]
+						-4.59100000000035, -- [11]
+						-3.59300000000076, -- [12]
+						-2.41700000000128, -- [13]
+						-1.35000000000036, -- [14]
+						-0.399000000001251, -- [15]
+						0, -- [16]
+						0, -- [17]
+					},
+					["MessageIncoming"] = {
+						true, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						true, -- [6]
+						true, -- [7]
+						true, -- [8]
+						true, -- [9]
+						true, -- [10]
+						true, -- [11]
+						true, -- [12]
+						true, -- [13]
+						true, -- [14]
+						true, -- [15]
+						true, -- [16]
+						true, -- [17]
+					},
+					["Messages"] = {
+						"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6443 (Physical)", -- [1]
+						"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [2]
+						"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [3]
+						"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6443 (Physical)", -- [4]
+						"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [5]
+						"Twiddlederr Eye Gouge Frenzied Reef Shark <Twiddlederr> Hit -15029 (Physical)", -- [6]
+						"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [7]
+						"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [8]
+						"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6443 (Physical)", -- [9]
+						"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6443 (Physical)", -- [10]
+						"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6443 (Physical)", -- [11]
+						"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6443 (Physical)", -- [12]
+						"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6443 (Physical)", -- [13]
+						"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [14]
+						"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6443 (Physical)", -- [15]
+						"Twiddlederr Eye Gouge Frenzied Reef Shark <Twiddlederr> Hit -15881 (Physical)", -- [16]
+						"Frenzied Reef Shark <Twiddlederr> dies.", -- [17]
+					},
+					["HealthMax"] = {
+						43667, -- [1]
+						43667, -- [2]
+						43667, -- [3]
+						43667, -- [4]
+						43667, -- [5]
+						43667, -- [6]
+						43667, -- [7]
+						43667, -- [8]
+						43667, -- [9]
+						43667, -- [10]
+						43667, -- [11]
+						43667, -- [12]
+						43667, -- [13]
+						43667, -- [14]
+						43667, -- [15]
+						43667, -- [16]
+					},
+					["DeathAt"] = 15017.6,
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+						0, -- [7]
+						0, -- [8]
+						0, -- [9]
+						0, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						0, -- [15]
+						0, -- [16]
+						0, -- [17]
+					},
+					["Health"] = {
+						16554, -- [1]
+						15572, -- [2]
+						14590, -- [3]
+						13607, -- [4]
+						12625, -- [5]
+						10332, -- [6]
+						9350, -- [7]
+						8368, -- [8]
+						7385, -- [9]
+						6402, -- [10]
+						5419, -- [11]
+						4436, -- [12]
+						3453, -- [13]
+						2471, -- [14]
+						1488, -- [15]
+						1, -- [16]
+					},
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"MISC", -- [17]
+					},
+				}, -- [1]
+			},
+			["LastEventHealthMax"] = {
+				43667, -- [1]
+				43667, -- [2]
+				43667, -- [3]
+				43667, -- [4]
+				43667, -- [5]
+				43667, -- [6]
+				43667, -- [7]
+				43667, -- [8]
+				43667, -- [9]
+				43667, -- [10]
+				43667, -- [11]
+				43667, -- [12]
+				43667, -- [13]
+				43667, -- [14]
+				43667, -- [15]
+				43667, -- [16]
+				43667, -- [17]
+				43667, -- [18]
+				43667, -- [19]
+				43667, -- [20]
+				43667, -- [21]
+				43667, -- [22]
+				43667, -- [23]
+				43667, -- [24]
+				43667, -- [25]
+				43667, -- [26]
+				43667, -- [27]
+				43667, -- [28]
+				43667, -- [29]
+				43667, -- [30]
+				43667, -- [31]
+				43667, -- [32]
+				43667, -- [33]
+				43667, -- [34]
+				43667, -- [35]
+				43667, -- [36]
+				43667, -- [37]
+				43667, -- [38]
+			},
+			["NextEventNum"] = 40,
+			["TimeLast"] = {
+				["OVERALL"] = 15015.599,
+				["DeathCount"] = 15015.599,
+			},
+			["LastEvents"] = {
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [1]
+				"Twiddlederr Eye Gouge Frenzied Reef Shark <Twiddlederr> Hit -16314 (Physical)", -- [2]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [3]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [4]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [5]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [6]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6443 (Physical)", -- [7]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6443 (Physical)", -- [8]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [9]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [10]
+				"Twiddlederr Eye Gouge Frenzied Reef Shark <Twiddlederr> Hit -15881 (Physical)", -- [11]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6443 (Physical)", -- [12]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6443 (Physical)", -- [13]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [14]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6443 (Physical)", -- [15]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [16]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [17]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [18]
+				"Twiddlederr Eye Gouge Frenzied Reef Shark <Twiddlederr> Hit -16747 (Physical)", -- [19]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [20]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [21]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [22]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6443 (Physical)", -- [23]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [24]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [25]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6443 (Physical)", -- [26]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [27]
+				"Twiddlederr Eye Gouge Frenzied Reef Shark <Twiddlederr> Hit -15029 (Physical)", -- [28]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [29]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [30]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6443 (Physical)", -- [31]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6443 (Physical)", -- [32]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6443 (Physical)", -- [33]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6443 (Physical)", -- [34]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6443 (Physical)", -- [35]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6436 (Physical)", -- [36]
+				"Twiddlederr Shark Jab Frenzied Reef Shark <Twiddlederr> Hit -6443 (Physical)", -- [37]
+				"Twiddlederr Eye Gouge Frenzied Reef Shark <Twiddlederr> Hit -15881 (Physical)", -- [38]
+				"Frenzied Reef Shark <Twiddlederr> dies.", -- [39]
+			},
+			["Name"] = "Frenzied Reef Shark",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+				true, -- [9]
+				true, -- [10]
+				true, -- [11]
+				true, -- [12]
+				true, -- [13]
+				true, -- [14]
+				true, -- [15]
+				true, -- [16]
+				true, -- [17]
+				true, -- [18]
+				true, -- [19]
+				true, -- [20]
+				true, -- [21]
+				true, -- [22]
+				true, -- [23]
+				true, -- [24]
+				true, -- [25]
+				true, -- [26]
+				true, -- [27]
+				true, -- [28]
+				true, -- [29]
+				true, -- [30]
+				true, -- [31]
+				true, -- [32]
+				true, -- [33]
+				true, -- [34]
+				true, -- [35]
+				true, -- [36]
+				true, -- [37]
+				true, -- [38]
+				true, -- [39]
+			},
+			["LastEventTimes"] = {
+				14980.388, -- [1]
+				14980.877, -- [2]
+				14981.807, -- [3]
+				14982.916, -- [4]
+				14984.054, -- [5]
+				14985.125, -- [6]
+				14986.183, -- [7]
+				14987.417, -- [8]
+				14988.432, -- [9]
+				14989.369, -- [10]
+				14989.575, -- [11]
+				14990.511, -- [12]
+				14991.526, -- [13]
+				14992.635, -- [14]
+				14993.711, -- [15]
+				14994.833, -- [16]
+				14995.928, -- [17]
+				14996.983, -- [18]
+				14998.55, -- [19]
+				14998.849, -- [20]
+				14999.883, -- [21]
+				15000.953, -- [22]
+				15001.971, -- [23]
+				15003.034, -- [24]
+				15004.08, -- [25]
+				15005.174, -- [26]
+				15006.214, -- [27]
+				15006.858, -- [28]
+				15007.224, -- [29]
+				15008.354, -- [30]
+				15009.432, -- [31]
+				15010.439, -- [32]
+				15011.511, -- [33]
+				15012.509, -- [34]
+				15013.685, -- [35]
+				15014.752, -- [36]
+				15015.703, -- [37]
+				15016.102, -- [38]
+				15016.102, -- [39]
+			},
+			["UnitLockout"] = 15015.599,
+			["Fights"] = {
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["HOTs"] = {
+					},
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialAbsorb"] = {
+					},
+					["RageGain"] = 0,
+					["FAttacks"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["ElementDone"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementHitsDone"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["CCBreak"] = 0,
+					["EnergyGain"] = 0,
+					["WhoHealed"] = {
+					},
+					["PartialResist"] = {
+					},
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+					},
+					["Heals"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["Healing"] = 0,
+					["RunicPowerGained"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["DamagedWho"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["DeathCount"] = 1,
+				},
+			},
+			["LastAbility"] = 222.2,
 		},
 	},
-	["FightNum"] = 13,
+	["FightNum"] = 30,
 	["CombatTimes"] = {
 		{
 			9518.905, -- [1]
@@ -14417,12 +22943,131 @@ RecountPerCharDB = {
 			"19:59:23", -- [4]
 			"Riverblade Raider", -- [5]
 		}, -- [13]
+		{
+			9303.389, -- [1]
+			9317.38, -- [2]
+			"11:41:59", -- [3]
+			"11:42:12", -- [4]
+			"Badaboop-BleedingHollow", -- [5]
+		}, -- [14]
+		{
+			9357.382, -- [1]
+			9392.385, -- [2]
+			"11:42:52", -- [3]
+			"11:43:27", -- [4]
+			"Badaboop-BleedingHollow", -- [5]
+		}, -- [15]
+		{
+			9397.386, -- [1]
+			9404.38, -- [2]
+			"11:43:32", -- [3]
+			"11:43:39", -- [4]
+			"Keladron-Icecrown", -- [5]
+		}, -- [16]
+		{
+			9539.387, -- [1]
+			9543.381, -- [2]
+			"11:45:55", -- [3]
+			"11:45:58", -- [4]
+			"Prickly Puffer", -- [5]
+		}, -- [17]
+		{
+			10023.386, -- [1]
+			10028.379, -- [2]
+			"11:53:58", -- [3]
+			"11:54:03", -- [4]
+			"Talgin-Skullcrusher", -- [5]
+		}, -- [18]
+		{
+			15063.6, -- [1]
+			15068.609, -- [2]
+			"13:25:33", -- [3]
+			"13:25:37", -- [4]
+			"Landroz-BleedingHollow", -- [5]
+		}, -- [19]
+		{
+			15073.599, -- [1]
+			15076.609, -- [2]
+			"13:25:43", -- [3]
+			"13:25:45", -- [4]
+			"Riverblade Chieftain", -- [5]
+		}, -- [20]
+		{
+			15110.607, -- [1]
+			15154.6, -- [2]
+			"13:26:20", -- [3]
+			"13:27:03", -- [4]
+			"Turqleton-Area52", -- [5]
+		}, -- [21]
+		{
+			15193.607, -- [1]
+			15226.598, -- [2]
+			"13:27:43", -- [3]
+			"13:28:15", -- [4]
+			"Turqleton-Area52", -- [5]
+		}, -- [22]
+		{
+			15273.604, -- [1]
+			15283.611, -- [2]
+			"13:29:03", -- [3]
+			"13:29:12", -- [4]
+			"Turqleton-Area52", -- [5]
+		}, -- [23]
+		{
+			15284.601, -- [1]
+			15290.603, -- [2]
+			"13:29:13", -- [3]
+			"13:29:19", -- [4]
+			"Turqleton-Area52", -- [5]
+		}, -- [24]
+		{
+			15349.61, -- [1]
+			15357.6, -- [2]
+			"13:30:19", -- [3]
+			"13:30:26", -- [4]
+			"Riverblade Thief", -- [5]
+		}, -- [25]
+		{
+			6493.797, -- [1]
+			6500.795, -- [2]
+			"11:14:01", -- [3]
+			"11:14:07", -- [4]
+			"Riverblade Raider", -- [5]
+		}, -- [26]
+		{
+			6501.792, -- [1]
+			6508.797, -- [2]
+			"11:14:09", -- [3]
+			"11:14:15", -- [4]
+			"Riverblade Raider", -- [5]
+		}, -- [27]
+		{
+			6540.79, -- [1]
+			6544.787, -- [2]
+			"11:14:48", -- [3]
+			"11:14:51", -- [4]
+			"Elder Viseclaw", -- [5]
+		}, -- [28]
+		{
+			6544.787, -- [1]
+			6547.789, -- [2]
+			"11:14:52", -- [3]
+			"11:14:54", -- [4]
+			"Elder Viseclaw", -- [5]
+		}, -- [29]
+		{
+			407.607, -- [1]
+			413.608, -- [2]
+			"09:35:45", -- [3]
+			"09:35:51", -- [4]
+			"Krasari Huntress", -- [5]
+		}, -- [30]
 	},
 	["FoughtWho"] = {
-		"Riverblade Raider 19:59:18-19:59:23", -- [1]
-		"Thunder Cleft Brave 21:46:04-21:46:36", -- [2]
-		"Viseclaw Fry 21:34:36-21:34:39", -- [3]
-		"Sting Ray 21:33:23-21:33:25", -- [4]
-		"Sting Ray 21:33:18-21:33:20", -- [5]
+		"Krasari Huntress 09:35:45-09:35:51", -- [1]
+		"Elder Viseclaw 11:14:52-11:14:54", -- [2]
+		"Elder Viseclaw 11:14:48-11:14:51", -- [3]
+		"Riverblade Raider 11:14:09-11:14:15", -- [4]
+		"Riverblade Raider 11:14:01-11:14:07", -- [5]
 	},
 }
