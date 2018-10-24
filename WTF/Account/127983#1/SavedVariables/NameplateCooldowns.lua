@@ -10,7 +10,6 @@ NameplateCooldownsAceDB = {
 	},
 	["profiles"] = {
 		["Twiddlederr - Kel'Thuzad"] = {
-			["DBVersion"] = 8,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -2019,15 +2018,6 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 135277,
 				},
-				["Dark Transformation"] = {
-					["enabled"] = true,
-					["refSpellID"] = 63560,
-					["spellIDs"] = {
-						[63560] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 342913,
-				},
 				["Shambling Rush"] = {
 					["enabled"] = true,
 					["refSpellID"] = 91802,
@@ -2036,6 +2026,15 @@ NameplateCooldownsAceDB = {
 					},
 					["cooldown"] = 30,
 					["texture"] = 237569,
+				},
+				["Dark Transformation"] = {
+					["enabled"] = true,
+					["refSpellID"] = 63560,
+					["spellIDs"] = {
+						[63560] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 342913,
 				},
 				["Revival"] = {
 					["enabled"] = true,
@@ -2443,6 +2442,7 @@ NameplateCooldownsAceDB = {
 					["texture"] = 1115592,
 				},
 			},
+			["DBVersion"] = 8,
 		},
 		["Eyebrowse - Kel'Thuzad"] = {
 			["SpellCDs"] = {
@@ -3515,7 +3515,7 @@ NameplateCooldownsAceDB = {
 						[1850] = true,
 					},
 					["cooldown"] = 180,
-					["texture"] = 1817485,
+					["texture"] = 132120,
 				},
 				["Ascendance"] = {
 					["enabled"] = true,
@@ -4462,14 +4462,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 150,
 					["texture"] = 136206,
 				},
-				["Shambling Rush"] = {
+				["Dark Transformation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 91802,
+					["refSpellID"] = 63560,
 					["spellIDs"] = {
-						[91802] = true,
+						[63560] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 237569,
+					["cooldown"] = 60,
+					["texture"] = 342913,
 				},
 				["Netherwalk"] = {
 					["enabled"] = true,
@@ -4597,14 +4597,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 607865,
 				},
-				["Dark Transformation"] = {
+				["Shambling Rush"] = {
 					["enabled"] = true,
-					["refSpellID"] = 63560,
+					["refSpellID"] = 91802,
 					["spellIDs"] = {
-						[63560] = true,
+						[91802] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 342913,
+					["cooldown"] = 30,
+					["texture"] = 237569,
 				},
 				["Master of the Elements"] = {
 					["enabled"] = true,
@@ -6897,14 +6897,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 150,
 					["texture"] = 136206,
 				},
-				["Dark Transformation"] = {
+				["Shambling Rush"] = {
 					["enabled"] = true,
-					["refSpellID"] = 63560,
+					["refSpellID"] = 91802,
 					["spellIDs"] = {
-						[63560] = true,
+						[91802] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 342913,
+					["cooldown"] = 30,
+					["texture"] = 237569,
 				},
 				["Netherwalk"] = {
 					["enabled"] = true,
@@ -7032,14 +7032,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 607865,
 				},
-				["Shambling Rush"] = {
+				["Dark Transformation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 91802,
+					["refSpellID"] = 63560,
 					["spellIDs"] = {
-						[91802] = true,
+						[63560] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 237569,
+					["cooldown"] = 60,
+					["texture"] = 342913,
 				},
 				["Master of the Elements"] = {
 					["enabled"] = true,
@@ -7315,7 +7315,6 @@ NameplateCooldownsAceDB = {
 			["DBVersion"] = 8,
 		},
 		["Fistbeavers - Kel'Thuzad"] = {
-			["DBVersion"] = 8,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -9333,14 +9332,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 607865,
 				},
-				["Dark Transformation"] = {
+				["Shambling Rush"] = {
 					["enabled"] = true,
-					["refSpellID"] = 63560,
+					["refSpellID"] = 91802,
 					["spellIDs"] = {
-						[63560] = true,
+						[91802] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 342913,
+					["cooldown"] = 30,
+					["texture"] = 237569,
 				},
 				["Trueshot"] = {
 					["enabled"] = true,
@@ -9468,14 +9467,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 1020466,
 				},
-				["Shambling Rush"] = {
+				["Dark Transformation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 91802,
+					["refSpellID"] = 63560,
 					["spellIDs"] = {
-						[91802] = true,
+						[63560] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 237569,
+					["cooldown"] = 60,
+					["texture"] = 342913,
 				},
 				["Dancing Rune Weapon"] = {
 					["enabled"] = true,
@@ -9748,6 +9747,7 @@ NameplateCooldownsAceDB = {
 					["texture"] = 1380678,
 				},
 			},
+			["DBVersion"] = 8,
 		},
 	},
 }

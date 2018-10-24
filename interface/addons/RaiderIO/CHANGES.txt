@@ -1,10 +1,40 @@
-lightweight tag a7301e02d3ec545ddad88d2222e2d0b928a6c21a v201810110600
+lightweight tag 0e431695d14a125dcb598bedb8c4fd1854f00f61 v201810231117
 Author:	Jah Raphael <jahraphael@yahoo.com>
-Date:	Thu Oct 11 07:48:06 2018 +0000
+Date:	Tue Oct 23 12:12:44 2018 +0000
 
-commit a7301e02d3ec545ddad88d2222e2d0b928a6c21a
+commit 0e431695d14a125dcb598bedb8c4fd1854f00f61
 Author: Jah Raphael <jahraphael@yahoo.com>
-Date:   Thu Oct 11 07:48:06 2018 +0000
+Date:   Tue Oct 23 12:12:44 2018 +0000
 
     [Raider.IO] Database Refresh
+
+commit d15ec23251025031ee3f9ae2157fbc542f754e80
+Author: Jah Raphael <jahraphael@yahoo.com>
+Date:   Tue Oct 23 01:37:40 2018 -0500
+
+    score stats updated
+
+commit 5512ddc9a0cc394819b709ef71d613156c6f4a1f
+Author: Jah Raphael <jahraphael@yahoo.com>
+Date:   Mon Oct 22 22:00:37 2018 -0500
+
+    build script fixes to account for issue where new DB toc folders are added
+
+commit 5512ddc9a0cc394819b709ef71d613156c6f4a1f
+Author: Jah Raphael <jahraphael@yahoo.com>
+Date:   Mon Oct 22 22:00:37 2018 -0500
+
+    build script fixes to account for issue where new DB toc folders are added
+
+commit c7291ab485d3beaff4e13516b1df587b90c0bfd8
+Author: Jah Raphael <jahraphael@yahoo.com>
+Date:   Mon Oct 22 20:17:55 2018 -0500
+
+    db updates
+
+commit 38f5667ee20716339d812a673d8cedab15794fcc
+Author: Jah Raphael <jahraphael@yahoo.com>
+Date:   Mon Oct 22 20:00:06 2018 -0500
+
+    bugfixes from Isak's review
 

@@ -33,15 +33,15 @@ Bagnon_Sets = {
 				"contain/all", -- [24]
 				"misc/all", -- [25]
 			},
-			["point"] = "TOPRIGHT",
+			["point"] = "BOTTOMRIGHT",
 			["hiddenBags"] = {
 			},
 			["color"] = {
 			},
 			["hiddenRules"] = {
 			},
-			["y"] = -70.9934692382813,
-			["x"] = -299.999267578125,
+			["y"] = 114.999870300293,
+			["x"] = -45.9989013671875,
 			["borderColor"] = {
 			},
 			["alpha"] = 1,

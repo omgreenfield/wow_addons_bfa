@@ -13,13 +13,13 @@ VER 3 0100000000000017 "Fur" "1378702"
 /cast [nostance:1] Bear Form;
 /cast Iron Fur
 END
-VER 3 010000000000001A "Juve/SF" "136081"
+VER 3 010000000000001A "Juve/SS" "136081"
 #showtooltip
 /cast [@target, help] Rejuvenation;
 /cast [@target, harm, stance:1] Mangle;
 /cast [@target, harm, stance:2] Shred;
 /cast [@target, harm, stance:4] Starsurge;
-/cast Rejuvenation;
+/cast [@player, nostance: 4] Rejuvenation;
 END
 VER 3 010000000000001B "LB/MF" "134206"
 #showtooltip
@@ -57,7 +57,7 @@ VER 3 0100000000000013 "RG/SF" "136085"
 #showtooltip
 /cast [@target, help] Regrowth;
 /cast [@target, harm] Sunfire(Solar)
-/cast Regrowth;
+/cast [@player, nostance: 4] Regrowth;
 END
 VER 3 0100000000000015 "SBash" "236946"
 #showtooltip
@@ -73,6 +73,7 @@ END
 VER 3 010000000000001C "SM/Swipe" "134914"
 #showtooltip
 /cast [@target, help] Swiftmend;
+/cast [@target, harm] Swipe;
 /cast [@target, harm] Solar Wrath(Solar);
 /cast Swiftmend
 END
@@ -89,14 +90,15 @@ VER 3 0100000000000008 "TFuryOrGrowl" "ABILITY_MOUNT_JUNGLETIGER"
 END
 VER 3 0100000000000016 "Thrash" "451161"
 #showtooltip
-/cast [stance:4] Lunar Strike;
-/cast [nostance:1/2] Bear Form;
+/cast [stance: 4] Lunar Strike;
+/cast [nostance:1/2/4] Bear Form;
 /cast Thrash
 END
 VER 3 0100000000000018 "Travel" "132144"
 /cast [outdoors, nostance:3][swimming, nostance:3] Travel Form(Shapeshift)
 END
 VER 3 010000000000001D "WC/Renewal" "538771"
+#showtooltip
 /cast Wild Charge;
 /cast Renewal;
 END

@@ -12,6 +12,25 @@ local MINOR_VERSION = 90000 + tonumber(("$Revision: 43b $"):match("(%d+)"))
 
 if not LibStub then error(MAJOR_VERSION .. " requires LibStub") end
 
+if (UIDROPDOWNMENU_VALUE_PATCH_VERSION or 0) < 2 then
+	UIDROPDOWNMENU_VALUE_PATCH_VERSION = 2
+	hooksecurefunc("UIDropDownMenu_InitializeHelper", function()
+		if UIDROPDOWNMENU_VALUE_PATCH_VERSION ~= 2 then
+			return
+		end
+		for i=1, UIDROPDOWNMENU_MAXLEVELS do
+			for j=1, UIDROPDOWNMENU_MAXBUTTONS do
+				local b = _G["DropDownList" .. i .. "Button" .. j]
+				if not (issecurevariable(b, "value") or b:IsShown()) then
+					b.value = nil
+					repeat
+						j, b["fx" .. j] = j+1
+					until issecurevariable(b, "value")
+				end
+			end
+		end
+	end)
+end
 -- #AUTODOC_NAMESPACE LibSimpleOptions
 
 local LibSimpleOptions, oldLib = LibStub:NewLibrary(MAJOR_VERSION, MINOR_VERSION)
@@ -430,7 +449,7 @@ do
 			info.func = SetValue_wrapper
 			info.arg1 = self
 			info.arg2 = value
-			UIDropDownMenu_AddButton(info)
+			UIDropDownMenu_AddButton(info, UIDROPDOWNMENU_MENU_LEVEL)
 		end
 	end
 	
@@ -524,7 +543,7 @@ do
 		end
 		dropDown.tooltipText = args.description
 		dropDown.values = args.values
-		dropDown.initialize = function() UIDropDownMenu_Initialize(dropDown, function()
+		dropDown.initialize = function() UIDropDownMenu_Initialize(dropDown, function(self, level, menuList)
 			dropDown_menu(dropDown)
 		end) end
 		dropDown.initialize()

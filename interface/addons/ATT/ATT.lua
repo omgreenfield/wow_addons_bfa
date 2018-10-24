@@ -363,9 +363,7 @@ function ATT:InspectIsReady(guid)
 	local inspectedUnit = ATTFindUnitByGUID(guid)
 	if not inspectedUnit then return end
 	local isInspect = inspectedUnit ~= "player"
-
 	self:DequeueInspectByGUID(guid)
-
 	if isInspect then
 		inspected[guid] = GetInspectSpecialization(inspectedUnit) or 0
 		self:UpdateAnchors()
@@ -387,9 +385,7 @@ end
 function ATT:ProcessInspectQueue()
 	if GetTime() > nextInspectTick then
 		nextInspectTick = GetTime() + 1
-
-		self:InspectPlayer()
-
+		--self:InspectPlayer()
 		for i, guid in pairs(inspect_queue) do
 			local unit = ATTFindUnitByGUID(guid)
 			if unit and CanInspect(unit) and not (InspectFrame and InspectFrame:IsShown()) then
@@ -412,22 +408,42 @@ function ATT:SavePositions()
 		local worldscale = UIParent:GetEffectiveScale()
 		local x = anchor:GetLeft() * scale
 		local y = (anchor:GetTop() * scale) - (UIParent:GetTop() * worldscale)
-	
 		if not db.positions[k] then
 			db.positions[k] = {}
-		end
-	
+		end	
 		db.positions[k].x = x
 		db.positions[k].y = y
 	end
 end
+--[[
+function ATT:FindCompactRaidFrameByUnit(unit)
+	if not unit or not UnitGUID(unit) then return end
+	for i=1, 5 do
+	    if i ~= nil then
+		local frame = _G["CompactRaidFrame"..i]
+		if frame and frame.unit and UnitGUID(frame.unit) == UnitGUID(unit) then
+			return frame:GetName()
+		end end
+	end
+end
+--]]
+
 
 function ATT:FindCompactRaidFrameByUnit(unit)
 	if not unit or not UnitGUID(unit) then return end
 	for i=1, 5 do
-		local frame = _G["CompactRaidFrame"..i]
+		local frame = nil
+		if CompactRaidFrameManager_GetSetting("KeepGroupsTogether") then
+			if UnitInRaid("player") then
+				frame = _G["CompactRaidGroup1Member"..i]
+			else
+				frame = _G["CompactPartyFrameMember"..i]
+			end
+		else
+			frame = _G["CompactRaidFrame"..i]
+		end
 		if frame and frame.unit and UnitGUID(frame.unit) == UnitGUID(unit) then
-			return frame:GetName()
+			return frame
 		end
 	end
 end
@@ -456,6 +472,7 @@ end
 function ATT:CreateAnchors()
     local backdrop = {bgFile="Interface\\Tooltips\\UI-Tooltip-Background", edgeFile="", tile=false,}
 	for i=1,5 do
+	    if i ~= nil then 
 		local anchor = CreateFrame("Frame","ATTAnchor"..i ,ATTAnchor)
 		anchor:SetBackdrop(backdrop)
 		anchor:SetHeight(15)
@@ -473,7 +490,7 @@ function ATT:CreateAnchors()
 		local index = anchor:CreateFontString(nil,"ARTWORK","GameFontNormal")
 		index:SetPoint("CENTER")
 		index:SetText(i)
-	end
+	end end
 end
 
 -- creates a new raw frame icon that can be used/reused to show cooldowns
@@ -822,7 +839,7 @@ function ATT:Fnumbers()
 	local ATTU=UnitIsUnit 
     hooksecurefunc("CompactUnitFrame_UpdateName",function(Fnumbers)
     if IsActiveBattlefieldArena()and Fnumbers.unit:find("nameplate") and db.arenanumber then 
-    for i=1,3 do if ATTU(Fnumbers.unit,"arena"..i)then Fnumbers.name:SetText(i)Fnumbers.name:SetTextColor(1,1,0)break end end end end)
+    for i=1,3 do if ATTU(Fnumbers.unit,"arena"..i) and i ~= nil then Fnumbers.name:SetText(i)Fnumbers.name:SetTextColor(1,1,0)break end end end end)
 end
 
 function ATT:GroupUpdate()
@@ -1088,7 +1105,7 @@ end
 
 function ATT:SendAddonMessage(prefix, message, dest, target)
 	local chl = strlower(dest)
-	if (chl == "raid" and GetNumGroupMembers(LE_PARTY_CATEGORY_HOME) == 0) or (chl == "party" and GetNumGroupMembers(LE_PARTY_CATEGORY_HOME) == 0) or (chl == "guild" and not IsInGuild()) then
+	if (chl == "party" and GetNumGroupMembers(LE_PARTY_CATEGORY_HOME) == 0) then
 		return
 	end
 	C_ChatInfo.SendAddonMessage(prefix, message, dest, target)
@@ -1157,7 +1174,7 @@ local function ATT_OnLoad(self)
 	end)
 
 	
-	print("Arena Team Tracker by |cff33ff99Izy|r. Type |cff33ff99/att|r to open options.")
+	print("Arena Team Tracker by |cff33ff99Izy|r. Type |cffFF4500/att|r to open options.")
 end
 
 function ATT:FindAbilityIcon(ability, id)
@@ -1609,7 +1626,7 @@ function ATT:CreateAbilityEditor()
     description:SetPoint("TOPLEFT",scrollframe,"BOTTOMLEFT",10,-10)
 	
     local authordesc =  panel:CreateFontString(nil,"ARTWORK","GameFontDisable")
-    authordesc:SetText("If you want to help with future development any support for my work is greatly appreciated.\r\nYou can find and support me at: < |cff33ff99http://www.twitch.tv/imedia|r > or < |cff33ff99curseforge|r >.  Enjoy! \r\n  \r\n  |cffffff00Version:|r |cff33ff99v3.6|r")
+    authordesc:SetText("If you want to help with future development any support for my work is greatly appreciated.\r\nYou can find and support me at: < |cff33ff99http://www.twitch.tv/imedia|r > or < |cff33ff99curseforge|r >.  Enjoy! \r\n  \r\n  |cffffff00Version:|r |cff33ff99v3.7|r")
    	authordesc:SetJustifyH("LEFT")
     authordesc:SetPoint("TOPLEFT",scrollframe,"BOTTOMLEFT",10,-80)
 	authordesc:SetPoint("RIGHT", -12, 0)

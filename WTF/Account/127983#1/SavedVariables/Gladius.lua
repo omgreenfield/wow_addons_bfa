@@ -91,14 +91,14 @@ Gladius2DB = {
 			},
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
+			["announcements"] = {
+				["dispell"] = true,
+				["trinket"] = true,
+			},
 			["tagsTexts"] = {
 				["HealthBar Left Text"] = {
 					["text"] = "[name:status] [maxhealth]",
 				},
-			},
-			["announcements"] = {
-				["dispell"] = true,
-				["trinket"] = true,
 			},
 		},
 		["Suhdrude - Anvilmar"] = {
@@ -208,14 +208,14 @@ Gladius2DB = {
 			},
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
+			["announcements"] = {
+				["dispell"] = true,
+				["trinket"] = true,
+			},
 			["tagsTexts"] = {
 				["HealthBar Left Text"] = {
 					["text"] = "[name:status] [maxhealth]",
 				},
-			},
-			["announcements"] = {
-				["dispell"] = true,
-				["trinket"] = true,
 			},
 		},
 		["Twiddlederr - Anvilmar"] = {
@@ -241,10 +241,10 @@ Gladius2DB = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
 			["y"] = {
-				["arena1"] = 533.33347645601,
+				["arena1"] = 526.933519703816,
 			},
 			["x"] = {
-				["arena1"] = 960.711742013045,
+				["arena1"] = 1031.11191732885,
 			},
 			["tagsTexts"] = {
 				["HealthBar Right Text"] = {

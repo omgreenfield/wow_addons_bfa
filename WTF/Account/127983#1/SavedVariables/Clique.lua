@@ -12,19 +12,19 @@ CliqueDB3 = {
 		["Eyebrowse - Kel'Thuzad"] = {
 			["spec1_profileKey"] = "Eyebrowse - Kel'Thuzad",
 			["fastooc"] = false,
-			["spec3_profileKey"] = "Eyebrowse - Kel'Thuzad",
+			["specswap"] = false,
 			["downclick"] = false,
 			["spec4_profileKey"] = "Eyebrowse - Kel'Thuzad",
-			["specswap"] = false,
 			["spec2_profileKey"] = "Eyebrowse - Kel'Thuzad",
+			["spec3_profileKey"] = "Eyebrowse - Kel'Thuzad",
 		},
 		["Fistbeavers - Kel'Thuzad"] = {
 			["spec1_profileKey"] = "Fistbeavers - Kel'Thuzad",
-			["specswap"] = false,
+			["spec2_profileKey"] = "Fistbeavers - Kel'Thuzad",
 			["downclick"] = false,
 			["fastooc"] = false,
+			["specswap"] = false,
 			["spec3_profileKey"] = "Fistbeavers - Kel'Thuzad",
-			["spec2_profileKey"] = "Fistbeavers - Kel'Thuzad",
 		},
 	},
 	["profileKeys"] = {

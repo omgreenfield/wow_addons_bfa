@@ -13,6 +13,19 @@ END
 VER 3 000000000000003C "B OPIE" "135926"
 /click ORLOpen Buffs
 END
+VER 3 0000000000000066 "Bash" "132114"
+#showtooltip Mighty Bash
+/cleartarget
+/stopattack
+/console targetNearestDistance 10,000000
+/targetenemy [noharm] [dead]
+/console targetNearestDistance 41.000000
+/cast [harm,nodead] Mighty Bash
+END
+VER 3 0000000000000062 "BeamPi" "252188"
+/click [@arena1,exists][@arena2,exists][@arena3,exists] ORLOpen Beam
+/cast [@target][@arena1,noexists] Solar Beam
+END
 VER 3 000000000000004C "Bear" "132276"
 /cast [nostance:1] Bear Form(Shapeshift)
 END
@@ -56,9 +69,9 @@ END
 VER 3 0000000000000017 "Consume Magic" "ABILITY_DEMONHUNTER_CONSUMEMAGIC"
 /cast [nomod,@target] [mod:shift,@arena1] [mod:alt,@arena2] [mod:ctrl,@arena3] Consume Magic;
 END
-VER 3 000000000000002E "CycloneOPIE" "SPELL_NATURE_EARTHBIND"
-/click [@arena1, exists][@arena2,exists][@arena3,exists] ORLOpen Cyclone
-/cast Cyclone
+VER 3 000000000000002E "CyPi" "136022"
+/click [@arena1,exists][@arena2,exists][@arena3,exists] ORLOpen Cyclone
+/cast [@target][@arena1,noexists] Cyclone
 END
 VER 3 0000000000000028 "DisableRBTarget1" "INV_MISC_QUESTIONMARK"
 /run local f=CreateFrame("button","mlook")f:RegisterForClicks("AnyDown","AnyUp")f:SetScript("OnClick",function(s,b,d)if d then MouselookStart()else MouselookStop()end end)SecureStateDriverManager:RegisterEvent("UPDATE_MOUSEOVER_UNIT")
@@ -74,6 +87,10 @@ VER 3 000000000000005D "FT" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0000000000000027 "HealerProfRing" "INV_MISC_QUESTIONMARK"
 /click ORLOpen rofessions
+END
+VER 3 0000000000000060 "HiPi" "136090"
+/click [@arena1,exists][@arena2,exists][@arena3,exists] ORLOpen Hibernate
+/cast [@target][@arena1,exists] Hibernate
 END
 VER 3 0000000000000039 "IE Opie" "2203916"
 /click ORLOpen IslandExp
@@ -109,15 +126,6 @@ END
 VER 3 0000000000000057 "recount" "INV_MISC_QUESTIONMARK"
 /recount report main say
 END
-VER 3 000000000000002B "Rejuvenation" "SPELL_NATURE_REJUVENATION"
-#showtooltip
-/cast [@mouseover, exists, help] Rejuvenation;
-/cast [@target, exists, help] Rejuvenation;
-/cast Rejuvenation;;
-END
-VER 3 0000000000000030 "ResOPIE" "SPELL_NATURE_REINCARNATION"
-/click ORLOpen Res
-END
 VER 3 000000000000003E "ResPie" "132132"
 /click ORLOpen Res
 END
@@ -140,18 +148,22 @@ VER 3 0000000000000051 "rootMo" "136100"
 /cast [@mouseover, exists] Entangling Roots;
 /cast Entangling Roots;
 END
-VER 3 0000000000000050 "rootPi" "INV_MISC_QUESTIONMARK"
-/click ORLOpen Roots
-END
 VER 3 0000000000000052 "rootPi" "136100"
 /click [@arena1, exists][@arena2,exists][@arena3,exists] ORLOpen Roots
-/cast Entangling Roots
+/cast [@target][@arena1, noexists] Entangling Roots
+END
+VER 3 0000000000000050 "rootPi" "INV_MISC_QUESTIONMARK"
+/click ORLOpen Roots
 END
 VER 3 0000000000000033 "RootsOrInnervate" "SPELL_NATURE_STRANGLEVINES"
 #showtooltip
 /cast [@target, exists, help] Innvervate;
 /click [@target,harm] ORLOpen Roots
 /cast Innervate;
+END
+VER 3 0000000000000065 "SBPi" "236946"
+/click [@arena1, exists][@arena2,exists][@arena3,exists] ORLOpen SB
+/cast [@target][@arena1, noexists] Skull Bash;
 END
 VER 3 000000000000005E "sFT" "INV_MISC_QUESTIONMARK"
 /focus [target=mouseover][@focus, noexists]
@@ -164,6 +176,10 @@ END
 VER 3 0000000000000053 "sit" "INV_MISC_QUESTIONMARK"
 /sit
 END
+VER 3 0000000000000061 "SoothePi" "132163"
+/click [@arena1, exists][@arena2,exists][@arena3,exists] ORLOpen Soothe
+/cast [@target][@arena1,noexists] Soothe
+END
 VER 3 0000000000000045 "SpecsPi" "132121"
 /click ORLOpen Specs
 END
@@ -175,6 +191,10 @@ VER 3 0000000000000031 "StarSurgOrRejuv" "SPELL_ARCANE_ARCANE03"
 /cast [@target, exists, help] Rejuvenation;
 /cast [@target,harm] Starsurge
 /cast Rejuvenation;
+END
+VER 3 0000000000000064 "SwarmPi" "132119"
+/click [@arena1,exists][@arena2,exists][@arena3,exists] ORLOpen Swarm
+/cast [@target][@arena1,noexists][Faerie Swarm
 END
 VER 3 0000000000000003 "SwitchFnT" "1405818"
 /target focus
@@ -207,6 +227,10 @@ VER 3 000000000000003F "TrinkRacial" "1322720"
 #showtooltip
 /cast Every Man for Himself;
 /cast Gladiator's Medalion
+END
+VER 3 0000000000000063 "WG" "236153"
+/cast [@target] Wild Growth;
+/cast [@player] Wild Growth;
 END
 VER 3 0000000000000024 "WorldMarkRing" "656166"
 /click ORLOpen WorldMarkers

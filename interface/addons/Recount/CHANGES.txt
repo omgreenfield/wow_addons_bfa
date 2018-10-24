@@ -1,8 +1,8 @@
 ------------------------------------------------------------------------
-r1462 | Resike | 2018-09-16 17:43:47 +0000 (Sun, 16 Sep 2018) | 1 line
+r1466 | Resike | 2018-10-23 18:20:14 +0000 (Tue, 23 Oct 2018) | 1 line
 Changed paths:
-   M /trunk/Recount.lua
+   M /trunk/locales/Recount-enUS.lua
 
-- Force a library update.
+- Localization fix
 ------------------------------------------------------------------------
 

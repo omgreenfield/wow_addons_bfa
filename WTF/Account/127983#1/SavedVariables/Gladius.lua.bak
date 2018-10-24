@@ -91,14 +91,14 @@ Gladius2DB = {
 			},
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["announcements"] = {
-				["dispell"] = true,
-				["trinket"] = true,
-			},
 			["tagsTexts"] = {
 				["HealthBar Left Text"] = {
 					["text"] = "[name:status] [maxhealth]",
 				},
+			},
+			["announcements"] = {
+				["dispell"] = true,
+				["trinket"] = true,
 			},
 		},
 		["Suhdrude - Anvilmar"] = {
@@ -126,22 +126,11 @@ Gladius2DB = {
 			},
 		},
 		["Gladius"] = {
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
 			["y"] = {
 				["arena1"] = 440.889116578637,
 			},
 			["x"] = {
 				["arena1"] = 964.267037238024,
-			},
-			["announcements"] = {
-				["dispell"] = true,
-				["trinket"] = true,
-			},
-			["tagsTexts"] = {
-				["HealthBar Left Text"] = {
-					["text"] = "[name:status] [maxhealth]",
-				},
 			},
 			["tags"] = {
 				["maxhealth"] = {
@@ -217,6 +206,17 @@ Gladius2DB = {
 					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
 				},
 			},
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["tagsTexts"] = {
+				["HealthBar Left Text"] = {
+					["text"] = "[name:status] [maxhealth]",
+				},
+			},
+			["announcements"] = {
+				["dispell"] = true,
+				["trinket"] = true,
+			},
 		},
 		["Twiddlederr - Anvilmar"] = {
 			["y"] = {
@@ -238,14 +238,14 @@ Gladius2DB = {
 			},
 		},
 		["Eyebrowse - Kel'Thuzad"] = {
-			["y"] = {
-				["arena1"] = 533.33347645601,
-			},
-			["x"] = {
-				["arena1"] = 960.711742013045,
-			},
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
+			["y"] = {
+				["arena1"] = 526.933519703816,
+			},
+			["x"] = {
+				["arena1"] = 1031.11191732885,
+			},
 			["tagsTexts"] = {
 				["HealthBar Right Text"] = {
 					["text"] = "[health:percentage] [maxhealth]",

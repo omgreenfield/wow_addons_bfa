@@ -31,9 +31,9 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = -305.000061035156,
-			["MainWindowHeight"] = 225.999984741211,
-			["MainWindowWidth"] = 247,
 			["DetailWindowX"] = 565.000061035156,
+			["MainWindowWidth"] = 247,
+			["MainWindowHeight"] = 225.999984741211,
 		},
 		["Suhdrude - Anvilmar"] = {
 			["MainWindow"] = {
@@ -65,10 +65,6 @@ RecountDB = {
 				},
 			},
 			["MainWindowMode"] = 2,
-			["MainWindowHeight"] = 207.000076293945,
-			["LastInstanceName"] = "Dalaran Sewers",
-			["CurDataSet"] = "OverallData",
-			["MainWindowWidth"] = 211,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -79,6 +75,10 @@ RecountDB = {
 					},
 				},
 			},
+			["MainWindowHeight"] = 207.000076293945,
+			["CurDataSet"] = "OverallData",
+			["MainWindowWidth"] = 211,
+			["LastInstanceName"] = "Dalaran Sewers",
 		},
 		["Twiddlederr - Anvilmar"] = {
 			["MainWindow"] = {
@@ -100,18 +100,18 @@ RecountDB = {
 					},
 				},
 			},
-			["LastInstanceName"] = "Silvershard Mines",
+			["MainWindowHeight"] = 209.999984741211,
 			["CurDataSet"] = "LastFightData",
 			["MainWindowWidth"] = 201.999923706055,
-			["MainWindowHeight"] = 209.999984741211,
+			["LastInstanceName"] = "Silvershard Mines",
 		},
 		["Eyebrowse - Kel'Thuzad"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -189.999877929688,
-					["x"] = 540.000122070313,
+					["y"] = -241.999816894531,
+					["x"] = 530,
 					["w"] = 252.000045776367,
-					["h"] = 208.000015258789,
+					["h"] = 207.999984741211,
 				},
 			},
 			["MainWindowMode"] = 2,
@@ -128,12 +128,12 @@ RecountDB = {
 			},
 			["DetailWindowY"] = -305.000030517578,
 			["DeleteJoinRaid"] = false,
-			["DetailWindowX"] = 800.000244140625,
+			["DetailWindowX"] = 800.000366210938,
 			["DeleteJoinGroup"] = false,
 			["AutoDelete"] = false,
 			["LastInstanceName"] = "Dalaran Sewers",
-			["CurDataSet"] = "OverallData",
 			["Font"] = "2002 Bold",
+			["CurDataSet"] = "CurrentFightData",
 			["AutoDeleteNewInstance"] = false,
 			["MainWindowWidth"] = 251.999893188477,
 		},

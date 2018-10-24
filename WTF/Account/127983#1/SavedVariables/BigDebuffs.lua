@@ -5,20 +5,12 @@ BigDebuffsDB = {
 		},
 	},
 	["profileKeys"] = {
-		["Twiddlederr - Kel'Thuzad"] = "Twiddlederr - Kel'Thuzad",
-		["Suhdrude - Anvilmar"] = "Default",
-		["Fistbeavers - Kel'Thuzad"] = "Default",
-		["Twiddlederr - Anvilmar"] = "Default",
+		["Twiddlederr - Kel'Thuzad"] = "Default",
 		["Eyebrowse - Kel'Thuzad"] = "Default",
+		["Fistbeavers - Kel'Thuzad"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
-			["unitFrames"] = {
-				["arena1"] = {
-				},
-			},
-		},
-		["Twiddlederr - Kel'Thuzad"] = {
 			["unitFrames"] = {
 				["arena1"] = {
 				},

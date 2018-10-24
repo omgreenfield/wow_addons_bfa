@@ -42,10 +42,11 @@ Postal3DB = {
 		["Eyebrowse - Kel'Thuzad"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Fistbeavers|Kel'Thuzad|Alliance", -- [1]
-					"Twiddlederr|Kel'Thuzad|Alliance", -- [2]
-					"Fistbeaversqqqq|Kel'Thuzad|Alliance", -- [3]
-					"h|Kel'Thuzad|Alliance", -- [4]
+					"Twiddlederr|Kel'Thuzad|Alliance", -- [1]
+					"Fistbeavers|Kel'Thuzad|Alliance", -- [2]
+					"Twiddlederre|Kel'Thuzad|Alliance", -- [3]
+					"Fistbeaversqqqq|Kel'Thuzad|Alliance", -- [4]
+					"h|Kel'Thuzad|Alliance", -- [5]
 				},
 			},
 		},

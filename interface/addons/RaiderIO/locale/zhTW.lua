@@ -22,6 +22,8 @@ L["CHANGES_REQUIRES_UI_RELOAD"] = [=[您的更動已儲存，但您必須重載U
 
 你要現在這麼做嗎？]=]
 L["CHECKBOX_DISPLAY_WEEKLY"] = "顯示每週"
+--[[Translation missing --]]
+--[[ L["CONFIG_SHOW_TOOLTIPS_HEADER"] = ""--]] 
 L["COPY_RAIDERIO_PROFILE_URL"] = "複製Raider.IO設定檔網址"
 L["COPY_RAIDERIO_URL"] = "複製Raider.IO網址"
 L["DPS"] = "DPS"
@@ -66,13 +68,21 @@ L["GUILD_BEST_TITLE"] = "Raider.IO紀錄"
 L["GUILD_BEST_WEEKLY"] = "公會：當週最佳"
 L["HEALER"] = "治療者"
 L["HEALER_SCORE"] = "治療者分數"
+--[[Translation missing --]]
+--[[ L["HIDE_OWN_PROFILE"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["HIDE_OWN_PROFILE_DESC"] = ""--]] 
 L["INVERSE_PROFILE_MODIFIER"] = "反轉切換紀錄提示"
 L["INVERSE_PROFILE_MODIFIER_DESC"] = "啟用將反轉紀錄提示快捷鍵的行為 (shift/ctrl/alt)：按下在個人/領隊或領隊/個人的紀錄間切換檢視。"
 L["KEYSTONE_COMPLETED_10"] = "+10（完成鑰石）"
 L["KEYSTONE_COMPLETED_15"] = "+15（完成鑰石）"
+--[[Translation missing --]]
+--[[ L["KEYSTONE_COMPLETED_5"] = ""--]] 
 L["LEGION_MAIN_SCORE"] = "軍臨天下當季分數"
 L["LEGION_SCORE"] = "軍臨天下分數"
 L["LOCKING_PROFILE_FRAME"] = "RaiderIO：M+紀錄框架鎖定中。"
+--[[Translation missing --]]
+--[[ L["MAINS_RAID_PROGRESS"] = ""--]] 
 L["MAINS_SCORE"] = "當季分數"
 L["MAINS_SCORE_COLON"] = "當季分數："
 L["MODULE_AMERICAS"] = "美洲"
@@ -91,12 +101,70 @@ L["OUTDATED_DATABASE_S"] = "|cffFFFFFF%s|r使用的數據已經有|cffFF6666%d|r
 L["PLAYER_PROFILE_TITLE"] = "玩家M+紀錄"
 L["PREV_SEASON_SUFFIX"] = "(*)"
 L["PROFILE_BEST_RUNS"] = "地城最高紀錄"
+--[[Translation missing --]]
+--[[ L["RAID_ABBREVIATION_ULD"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_ABT_1"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_ABT_10"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_ABT_11"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_ABT_2"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_ABT_3"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_ABT_4"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_ABT_5"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_ABT_6"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_ABT_7"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_ABT_8"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_ABT_9"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_ULD_1"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_ULD_2"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_ULD_3"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_ULD_4"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_ULD_5"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_ULD_6"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_ULD_7"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_ULD_8"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_DIFFICULTY_NAME_HEROIC"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_DIFFICULTY_NAME_MYTHIC"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_DIFFICULTY_NAME_NORMAL"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_DIFFICULTY_SUFFIX_HEROIC"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_DIFFICULTY_SUFFIX_MYTHIC"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_DIFFICULTY_SUFFIX_NORMAL"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_ENCOUNTERS_DEFEATED_TITLE"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_PROGRESS_TITLE"] = ""--]] 
 L["RAIDERIO_AVERAGE_PLAYER_SCORE"] = "時限內+%s的平均分數"
 L["RAIDERIO_CLIENT_CUSTOMIZATION"] = "RaiderIO客戶端自訂"
 L["RAIDERIO_MP_BASE_SCORE"] = "Raider.IO 傳奇+ 基礎分數"
 L["RAIDERIO_MP_SCORE"] = "Raider.IO 傳奇+分數"
 L["RAIDERIO_MP_SCORE_COLON"] = "Raider.IO 傳奇+分數："
 L["RAIDERIO_MYTHIC_OPTIONS"] = "Raider.IO傳奇+選項"
+--[[Translation missing --]]
+--[[ L["RAIDING_DATA_HEADER"] = ""--]] 
 L["RAIDING_DB_MODULES"] = "陣列數據庫模組中"
 L["RELOAD_LATER"] = "等會才重載"
 L["RELOAD_NOW"] = "現在就重載"
@@ -122,6 +190,10 @@ L["SHOW_ON_GUILD_ROSTER"] = "顯示在公會名冊"
 L["SHOW_ON_GUILD_ROSTER_DESC"] = "當你鼠標懸停在公會名冊上的公會成員時顯示傳奇+分數。"
 L["SHOW_ON_PLAYER_UNITS"] = "顯示在玩家單位"
 L["SHOW_ON_PLAYER_UNITS_DESC"] = "當你鼠標懸停在玩家單位上時顯示傳奇+分數。"
+--[[Translation missing --]]
+--[[ L["SHOW_RAID_ENCOUNTERS_IN_PROFILE"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["SHOW_RAID_ENCOUNTERS_IN_PROFILE_DESC"] = ""--]] 
 L["SHOW_RAIDERIO_PROFILE"] = "在地城搜尋器上顯示M+紀錄提示"
 L["SHOW_RAIDERIO_PROFILE_DESC"] = "在地城搜尋器上顯示Raider.IO紀錄提示"
 L["SHOW_SCORE_IN_COMBAT"] = "戰鬥中顯示分數"
@@ -130,8 +202,11 @@ L["TANK"] = "坦克"
 L["TANK_SCORE"] = "坦克分數"
 L["TIMED_10_RUNS"] = "時限內10-14+次數"
 L["TIMED_15_RUNS"] = "時限內15+次數"
+L["TIMED_5_RUNS"] = "時限內+5-9次數"
 L["TOOLTIP_CUSTOMIZATION"] = "提示自定義"
 L["TOOLTIP_PROFILE"] = "紀錄提示自定義"
+--[[Translation missing --]]
+--[[ L["TOTAL_MP_SCORE"] = ""--]] 
 L["TOTAL_RUNS"] = "決戰艾澤拉斯總計次數"
 L["UNKNOWN_SCORE"] = "未知"
 L["UNKNOWN_SERVER_FOUND"] = "|cffFFFFFF%s|r已經轉到新伺服器。請記下此資訊|cffFF9999{|r |cffFFFFFF%s|r |cffFF9999,|r |cffFFFFFF%s|r |cffFF9999}|r並且回報給開發者，感謝您！"
