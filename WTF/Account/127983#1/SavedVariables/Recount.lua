@@ -31,9 +31,9 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = -305.000061035156,
-			["DetailWindowX"] = 565.000061035156,
-			["MainWindowWidth"] = 247,
 			["MainWindowHeight"] = 225.999984741211,
+			["MainWindowWidth"] = 247,
+			["DetailWindowX"] = 565.000061035156,
 		},
 		["Suhdrude - Anvilmar"] = {
 			["MainWindow"] = {
@@ -65,6 +65,10 @@ RecountDB = {
 				},
 			},
 			["MainWindowMode"] = 2,
+			["MainWindowHeight"] = 207.000076293945,
+			["LastInstanceName"] = "Dalaran Sewers",
+			["CurDataSet"] = "OverallData",
+			["MainWindowWidth"] = 211,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -75,10 +79,6 @@ RecountDB = {
 					},
 				},
 			},
-			["MainWindowHeight"] = 207.000076293945,
-			["CurDataSet"] = "OverallData",
-			["MainWindowWidth"] = 211,
-			["LastInstanceName"] = "Dalaran Sewers",
 		},
 		["Twiddlederr - Anvilmar"] = {
 			["MainWindow"] = {
@@ -90,6 +90,10 @@ RecountDB = {
 				},
 			},
 			["MainWindowMode"] = 2,
+			["MainWindowHeight"] = 209.999984741211,
+			["LastInstanceName"] = "Silvershard Mines",
+			["CurDataSet"] = "LastFightData",
+			["MainWindowWidth"] = 201.999923706055,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -100,10 +104,6 @@ RecountDB = {
 					},
 				},
 			},
-			["MainWindowHeight"] = 209.999984741211,
-			["CurDataSet"] = "LastFightData",
-			["MainWindowWidth"] = 201.999923706055,
-			["LastInstanceName"] = "Silvershard Mines",
 		},
 		["Eyebrowse - Kel'Thuzad"] = {
 			["MainWindow"] = {
@@ -114,7 +114,7 @@ RecountDB = {
 					["h"] = 207.999984741211,
 				},
 			},
-			["MainWindowMode"] = 2,
+			["AutoDeleteNewInstance"] = false,
 			["MainWindowHeight"] = 207.999938964844,
 			["Colors"] = {
 				["Bar"] = {
@@ -126,15 +126,15 @@ RecountDB = {
 					},
 				},
 			},
-			["DetailWindowY"] = -305.000030517578,
+			["DetailWindowY"] = -299,
 			["DeleteJoinRaid"] = false,
-			["DetailWindowX"] = 800.000366210938,
+			["DetailWindowX"] = 197.999923706055,
 			["DeleteJoinGroup"] = false,
 			["AutoDelete"] = false,
 			["LastInstanceName"] = "Dalaran Sewers",
 			["Font"] = "2002 Bold",
-			["CurDataSet"] = "CurrentFightData",
-			["AutoDeleteNewInstance"] = false,
+			["CurDataSet"] = "LastFightData",
+			["MainWindowMode"] = 2,
 			["MainWindowWidth"] = 251.999893188477,
 		},
 	},

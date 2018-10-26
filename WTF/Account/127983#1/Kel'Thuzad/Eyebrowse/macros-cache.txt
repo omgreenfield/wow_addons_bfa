@@ -73,8 +73,8 @@ END
 VER 3 010000000000001C "SM/Swipe" "134914"
 #showtooltip
 /cast [@target, help] Swiftmend;
-/cast [@target, harm] Swipe;
 /cast [@target, harm] Solar Wrath(Solar);
+/cast [@target, harm] Swipe;
 /cast Swiftmend
 END
 VER 3 010000000000000D "Swipe/SW" "134296"
@@ -91,8 +91,7 @@ END
 VER 3 0100000000000016 "Thrash" "451161"
 #showtooltip
 /cast [stance: 4] Lunar Strike;
-/cast [nostance:1/2/4] Bear Form;
-/cast Thrash
+/cast [stance: 1] Thrash
 END
 VER 3 0100000000000018 "Travel" "132144"
 /cast [outdoors, nostance:3][swimming, nostance:3] Travel Form(Shapeshift)

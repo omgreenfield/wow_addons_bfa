@@ -36,6 +36,7 @@ TellMeWhenDB = {
 	["profiles"] = {
 		["Twiddlederr - Kel'Thuzad"] = {
 			["Locked"] = true,
+			["NumGroups"] = 8,
 			["Version"] = 85403,
 			["Groups"] = {
 				{
@@ -58,8 +59,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -86,8 +87,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -114,8 +115,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -142,8 +143,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -170,8 +171,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -199,8 +200,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Netherwalk",
 							["Type"] = "cooldown",
+							["Name"] = "Netherwalk",
 							["States"] = {
 								{
 								}, -- [1]
@@ -226,9 +227,6 @@ TellMeWhenDB = {
 									},
 								},
 							},
-							["OnlyInBags"] = true,
-							["Type"] = "item",
-							["Name"] = "Healthstone",
 							["States"] = {
 								{
 									["Texture"] = "6262",
@@ -243,6 +241,9 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Name"] = "Healthstone",
+							["Type"] = "item",
+							["OnlyInBags"] = true,
 						}, -- [7]
 						{
 							["States"] = {
@@ -360,8 +361,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Demon's Bite",
 							["Type"] = "cooldown",
+							["Name"] = "Demon's Bite",
 							["States"] = {
 								{
 								}, -- [1]
@@ -389,8 +390,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -417,8 +418,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -445,8 +446,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -473,8 +474,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -501,8 +502,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -529,8 +530,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -584,8 +585,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -613,8 +614,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -641,8 +642,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -669,8 +670,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Rain from Above",
 							["Type"] = "cooldown",
+							["Name"] = "Rain from Above",
 							["States"] = {
 								{
 								}, -- [1]
@@ -697,8 +698,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -725,8 +726,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Fel Barrage",
 							["Type"] = "cooldown",
+							["Name"] = "Fel Barrage",
 							["States"] = {
 								{
 								}, -- [1]
@@ -753,8 +754,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -772,18 +773,6 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["RangeCheck"] = true,
 							["ClockGCD"] = true,
-							["OnlyInBags"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"sD", -- [1]
-									},
-								},
-							},
-							["Type"] = "item",
-							["Name"] = "159614",
-							["OnlyEquipped"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -795,6 +784,18 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"sD", -- [1]
+									},
+								},
+							},
+							["Type"] = "item",
+							["Name"] = "159614",
+							["OnlyEquipped"] = true,
+							["OnlyInBags"] = true,
 						}, -- [16]
 						{
 							["ManaCheck"] = true,
@@ -810,8 +811,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -828,18 +829,6 @@ TellMeWhenDB = {
 							["Enabled"] = true,
 							["ShowTimer"] = true,
 							["ClockGCD"] = true,
-							["OnlyInBags"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"sV", -- [1]
-									},
-								},
-							},
-							["Type"] = "item",
-							["Name"] = "162897",
-							["OnlyEquipped"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -851,6 +840,18 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"sV", -- [1]
+									},
+								},
+							},
+							["Type"] = "item",
+							["Name"] = "162897",
+							["OnlyEquipped"] = true,
+							["OnlyInBags"] = true,
 						}, -- [18]
 						{
 							["States"] = {
@@ -934,8 +935,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Disrupt; Disrupt",
 							["Type"] = "cooldown",
+							["Name"] = "Disrupt; Disrupt",
 							["States"] = {
 								{
 								}, -- [1]
@@ -962,8 +963,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -990,8 +991,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -1047,7 +1048,10 @@ TellMeWhenDB = {
 					["LayoutDirection"] = 4,
 					["Role"] = 1,
 					["Columns"] = 2,
-					["GUID"] = "TMW:group:1RSt=ouq0YL7",
+					["Point"] = {
+						["y"] = -56.9959824265785,
+						["x"] = -272.679979298716,
+					},
 					["Scale"] = 0.791677951812744,
 					["Rows"] = 3,
 					["Icons"] = {
@@ -1335,10 +1339,7 @@ TellMeWhenDB = {
 							},
 						}, -- [21]
 					},
-					["Point"] = {
-						["y"] = -56.9959824265785,
-						["x"] = -272.679979298716,
-					},
+					["GUID"] = "TMW:group:1RSt=ouq0YL7",
 				}, -- [4]
 				{
 					["GUID"] = "TMW:group:1RTVFSDmEWiz",
@@ -1361,8 +1362,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -1390,8 +1391,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Throw Glaive",
 							["Type"] = "cooldown",
+							["Name"] = "Throw Glaive",
 							["States"] = {
 								{
 								}, -- [1]
@@ -1418,8 +1419,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Blade Dance",
 							["Type"] = "cooldown",
+							["Name"] = "Blade Dance",
 							["States"] = {
 								{
 								}, -- [1]
@@ -1446,8 +1447,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Fel Rush",
 							["Type"] = "cooldown",
+							["Name"] = "Fel Rush",
 							["States"] = {
 								{
 								}, -- [1]
@@ -1475,8 +1476,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Felblade",
 							["Type"] = "cooldown",
+							["Name"] = "Felblade",
 							["States"] = {
 								{
 								}, -- [1]
@@ -1503,8 +1504,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -1542,8 +1543,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Chaos Strike",
 							["Type"] = "cooldown",
+							["Name"] = "Chaos Strike",
 							["States"] = {
 								{
 								}, -- [1]
@@ -1570,8 +1571,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -1598,8 +1599,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Torment",
 							["Type"] = "cooldown",
+							["Name"] = "Torment",
 							["States"] = {
 								{
 								}, -- [1]
@@ -1626,8 +1627,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -1654,8 +1655,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Metamorphosis",
 							["Type"] = "cooldown",
+							["Name"] = "Metamorphosis",
 							["States"] = {
 								{
 								}, -- [1]
@@ -1827,8 +1828,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -1855,8 +1856,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Imprison",
 							["Type"] = "cooldown",
+							["Name"] = "Imprison",
 							["States"] = {
 								{
 								}, -- [1]
@@ -1883,8 +1884,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -1934,8 +1935,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -1962,8 +1963,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -1990,8 +1991,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -2018,8 +2019,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -2046,8 +2047,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Vengeful Retreat",
 							["Type"] = "cooldown",
+							["Name"] = "Vengeful Retreat",
 							["States"] = {
 								{
 								}, -- [1]
@@ -2073,9 +2074,6 @@ TellMeWhenDB = {
 									},
 								},
 							},
-							["OnlyInBags"] = true,
-							["Type"] = "item",
-							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -2087,6 +2085,9 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["ShowTimerText"] = true,
+							["Type"] = "item",
+							["OnlyInBags"] = true,
 						}, -- [6]
 						{
 							["States"] = {
@@ -2286,10 +2287,12 @@ TellMeWhenDB = {
 					},
 				}, -- [9]
 			},
-			["NumGroups"] = 8,
 		},
 		["Druid"] = {
+			["ForceNoBlizzCC"] = true,
 			["Version"] = 85403,
+			["NumGroups"] = 25,
+			["DrawEdge"] = true,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1RfFReP1S9a5",
@@ -2319,8 +2322,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Moonfire",
+							["ShowTimerText"] = true,
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -2347,8 +2350,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Sunfire; Rip",
+							["ShowTimerText"] = true,
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -2410,8 +2413,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "Warrior of Elune; Tiger's Fury",
 							["ShowTimerText"] = true,
+							["Name"] = "Warrior of Elune; Tiger's Fury",
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -2438,8 +2441,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "Incarnation: King of the Jungle",
 							["ShowTimerText"] = true,
+							["Name"] = "Incarnation: King of the Jungle",
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -2464,21 +2467,38 @@ TellMeWhenDB = {
 							["Enabled"] = true,
 						}, -- [7]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
+							["Name"] = "Stellar Flare",
+							["ClockGCD"] = true,
+							["ManaCheck"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"cW", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
 						}, -- [8]
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "Rake",
 							["ShowTimerText"] = true,
+							["Name"] = "Rake",
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -2505,8 +2525,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Starfall; Ferocious Bite",
+							["ShowTimerText"] = true,
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -2533,8 +2553,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "Force of Nature",
 							["ShowTimerText"] = true,
+							["Name"] = "Force of Nature",
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -2561,8 +2581,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "Maim",
 							["ShowTimerText"] = true,
+							["Name"] = "Maim",
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -2589,8 +2609,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "Fury of Elune; Stampeding Roar",
 							["ShowTimerText"] = true,
+							["Name"] = "Fury of Elune; Stampeding Roar",
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -2684,8 +2704,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Mighty Bash; Mass Entanglement; Typhoon",
+							["ShowTimerText"] = true,
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -2712,8 +2732,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Ursol's Vortex",
+							["ShowTimerText"] = true,
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -2740,8 +2760,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Thorns",
+							["ShowTimerText"] = true,
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -2768,8 +2788,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Entangling Roots",
+							["ShowTimerText"] = true,
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -2796,8 +2816,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "Cyclone",
 							["ShowTimerText"] = true,
+							["Name"] = "Cyclone",
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -2824,8 +2844,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Hibernate",
+							["ShowTimerText"] = true,
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -2852,8 +2872,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "Soothe",
 							["ShowTimerText"] = true,
+							["Name"] = "Soothe",
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -2880,8 +2900,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Solar Beam",
+							["ShowTimerText"] = true,
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -2908,8 +2928,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Faerie Swarm",
+							["ShowTimerText"] = true,
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -2980,8 +3000,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Barkskin; Survival Instincts",
+							["ShowTimerText"] = true,
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -3008,8 +3028,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "Incarnation: Tree of Life; Incarnation: Chosen of Elune; Celestial Alignment",
 							["ShowTimerText"] = true,
+							["Name"] = "Incarnation: Tree of Life; Incarnation: Chosen of Elune; Celestial Alignment",
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -3036,8 +3056,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "Renewal",
 							["ShowTimerText"] = true,
+							["Name"] = "Renewal",
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -3064,7 +3084,7 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "item",
-							["ShowTimerText"] = true,
+							["Name"] = "Healthstone",
 							["Enabled"] = true,
 							["OnlyInBags"] = true,
 							["ClockGCD"] = true,
@@ -3088,13 +3108,13 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["Name"] = "Healthstone",
+							["ShowTimerText"] = true,
 						}, -- [4]
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Innervate",
+							["ShowTimerText"] = true,
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -3189,8 +3209,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Frenzied Regeneration",
+							["ShowTimerText"] = true,
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -3284,8 +3304,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Nature's Cure; Remove Corruption",
+							["ShowTimerText"] = true,
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -3312,8 +3332,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Swiftmend",
+							["ShowTimerText"] = true,
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -3340,8 +3360,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "Flourish",
 							["ShowTimerText"] = true,
+							["Name"] = "Flourish",
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -3368,8 +3388,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Ironbark",
+							["ShowTimerText"] = true,
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -3396,8 +3416,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Cenarion Ward",
+							["ShowTimerText"] = true,
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -3424,8 +3444,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "Overgrowth",
 							["ShowTimerText"] = true,
+							["Name"] = "Overgrowth",
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -3529,8 +3549,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Gladiator's Medallion",
+							["ShowTimerText"] = true,
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -3557,8 +3577,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Prowl",
+							["ShowTimerText"] = true,
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -3585,8 +3605,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Shadowmeld",
+							["ShowTimerText"] = true,
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -3624,8 +3644,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Wild Charge",
+							["ShowTimerText"] = true,
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -3652,8 +3672,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Dash",
+							["ShowTimerText"] = true,
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -3680,8 +3700,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "Rebirth",
 							["ShowTimerText"] = true,
+							["Name"] = "Rebirth",
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -3821,8 +3841,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["Name"] = "Barkskin",
 							["ShowTimerText"] = true,
+							["Name"] = "Barkskin",
 							["States"] = {
 								{
 									["Texture"] = "164547",
@@ -3875,8 +3895,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["Name"] = "Warrior of Elune",
 							["ShowTimerText"] = true,
+							["Name"] = "Warrior of Elune",
 							["Conditions"] = {
 								{
 									["Type"] = "UNITSPEC",
@@ -3902,8 +3922,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["Name"] = "Lunar Empowerment",
 							["ShowTimerText"] = true,
+							["Name"] = "Lunar Empowerment",
 							["States"] = {
 								{
 									["Texture"] = "164547",
@@ -3921,8 +3941,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
 							["Name"] = "Solar Empowerment",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 									["Texture"] = "164545",
@@ -3941,8 +3961,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
 							["Name"] = "Ironfur",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 									["Texture"] = "164547",
@@ -3960,8 +3980,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["Name"] = "Innervate",
 							["ShowTimerText"] = true,
+							["Name"] = "Innervate",
 							["States"] = {
 								{
 									["Texture"] = "29166",
@@ -4079,8 +4099,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Growl",
+							["ShowTimerText"] = true,
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -4218,7 +4238,7 @@ TellMeWhenDB = {
 							["Type"] = "cooldown",
 							["Name"] = "Mangle",
 							["ShowTimerText"] = true,
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1Rji6MdbKQ13",
 							["Conditions"] = {
 								{
 									["Type"] = "STANCE",
@@ -4248,14 +4268,14 @@ TellMeWhenDB = {
 							["RangeCheck"] = true,
 							["FakeHidden"] = true,
 							["Enabled"] = true,
-							["GUID"] = "TMW:icon:1Rji6MdbKQ13",
+							["ManaCheck"] = true,
 						}, -- [1]
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
 							["ShowTimerText"] = true,
 							["Name"] = "Shred",
-							["GUID"] = "TMW:icon:1Rji6Mdfx_Y6",
+							["ManaCheck"] = true,
 							["Conditions"] = {
 								{
 									["Type"] = "STANCE",
@@ -4285,14 +4305,14 @@ TellMeWhenDB = {
 							["RangeCheck"] = true,
 							["FakeHidden"] = true,
 							["Enabled"] = true,
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1Rji6Mdfx_Y6",
 						}, -- [2]
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
 							["ShowTimerText"] = true,
 							["Name"] = "Starsurge",
-							["GUID"] = "TMW:icon:1RjgNCit=ksg",
+							["ManaCheck"] = true,
 							["Conditions"] = {
 								{
 									["Type"] = "STANCE",
@@ -4322,14 +4342,14 @@ TellMeWhenDB = {
 							["RangeCheck"] = true,
 							["FakeHidden"] = true,
 							["Enabled"] = true,
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1RjgNCit=ksg",
 						}, -- [3]
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
 							["ShowTimerText"] = true,
 							["Name"] = "Rejuvenation",
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1Rj_KJmA5m49",
 							["Conditions"] = {
 								{
 									["Type"] = "STANCE",
@@ -4359,7 +4379,7 @@ TellMeWhenDB = {
 							["RangeCheck"] = true,
 							["FakeHidden"] = true,
 							["Enabled"] = true,
-							["GUID"] = "TMW:icon:1Rj_KJmA5m49",
+							["ManaCheck"] = true,
 						}, -- [4]
 						{
 							["States"] = {
@@ -4466,7 +4486,7 @@ TellMeWhenDB = {
 							["Type"] = "cooldown",
 							["ShowTimerText"] = true,
 							["Name"] = "Thrash",
-							["GUID"] = "TMW:icon:1RjgNDrGwqHt",
+							["ManaCheck"] = true,
 							["Conditions"] = {
 								{
 									["Type"] = "UNITSPEC",
@@ -4505,16 +4525,16 @@ TellMeWhenDB = {
 							["RangeCheck"] = true,
 							["FakeHidden"] = true,
 							["Enabled"] = true,
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1RjgNDrGwqHt",
 						}, -- [1]
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
 							["ShowTimerText"] = true,
 							["Name"] = "Lunar Strike",
-							["GUID"] = "TMW:icon:1RjgNDrO88mu",
-							["ClockGCD"] = true,
 							["ManaCheck"] = true,
+							["ClockGCD"] = true,
+							["GUID"] = "TMW:icon:1RjgNDrO88mu",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["Texts"] = {
@@ -4542,7 +4562,7 @@ TellMeWhenDB = {
 							["Type"] = "cooldown",
 							["Name"] = "Thrash",
 							["ShowTimerText"] = true,
-							["GUID"] = "TMW:icon:1Rnv8vFTKvwc",
+							["ManaCheck"] = true,
 							["Conditions"] = {
 								{
 									["Type"] = "UNITSPEC",
@@ -4578,7 +4598,7 @@ TellMeWhenDB = {
 							["RangeCheck"] = true,
 							["FakeHidden"] = true,
 							["Enabled"] = true,
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1Rnv8vFTKvwc",
 						}, -- [3]
 						{
 							["States"] = {
@@ -4684,8 +4704,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "Wild Growth",
 							["ShowTimerText"] = true,
+							["Name"] = "Wild Growth",
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -4712,8 +4732,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "Tranquility",
 							["ShowTimerText"] = true,
+							["Name"] = "Tranquility",
 							["ClockGCD"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -5437,8 +5457,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
 							["Name"] = "Regrowth",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -5455,8 +5475,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["Name"] = "Wild Growth",
 							["ShowTimerText"] = true,
+							["Name"] = "Wild Growth",
 							["States"] = {
 								{
 								}, -- [1]
@@ -5473,8 +5493,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
 							["Name"] = "Focused Growth",
+							["ShowTimerText"] = true,
 							["Conditions"] = {
 								{
 									["Type"] = "PVPTALENTLEARNED",
@@ -5498,8 +5518,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["Name"] = "Rejuvenation",
 							["ShowTimerText"] = true,
+							["Name"] = "Rejuvenation",
 							["States"] = {
 								{
 								}, -- [1]
@@ -5516,8 +5536,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
 							["Name"] = "Rejuvenation (Germination)",
+							["ShowTimerText"] = true,
 							["Conditions"] = {
 								{
 									["Type"] = "TALENTLEARNED",
@@ -5543,8 +5563,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["Name"] = "Lifebloom",
 							["ShowTimerText"] = true,
+							["Name"] = "Lifebloom",
 							["Conditions"] = {
 								{
 									["Type"] = "TREEROLE2",
@@ -5721,17 +5741,6 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 						},
-						[37] = {
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						},
 						[28] = {
 							["States"] = {
 								{
@@ -5743,7 +5752,7 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 						},
-						[22] = {
+						[55] = {
 							["States"] = {
 								{
 								}, -- [1]
@@ -5765,7 +5774,18 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 						},
-						[55] = {
+						[22] = {
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						},
+						[37] = {
 							["States"] = {
 								{
 								}, -- [1]
@@ -5796,8 +5816,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party1",
 							["Type"] = "buff",
-							["Name"] = "Regrowth",
 							["ShowTimerText"] = true,
+							["Name"] = "Regrowth",
 							["States"] = {
 								{
 								}, -- [1]
@@ -5815,8 +5835,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party1",
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
 							["Name"] = "Wild Growth",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -5834,8 +5854,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party1",
 							["Type"] = "buff",
-							["Name"] = "Focused Growth",
 							["ShowTimerText"] = true,
+							["Name"] = "Focused Growth",
 							["Conditions"] = {
 								{
 									["Type"] = "PVPTALENTLEARNED",
@@ -5860,8 +5880,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party1",
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
 							["Name"] = "Rejuvenation",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -5879,8 +5899,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party1",
 							["Type"] = "buff",
-							["Name"] = "Rejuvenation (Germination)",
 							["ShowTimerText"] = true,
+							["Name"] = "Rejuvenation (Germination)",
 							["Conditions"] = {
 								{
 									["Type"] = "TALENTLEARNED",
@@ -5907,8 +5927,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party1",
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
 							["Name"] = "Lifebloom",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -5973,8 +5993,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party2",
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
 							["Name"] = "Regrowth",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -5992,8 +6012,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party2",
 							["Type"] = "buff",
-							["Name"] = "Wild Growth",
 							["ShowTimerText"] = true,
+							["Name"] = "Wild Growth",
 							["States"] = {
 								{
 								}, -- [1]
@@ -6011,8 +6031,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party2",
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
 							["Name"] = "Focused Growth",
+							["ShowTimerText"] = true,
 							["Conditions"] = {
 								{
 									["Type"] = "PVPTALENTLEARNED",
@@ -6037,8 +6057,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party2",
 							["Type"] = "buff",
-							["Name"] = "Rejuvenation",
 							["ShowTimerText"] = true,
+							["Name"] = "Rejuvenation",
 							["States"] = {
 								{
 								}, -- [1]
@@ -6056,8 +6076,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party2",
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
 							["Name"] = "Rejuvenation (Germination)",
+							["ShowTimerText"] = true,
 							["Conditions"] = {
 								{
 									["Type"] = "TALENTLEARNED",
@@ -6084,8 +6104,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party2",
 							["Type"] = "buff",
-							["Name"] = "Lifebloom",
 							["ShowTimerText"] = true,
+							["Name"] = "Lifebloom",
 							["States"] = {
 								{
 								}, -- [1]
@@ -6150,8 +6170,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party3",
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
 							["Name"] = "Regrowth",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -6169,8 +6189,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party3",
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
 							["Name"] = "Wild Growth",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -6188,8 +6208,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party3",
 							["Type"] = "buff",
-							["Name"] = "Focused Growth",
 							["ShowTimerText"] = true,
+							["Name"] = "Focused Growth",
 							["Conditions"] = {
 								{
 									["Type"] = "PVPTALENTLEARNED",
@@ -6214,8 +6234,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party3",
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
 							["Name"] = "Rejuvenation",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -6233,8 +6253,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party3",
 							["Type"] = "buff",
-							["Name"] = "Rejuvenation (Germination)",
 							["ShowTimerText"] = true,
+							["Name"] = "Rejuvenation (Germination)",
 							["Conditions"] = {
 								{
 									["Type"] = "TALENTLEARNED",
@@ -6261,8 +6281,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party3",
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
 							["Name"] = "Lifebloom",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -6329,8 +6349,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party4",
 							["Type"] = "buff",
-							["Name"] = "Regrowth",
 							["ShowTimerText"] = true,
+							["Name"] = "Regrowth",
 							["States"] = {
 								{
 								}, -- [1]
@@ -6348,8 +6368,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party4",
 							["Type"] = "buff",
-							["Name"] = "Wild Growth",
 							["ShowTimerText"] = true,
+							["Name"] = "Wild Growth",
 							["States"] = {
 								{
 								}, -- [1]
@@ -6367,8 +6387,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party4",
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
 							["Name"] = "Focused Growth",
+							["ShowTimerText"] = true,
 							["Conditions"] = {
 								{
 									["Type"] = "PVPTALENTLEARNED",
@@ -6393,8 +6413,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party4",
 							["Type"] = "buff",
-							["Name"] = "Rejuvenation",
 							["ShowTimerText"] = true,
+							["Name"] = "Rejuvenation",
 							["States"] = {
 								{
 								}, -- [1]
@@ -6412,8 +6432,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party4",
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
 							["Name"] = "Rejuvenation (Germination)",
+							["ShowTimerText"] = true,
 							["Conditions"] = {
 								{
 									["Type"] = "TALENTLEARNED",
@@ -6440,8 +6460,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Unit"] = "party4",
 							["Type"] = "buff",
-							["Name"] = "Lifebloom",
 							["ShowTimerText"] = true,
+							["Name"] = "Lifebloom",
 							["States"] = {
 								{
 								}, -- [1]
@@ -6804,9 +6824,9 @@ TellMeWhenDB = {
 							["Type"] = "cooldown",
 							["ShowTimerText"] = true,
 							["Name"] = "Solar Wrath",
-							["GUID"] = "TMW:icon:1RoZINZcHUzD",
-							["ClockGCD"] = true,
 							["ManaCheck"] = true,
+							["ClockGCD"] = true,
+							["GUID"] = "TMW:icon:1RoZINZcHUzD",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["Texts"] = {
@@ -6832,7 +6852,7 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "Swipe",
+							["ShowTimerText"] = true,
 							["Enabled"] = true,
 							["ManaCheck"] = true,
 							["ClockGCD"] = true,
@@ -6857,7 +6877,7 @@ TellMeWhenDB = {
 							},
 							["RangeCheck"] = true,
 							["FakeHidden"] = true,
-							["ShowTimerText"] = true,
+							["Name"] = "Swipe",
 						}, -- [2]
 						{
 							["States"] = {
@@ -6993,9 +7013,6 @@ TellMeWhenDB = {
 					},
 				}, -- [25]
 			},
-			["NumGroups"] = 25,
-			["DrawEdge"] = true,
-			["ForceNoBlizzCC"] = true,
 			["Locked"] = true,
 		},
 		["Suhdrude - Anvilmar"] = {
@@ -7055,12 +7072,23 @@ TellMeWhenDB = {
 		},
 		["Fistbeavers - Kel'Thuzad"] = {
 			["Locked"] = true,
+			["Version"] = 85403,
 			["NumGroups"] = 20,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1RVw2NbNYhNz",
 					["Role"] = 1,
 					["Columns"] = 7,
+					["Point"] = {
+						["y"] = -98.4508057501963,
+						["x"] = 13.6723398106732,
+					},
+					["Scale"] = 1.39880955219269,
+					["Rows"] = 2,
+					["EnabledSpecs"] = {
+						[270] = false,
+						[268] = false,
+					},
 					["Icons"] = {
 						{
 							["ManaCheck"] = true,
@@ -7076,8 +7104,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Tiger Palm",
 							["Type"] = "cooldown",
+							["Name"] = "Tiger Palm",
 							["States"] = {
 								{
 								}, -- [1]
@@ -7104,8 +7132,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Blackout Kick",
 							["Type"] = "cooldown",
+							["Name"] = "Blackout Kick",
 							["States"] = {
 								{
 								}, -- [1]
@@ -7132,8 +7160,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Rising Sun Kick",
 							["Type"] = "cooldown",
+							["Name"] = "Rising Sun Kick",
 							["States"] = {
 								{
 								}, -- [1]
@@ -7160,8 +7188,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Roll",
 							["Type"] = "cooldown",
+							["Name"] = "Roll",
 							["States"] = {
 								{
 								}, -- [1]
@@ -7188,8 +7216,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Flying Serpent Kick",
 							["Type"] = "cooldown",
+							["Name"] = "Flying Serpent Kick",
 							["States"] = {
 								{
 								}, -- [1]
@@ -7216,8 +7244,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Spinning Crane Kick",
 							["Type"] = "cooldown",
+							["Name"] = "Spinning Crane Kick",
 							["States"] = {
 								{
 								}, -- [1]
@@ -7244,8 +7272,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -7272,8 +7300,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Leg Sweep",
 							["Type"] = "cooldown",
+							["Name"] = "Leg Sweep",
 							["States"] = {
 								{
 								}, -- [1]
@@ -7300,8 +7328,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Disable",
 							["Type"] = "cooldown",
+							["Name"] = "Disable",
 							["States"] = {
 								{
 								}, -- [1]
@@ -7319,18 +7347,6 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["RangeCheck"] = true,
 							["ClockGCD"] = true,
-							["OnlyInBags"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"cA", -- [1]
-									},
-								},
-							},
-							["Type"] = "item",
-							["Name"] = "161902",
-							["OnlyEquipped"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -7342,6 +7358,18 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"cA", -- [1]
+									},
+								},
+							},
+							["Type"] = "item",
+							["Name"] = "161902",
+							["OnlyEquipped"] = true,
+							["OnlyInBags"] = true,
 						}, -- [10]
 						{
 							["ManaCheck"] = true,
@@ -7357,8 +7385,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Fists of Fury",
 							["Type"] = "cooldown",
+							["Name"] = "Fists of Fury",
 							["States"] = {
 								{
 								}, -- [1]
@@ -7385,8 +7413,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Storm, Earth, and Fire",
 							["Type"] = "cooldown",
+							["Name"] = "Storm, Earth, and Fire",
 							["States"] = {
 								{
 								}, -- [1]
@@ -7413,8 +7441,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Touch of Death",
 							["Type"] = "cooldown",
+							["Name"] = "Touch of Death",
 							["States"] = {
 								{
 								}, -- [1]
@@ -7441,8 +7469,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Crackling Jade Lightning",
 							["Type"] = "cooldown",
+							["Name"] = "Crackling Jade Lightning",
 							["States"] = {
 								{
 								}, -- [1]
@@ -7455,16 +7483,6 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 						}, -- [14]
-					},
-					["Scale"] = 1.39880955219269,
-					["Rows"] = 2,
-					["EnabledSpecs"] = {
-						[270] = false,
-						[268] = false,
-					},
-					["Point"] = {
-						["y"] = -98.4508057501963,
-						["x"] = 13.6723398106732,
 					},
 				}, -- [1]
 				{
@@ -7487,8 +7505,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -7515,8 +7533,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -7543,8 +7561,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Paralysis",
 							["Type"] = "cooldown",
+							["Name"] = "Paralysis",
 							["States"] = {
 								{
 								}, -- [1]
@@ -7571,8 +7589,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -7599,9 +7617,9 @@ TellMeWhenDB = {
 									},
 								},
 							},
-							["ShowTimerText"] = true,
-							["Type"] = "cooldown",
 							["FakeHidden"] = true,
+							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -7624,6 +7642,16 @@ TellMeWhenDB = {
 					["GUID"] = "TMW:group:1RW39XAYXOWl",
 					["Role"] = 1,
 					["Columns"] = 7,
+					["Point"] = {
+						["y"] = -134.812958540644,
+						["x"] = 11.3612028926254,
+					},
+					["Scale"] = 1.727379322052,
+					["Rows"] = 2,
+					["EnabledSpecs"] = {
+						[270] = false,
+						[268] = false,
+					},
 					["Icons"] = {
 						{
 							["ManaCheck"] = true,
@@ -7639,8 +7667,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Dampen Harm",
 							["Type"] = "cooldown",
+							["Name"] = "Dampen Harm",
 							["States"] = {
 								{
 								}, -- [1]
@@ -7667,8 +7695,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Touch of Karma",
 							["Type"] = "cooldown",
+							["Name"] = "Touch of Karma",
 							["States"] = {
 								{
 								}, -- [1]
@@ -7695,8 +7723,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -7714,17 +7742,7 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["RangeCheck"] = true,
 							["ClockGCD"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
+							["OnlyInBags"] = true,
 							["ShowTimerText"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -7736,7 +7754,17 @@ TellMeWhenDB = {
 							["Type"] = "item",
 							["Name"] = "158320",
 							["OnlyEquipped"] = true,
-							["OnlyInBags"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
 						}, -- [4]
 						{
 							["ManaCheck"] = true,
@@ -7752,8 +7780,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Transcendence",
 							["Type"] = "cooldown",
+							["Name"] = "Transcendence",
 							["States"] = {
 								{
 								}, -- [1]
@@ -7780,8 +7808,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Transcendence: Transfer",
 							["Type"] = "cooldown",
+							["Name"] = "Transcendence: Transfer",
 							["States"] = {
 								{
 								}, -- [1]
@@ -7808,8 +7836,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -7858,8 +7886,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -7885,9 +7913,6 @@ TellMeWhenDB = {
 									},
 								},
 							},
-							["OnlyInBags"] = true,
-							["Type"] = "item",
-							["ShowTimerText"] = true,
 							["States"] = {
 								{
 									["Texture"] = "6262",
@@ -7902,6 +7927,9 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["ShowTimerText"] = true,
+							["Type"] = "item",
+							["OnlyInBags"] = true,
 						}, -- [11]
 						{
 							["States"] = {
@@ -7959,21 +7987,21 @@ TellMeWhenDB = {
 							},
 						},
 					},
-					["Scale"] = 1.727379322052,
-					["Rows"] = 2,
-					["EnabledSpecs"] = {
-						[270] = false,
-						[268] = false,
-					},
-					["Point"] = {
-						["y"] = -134.812958540644,
-						["x"] = 11.3612028926254,
-					},
 				}, -- [3]
 				{
 					["GUID"] = "TMW:group:1RaS9sglJP1D",
 					["Role"] = 4,
 					["Columns"] = 7,
+					["Point"] = {
+						["y"] = -99.3539185337581,
+						["x"] = 11.6129289910051,
+					},
+					["Scale"] = 1.54999876022339,
+					["Rows"] = 2,
+					["EnabledSpecs"] = {
+						[270] = false,
+						[269] = false,
+					},
 					["Icons"] = {
 						{
 							["ManaCheck"] = true,
@@ -7989,8 +8017,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Tiger Palm",
 							["Type"] = "cooldown",
+							["Name"] = "Tiger Palm",
 							["States"] = {
 								{
 								}, -- [1]
@@ -8017,8 +8045,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Blackout Strike",
 							["Type"] = "cooldown",
+							["Name"] = "Blackout Strike",
 							["States"] = {
 								{
 								}, -- [1]
@@ -8045,8 +8073,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Keg Smash",
 							["Type"] = "cooldown",
+							["Name"] = "Keg Smash",
 							["States"] = {
 								{
 								}, -- [1]
@@ -8073,8 +8101,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Roll",
 							["Type"] = "cooldown",
+							["Name"] = "Roll",
 							["States"] = {
 								{
 								}, -- [1]
@@ -8101,8 +8129,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Rushing Jade Wind",
 							["Type"] = "cooldown",
+							["Name"] = "Rushing Jade Wind",
 							["States"] = {
 								{
 								}, -- [1]
@@ -8119,18 +8147,6 @@ TellMeWhenDB = {
 							["Enabled"] = true,
 							["ShowTimer"] = true,
 							["ClockGCD"] = true,
-							["OnlyInBags"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"aC", -- [1]
-									},
-								},
-							},
-							["Type"] = "item",
-							["Name"] = "155564",
-							["OnlyEquipped"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -8142,6 +8158,18 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"aC", -- [1]
+									},
+								},
+							},
+							["Type"] = "item",
+							["Name"] = "155564",
+							["OnlyEquipped"] = true,
+							["OnlyInBags"] = true,
 						}, -- [6]
 						{
 							["ManaCheck"] = true,
@@ -8157,8 +8185,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Chi Wave; Chi Burst",
 							["Type"] = "cooldown",
+							["Name"] = "Chi Wave; Chi Burst",
 							["States"] = {
 								{
 								}, -- [1]
@@ -8212,8 +8240,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Provoke",
 							["Type"] = "cooldown",
+							["Name"] = "Provoke",
 							["States"] = {
 								{
 								}, -- [1]
@@ -8240,8 +8268,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Black Ox Brew; Fortifying Brew",
 							["Type"] = "cooldown",
+							["Name"] = "Black Ox Brew; Fortifying Brew",
 							["States"] = {
 								{
 								}, -- [1]
@@ -8268,8 +8296,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Crackling Jade Lightning",
 							["Type"] = "cooldown",
+							["Name"] = "Crackling Jade Lightning",
 							["States"] = {
 								{
 								}, -- [1]
@@ -8296,8 +8324,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Expel Harm",
 							["Type"] = "cooldown",
+							["Name"] = "Expel Harm",
 							["States"] = {
 								{
 								}, -- [1]
@@ -8324,8 +8352,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Breath of Fire",
 							["Type"] = "cooldown",
+							["Name"] = "Breath of Fire",
 							["States"] = {
 								{
 								}, -- [1]
@@ -8383,21 +8411,23 @@ TellMeWhenDB = {
 							},
 						},
 					},
-					["Scale"] = 1.54999876022339,
-					["Rows"] = 2,
-					["EnabledSpecs"] = {
-						[270] = false,
-						[269] = false,
-					},
-					["Point"] = {
-						["y"] = -99.3539185337581,
-						["x"] = 11.6129289910051,
-					},
 				}, -- [4]
 				{
 					["GUID"] = "TMW:group:1RaSH36Ag_qG",
 					["Role"] = 4,
 					["Columns"] = 6,
+					["Point"] = {
+						["y"] = 142.941772460938,
+						["x"] = 5.96840912571528,
+						["point"] = "BOTTOM",
+						["relativePoint"] = "BOTTOM",
+					},
+					["Scale"] = 1.65801739692688,
+					["Rows"] = 2,
+					["EnabledSpecs"] = {
+						[270] = false,
+						[269] = false,
+					},
 					["Icons"] = {
 						{
 							["ManaCheck"] = true,
@@ -8413,8 +8443,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Gladiator's Medallion",
 							["Type"] = "cooldown",
+							["Name"] = "Gladiator's Medallion",
 							["States"] = {
 								{
 								}, -- [1]
@@ -8441,8 +8471,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Every Man for Himself",
 							["Type"] = "cooldown",
+							["Name"] = "Every Man for Himself",
 							["States"] = {
 								{
 								}, -- [1]
@@ -8469,8 +8499,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Ironskin Brew",
 							["Type"] = "cooldown",
+							["Name"] = "Ironskin Brew",
 							["States"] = {
 								{
 								}, -- [1]
@@ -8497,8 +8527,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Purifying Brew",
 							["Type"] = "cooldown",
+							["Name"] = "Purifying Brew",
 							["States"] = {
 								{
 								}, -- [1]
@@ -8525,8 +8555,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Healing Elixir",
 							["Type"] = "cooldown",
+							["Name"] = "Healing Elixir",
 							["States"] = {
 								{
 								}, -- [1]
@@ -8551,9 +8581,6 @@ TellMeWhenDB = {
 									},
 								},
 							},
-							["OnlyInBags"] = true,
-							["Type"] = "item",
-							["Name"] = "5512",
 							["States"] = {
 								{
 								}, -- [1]
@@ -8565,6 +8592,9 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Name"] = "5512",
+							["Type"] = "item",
+							["OnlyInBags"] = true,
 						}, -- [6]
 						{
 							["ManaCheck"] = true,
@@ -8580,8 +8610,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Detox",
 							["Type"] = "cooldown",
+							["Name"] = "Detox",
 							["States"] = {
 								{
 								}, -- [1]
@@ -8608,8 +8638,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Transcendence: Transfer",
 							["Type"] = "cooldown",
+							["Name"] = "Transcendence: Transfer",
 							["States"] = {
 								{
 								}, -- [1]
@@ -8636,8 +8666,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Transcendence",
 							["Type"] = "cooldown",
+							["Name"] = "Transcendence",
 							["States"] = {
 								{
 								}, -- [1]
@@ -8675,8 +8705,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Zen Meditation",
 							["Type"] = "cooldown",
+							["Name"] = "Zen Meditation",
 							["States"] = {
 								{
 								}, -- [1]
@@ -8789,18 +8819,6 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 						}, -- [21]
-					},
-					["Scale"] = 1.65801739692688,
-					["Rows"] = 2,
-					["EnabledSpecs"] = {
-						[270] = false,
-						[269] = false,
-					},
-					["Point"] = {
-						["y"] = 142.941772460938,
-						["x"] = 5.96840912571528,
-						["point"] = "BOTTOM",
-						["relativePoint"] = "BOTTOM",
 					},
 				}, -- [5]
 				{
@@ -9186,8 +9204,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -9214,8 +9232,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -9242,8 +9260,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -9270,8 +9288,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -9298,8 +9316,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -9326,8 +9344,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -9354,8 +9372,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -9383,8 +9401,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -9411,8 +9429,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -9439,8 +9457,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -9554,6 +9572,18 @@ TellMeWhenDB = {
 					["GUID"] = "TMW:group:1RchMrhOngpd",
 					["Role"] = 2,
 					["Columns"] = 2,
+					["Point"] = {
+						["y"] = 170.130996704102,
+						["x"] = 78.2253218504238,
+						["point"] = "BOTTOM",
+						["relativePoint"] = "BOTTOM",
+					},
+					["Scale"] = 1.36336183547974,
+					["Rows"] = 2,
+					["EnabledSpecs"] = {
+						[268] = false,
+						[269] = false,
+					},
 					["Icons"] = {
 						{
 							["ManaCheck"] = true,
@@ -9569,8 +9599,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -9597,8 +9627,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Healing Sphere",
 							["Type"] = "cooldown",
+							["Name"] = "Healing Sphere",
 							["States"] = {
 								{
 								}, -- [1]
@@ -9616,18 +9646,6 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["EnableStacks"] = true,
 							["ClockGCD"] = true,
-							["OnlyInBags"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"C", -- [1]
-									},
-								},
-							},
-							["Type"] = "item",
-							["Name"] = "5512",
-							["OnlyEquipped"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -9639,6 +9657,18 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"C", -- [1]
+									},
+								},
+							},
+							["Type"] = "item",
+							["Name"] = "5512",
+							["OnlyEquipped"] = true,
+							["OnlyInBags"] = true,
 						}, -- [3]
 						{
 							["States"] = {
@@ -9740,18 +9770,6 @@ TellMeWhenDB = {
 							},
 						}, -- [12]
 					},
-					["Scale"] = 1.36336183547974,
-					["Rows"] = 2,
-					["EnabledSpecs"] = {
-						[268] = false,
-						[269] = false,
-					},
-					["Point"] = {
-						["y"] = 170.130996704102,
-						["x"] = 78.2253218504238,
-						["point"] = "BOTTOM",
-						["relativePoint"] = "BOTTOM",
-					},
 				}, -- [10]
 				{
 					["GUID"] = "TMW:group:1Rcl9kXhHiqI",
@@ -9776,8 +9794,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -9804,8 +9822,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -9843,8 +9861,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -9871,8 +9889,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -9899,8 +9917,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Tiger's Lust",
 							["Type"] = "cooldown",
+							["Name"] = "Tiger's Lust",
 							["States"] = {
 								{
 								}, -- [1]
@@ -10183,16 +10201,6 @@ TellMeWhenDB = {
 							["Enabled"] = true,
 							["ShowTimer"] = true,
 							["ShowTimerText"] = true,
-							["Unit"] = "party1",
-							["Type"] = "buff",
-							["Name"] = "Surging Mist",
-							["UnitConditions"] = {
-								{
-									["Type"] = "EXISTS",
-									["Unit"] = "party1",
-								}, -- [1]
-								["n"] = 1,
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -10204,21 +10212,21 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Type"] = "buff",
+							["Name"] = "Surging Mist",
+							["UnitConditions"] = {
+								{
+									["Unit"] = "party1",
+									["Type"] = "EXISTS",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Unit"] = "party1",
 						}, -- [1]
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
 							["ShowTimerText"] = true,
-							["Unit"] = "party1",
-							["Type"] = "buff",
-							["Name"] = "Essence Font",
-							["UnitConditions"] = {
-								{
-									["Type"] = "EXISTS",
-									["Unit"] = "party1",
-								}, -- [1]
-								["n"] = 1,
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -10230,21 +10238,21 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Type"] = "buff",
+							["Name"] = "Essence Font",
+							["UnitConditions"] = {
+								{
+									["Unit"] = "party1",
+									["Type"] = "EXISTS",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Unit"] = "party1",
 						}, -- [2]
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
 							["Name"] = "Enveloping Mist",
-							["Unit"] = "party1",
-							["Type"] = "buff",
-							["ShowTimerText"] = true,
-							["UnitConditions"] = {
-								{
-									["Type"] = "EXISTS",
-									["Unit"] = "party1",
-								}, -- [1]
-								["n"] = 1,
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -10256,21 +10264,21 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Type"] = "buff",
+							["ShowTimerText"] = true,
+							["UnitConditions"] = {
+								{
+									["Unit"] = "party1",
+									["Type"] = "EXISTS",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Unit"] = "party1",
 						}, -- [3]
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
 							["ShowTimerText"] = true,
-							["Unit"] = "party1",
-							["Type"] = "buff",
-							["Name"] = "Renewing Mist",
-							["UnitConditions"] = {
-								{
-									["Type"] = "EXISTS",
-									["Unit"] = "party1",
-								}, -- [1]
-								["n"] = 1,
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -10282,6 +10290,16 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Type"] = "buff",
+							["Name"] = "Renewing Mist",
+							["UnitConditions"] = {
+								{
+									["Unit"] = "party1",
+									["Type"] = "EXISTS",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Unit"] = "party1",
 						}, -- [4]
 						{
 							["States"] = {
@@ -10536,7 +10554,7 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 						},
-						[27] = {
+						[33] = {
 							["States"] = {
 								{
 								}, -- [1]
@@ -10558,7 +10576,7 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 						},
-						[33] = {
+						[27] = {
 							["States"] = {
 								{
 								}, -- [1]
@@ -10574,8 +10592,8 @@ TellMeWhenDB = {
 					["Role"] = 2,
 					["Conditions"] = {
 						{
-							["Type"] = "EXISTS",
 							["Unit"] = "party1",
+							["Type"] = "EXISTS",
 						}, -- [1]
 						["n"] = 1,
 					},
@@ -10598,16 +10616,6 @@ TellMeWhenDB = {
 							["Enabled"] = true,
 							["ShowTimer"] = true,
 							["Name"] = "Surging Mist",
-							["Unit"] = "party2",
-							["Type"] = "buff",
-							["ShowTimerText"] = true,
-							["UnitConditions"] = {
-								{
-									["Type"] = "EXISTS",
-									["Unit"] = "party2",
-								}, -- [1]
-								["n"] = 1,
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -10619,21 +10627,21 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Type"] = "buff",
+							["ShowTimerText"] = true,
+							["UnitConditions"] = {
+								{
+									["Unit"] = "party2",
+									["Type"] = "EXISTS",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Unit"] = "party2",
 						}, -- [1]
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
 							["Name"] = "Essence Font",
-							["Unit"] = "party2",
-							["Type"] = "buff",
-							["ShowTimerText"] = true,
-							["UnitConditions"] = {
-								{
-									["Type"] = "EXISTS",
-									["Unit"] = "party2",
-								}, -- [1]
-								["n"] = 1,
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -10645,21 +10653,21 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Type"] = "buff",
+							["ShowTimerText"] = true,
+							["UnitConditions"] = {
+								{
+									["Unit"] = "party2",
+									["Type"] = "EXISTS",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Unit"] = "party2",
 						}, -- [2]
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
 							["ShowTimerText"] = true,
-							["Unit"] = "party2",
-							["Type"] = "buff",
-							["Name"] = "Enveloping Mist",
-							["UnitConditions"] = {
-								{
-									["Type"] = "EXISTS",
-									["Unit"] = "party2",
-								}, -- [1]
-								["n"] = 1,
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -10671,21 +10679,21 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Type"] = "buff",
+							["Name"] = "Enveloping Mist",
+							["UnitConditions"] = {
+								{
+									["Unit"] = "party2",
+									["Type"] = "EXISTS",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Unit"] = "party2",
 						}, -- [3]
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
 							["Name"] = "Renewing Mist",
-							["Unit"] = "party2",
-							["Type"] = "buff",
-							["ShowTimerText"] = true,
-							["UnitConditions"] = {
-								{
-									["Type"] = "EXISTS",
-									["Unit"] = "party2",
-								}, -- [1]
-								["n"] = 1,
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -10697,6 +10705,16 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Type"] = "buff",
+							["ShowTimerText"] = true,
+							["UnitConditions"] = {
+								{
+									["Unit"] = "party2",
+									["Type"] = "EXISTS",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Unit"] = "party2",
 						}, -- [4]
 						{
 							["States"] = {
@@ -10879,8 +10897,8 @@ TellMeWhenDB = {
 					["Role"] = 2,
 					["Conditions"] = {
 						{
-							["Type"] = "EXISTS",
 							["Unit"] = "party2",
+							["Type"] = "EXISTS",
 						}, -- [1]
 						["n"] = 1,
 					},
@@ -10903,16 +10921,6 @@ TellMeWhenDB = {
 							["Enabled"] = true,
 							["ShowTimer"] = true,
 							["ShowTimerText"] = true,
-							["Unit"] = "party3",
-							["Type"] = "buff",
-							["Name"] = "Surging Mist",
-							["UnitConditions"] = {
-								{
-									["Type"] = "EXISTS",
-									["Unit"] = "party3",
-								}, -- [1]
-								["n"] = 1,
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -10924,21 +10932,21 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Type"] = "buff",
+							["Name"] = "Surging Mist",
+							["UnitConditions"] = {
+								{
+									["Unit"] = "party3",
+									["Type"] = "EXISTS",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Unit"] = "party3",
 						}, -- [1]
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
 							["ShowTimerText"] = true,
-							["Unit"] = "party3",
-							["Type"] = "buff",
-							["Name"] = "Essence Font",
-							["UnitConditions"] = {
-								{
-									["Type"] = "EXISTS",
-									["Unit"] = "party3",
-								}, -- [1]
-								["n"] = 1,
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -10950,21 +10958,21 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Type"] = "buff",
+							["Name"] = "Essence Font",
+							["UnitConditions"] = {
+								{
+									["Unit"] = "party3",
+									["Type"] = "EXISTS",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Unit"] = "party3",
 						}, -- [2]
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
 							["Name"] = "Enveloping Mist",
-							["Unit"] = "party3",
-							["Type"] = "buff",
-							["ShowTimerText"] = true,
-							["UnitConditions"] = {
-								{
-									["Type"] = "EXISTS",
-									["Unit"] = "party3",
-								}, -- [1]
-								["n"] = 1,
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -10976,21 +10984,21 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Type"] = "buff",
+							["ShowTimerText"] = true,
+							["UnitConditions"] = {
+								{
+									["Unit"] = "party3",
+									["Type"] = "EXISTS",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Unit"] = "party3",
 						}, -- [3]
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
 							["ShowTimerText"] = true,
-							["Unit"] = "party3",
-							["Type"] = "buff",
-							["Name"] = "Renewing Mist",
-							["UnitConditions"] = {
-								{
-									["Type"] = "EXISTS",
-									["Unit"] = "party3",
-								}, -- [1]
-								["n"] = 1,
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -11002,6 +11010,16 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Type"] = "buff",
+							["Name"] = "Renewing Mist",
+							["UnitConditions"] = {
+								{
+									["Unit"] = "party3",
+									["Type"] = "EXISTS",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Unit"] = "party3",
 						}, -- [4]
 						{
 							["States"] = {
@@ -11322,7 +11340,7 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 						},
-						[37] = {
+						[45] = {
 							["States"] = {
 								{
 								}, -- [1]
@@ -11344,7 +11362,7 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 						},
-						[45] = {
+						[37] = {
 							["States"] = {
 								{
 								}, -- [1]
@@ -11360,8 +11378,8 @@ TellMeWhenDB = {
 					["Role"] = 2,
 					["Conditions"] = {
 						{
-							["Type"] = "EXISTS",
 							["Unit"] = "party3",
+							["Type"] = "EXISTS",
 						}, -- [1]
 						["n"] = 1,
 					},
@@ -11386,16 +11404,6 @@ TellMeWhenDB = {
 							["Enabled"] = true,
 							["ShowTimer"] = true,
 							["Name"] = "Surging Mist",
-							["Unit"] = "party4",
-							["Type"] = "buff",
-							["ShowTimerText"] = true,
-							["UnitConditions"] = {
-								{
-									["Type"] = "EXISTS",
-									["Unit"] = "party4",
-								}, -- [1]
-								["n"] = 1,
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -11407,21 +11415,21 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Type"] = "buff",
+							["ShowTimerText"] = true,
+							["UnitConditions"] = {
+								{
+									["Unit"] = "party4",
+									["Type"] = "EXISTS",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Unit"] = "party4",
 						}, -- [1]
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
 							["Name"] = "Essence Font",
-							["Unit"] = "party4",
-							["Type"] = "buff",
-							["ShowTimerText"] = true,
-							["UnitConditions"] = {
-								{
-									["Type"] = "EXISTS",
-									["Unit"] = "party4",
-								}, -- [1]
-								["n"] = 1,
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -11433,21 +11441,21 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Type"] = "buff",
+							["ShowTimerText"] = true,
+							["UnitConditions"] = {
+								{
+									["Unit"] = "party4",
+									["Type"] = "EXISTS",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Unit"] = "party4",
 						}, -- [2]
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
 							["ShowTimerText"] = true,
-							["Unit"] = "party4",
-							["Type"] = "buff",
-							["Name"] = "Enveloping Mist",
-							["UnitConditions"] = {
-								{
-									["Type"] = "EXISTS",
-									["Unit"] = "party4",
-								}, -- [1]
-								["n"] = 1,
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -11459,21 +11467,21 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Type"] = "buff",
+							["Name"] = "Enveloping Mist",
+							["UnitConditions"] = {
+								{
+									["Unit"] = "party4",
+									["Type"] = "EXISTS",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Unit"] = "party4",
 						}, -- [3]
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
 							["Name"] = "Renewing Mist",
-							["Unit"] = "party4",
-							["Type"] = "buff",
-							["ShowTimerText"] = true,
-							["UnitConditions"] = {
-								{
-									["Type"] = "EXISTS",
-									["Unit"] = "party4",
-								}, -- [1]
-								["n"] = 1,
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -11485,6 +11493,16 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Type"] = "buff",
+							["ShowTimerText"] = true,
+							["UnitConditions"] = {
+								{
+									["Unit"] = "party4",
+									["Type"] = "EXISTS",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Unit"] = "party4",
 						}, -- [4]
 						{
 							["States"] = {
@@ -11711,8 +11729,8 @@ TellMeWhenDB = {
 					["Role"] = 2,
 					["Conditions"] = {
 						{
-							["Type"] = "EXISTS",
 							["Unit"] = "party4",
+							["Type"] = "EXISTS",
 						}, -- [1]
 						["n"] = 1,
 					},
@@ -11827,6 +11845,13 @@ TellMeWhenDB = {
 						["point"] = "BOTTOM",
 						["relativePoint"] = "BOTTOM",
 					},
+					["GUID"] = "TMW:group:1Rf3dWRei9Hh",
+					["Scale"] = 1.36825299263,
+					["Rows"] = 2,
+					["EnabledSpecs"] = {
+						[268] = false,
+						[269] = false,
+					},
 					["Icons"] = {
 						{
 							["ManaCheck"] = true,
@@ -11842,8 +11867,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -11870,8 +11895,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -11898,8 +11923,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -11926,8 +11951,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -11954,8 +11979,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -11982,8 +12007,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12010,8 +12035,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12038,8 +12063,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12078,18 +12103,23 @@ TellMeWhenDB = {
 							},
 						}, -- [13]
 					},
-					["Scale"] = 1.36825299263,
-					["Rows"] = 2,
-					["EnabledSpecs"] = {
-						[268] = false,
-						[269] = false,
-					},
-					["GUID"] = "TMW:group:1Rf3dWRei9Hh",
 				}, -- [18]
 				{
 					["GUID"] = "TMW:group:1Rf3em8CAAth",
 					["Role"] = 2,
 					["Columns"] = 2,
+					["Point"] = {
+						["y"] = 161.984603881836,
+						["x"] = -109.223781406771,
+						["point"] = "BOTTOM",
+						["relativePoint"] = "BOTTOM",
+					},
+					["Scale"] = 1.41371464729309,
+					["Rows"] = 2,
+					["EnabledSpecs"] = {
+						[268] = false,
+						[269] = false,
+					},
 					["Icons"] = {
 						{
 							["ManaCheck"] = true,
@@ -12105,8 +12135,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12133,8 +12163,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12161,8 +12191,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12209,18 +12239,6 @@ TellMeWhenDB = {
 							},
 						},
 					},
-					["Scale"] = 1.41371464729309,
-					["Rows"] = 2,
-					["EnabledSpecs"] = {
-						[268] = false,
-						[269] = false,
-					},
-					["Point"] = {
-						["y"] = 161.984603881836,
-						["x"] = -109.223781406771,
-						["point"] = "BOTTOM",
-						["relativePoint"] = "BOTTOM",
-					},
 				}, -- [19]
 				{
 					["GUID"] = "TMW:group:1Rf3f7aery6e",
@@ -12233,17 +12251,7 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["RangeCheck"] = true,
 							["ClockGCD"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
+							["OnlyInBags"] = true,
 							["ShowTimerText"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -12255,7 +12263,17 @@ TellMeWhenDB = {
 							["Type"] = "item",
 							["Name"] = "159611; 158320",
 							["OnlyEquipped"] = true,
-							["OnlyInBags"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
 						}, -- [1]
 						{
 							["ManaCheck"] = true,
@@ -12271,8 +12289,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12299,8 +12317,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12318,18 +12336,6 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["RangeCheck"] = true,
 							["ClockGCD"] = true,
-							["OnlyInBags"] = true,
-							["Name"] = "162966; 161902",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"cA", -- [1]
-									},
-								},
-							},
-							["Type"] = "item",
-							["ShowTimerText"] = true,
-							["OnlyEquipped"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12341,6 +12347,18 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Name"] = "162966; 161902",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"cA", -- [1]
+									},
+								},
+							},
+							["Type"] = "item",
+							["ShowTimerText"] = true,
+							["OnlyEquipped"] = true,
+							["OnlyInBags"] = true,
 						}, -- [4]
 						{
 							["States"] = {
@@ -12377,10 +12395,10 @@ TellMeWhenDB = {
 					},
 				}, -- [20]
 			},
-			["Version"] = 85403,
 		},
 		["Twiddlederr - Anvilmar"] = {
 			["Locked"] = true,
+			["Version"] = 85204,
 			["NumGroups"] = 4,
 			["Groups"] = {
 				{
@@ -12402,8 +12420,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12429,8 +12447,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Darkness",
 							["Type"] = "cooldown",
+							["Name"] = "Darkness",
 							["States"] = {
 								{
 								}, -- [1]
@@ -12457,8 +12475,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12485,8 +12503,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Reverse Magic",
 							["Type"] = "cooldown",
+							["Name"] = "Reverse Magic",
 							["States"] = {
 								{
 								}, -- [1]
@@ -12513,8 +12531,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12531,18 +12549,6 @@ TellMeWhenDB = {
 							["Enabled"] = true,
 							["ShowTimer"] = true,
 							["ClockGCD"] = true,
-							["OnlyInBags"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"C", -- [1]
-									},
-								},
-							},
-							["Type"] = "item",
-							["Name"] = "5512",
-							["OnlyEquipped"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12554,6 +12560,18 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"C", -- [1]
+									},
+								},
+							},
+							["Type"] = "item",
+							["Name"] = "5512",
+							["OnlyEquipped"] = true,
+							["OnlyInBags"] = true,
 						}, -- [6]
 						{
 							["States"] = {
@@ -12593,8 +12611,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12621,8 +12639,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12649,8 +12667,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12677,8 +12695,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Felblade",
 							["Type"] = "cooldown",
+							["Name"] = "Felblade",
 							["States"] = {
 								{
 								}, -- [1]
@@ -12705,8 +12723,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12733,8 +12751,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12762,8 +12780,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12790,8 +12808,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12809,18 +12827,6 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["RangeCheck"] = true,
 							["ClockGCD"] = true,
-							["OnlyInBags"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"sC", -- [1]
-									},
-								},
-							},
-							["Type"] = "item",
-							["Name"] = "158224; 158215; 155567",
-							["OnlyEquipped"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12832,6 +12838,18 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"sC", -- [1]
+									},
+								},
+							},
+							["Type"] = "item",
+							["Name"] = "158224; 158215; 155567",
+							["OnlyEquipped"] = true,
+							["OnlyInBags"] = true,
 						}, -- [9]
 						{
 							["ManaCheck"] = true,
@@ -12847,8 +12865,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12886,8 +12904,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12981,8 +12999,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -13009,8 +13027,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -13037,8 +13055,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -13154,7 +13172,6 @@ TellMeWhenDB = {
 					},
 				}, -- [4]
 			},
-			["Version"] = 85204,
 		},
 		["Eyebrowse - Kel'Thuzad"] = {
 			["DrawEdge"] = true,
@@ -13179,8 +13196,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Mangle",
 							["Type"] = "cooldown",
+							["Name"] = "Mangle",
 							["States"] = {
 								{
 								}, -- [1]
@@ -13207,8 +13224,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Moonfire",
 							["Type"] = "cooldown",
+							["Name"] = "Moonfire",
 							["States"] = {
 								{
 								}, -- [1]
@@ -13235,8 +13252,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Maul",
 							["Type"] = "cooldown",
+							["Name"] = "Maul",
 							["States"] = {
 								{
 								}, -- [1]
@@ -13263,8 +13280,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Growl",
 							["Type"] = "cooldown",
+							["Name"] = "Growl",
 							["States"] = {
 								{
 								}, -- [1]
@@ -13291,8 +13308,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Thrash",
 							["Type"] = "cooldown",
+							["Name"] = "Thrash",
 							["States"] = {
 								{
 								}, -- [1]
@@ -13319,8 +13336,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Swipe",
 							["Type"] = "cooldown",
+							["Name"] = "Swipe",
 							["States"] = {
 								{
 								}, -- [1]
@@ -13392,8 +13409,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Skull Bash",
 							["Type"] = "cooldown",
+							["Name"] = "Skull Bash",
 							["States"] = {
 								{
 								}, -- [1]
@@ -13420,8 +13437,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Entangling Roots",
 							["Type"] = "cooldown",
+							["Name"] = "Entangling Roots",
 							["States"] = {
 								{
 								}, -- [1]
@@ -13448,8 +13465,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Mighty Bash",
 							["Type"] = "cooldown",
+							["Name"] = "Mighty Bash",
 							["States"] = {
 								{
 								}, -- [1]
@@ -13476,8 +13493,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Incapacitating Roar",
 							["Type"] = "cooldown",
+							["Name"] = "Incapacitating Roar",
 							["States"] = {
 								{
 								}, -- [1]
@@ -13504,8 +13521,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Hibernate",
 							["Type"] = "cooldown",
+							["Name"] = "Hibernate",
 							["States"] = {
 								{
 								}, -- [1]
@@ -13577,8 +13594,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Barkskin",
 							["Type"] = "cooldown",
+							["Name"] = "Barkskin",
 							["States"] = {
 								{
 								}, -- [1]
@@ -13605,8 +13622,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Survival Instincts",
 							["Type"] = "cooldown",
+							["Name"] = "Survival Instincts",
 							["States"] = {
 								{
 								}, -- [1]
@@ -13633,8 +13650,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Frenzied Regeneration",
 							["Type"] = "cooldown",
+							["Name"] = "Frenzied Regeneration",
 							["States"] = {
 								{
 								}, -- [1]
@@ -13661,8 +13678,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Incarnation: Guardian of Ursoc",
 							["Type"] = "cooldown",
+							["Name"] = "Incarnation: Guardian of Ursoc",
 							["States"] = {
 								{
 								}, -- [1]
@@ -13689,8 +13706,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Prowl",
 							["Type"] = "cooldown",
+							["Name"] = "Prowl",
 							["States"] = {
 								{
 								}, -- [1]
@@ -13717,8 +13734,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Shadowmeld",
 							["Type"] = "cooldown",
+							["Name"] = "Shadowmeld",
 							["States"] = {
 								{
 								}, -- [1]
@@ -13778,8 +13795,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Ironfur",
 							["Type"] = "cooldown",
+							["Name"] = "Ironfur",
 							["States"] = {
 								{
 								}, -- [1]
@@ -13804,9 +13821,6 @@ TellMeWhenDB = {
 									},
 								},
 							},
-							["OnlyInBags"] = true,
-							["Type"] = "item",
-							["Name"] = "Healthstone",
 							["States"] = {
 								{
 									["Texture"] = "6262",
@@ -13820,6 +13834,9 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Name"] = "Healthstone",
+							["Type"] = "item",
+							["OnlyInBags"] = true,
 						}, -- [11]
 						{
 							["States"] = {
@@ -13891,8 +13908,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Wild Charge",
 							["Type"] = "cooldown",
+							["Name"] = "Wild Charge",
 							["States"] = {
 								{
 								}, -- [1]
@@ -13919,8 +13936,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Tiger Dash",
 							["Type"] = "cooldown",
+							["Name"] = "Tiger Dash",
 							["States"] = {
 								{
 								}, -- [1]
@@ -13947,8 +13964,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Stampeding Roar",
 							["Type"] = "cooldown",
+							["Name"] = "Stampeding Roar",
 							["States"] = {
 								{
 								}, -- [1]
@@ -14020,8 +14037,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Rejuvenation",
 							["Type"] = "cooldown",
+							["Name"] = "Rejuvenation",
 							["States"] = {
 								{
 								}, -- [1]
@@ -14048,8 +14065,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -14076,8 +14093,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Regrowth",
 							["Type"] = "cooldown",
+							["Name"] = "Regrowth",
 							["States"] = {
 								{
 								}, -- [1]
@@ -14104,8 +14121,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Wild Growth",
 							["Type"] = "cooldown",
+							["Name"] = "Wild Growth",
 							["States"] = {
 								{
 								}, -- [1]
@@ -14187,8 +14204,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["Name"] = "Gladiator's Medallion",
 							["Type"] = "cooldown",
+							["Name"] = "Gladiator's Medallion",
 							["States"] = {
 								{
 								}, -- [1]
@@ -14243,7 +14260,10 @@ TellMeWhenDB = {
 				{
 					["GUID"] = "TMW:group:1RfH9yE347k1",
 					["Columns"] = 1,
-					["LayoutDirection"] = 4,
+					["Point"] = {
+						["y"] = -133.781520374407,
+						["x"] = -332.83400351731,
+					},
 					["Scale"] = 0.616674423217774,
 					["Rows"] = 2,
 					["Icons"] = {
@@ -14252,8 +14272,8 @@ TellMeWhenDB = {
 							["Type"] = "unitcondition",
 							["UnitConditions"] = {
 								{
-									["Type"] = "COMBAT",
 									["Unit"] = "player",
+									["Type"] = "COMBAT",
 								}, -- [1]
 								["n"] = 1,
 							},
@@ -14305,10 +14325,7 @@ TellMeWhenDB = {
 							},
 						}, -- [4]
 					},
-					["Point"] = {
-						["y"] = -133.781520374407,
-						["x"] = -332.83400351731,
-					},
+					["LayoutDirection"] = 4,
 				}, -- [7]
 				{
 					["GUID"] = "TMW:group:1RfLohDd5Kck",
@@ -14329,8 +14346,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Enabled"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -14384,9 +14401,9 @@ TellMeWhenDB = {
 					},
 				}, -- [8]
 			},
-			["Version"] = 85403,
-			["NumGroups"] = 8,
 			["ForceNoBlizzCC"] = true,
+			["NumGroups"] = 8,
+			["Version"] = 85403,
 		},
 	},
 }

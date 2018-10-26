@@ -19,7 +19,6 @@ MADB = {
 					},
 					["name"] = "TalkingHeadFrame",
 					["scale"] = 0.803511234751919,
-					["orgScale"] = 1,
 					["pos"] = {
 						"BOTTOM", -- [1]
 						"UIParent", -- [2]
@@ -27,6 +26,7 @@ MADB = {
 						-879.887304961644, -- [4]
 						456.068115234375, -- [5]
 					},
+					["orgScale"] = 1,
 				},
 				["MAOptions"] = {
 					["orgPos"] = {
@@ -70,9 +70,9 @@ MADB = {
 			},
 		},
 	},
-	["closeGUIOnEscape"] = false,
-	["squareMM"] = true,
-	["playSound"] = false,
-	["noBags"] = false,
 	["frameListRows"] = 41,
+	["squareMM"] = true,
+	["noBags"] = false,
+	["playSound"] = false,
+	["closeGUIOnEscape"] = false,
 }

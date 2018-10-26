@@ -12,10 +12,10 @@ CliqueDB3 = {
 		["Eyebrowse - Kel'Thuzad"] = {
 			["spec1_profileKey"] = "Eyebrowse - Kel'Thuzad",
 			["fastooc"] = false,
-			["specswap"] = false,
+			["spec2_profileKey"] = "Eyebrowse - Kel'Thuzad",
 			["downclick"] = false,
 			["spec4_profileKey"] = "Eyebrowse - Kel'Thuzad",
-			["spec2_profileKey"] = "Eyebrowse - Kel'Thuzad",
+			["specswap"] = false,
 			["spec3_profileKey"] = "Eyebrowse - Kel'Thuzad",
 		},
 		["Fistbeavers - Kel'Thuzad"] = {
@@ -23,8 +23,8 @@ CliqueDB3 = {
 			["spec2_profileKey"] = "Fistbeavers - Kel'Thuzad",
 			["downclick"] = false,
 			["fastooc"] = false,
-			["specswap"] = false,
 			["spec3_profileKey"] = "Fistbeavers - Kel'Thuzad",
+			["specswap"] = false,
 		},
 	},
 	["profileKeys"] = {
@@ -36,10 +36,10 @@ CliqueDB3 = {
 		["Twiddlederr - Kel'Thuzad"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -73,10 +73,10 @@ CliqueDB3 = {
 		["Fistbeavers - Kel'Thuzad"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]

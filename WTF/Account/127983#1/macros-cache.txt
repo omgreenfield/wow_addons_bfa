@@ -117,6 +117,9 @@ VER 3 000000000000002F "MoonOrSwift" "SPELL_NATURE_STARFALL"
 /cast [@target,harm] Moonfire;
 /cast Swiftmend;;
 END
+VER 3 0000000000000067 "Ping" "INV_MISC_QUESTIONMARK"
+/run print("Current Latency: "..select(4,GetNetStats()).."ms.")
+END
 VER 3 0000000000000025 "ProfessionRing" "135966"
 /click ORLOpen rofessions2
 END

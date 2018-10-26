@@ -25,16 +25,16 @@ OneRing_Config = {
 			["XTScaleSpeed"] = 4,
 			["MISpinOnHide"] = false,
 			["XTRotationPeriod"] = 10,
-			["XTPointerSpeed"] = 4,
 			["ShowRecharge"] = true,
-			["IndicationOffsetX"] = 150,
+			["XTZoomTime"] = 0,
+			["IndicationOffsetY"] = -150,
 			["ShowCooldowns"] = true,
 			["CenterAction"] = true,
 			["RingOptions"] = {
 				["RaidSymbols#SliceBinding"] = true,
 			},
-			["IndicationOffsetY"] = -150,
-			["XTZoomTime"] = 0,
+			["IndicationOffsetX"] = 150,
+			["XTPointerSpeed"] = 4,
 		},
 	},
 	["PersistentStorage"] = {
@@ -118,27 +118,30 @@ OneRing_Config = {
 					["sliceToken"] = "ABuedpFdSbi",
 				}, -- [4]
 				["save"] = true,
-				["name"] = "Disarm",
 				["limit"] = "Fistbeavers-Kel'Thuzad",
+				["name"] = "Disarm",
 			},
-			["Swarm"] = {
+			["FuckOff"] = {
 				{
-					["show"] = "[@arena1, exists]",
-					["sliceToken"] = "ABuedxVDYDG",
-					["id"] = "/cast [@arena1, exists] Faerie Swarm",
+					"item", -- [1]
+					6948, -- [2]
+					["sliceToken"] = "ABuedsRZ0wm",
 				}, -- [1]
 				{
-					["sliceToken"] = "ABuedxVDYDF",
-					["caption"] = "",
-					["id"] = "/cast [@arena2, exists] Faerie Swarm",
-					["show"] = "[@arena2, exists]",
+					"item", -- [1]
+					140192, -- [2]
+					["sliceToken"] = "ABuedsRZ0wn",
 				}, -- [2]
 				{
-					["show"] = "[@arena3, exists]",
-					["sliceToken"] = "ABuedxVDYDD",
-					["id"] = "/cast [@arena3, exists] Faerie Swarm",
+					"item", -- [1]
+					141605, -- [2]
+					["sliceToken"] = "ABuedsRZ0w6",
 				}, -- [3]
-				["name"] = "Swarm",
+				{
+					["sliceToken"] = "ABuedsRZ0wb",
+					["id"] = 193753,
+				}, -- [4]
+				["name"] = "FuckOff",
 				["save"] = true,
 				["limit"] = "Eyebrowse-Kel'Thuzad",
 			},
@@ -156,8 +159,8 @@ OneRing_Config = {
 					["id"] = 5487,
 				}, -- [3]
 				{
-					["id"] = 197625,
 					["sliceToken"] = "ABuedablyZd",
+					["id"] = 197625,
 				}, -- [4]
 				{
 					["sliceToken"] = "ABuedablyZ2",
@@ -169,45 +172,118 @@ OneRing_Config = {
 			},
 			["BGs"] = {
 				{
-					["sliceToken"] = "ABuediQ29St",
-					["id"] = 195710,
-				}, -- [1]
-				{
 					["id"] = 59752,
 					["sliceToken"] = "ABuediQ29S1",
-				}, -- [2]
+				}, -- [1]
 				{
 					"item", -- [1]
 					109076, -- [2]
 					["sliceToken"] = "ABuede6=dW1",
-				}, -- [3]
+				}, -- [2]
 				{
 					"item", -- [1]
 					153490, -- [2]
 					["sliceToken"] = "ABue3/fRvWf",
-				}, -- [4]
+				}, -- [3]
 				{
 					"item", -- [1]
 					138486, -- [2]
 					["sliceToken"] = "ABue3/fRvWd",
-				}, -- [5]
+				}, -- [4]
 				{
 					"item", -- [1]
 					138727, -- [2]
 					["sliceToken"] = "ABue3/fRvW3",
-				}, -- [6]
+				}, -- [5]
 				{
 					"item", -- [1]
 					138478, -- [2]
 					["sliceToken"] = "ABue3/fRvWs",
-				}, -- [7]
+				}, -- [6]
 				{
 					"item", -- [1]
 					138488, -- [2]
 					["sliceToken"] = "ABue3/fRvWa",
-				}, -- [8]
+				}, -- [7]
 				["name"] = "PVP",
 				["save"] = true,
+			},
+			["nsumeMagic"] = {
+				{
+					"macro", -- [1]
+					"ConsumeMagic1", -- [2]
+					["sliceToken"] = "ABue3VjFJrZ",
+				}, -- [1]
+				{
+					"macro", -- [1]
+					"ConsumeMagic2", -- [2]
+					["sliceToken"] = "ABue3VjFJr=",
+				}, -- [2]
+				{
+					"macro", -- [1]
+					"ConsumeMagic3e", -- [2]
+					["sliceToken"] = "ABue3VjFJrL",
+				}, -- [3]
+				{
+					["id"] = 278326,
+					["sliceToken"] = "ABue3VjFJrK",
+				}, -- [4]
+				{
+					"macro", -- [1]
+					"P MO", -- [2]
+					["sliceToken"] = "ABue3VjFJrJ",
+				}, -- [5]
+				["name"] = "ConsumeMagic",
+				["save"] = true,
+			},
+			["Incap"] = {
+				{
+					"macro", -- [1]
+					"CC1", -- [2]
+					["show"] = "[@arena1,exists]",
+					["sliceToken"] = "ABuedpyZc2x",
+				}, -- [1]
+				{
+					"macro", -- [1]
+					"CC2", -- [2]
+					["show"] = "[@arena2,exists]",
+					["sliceToken"] = "ABuedpyZc25",
+				}, -- [2]
+				{
+					"macro", -- [1]
+					"CC3", -- [2]
+					["show"] = "[@arena3,exists]",
+					["sliceToken"] = "ABuedpyZc2z",
+				}, -- [3]
+				{
+					"macro", -- [1]
+					"CC MO", -- [2]
+					["sliceToken"] = "ABuedpyZc2l",
+					["fastClick"] = true,
+				}, -- [4]
+				["save"] = true,
+				["limit"] = "Fistbeavers-Kel'Thuzad",
+				["name"] = "Incap",
+			},
+			["Arathi"] = {
+				{
+					"item", -- [1]
+					163701, -- [2]
+					["sliceToken"] = "ABued56U5Fu",
+				}, -- [1]
+				{
+					"item", -- [1]
+					163698, -- [2]
+					["sliceToken"] = "ABued56U5Fy",
+				}, -- [2]
+				{
+					"item", -- [1]
+					163691, -- [2]
+					["sliceToken"] = "ABued56U5Ft",
+				}, -- [3]
+				["name"] = "Arathi",
+				["save"] = true,
+				["limit"] = "Eyebrowse-Kel'Thuzad",
 			},
 			["RaidSymbols"] = {
 				{
@@ -259,136 +335,6 @@ OneRing_Config = {
 				["save"] = true,
 				["hotkey"] = "ALT-R",
 			},
-			["SB"] = {
-				{
-					["show"] = "[@arena1, exists]",
-					["sliceToken"] = "ABuedcNr25m",
-					["id"] = "/cast [@arena1, exists] {{spell:106839}}",
-				}, -- [1]
-				{
-					["show"] = "[@arena2, exists]",
-					["sliceToken"] = "ABuedcNr25n",
-					["id"] = "/cast [@arena2, exists] {{spell:106839}}",
-				}, -- [2]
-				{
-					["show"] = "[@arena3, exists]",
-					["sliceToken"] = "ABuedcNr256",
-					["id"] = "/cast [@arena3, exists] {{spell:106839}}",
-				}, -- [3]
-				["limit"] = "Eyebrowse-Kel'Thuzad",
-				["save"] = true,
-				["name"] = "SB",
-			},
-			["MonkDmg"] = {
-				{
-					["id"] = 117952,
-					["sliceToken"] = "ABuedivYhU1",
-				}, -- [1]
-				{
-					["id"] = 101546,
-					["sliceToken"] = "ABuedivYhUr",
-				}, -- [2]
-				["save"] = true,
-				["name"] = "MonkDmg",
-				["limit"] = "Fistbeavers-Kel'Thuzad",
-			},
-			["nsumeMagic"] = {
-				{
-					"macro", -- [1]
-					"ConsumeMagic1", -- [2]
-					["sliceToken"] = "ABue3VjFJrZ",
-				}, -- [1]
-				{
-					"macro", -- [1]
-					"ConsumeMagic2", -- [2]
-					["sliceToken"] = "ABue3VjFJr=",
-				}, -- [2]
-				{
-					"macro", -- [1]
-					"ConsumeMagic3e", -- [2]
-					["sliceToken"] = "ABue3VjFJrL",
-				}, -- [3]
-				{
-					["id"] = 278326,
-					["sliceToken"] = "ABue3VjFJrK",
-				}, -- [4]
-				{
-					"macro", -- [1]
-					"P MO", -- [2]
-					["sliceToken"] = "ABue3VjFJrJ",
-				}, -- [5]
-				["name"] = "ConsumeMagic",
-				["save"] = true,
-			},
-			["Hibernate"] = {
-				{
-					["sliceToken"] = "ABuedzzY31E",
-					["caption"] = "",
-					["id"] = "/cast [@arena1, exists] {{spell:2637}}",
-					["show"] = "[@arena1, exists]",
-				}, -- [1]
-				{
-					["show"] = "[@arena2, exists] ",
-					["sliceToken"] = "ABuedzzY31W",
-					["id"] = "/cast [@arena2, exists] {{spell:2637}}",
-				}, -- [2]
-				{
-					["show"] = "[@arena3, exists] ",
-					["sliceToken"] = "ABuedzzY31Q",
-					["id"] = "/cast [@arena3, exists] {{spell:2637}}",
-				}, -- [3]
-				["name"] = "Hibernate",
-				["save"] = true,
-				["limit"] = "Eyebrowse-Kel'Thuzad",
-			},
-			["Res"] = {
-				{
-					["sliceToken"] = "ABueddABZUy",
-					["id"] = 20484,
-				}, -- [1]
-				{
-					["sliceToken"] = "ABuedghY301",
-					["id"] = 212040,
-				}, -- [2]
-				{
-					["sliceToken"] = "ABueddABZUt",
-					["id"] = 50769,
-				}, -- [3]
-				{
-					["id"] = 115178,
-					["sliceToken"] = "ABuediQ29Si",
-				}, -- [4]
-				{
-					["id"] = 212051,
-					["sliceToken"] = "ABuediQ29Su",
-				}, -- [5]
-				["name"] = "Res",
-				["save"] = true,
-			},
-			["FuckOff"] = {
-				{
-					"item", -- [1]
-					6948, -- [2]
-					["sliceToken"] = "ABuedsRZ0wm",
-				}, -- [1]
-				{
-					"item", -- [1]
-					140192, -- [2]
-					["sliceToken"] = "ABuedsRZ0wn",
-				}, -- [2]
-				{
-					"item", -- [1]
-					141605, -- [2]
-					["sliceToken"] = "ABuedsRZ0w6",
-				}, -- [3]
-				{
-					["sliceToken"] = "ABuedsRZ0wb",
-					["id"] = 193753,
-				}, -- [4]
-				["limit"] = "Eyebrowse-Kel'Thuzad",
-				["save"] = true,
-				["name"] = "FuckOff",
-			},
 			["Imprison"] = {
 				{
 					"macro", -- [1]
@@ -415,8 +361,74 @@ OneRing_Config = {
 					["sliceToken"] = "ABue3VjFJrT",
 				}, -- [5]
 				["save"] = true,
-				["limit"] = "Twiddlederr-Kel'Thuzad",
 				["name"] = "Imprison",
+				["limit"] = "Twiddlederr-Kel'Thuzad",
+			},
+			["Res"] = {
+				{
+					["sliceToken"] = "ABueddABZUy",
+					["id"] = 20484,
+				}, -- [1]
+				{
+					["id"] = 212040,
+					["sliceToken"] = "ABuedghY301",
+				}, -- [2]
+				{
+					["sliceToken"] = "ABueddABZUt",
+					["id"] = 50769,
+				}, -- [3]
+				{
+					["id"] = 115178,
+					["sliceToken"] = "ABuediQ29Si",
+				}, -- [4]
+				{
+					["id"] = 212051,
+					["sliceToken"] = "ABuediQ29Su",
+				}, -- [5]
+				["name"] = "Res",
+				["save"] = true,
+			},
+			["Swarm"] = {
+				{
+					["sliceToken"] = "ABuedxVDYDG",
+					["id"] = "/cast [@arena1, exists] Faerie Swarm",
+					["show"] = "[@arena1, exists]",
+				}, -- [1]
+				{
+					["sliceToken"] = "ABuedxVDYDF",
+					["caption"] = "",
+					["id"] = "/cast [@arena2, exists] Faerie Swarm",
+					["show"] = "[@arena2, exists]",
+				}, -- [2]
+				{
+					["sliceToken"] = "ABuedxVDYDD",
+					["id"] = "/cast [@arena3, exists] Faerie Swarm",
+					["show"] = "[@arena3, exists]",
+				}, -- [3]
+				["limit"] = "Eyebrowse-Kel'Thuzad",
+				["save"] = true,
+				["name"] = "Swarm",
+			},
+			["Hibernate"] = {
+				{
+					["sliceToken"] = "ABuedzzY31E",
+					["caption"] = "",
+					["id"] = "/cast [@arena1, exists] {{spell:2637}}",
+					["show"] = "[@arena1, exists]",
+				}, -- [1]
+				{
+					["sliceToken"] = "ABuedzzY31W",
+					["id"] = "/cast [@arena2, exists] {{spell:2637}}",
+					["show"] = "[@arena2, exists] ",
+				}, -- [2]
+				{
+					["sliceToken"] = "ABuedzzY31Q",
+					["id"] = "/cast [@arena3, exists] {{spell:2637}}",
+					["show"] = "[@arena3, exists] ",
+				}, -- [3]
+				["limit"] = "Eyebrowse-Kel'Thuzad",
+				["save"] = true,
+				["name"] = "Hibernate",
 			},
 			["Potions"] = {
 				{
@@ -478,9 +490,9 @@ OneRing_Config = {
 					1, -- [2]
 					["sliceToken"] = "ABuedsRZ0wi",
 				}, -- [4]
-				["limit"] = "Eyebrowse-Kel'Thuzad",
-				["save"] = true,
 				["name"] = "Specs",
+				["save"] = true,
+				["limit"] = "Eyebrowse-Kel'Thuzad",
 			},
 			["Buffs"] = {
 				{
@@ -526,69 +538,64 @@ OneRing_Config = {
 				["name"] = "Buffs",
 				["save"] = true,
 			},
-			["Incap"] = {
+			["SB"] = {
 				{
-					"macro", -- [1]
-					"CC1", -- [2]
-					["show"] = "[@arena1,exists]",
-					["sliceToken"] = "ABuedpyZc2x",
+					["show"] = "[@arena1, exists]",
+					["sliceToken"] = "ABuedcNr25m",
+					["id"] = "/cast [@arena1, exists] {{spell:106839}}",
 				}, -- [1]
 				{
-					"macro", -- [1]
-					"CC2", -- [2]
-					["show"] = "[@arena2,exists]",
-					["sliceToken"] = "ABuedpyZc25",
+					["show"] = "[@arena2, exists]",
+					["sliceToken"] = "ABuedcNr25n",
+					["id"] = "/cast [@arena2, exists] {{spell:106839}}",
 				}, -- [2]
 				{
-					"macro", -- [1]
-					"CC3", -- [2]
-					["show"] = "[@arena3,exists]",
-					["sliceToken"] = "ABuedpyZc2z",
+					["show"] = "[@arena3, exists]",
+					["sliceToken"] = "ABuedcNr256",
+					["id"] = "/cast [@arena3, exists] {{spell:106839}}",
 				}, -- [3]
-				{
-					"macro", -- [1]
-					"CC MO", -- [2]
-					["sliceToken"] = "ABuedpyZc2l",
-					["fastClick"] = true,
-				}, -- [4]
+				["name"] = "SB",
 				["save"] = true,
-				["name"] = "Incap",
-				["limit"] = "Fistbeavers-Kel'Thuzad",
+				["limit"] = "Eyebrowse-Kel'Thuzad",
 			},
-			["Disrupt"] = {
+			["Fishing"] = {
 				{
-					"macro", -- [1]
-					"Interrupt1", -- [2]
-					["sliceToken"] = "ABue3VjFJrc",
+					["sliceToken"] = "ABuedqpZMtt",
+					["id"] = 131474,
 				}, -- [1]
 				{
-					"macro", -- [1]
-					"Interrupt2", -- [2]
-					["sliceToken"] = "ABue3VjFJrx",
+					"item", -- [1]
+					136377, -- [2]
+					["sliceToken"] = "ABuedqpZMt1",
 				}, -- [2]
 				{
-					"macro", -- [1]
-					"Interrupt3", -- [2]
-					["sliceToken"] = "ABue3VjFJr5",
+					"item", -- [1]
+					6532, -- [2]
+					["sliceToken"] = "ABuedekjY/o",
 				}, -- [3]
 				{
-					["id"] = 183752,
-					["sliceToken"] = "ABue3VjFJrl",
-					["fastClick"] = true,
+					"equipmentset", -- [1]
+					"Fishing", -- [2]
+					["sliceToken"] = "ABuedekjY/2",
 				}, -- [4]
 				{
-					"macro", -- [1]
-					"D MO", -- [2]
-					["sliceToken"] = "ABue3VjFJrz",
+					"equipmentset", -- [1]
+					"Havoc", -- [2]
+					["sliceToken"] = "ABuedekjY/i",
 				}, -- [5]
-				["name"] = "Disrupt",
+				{
+					"item", -- [1]
+					6533, -- [2]
+					["sliceToken"] = "ABuede6=dWe",
+				}, -- [6]
+				["name"] = "Fishing",
 				["save"] = true,
 			},
 			["DruidShift"] = {
 				{
-					["show"] = "[known:783]",
 					["sliceToken"] = "OPCDSf",
 					["id"] = "/cancelform [noflyable,noform:moonkin]\n/cast [flyable,outdoors,nocombat,noswimming,nomod][flying] {{spell:783}}; [outpost:corral,nomod,nospec:103/104] {{spell:161691}}; [swimming,nomod][flyable,nomod][flying] {{spell:783}}; [nocombat,outdoors,nomod:alt] {{mount:ground}}; [outdoors] {{spell:783}}",
+					["show"] = "[known:783]",
 				}, -- [1]
 				{
 					["sliceToken"] = "OPCDSk",
@@ -605,10 +612,10 @@ OneRing_Config = {
 					["c"] = "ff0000",
 					["id"] = 5487,
 				}, -- [4]
-				["limit"] = "DRUID",
+				["name"] = "Shapeshifts",
 				["save"] = true,
 				["hotkey"] = "BUTTON4",
-				["name"] = "Shapeshifts",
+				["limit"] = "DRUID",
 			},
 			["Profs1"] = {
 				{
@@ -677,126 +684,115 @@ OneRing_Config = {
 				["name"] = "Mounts",
 				["save"] = true,
 			},
-			["Fishing"] = {
+			["Disrupt"] = {
 				{
-					["sliceToken"] = "ABuedqpZMtt",
-					["id"] = 131474,
+					"macro", -- [1]
+					"Interrupt1", -- [2]
+					["sliceToken"] = "ABue3VjFJrc",
 				}, -- [1]
 				{
-					"item", -- [1]
-					136377, -- [2]
-					["sliceToken"] = "ABuedqpZMt1",
+					"macro", -- [1]
+					"Interrupt2", -- [2]
+					["sliceToken"] = "ABue3VjFJrx",
 				}, -- [2]
 				{
-					"item", -- [1]
-					6532, -- [2]
-					["sliceToken"] = "ABuedekjY/o",
+					"macro", -- [1]
+					"Interrupt3", -- [2]
+					["sliceToken"] = "ABue3VjFJr5",
 				}, -- [3]
 				{
-					"equipmentset", -- [1]
-					"Fishing", -- [2]
-					["sliceToken"] = "ABuedekjY/2",
+					["id"] = 183752,
+					["sliceToken"] = "ABue3VjFJrl",
+					["fastClick"] = true,
 				}, -- [4]
 				{
-					"equipmentset", -- [1]
-					"Havoc", -- [2]
-					["sliceToken"] = "ABuedekjY/i",
+					"macro", -- [1]
+					"D MO", -- [2]
+					["sliceToken"] = "ABue3VjFJrz",
 				}, -- [5]
-				{
-					"item", -- [1]
-					6533, -- [2]
-					["sliceToken"] = "ABuede6=dWe",
-				}, -- [6]
-				["name"] = "Fishing",
+				["name"] = "Disrupt",
 				["save"] = true,
 			},
 			["Beam"] = {
 				{
-					["show"] = "[@arena1, exists]",
 					["sliceToken"] = "ABued5wCBbE",
 					["id"] = "/cast [@arena1, exists] {{spell:78675}}",
+					["show"] = "[@arena1, exists]",
 				}, -- [1]
 				{
-					["show"] = "[@arena2, exists]",
 					["sliceToken"] = "ABued5wCBbW",
 					["id"] = "/cast [@arena2, exists] {{spell:78675}}",
+					["show"] = "[@arena2, exists]",
 				}, -- [2]
 				{
-					["show"] = "[@arena3, exists]",
 					["sliceToken"] = "ABued5wCBbQ",
 					["id"] = "/cast [@arena3, exists] {{spell:78675}}",
+					["show"] = "[@arena3, exists]",
 				}, -- [3]
-				["limit"] = "Eyebrowse-Kel'Thuzad",
-				["save"] = true,
 				["name"] = "Beam",
+				["save"] = true,
+				["limit"] = "Eyebrowse-Kel'Thuzad",
 			},
 			["Soothe"] = {
 				{
-					["show"] = "[@arena1, exists]",
 					["sliceToken"] = "ABuedzb2WWT",
 					["id"] = "/cast [@arena1,exists] {{spell:2908}}",
+					["show"] = "[@arena1, exists]",
 				}, -- [1]
 				{
-					["show"] = "[@arena2,exists]",
 					["sliceToken"] = "ABuedzb2WWR",
 					["id"] = "/cast [@arena2,exists] {{spell:2908}}",
+					["show"] = "[@arena2,exists]",
 				}, -- [2]
 				{
-					["show"] = "[@arena3,exists]",
 					["sliceToken"] = "ABuedzb2WW7",
 					["id"] = "/cast [@arena3,exists] {{spell:2908}}",
+					["show"] = "[@arena3,exists]",
 				}, -- [3]
-				["name"] = "Soothe",
-				["save"] = true,
 				["limit"] = "Eyebrowse-Kel'Thuzad",
+				["save"] = true,
+				["name"] = "Soothe",
 			},
-			["Arathi"] = {
+			["MonkDmg"] = {
 				{
-					"item", -- [1]
-					163701, -- [2]
-					["sliceToken"] = "ABued56U5Fu",
+					["id"] = 117952,
+					["sliceToken"] = "ABuedivYhU1",
 				}, -- [1]
 				{
-					"item", -- [1]
-					163698, -- [2]
-					["sliceToken"] = "ABued56U5Fy",
+					["id"] = 101546,
+					["sliceToken"] = "ABuedivYhUr",
 				}, -- [2]
-				{
-					"item", -- [1]
-					163691, -- [2]
-					["sliceToken"] = "ABued56U5Ft",
-				}, -- [3]
-				["limit"] = "Eyebrowse-Kel'Thuzad",
 				["save"] = true,
-				["name"] = "Arathi",
+				["limit"] = "Fistbeavers-Kel'Thuzad",
+				["name"] = "MonkDmg",
 			},
 			["Roots"] = {
 				{
 					"macro", -- [1]
 					"root1", -- [2]
-					["show"] = "[@arena1, exists][instance:arena]",
 					["sliceToken"] = "ABueddIlle2",
+					["show"] = "[@arena1, exists][instance:arena]",
 				}, -- [1]
 				{
 					"macro", -- [1]
 					"root2", -- [2]
-					["show"] = "[@arena2, exists][instance:arena]",
 					["sliceToken"] = "ABueddIlleo",
+					["show"] = "[@arena2, exists][instance:arena]",
 				}, -- [2]
 				{
 					"macro", -- [1]
 					"root3", -- [2]
-					["show"] = "[@arena3, exists][instance:arena]",
 					["sliceToken"] = "ABueddIllei",
+					["show"] = "[@arena3, exists][instance:arena]",
 				}, -- [3]
 				{
 					"macro", -- [1]
 					"rootMo", -- [2]
 					["sliceToken"] = "ABueddIlle3",
 				}, -- [4]
-				["limit"] = "Eyebrowse-Kel'Thuzad",
-				["save"] = true,
 				["name"] = "Roots",
+				["save"] = true,
+				["limit"] = "Eyebrowse-Kel'Thuzad",
 			},
 			["IslandExp"] = {
 				{
@@ -921,9 +917,9 @@ OneRing_Config = {
 					"CCMO", -- [2]
 					["sliceToken"] = "ABuedsG3eki",
 				}, -- [4]
-				["name"] = "Cyclone",
-				["save"] = true,
 				["limit"] = "Eyebrowse-Kel'Thuzad",
+				["save"] = true,
+				["name"] = "Cyclone",
 			},
 		},
 	},
